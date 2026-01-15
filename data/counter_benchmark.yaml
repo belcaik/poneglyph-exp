@@ -1,0 +1,64 @@
+# Counter Word Benchmark Dataset
+# Comprehensive test cases for Japanese counter word reading accuracy
+# Version: 1.0
+
+metadata:
+  version: "1.0"
+  created: "2026-01-15"
+  description: "Benchmark dataset for evaluating furigana systems on Japanese counter word readings"
+  total_test_cases: 0
+  counter_types:
+    - 人  # people
+    - 日  # days/dates
+    - 本  # long objects
+    - 匹  # animals
+    - 個  # items
+    - 回  # times/occurrences
+    - 階  # floors
+    - 枚  # sheets/flat objects
+    - 歳  # age
+
+schema:
+  description: "Each test case contains the following fields"
+  fields:
+    text:
+      type: "string"
+      description: "Surface form in Japanese (kanji/kana mix)"
+      required: true
+      example: "1人"
+    reading:
+      type: "string"
+      description: "Correct reading in hiragana only"
+      required: true
+      example: "ひとり"
+    counter_type:
+      type: "string"
+      description: "Type of counter being used"
+      required: true
+      allowed_values: ["人", "日", "本", "匹", "個", "回", "階", "枚", "歳"]
+    irregularity_type:
+      type: "string"
+      description: "Category of reading pattern"
+      required: true
+      allowed_values:
+        - "regular"           # Standard/predictable reading
+        - "irregular"         # Non-standard reading (ひとり, ふたり)
+        - "highly_irregular"  # Completely exceptional (はたち, はつか)
+        - "sound_change"      # Phonetic mutation (いっぽん, さんびき)
+    context:
+      type: "string"
+      description: "Usage context or semantic disambiguation"
+      required: false
+      example: "date (calendar day) vs duration"
+    error_category:
+      type: "string"
+      description: "Common error type that dictionary-based systems make"
+      required: true
+      allowed_values:
+        - "wrong_special_reading"     # Missing irregular forms (にん instead of ひとり)
+        - "missing_sound_change"      # Missing phonetic mutation (ほん instead of ぽん)
+        - "context_disambiguation"    # Wrong reading for context (ついたち vs いちにち)
+        - "regular_pattern"           # Should be correct even with simple rules
+        - "compound_form"             # Issues with suffixes/compounds (目, まで, etc)
+
+test_cases: []
