@@ -1,0 +1,753 @@
+# Counter Word Benchmark Dataset
+# Comprehensive test cases for Japanese counter word reading accuracy
+# Version: 1.0
+
+metadata:
+  version: "1.0"
+  created: "2026-01-15"
+  description: "Benchmark dataset for evaluating furigana systems on Japanese counter word readings"
+  total_test_cases: 0
+  counter_types:
+    - 人  # people
+    - 日  # days/dates
+    - 本  # long objects
+    - 匹  # animals
+    - 個  # items
+    - 回  # times/occurrences
+    - 階  # floors
+    - 枚  # sheets/flat objects
+    - 歳  # age
+
+schema:
+  description: "Each test case contains the following fields"
+  fields:
+    text:
+      type: "string"
+      description: "Surface form in Japanese (kanji/kana mix)"
+      required: true
+      example: "1人"
+    reading:
+      type: "string"
+      description: "Correct reading in hiragana only"
+      required: true
+      example: "ひとり"
+    counter_type:
+      type: "string"
+      description: "Type of counter being used"
+      required: true
+      allowed_values: ["人", "日", "本", "匹", "個", "回", "階", "枚", "歳"]
+    irregularity_type:
+      type: "string"
+      description: "Category of reading pattern"
+      required: true
+      allowed_values:
+        - "regular"           # Standard/predictable reading
+        - "irregular"         # Non-standard reading (ひとり, ふたり)
+        - "highly_irregular"  # Completely exceptional (はたち, はつか)
+        - "sound_change"      # Phonetic mutation (いっぽん, さんびき)
+    context:
+      type: "string"
+      description: "Usage context or semantic disambiguation"
+      required: false
+      example: "date (calendar day) vs duration"
+    error_category:
+      type: "string"
+      description: "Common error type that dictionary-based systems make"
+      required: true
+      allowed_values:
+        - "wrong_special_reading"     # Missing irregular forms (にん instead of ひとり)
+        - "missing_sound_change"      # Missing phonetic mutation (ほん instead of ぽん)
+        - "context_disambiguation"    # Wrong reading for context (ついたち vs いちにち)
+        - "regular_pattern"           # Should be correct even with simple rules
+        - "compound_form"             # Issues with suffixes/compounds (目, まで, etc)
+
+test_cases:
+  # 人 (people) counter - 36 test cases
+  # Irregular forms (1-2)
+  - text: "1人"
+    reading: "ひとり"
+    counter_type: "人"
+    irregularity_type: "irregular"
+    error_category: "wrong_special_reading"
+    context: "Special reading for 'one person'"
+
+  - text: "2人"
+    reading: "ふたり"
+    counter_type: "人"
+    irregularity_type: "irregular"
+    error_category: "wrong_special_reading"
+    context: "Special reading for 'two people'"
+
+  # Regular forms (3-10)
+  - text: "3人"
+    reading: "さんにん"
+    counter_type: "人"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+
+  - text: "4人"
+    reading: "よにん"
+    counter_type: "人"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+
+  - text: "5人"
+    reading: "ごにん"
+    counter_type: "人"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+
+  - text: "6人"
+    reading: "ろくにん"
+    counter_type: "人"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+
+  - text: "7人"
+    reading: "しちにん"
+    counter_type: "人"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+    context: "Standard reading (ななにん also acceptable)"
+
+  - text: "8人"
+    reading: "はちにん"
+    counter_type: "人"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+
+  - text: "9人"
+    reading: "きゅうにん"
+    counter_type: "人"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+
+  - text: "10人"
+    reading: "じゅうにん"
+    counter_type: "人"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+
+  # Teens (11-19)
+  - text: "11人"
+    reading: "じゅういちにん"
+    counter_type: "人"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+
+  - text: "15人"
+    reading: "じゅうごにん"
+    counter_type: "人"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+
+  # Multiples of 10
+  - text: "20人"
+    reading: "にじゅうにん"
+    counter_type: "人"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+
+  - text: "30人"
+    reading: "さんじゅうにん"
+    counter_type: "人"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+
+  - text: "50人"
+    reading: "ごじゅうにん"
+    counter_type: "人"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+
+  - text: "100人"
+    reading: "ひゃくにん"
+    counter_type: "人"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+
+  # Large numbers
+  - text: "1000人"
+    reading: "せんにん"
+    counter_type: "人"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+
+  - text: "10000人"
+    reading: "いちまんにん"
+    counter_type: "人"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+
+  # Compound forms with particles and suffixes
+  - text: "1人目"
+    reading: "ひとりめ"
+    counter_type: "人"
+    irregularity_type: "irregular"
+    error_category: "compound_form"
+    context: "First person (ordinal marker)"
+
+  - text: "2人目"
+    reading: "ふたりめ"
+    counter_type: "人"
+    irregularity_type: "irregular"
+    error_category: "compound_form"
+    context: "Second person (ordinal marker)"
+
+  - text: "3人目"
+    reading: "さんにんめ"
+    counter_type: "人"
+    irregularity_type: "regular"
+    error_category: "compound_form"
+    context: "Third person (ordinal marker)"
+
+  - text: "1人で"
+    reading: "ひとりで"
+    counter_type: "人"
+    irregularity_type: "irregular"
+    error_category: "compound_form"
+    context: "Alone/by oneself (with particle)"
+
+  - text: "2人とも"
+    reading: "ふたりとも"
+    counter_type: "人"
+    irregularity_type: "irregular"
+    error_category: "compound_form"
+    context: "Both people (with particle)"
+
+  - text: "1人ずつ"
+    reading: "ひとりずつ"
+    counter_type: "人"
+    irregularity_type: "irregular"
+    error_category: "compound_form"
+    context: "One person each (distributive)"
+
+  - text: "2人ずつ"
+    reading: "ふたりずつ"
+    counter_type: "人"
+    irregularity_type: "irregular"
+    error_category: "compound_form"
+    context: "Two people each (distributive)"
+
+  # Mixed numbers with irregular base
+  - text: "21人"
+    reading: "にじゅういちにん"
+    counter_type: "人"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+    context: "Not にじゅうひとり - irregular forms only for 1-2 standalone"
+
+  - text: "22人"
+    reading: "にじゅうににん"
+    counter_type: "人"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+    context: "Not にじゅうふたり - irregular forms only for 1-2 standalone"
+
+  # Additional regular cases
+  - text: "12人"
+    reading: "じゅうににん"
+    counter_type: "人"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+
+  - text: "25人"
+    reading: "にじゅうごにん"
+    counter_type: "人"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+
+  - text: "99人"
+    reading: "きゅうじゅうきゅうにん"
+    counter_type: "人"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+
+  - text: "200人"
+    reading: "にひゃくにん"
+    counter_type: "人"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+
+  - text: "300人"
+    reading: "さんびゃくにん"
+    counter_type: "人"
+    irregularity_type: "sound_change"
+    error_category: "missing_sound_change"
+    context: "Hundred undergoes rendaku (さんひゃく → さんびゃく)"
+
+  - text: "600人"
+    reading: "ろっぴゃくにん"
+    counter_type: "人"
+    irregularity_type: "sound_change"
+    error_category: "missing_sound_change"
+    context: "Hundred undergoes sound change (ろくひゃく → ろっぴゃく)"
+
+  - text: "800人"
+    reading: "はっぴゃくにん"
+    counter_type: "人"
+    irregularity_type: "sound_change"
+    error_category: "missing_sound_change"
+    context: "Hundred undergoes sound change (はちひゃく → はっぴゃく)"
+
+  - text: "3000人"
+    reading: "さんぜんにん"
+    counter_type: "人"
+    irregularity_type: "sound_change"
+    error_category: "missing_sound_change"
+    context: "Thousand undergoes rendaku (さんせん → さんぜん)"
+
+  - text: "8000人"
+    reading: "はっせんにん"
+    counter_type: "人"
+    irregularity_type: "sound_change"
+    error_category: "missing_sound_change"
+    context: "Thousand undergoes sound change (はちせん → はっせん)"
+
+  # 日 (days/dates) counter - 62 test cases
+  # This counter has two major contexts:
+  # 1. Calendar dates (day of month) - highly irregular for 1-10, 14, 20, 24
+  # 2. Duration (number of days) - some overlap with date readings
+
+  # Highly irregular date forms (1-10)
+  - text: "1日"
+    reading: "ついたち"
+    counter_type: "日"
+    irregularity_type: "highly_irregular"
+    error_category: "context_disambiguation"
+    context: "First day of month (not いちにち in date context)"
+
+  - text: "2日"
+    reading: "ふつか"
+    counter_type: "日"
+    irregularity_type: "irregular"
+    error_category: "wrong_special_reading"
+    context: "Second day of month / two days"
+
+  - text: "3日"
+    reading: "みっか"
+    counter_type: "日"
+    irregularity_type: "irregular"
+    error_category: "wrong_special_reading"
+    context: "Third day of month / three days"
+
+  - text: "4日"
+    reading: "よっか"
+    counter_type: "日"
+    irregularity_type: "irregular"
+    error_category: "wrong_special_reading"
+    context: "Fourth day of month / four days"
+
+  - text: "5日"
+    reading: "いつか"
+    counter_type: "日"
+    irregularity_type: "irregular"
+    error_category: "wrong_special_reading"
+    context: "Fifth day of month / five days"
+
+  - text: "6日"
+    reading: "むいか"
+    counter_type: "日"
+    irregularity_type: "irregular"
+    error_category: "wrong_special_reading"
+    context: "Sixth day of month / six days"
+
+  - text: "7日"
+    reading: "なのか"
+    counter_type: "日"
+    irregularity_type: "irregular"
+    error_category: "wrong_special_reading"
+    context: "Seventh day of month / seven days"
+
+  - text: "8日"
+    reading: "ようか"
+    counter_type: "日"
+    irregularity_type: "irregular"
+    error_category: "wrong_special_reading"
+    context: "Eighth day of month / eight days"
+
+  - text: "9日"
+    reading: "ここのか"
+    counter_type: "日"
+    irregularity_type: "irregular"
+    error_category: "wrong_special_reading"
+    context: "Ninth day of month / nine days"
+
+  - text: "10日"
+    reading: "とおか"
+    counter_type: "日"
+    irregularity_type: "irregular"
+    error_category: "wrong_special_reading"
+    context: "Tenth day of month / ten days"
+
+  # Regular date forms (11-13, 15-19)
+  - text: "11日"
+    reading: "じゅういちにち"
+    counter_type: "日"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+    context: "Eleventh day of month"
+
+  - text: "12日"
+    reading: "じゅうににち"
+    counter_type: "日"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+    context: "Twelfth day of month"
+
+  - text: "13日"
+    reading: "じゅうさんにち"
+    counter_type: "日"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+    context: "Thirteenth day of month"
+
+  - text: "14日"
+    reading: "じゅうよっか"
+    counter_type: "日"
+    irregularity_type: "irregular"
+    error_category: "wrong_special_reading"
+    context: "Fourteenth day - uses よっか not よんにち"
+
+  - text: "15日"
+    reading: "じゅうごにち"
+    counter_type: "日"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+    context: "Fifteenth day of month"
+
+  - text: "16日"
+    reading: "じゅうろくにち"
+    counter_type: "日"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+    context: "Sixteenth day of month"
+
+  - text: "17日"
+    reading: "じゅうしちにち"
+    counter_type: "日"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+    context: "Seventeenth day (じゅうななにち also acceptable)"
+
+  - text: "18日"
+    reading: "じゅうはちにち"
+    counter_type: "日"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+    context: "Eighteenth day of month"
+
+  - text: "19日"
+    reading: "じゅうくにち"
+    counter_type: "日"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+    context: "Nineteenth day of month"
+
+  # Highly irregular: 20th day
+  - text: "20日"
+    reading: "はつか"
+    counter_type: "日"
+    irregularity_type: "highly_irregular"
+    error_category: "wrong_special_reading"
+    context: "Twentieth day - completely irregular reading"
+
+  # Regular forms (21-23, 25-31)
+  - text: "21日"
+    reading: "にじゅういちにち"
+    counter_type: "日"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+    context: "Twenty-first day of month"
+
+  - text: "22日"
+    reading: "にじゅうににち"
+    counter_type: "日"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+    context: "Twenty-second day of month"
+
+  - text: "23日"
+    reading: "にじゅうさんにち"
+    counter_type: "日"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+    context: "Twenty-third day of month"
+
+  - text: "24日"
+    reading: "にじゅうよっか"
+    counter_type: "日"
+    irregularity_type: "irregular"
+    error_category: "wrong_special_reading"
+    context: "Twenty-fourth day - uses よっか not よんにち"
+
+  - text: "25日"
+    reading: "にじゅうごにち"
+    counter_type: "日"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+    context: "Twenty-fifth day of month"
+
+  - text: "26日"
+    reading: "にじゅうろくにち"
+    counter_type: "日"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+    context: "Twenty-sixth day of month"
+
+  - text: "27日"
+    reading: "にじゅうしちにち"
+    counter_type: "日"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+    context: "Twenty-seventh day of month"
+
+  - text: "28日"
+    reading: "にじゅうはちにち"
+    counter_type: "日"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+    context: "Twenty-eighth day of month"
+
+  - text: "29日"
+    reading: "にじゅうくにち"
+    counter_type: "日"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+    context: "Twenty-ninth day of month"
+
+  - text: "30日"
+    reading: "さんじゅうにち"
+    counter_type: "日"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+    context: "Thirtieth day of month"
+
+  - text: "31日"
+    reading: "さんじゅういちにち"
+    counter_type: "日"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+    context: "Thirty-first day of month"
+
+  # Duration context - disambiguation cases
+  - text: "1日間"
+    reading: "いちにちかん"
+    counter_type: "日"
+    irregularity_type: "regular"
+    error_category: "context_disambiguation"
+    context: "One day duration (間 makes duration explicit)"
+
+  - text: "2日間"
+    reading: "ふつかかん"
+    counter_type: "日"
+    irregularity_type: "irregular"
+    error_category: "context_disambiguation"
+    context: "Two days duration"
+
+  - text: "3日間"
+    reading: "みっかかん"
+    counter_type: "日"
+    irregularity_type: "irregular"
+    error_category: "context_disambiguation"
+    context: "Three days duration"
+
+  - text: "7日間"
+    reading: "なのかかん"
+    counter_type: "日"
+    irregularity_type: "irregular"
+    error_category: "context_disambiguation"
+    context: "Seven days duration (one week)"
+
+  - text: "10日間"
+    reading: "とおかかん"
+    counter_type: "日"
+    irregularity_type: "irregular"
+    error_category: "context_disambiguation"
+    context: "Ten days duration"
+
+  # Compound forms with suffixes
+  - text: "1日目"
+    reading: "いちにちめ"
+    counter_type: "日"
+    irregularity_type: "regular"
+    error_category: "compound_form"
+    context: "First day (ordinal in sequence, not ついたちめ)"
+
+  - text: "2日目"
+    reading: "ふつかめ"
+    counter_type: "日"
+    irregularity_type: "irregular"
+    error_category: "compound_form"
+    context: "Second day (ordinal in sequence)"
+
+  - text: "3日目"
+    reading: "みっかめ"
+    counter_type: "日"
+    irregularity_type: "irregular"
+    error_category: "compound_form"
+    context: "Third day (ordinal in sequence)"
+
+  - text: "10日目"
+    reading: "とおかめ"
+    counter_type: "日"
+    irregularity_type: "irregular"
+    error_category: "compound_form"
+    context: "Tenth day (ordinal in sequence)"
+
+  - text: "1日まで"
+    reading: "ついたちまで"
+    counter_type: "日"
+    irregularity_type: "highly_irregular"
+    error_category: "compound_form"
+    context: "Until the first (deadline context)"
+
+  - text: "10日まで"
+    reading: "とおかまで"
+    counter_type: "日"
+    irregularity_type: "irregular"
+    error_category: "compound_form"
+    context: "Until the tenth (deadline context)"
+
+  - text: "20日まで"
+    reading: "はつかまで"
+    counter_type: "日"
+    irregularity_type: "highly_irregular"
+    error_category: "compound_form"
+    context: "Until the twentieth (deadline context)"
+
+  - text: "1日から"
+    reading: "ついたちから"
+    counter_type: "日"
+    irregularity_type: "highly_irregular"
+    error_category: "compound_form"
+    context: "From the first"
+
+  - text: "5日ごと"
+    reading: "いつかごと"
+    counter_type: "日"
+    irregularity_type: "irregular"
+    error_category: "compound_form"
+    context: "Every five days"
+
+  # Large numbers and special patterns
+  - text: "100日"
+    reading: "ひゃくにち"
+    counter_type: "日"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+    context: "One hundred days"
+
+  - text: "300日"
+    reading: "さんびゃくにち"
+    counter_type: "日"
+    irregularity_type: "sound_change"
+    error_category: "missing_sound_change"
+    context: "Three hundred days (rendaku)"
+
+  - text: "600日"
+    reading: "ろっぴゃくにち"
+    counter_type: "日"
+    irregularity_type: "sound_change"
+    error_category: "missing_sound_change"
+    context: "Six hundred days (sound change)"
+
+  - text: "1000日"
+    reading: "せんにち"
+    counter_type: "日"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+    context: "One thousand days"
+
+  - text: "3000日"
+    reading: "さんぜんにち"
+    counter_type: "日"
+    irregularity_type: "sound_change"
+    error_category: "missing_sound_change"
+    context: "Three thousand days (rendaku)"
+
+  - text: "10000日"
+    reading: "いちまんにち"
+    counter_type: "日"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+    context: "Ten thousand days"
+
+  # Additional edge cases
+  - text: "14日間"
+    reading: "じゅうよっかかん"
+    counter_type: "日"
+    irregularity_type: "irregular"
+    error_category: "context_disambiguation"
+    context: "Fourteen days duration"
+
+  - text: "24日間"
+    reading: "にじゅうよっかかん"
+    counter_type: "日"
+    irregularity_type: "irregular"
+    error_category: "context_disambiguation"
+    context: "Twenty-four days duration"
+
+  - text: "何日"
+    reading: "なんにち"
+    counter_type: "日"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+    context: "What day / how many days (interrogative)"
+
+  - text: "数日"
+    reading: "すうじつ"
+    counter_type: "日"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+    context: "Several days (uses じつ reading, not にち)"
+
+  - text: "毎日"
+    reading: "まいにち"
+    counter_type: "日"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+    context: "Every day"
+
+  - text: "翌日"
+    reading: "よくじつ"
+    counter_type: "日"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+    context: "Next day (uses じつ reading)"
+
+  - text: "前日"
+    reading: "ぜんじつ"
+    counter_type: "日"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+    context: "Previous day (uses じつ reading)"
+
+  - text: "当日"
+    reading: "とうじつ"
+    counter_type: "日"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+    context: "The day in question / same day (uses じつ reading)"
+
+  # Additional mixed compound forms
+  - text: "4日間"
+    reading: "よっかかん"
+    counter_type: "日"
+    irregularity_type: "irregular"
+    error_category: "context_disambiguation"
+    context: "Four days duration"
+
+  - text: "11日目"
+    reading: "じゅういちにちめ"
+    counter_type: "日"
+    irregularity_type: "regular"
+    error_category: "compound_form"
+    context: "Eleventh day (ordinal in sequence)"
+
+  - text: "15日まで"
+    reading: "じゅうごにちまで"
+    counter_type: "日"
+    irregularity_type: "regular"
+    error_category: "compound_form"
+    context: "Until the fifteenth (deadline context)"
