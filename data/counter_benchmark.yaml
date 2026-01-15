@@ -61,4 +61,245 @@ schema:
         - "regular_pattern"           # Should be correct even with simple rules
         - "compound_form"             # Issues with suffixes/compounds (目, まで, etc)
 
-test_cases: []
+test_cases:
+  # 人 (people) counter - 36 test cases
+  # Irregular forms (1-2)
+  - text: "1人"
+    reading: "ひとり"
+    counter_type: "人"
+    irregularity_type: "irregular"
+    error_category: "wrong_special_reading"
+    context: "Special reading for 'one person'"
+
+  - text: "2人"
+    reading: "ふたり"
+    counter_type: "人"
+    irregularity_type: "irregular"
+    error_category: "wrong_special_reading"
+    context: "Special reading for 'two people'"
+
+  # Regular forms (3-10)
+  - text: "3人"
+    reading: "さんにん"
+    counter_type: "人"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+
+  - text: "4人"
+    reading: "よにん"
+    counter_type: "人"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+
+  - text: "5人"
+    reading: "ごにん"
+    counter_type: "人"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+
+  - text: "6人"
+    reading: "ろくにん"
+    counter_type: "人"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+
+  - text: "7人"
+    reading: "しちにん"
+    counter_type: "人"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+    context: "Standard reading (ななにん also acceptable)"
+
+  - text: "8人"
+    reading: "はちにん"
+    counter_type: "人"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+
+  - text: "9人"
+    reading: "きゅうにん"
+    counter_type: "人"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+
+  - text: "10人"
+    reading: "じゅうにん"
+    counter_type: "人"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+
+  # Teens (11-19)
+  - text: "11人"
+    reading: "じゅういちにん"
+    counter_type: "人"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+
+  - text: "15人"
+    reading: "じゅうごにん"
+    counter_type: "人"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+
+  # Multiples of 10
+  - text: "20人"
+    reading: "にじゅうにん"
+    counter_type: "人"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+
+  - text: "30人"
+    reading: "さんじゅうにん"
+    counter_type: "人"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+
+  - text: "50人"
+    reading: "ごじゅうにん"
+    counter_type: "人"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+
+  - text: "100人"
+    reading: "ひゃくにん"
+    counter_type: "人"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+
+  # Large numbers
+  - text: "1000人"
+    reading: "せんにん"
+    counter_type: "人"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+
+  - text: "10000人"
+    reading: "いちまんにん"
+    counter_type: "人"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+
+  # Compound forms with particles and suffixes
+  - text: "1人目"
+    reading: "ひとりめ"
+    counter_type: "人"
+    irregularity_type: "irregular"
+    error_category: "compound_form"
+    context: "First person (ordinal marker)"
+
+  - text: "2人目"
+    reading: "ふたりめ"
+    counter_type: "人"
+    irregularity_type: "irregular"
+    error_category: "compound_form"
+    context: "Second person (ordinal marker)"
+
+  - text: "3人目"
+    reading: "さんにんめ"
+    counter_type: "人"
+    irregularity_type: "regular"
+    error_category: "compound_form"
+    context: "Third person (ordinal marker)"
+
+  - text: "1人で"
+    reading: "ひとりで"
+    counter_type: "人"
+    irregularity_type: "irregular"
+    error_category: "compound_form"
+    context: "Alone/by oneself (with particle)"
+
+  - text: "2人とも"
+    reading: "ふたりとも"
+    counter_type: "人"
+    irregularity_type: "irregular"
+    error_category: "compound_form"
+    context: "Both people (with particle)"
+
+  - text: "1人ずつ"
+    reading: "ひとりずつ"
+    counter_type: "人"
+    irregularity_type: "irregular"
+    error_category: "compound_form"
+    context: "One person each (distributive)"
+
+  - text: "2人ずつ"
+    reading: "ふたりずつ"
+    counter_type: "人"
+    irregularity_type: "irregular"
+    error_category: "compound_form"
+    context: "Two people each (distributive)"
+
+  # Mixed numbers with irregular base
+  - text: "21人"
+    reading: "にじゅういちにん"
+    counter_type: "人"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+    context: "Not にじゅうひとり - irregular forms only for 1-2 standalone"
+
+  - text: "22人"
+    reading: "にじゅうににん"
+    counter_type: "人"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+    context: "Not にじゅうふたり - irregular forms only for 1-2 standalone"
+
+  # Additional regular cases
+  - text: "12人"
+    reading: "じゅうににん"
+    counter_type: "人"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+
+  - text: "25人"
+    reading: "にじゅうごにん"
+    counter_type: "人"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+
+  - text: "99人"
+    reading: "きゅうじゅうきゅうにん"
+    counter_type: "人"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+
+  - text: "200人"
+    reading: "にひゃくにん"
+    counter_type: "人"
+    irregularity_type: "regular"
+    error_category: "regular_pattern"
+
+  - text: "300人"
+    reading: "さんびゃくにん"
+    counter_type: "人"
+    irregularity_type: "sound_change"
+    error_category: "missing_sound_change"
+    context: "Hundred undergoes rendaku (さんひゃく → さんびゃく)"
+
+  - text: "600人"
+    reading: "ろっぴゃくにん"
+    counter_type: "人"
+    irregularity_type: "sound_change"
+    error_category: "missing_sound_change"
+    context: "Hundred undergoes sound change (ろくひゃく → ろっぴゃく)"
+
+  - text: "800人"
+    reading: "はっぴゃくにん"
+    counter_type: "人"
+    irregularity_type: "sound_change"
+    error_category: "missing_sound_change"
+    context: "Hundred undergoes sound change (はちひゃく → はっぴゃく)"
+
+  - text: "3000人"
+    reading: "さんぜんにん"
+    counter_type: "人"
+    irregularity_type: "sound_change"
+    error_category: "missing_sound_change"
+    context: "Thousand undergoes rendaku (さんせん → さんぜん)"
+
+  - text: "8000人"
+    reading: "はっせんにん"
+    counter_type: "人"
+    irregularity_type: "sound_change"
+    error_category: "missing_sound_change"
+    context: "Thousand undergoes sound change (はちせん → はっせん)"
