@@ -25,9 +25,9 @@ Goal: Determine the best approach for the Poneglyph project before integration.
 ## Data Pipeline Specifications
 
 ### NHK Easy News Scraper
-- Source: https://www3.nhk.or.jp/news/easy/
+- Source: https://news.web.nhk/news/easy/
+- JSON endpoint: https://news.web.nhk/news/easy/news-list.json
 - Extract: Article text with ruby annotations
-- Output format:
 ```json
 {
   "source": "nhk_easy",
@@ -84,14 +84,14 @@ pub struct Token {
 ## Autonomous Work Guidelines
 
 ### Safe to do without confirmation:
-- Scraping NHK Easy (public educational content)
+- Scraping NHK Easy (public educational content) - domain: news.web.nhk
 - Creating/modifying files in this repository
 - Running benchmarks
 - Installing dependencies via cargo/pip
 - Git commits with descriptive messages
 
 ### Requires confirmation before proceeding:
-- Any network requests to domains other than nhk.or.jp
+- Any network requests to domains other than news.web.nhk
 - Deleting data files
 - Changing the evaluation metrics definition
 - Modifying the Token interface (breaking change)
