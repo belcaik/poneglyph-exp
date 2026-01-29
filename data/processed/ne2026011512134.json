@@ -1,0 +1,202 @@
+{
+  "source": "nhk_easy",
+  "news_id": "ne2026011512134",
+  "url": "https://news.web.nhk/news/easy/ne2026011512134/ne2026011512134.html",
+  "title": "ルーブル美術館ヨーロッパ以外から来る人の料金を高くした",
+  "date": "",
+  "sentences": [
+    {
+      "text": "2026年1月15日 19時38分",
+      "tokens": []
+    },
+    {
+      "text": "フランスのルーブル美術館が、14日から、ヨーロッパ以外から来る人の料金を、45％高くしました。日本のお金で、5900円ぐらいです。",
+      "tokens": [
+        {
+          "surface": "美術館",
+          "reading": "びじゅつかん"
+        },
+        {
+          "surface": "14日",
+          "reading": "じゅうよっか"
+        },
+        {
+          "surface": "以外",
+          "reading": "いがい"
+        },
+        {
+          "surface": "来",
+          "reading": "く"
+        },
+        {
+          "surface": "人",
+          "reading": "ひと"
+        },
+        {
+          "surface": "料金",
+          "reading": "りょうきん"
+        },
+        {
+          "surface": "高",
+          "reading": "たか"
+        },
+        {
+          "surface": "日本",
+          "reading": "にっぽん"
+        },
+        {
+          "surface": "金",
+          "reading": "かね"
+        },
+        {
+          "surface": "円",
+          "reading": "えん"
+        }
+      ]
+    },
+    {
+      "text": "ほかの国でも、外国人の料金を高くするところがあります。",
+      "tokens": [
+        {
+          "surface": "国",
+          "reading": "くに"
+        },
+        {
+          "surface": "外国人",
+          "reading": "がいこくじん"
+        },
+        {
+          "surface": "料金",
+          "reading": "りょうきん"
+        },
+        {
+          "surface": "高",
+          "reading": "たか"
+        }
+      ]
+    },
+    {
+      "text": "インドの「タージマハル」では、外国人の料金は20倍以上です。カンボジアの「アンコールワット」では、カンボジア人は無料です。外国人はお金を払います。",
+      "tokens": [
+        {
+          "surface": "外国人",
+          "reading": "がいこくじん"
+        },
+        {
+          "surface": "料金",
+          "reading": "りょうきん"
+        },
+        {
+          "surface": "倍",
+          "reading": "ばい"
+        },
+        {
+          "surface": "以上",
+          "reading": "いじょう"
+        },
+        {
+          "surface": "人",
+          "reading": "じん"
+        },
+        {
+          "surface": "無料",
+          "reading": "むりょう"
+        },
+        {
+          "surface": "外国人",
+          "reading": "がいこくじん"
+        },
+        {
+          "surface": "金",
+          "reading": "かね"
+        },
+        {
+          "surface": "払",
+          "reading": "はら"
+        }
+      ]
+    },
+    {
+      "text": "日本の博物館や美術館は、日本人と外国人が同じ料金です。しかし、外国人には、外国語で説明するサービスなどがあります。",
+      "tokens": [
+        {
+          "surface": "日本",
+          "reading": "にっぽん"
+        },
+        {
+          "surface": "博物館",
+          "reading": "はくぶつかん"
+        },
+        {
+          "surface": "美術館",
+          "reading": "びじゅつかん"
+        },
+        {
+          "surface": "日本人",
+          "reading": "にっぽんじん"
+        },
+        {
+          "surface": "外国人",
+          "reading": "がいこくじん"
+        },
+        {
+          "surface": "同",
+          "reading": "おな"
+        },
+        {
+          "surface": "料金",
+          "reading": "りょうきん"
+        },
+        {
+          "surface": "外国人",
+          "reading": "がいこくじん"
+        },
+        {
+          "surface": "外国語",
+          "reading": "がいこくご"
+        },
+        {
+          "surface": "説明",
+          "reading": "せつめい"
+        }
+      ]
+    },
+    {
+      "text": "国は、日本で外国人の料金をどうするか、3月の終わりまでに考えたいと言っています。",
+      "tokens": [
+        {
+          "surface": "国",
+          "reading": "くに"
+        },
+        {
+          "surface": "日本",
+          "reading": "にっぽん"
+        },
+        {
+          "surface": "外国人",
+          "reading": "がいこくじん"
+        },
+        {
+          "surface": "料金",
+          "reading": "りょうきん"
+        },
+        {
+          "surface": "月",
+          "reading": "がつ"
+        },
+        {
+          "surface": "終",
+          "reading": "お"
+        },
+        {
+          "surface": "考",
+          "reading": "かんが"
+        },
+        {
+          "surface": "言",
+          "reading": "い"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "source": "nhk_easy",
+  "news_id": "ne2026011312059",
+  "url": "https://news.web.nhk/news/easy/ne2026011312059/ne2026011312059.html",
+  "title": "国会が1月23日に始まることになった衆議院の解散どうなるか",
+  "date": "",
+  "sentences": [
+    {
+      "text": "2026年1月13日 19時29分",
+      "tokens": []
+    },
+    {
+      "text": "政治のニュースです。",
+      "tokens": [
+        {
+          "surface": "政治",
+          "reading": "せいじ"
+        }
+      ]
+    },
+    {
+      "text": "13日、国会の予定を決める会議がありました。",
+      "tokens": [
+        {
+          "surface": "日",
+          "reading": "にち"
+        },
+        {
+          "surface": "国会",
+          "reading": "こっかい"
+        },
+        {
+          "surface": "予定",
+          "reading": "よてい"
+        },
+        {
+          "surface": "決",
+          "reading": "き"
+        },
+        {
+          "surface": "会議",
+          "reading": "かいぎ"
+        }
+      ]
+    },
+    {
+      "text": "政府の木原官房長官が出席して、1月23日から国会を始めたいと伝えました。",
+      "tokens": [
+        {
+          "surface": "政府",
+          "reading": "せいふ"
+        },
+        {
+          "surface": "木原",
+          "reading": "きはら"
+        },
+        {
+          "surface": "官房長官",
+          "reading": "かんぼうちょうかん"
+        },
+        {
+          "surface": "出席",
+          "reading": "しゅっせき"
+        },
+        {
+          "surface": "月",
+          "reading": "がつ"
+        },
+        {
+          "surface": "日",
+          "reading": "にち"
+        },
+        {
+          "surface": "国会",
+          "reading": "こっかい"
+        },
+        {
+          "surface": "始",
+          "reading": "はじ"
+        },
+        {
+          "surface": "伝",
+          "reading": "つた"
+        }
+      ]
+    },
+    {
+      "text": "国会議員の間では、高市総理大臣が衆議院を解散するのではないかという声も出ています。",
+      "tokens": [
+        {
+          "surface": "国会議員",
+          "reading": "こっかいぎいん"
+        },
+        {
+          "surface": "間",
+          "reading": "あいだ"
+        },
+        {
+          "surface": "高市",
+          "reading": "たかいち"
+        },
+        {
+          "surface": "総理大臣",
+          "reading": "そうりだいじん"
+        },
+        {
+          "surface": "衆議院",
+          "reading": "しゅうぎいん"
+        },
+        {
+          "surface": "解散",
+          "reading": "かいさん"
+        },
+        {
+          "surface": "声",
+          "reading": "こえ"
+        },
+        {
+          "surface": "出",
+          "reading": "で"
+        }
+      ]
+    },
+    {
+      "text": "会議で野党の議員は、「国会の最初の日に解散するつもりか」と聞きました。",
+      "tokens": [
+        {
+          "surface": "会議",
+          "reading": "かいぎ"
+        },
+        {
+          "surface": "野党",
+          "reading": "やとう"
+        },
+        {
+          "surface": "議員",
+          "reading": "ぎいん"
+        },
+        {
+          "surface": "国会",
+          "reading": "こっかい"
+        },
+        {
+          "surface": "最初",
+          "reading": "さいしょ"
+        },
+        {
+          "surface": "日",
+          "reading": "ひ"
+        },
+        {
+          "surface": "解散",
+          "reading": "かいさん"
+        },
+        {
+          "surface": "聞",
+          "reading": "き"
+        }
+      ]
+    },
+    {
+      "text": "木原官房長官は、「解散は総理大臣が決めることだ」と話しました。",
+      "tokens": [
+        {
+          "surface": "木原",
+          "reading": "きはら"
+        },
+        {
+          "surface": "官房長官",
+          "reading": "かんぼうちょうかん"
+        },
+        {
+          "surface": "解散",
+          "reading": "かいさん"
+        },
+        {
+          "surface": "総理大臣",
+          "reading": "そうりだいじん"
+        },
+        {
+          "surface": "決",
+          "reading": "き"
+        },
+        {
+          "surface": "話",
+          "reading": "はな"
+        }
+      ]
+    },
+    {
+      "text": "このため、国会が始まってからの予定は決まりませんでした。",
+      "tokens": [
+        {
+          "surface": "国会",
+          "reading": "こっかい"
+        },
+        {
+          "surface": "始",
+          "reading": "はじ"
+        },
+        {
+          "surface": "予定",
+          "reading": "よてい"
+        },
+        {
+          "surface": "決",
+          "reading": "き"
+        }
+      ]
+    }
+  ]
+}

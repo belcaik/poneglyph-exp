@@ -1,0 +1,178 @@
+{
+  "source": "nhk_easy",
+  "news_id": "ne2026012112132",
+  "url": "https://news.web.nhk/news/easy/ne2026012112132/ne2026012112132.html",
+  "title": "ホンダ二酸化炭素を増やさない車で「F1」に出る",
+  "date": "",
+  "sentences": [
+    {
+      "text": "2026年1月21日 19時17分",
+      "tokens": []
+    },
+    {
+      "text": "有名な車のレース「F1」のニュースです。",
+      "tokens": [
+        {
+          "surface": "有名",
+          "reading": "ゆうめい"
+        },
+        {
+          "surface": "車",
+          "reading": "くるま"
+        }
+      ]
+    },
+    {
+      "text": "ホンダは2021年からF1に出ることをやめていましたが、今年からまた出る予定です。",
+      "tokens": [
+        {
+          "surface": "年",
+          "reading": "ねん"
+        },
+        {
+          "surface": "出",
+          "reading": "で"
+        },
+        {
+          "surface": "今年",
+          "reading": "ことし"
+        },
+        {
+          "surface": "出",
+          "reading": "で"
+        },
+        {
+          "surface": "予定",
+          "reading": "よてい"
+        }
+      ]
+    },
+    {
+      "text": "ホンダの社長は「F1は人と技術をよくしていくために大切なレースです」と言いました。そして「世界でいちばんになるように頑張ります」と言いました。",
+      "tokens": [
+        {
+          "surface": "社長",
+          "reading": "しゃちょう"
+        },
+        {
+          "surface": "人",
+          "reading": "ひと"
+        },
+        {
+          "surface": "技術",
+          "reading": "ぎじゅつ"
+        },
+        {
+          "surface": "大切",
+          "reading": "たいせつ"
+        },
+        {
+          "surface": "言",
+          "reading": "い"
+        },
+        {
+          "surface": "世界",
+          "reading": "せかい"
+        },
+        {
+          "surface": "頑張",
+          "reading": "がんば"
+        },
+        {
+          "surface": "言",
+          "reading": "い"
+        }
+      ]
+    },
+    {
+      "text": "F1は、環境のことを考えてルールを変えています。今年から、車に使う燃料を、二酸化炭素を増やさない新しい燃料にします。電気エネルギーを今までより多く使います。",
+      "tokens": [
+        {
+          "surface": "環境",
+          "reading": "かんきょう"
+        },
+        {
+          "surface": "考",
+          "reading": "かんが"
+        },
+        {
+          "surface": "変",
+          "reading": "か"
+        },
+        {
+          "surface": "今年",
+          "reading": "ことし"
+        },
+        {
+          "surface": "車",
+          "reading": "くるま"
+        },
+        {
+          "surface": "使",
+          "reading": "つか"
+        },
+        {
+          "surface": "燃料",
+          "reading": "ねんりょう"
+        },
+        {
+          "surface": "二酸化炭素",
+          "reading": "にさんかたんそ"
+        },
+        {
+          "surface": "増",
+          "reading": "ふ"
+        },
+        {
+          "surface": "新",
+          "reading": "あたら"
+        },
+        {
+          "surface": "燃料",
+          "reading": "ねんりょう"
+        },
+        {
+          "surface": "電気",
+          "reading": "でんき"
+        },
+        {
+          "surface": "今",
+          "reading": "いま"
+        },
+        {
+          "surface": "多",
+          "reading": "おお"
+        },
+        {
+          "surface": "使",
+          "reading": "つか"
+        }
+      ]
+    },
+    {
+      "text": "ホンダは、このような新しい技術に力を入れると言っています。",
+      "tokens": [
+        {
+          "surface": "新",
+          "reading": "あたら"
+        },
+        {
+          "surface": "技術",
+          "reading": "ぎじゅつ"
+        },
+        {
+          "surface": "力",
+          "reading": "ちから"
+        },
+        {
+          "surface": "入",
+          "reading": "い"
+        },
+        {
+          "surface": "言",
+          "reading": "い"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "source": "nhk_easy",
+  "news_id": "ne2026011912084",
+  "url": "https://news.web.nhk/news/easy/ne2026011912084/ne2026011912084.html",
+  "title": "冬のオリンピックに出る日本の選手が集まった",
+  "date": "",
+  "sentences": [
+    {
+      "text": "2026年1月19日 19時37分",
+      "tokens": []
+    },
+    {
+      "text": "2月イタリアで冬のオリンピックがあります。",
+      "tokens": [
+        {
+          "surface": "月",
+          "reading": "がつ"
+        },
+        {
+          "surface": "冬",
+          "reading": "ふゆ"
+        }
+      ]
+    },
+    {
+      "text": "18日このオリンピックに出る日本の選手たちが、千葉県で集まる式がありました。",
+      "tokens": [
+        {
+          "surface": "日",
+          "reading": "にち"
+        },
+        {
+          "surface": "出",
+          "reading": "で"
+        },
+        {
+          "surface": "日本",
+          "reading": "にっぽん"
+        },
+        {
+          "surface": "選手",
+          "reading": "せんしゅ"
+        },
+        {
+          "surface": "千葉県",
+          "reading": "ちばけん"
+        },
+        {
+          "surface": "集",
+          "reading": "あつ"
+        },
+        {
+          "surface": "式",
+          "reading": "しき"
+        }
+      ]
+    },
+    {
+      "text": "オリンピックではスピードスケートの森重航選手が日本の旗を持ちます。しかし森重選手は外国にいるので、式に参加できませんでした。",
+      "tokens": [
+        {
+          "surface": "森重",
+          "reading": "もりしげ"
+        },
+        {
+          "surface": "航",
+          "reading": "わたる"
+        },
+        {
+          "surface": "選手",
+          "reading": "せんしゅ"
+        },
+        {
+          "surface": "日本",
+          "reading": "にっぽん"
+        },
+        {
+          "surface": "旗",
+          "reading": "はた"
+        },
+        {
+          "surface": "持",
+          "reading": "も"
+        },
+        {
+          "surface": "森重",
+          "reading": "もりしげ"
+        },
+        {
+          "surface": "選手",
+          "reading": "せんしゅ"
+        },
+        {
+          "surface": "外国",
+          "reading": "がいこく"
+        },
+        {
+          "surface": "式",
+          "reading": "しき"
+        },
+        {
+          "surface": "参加",
+          "reading": "さんか"
+        }
+      ]
+    },
+    {
+      "text": "フィギュアスケートの坂本花織選手は、選手を代表して「元気な日本の選手の姿、笑顔を届けることができるように頑張ります」と言いました。",
+      "tokens": [
+        {
+          "surface": "坂本",
+          "reading": "さかもと"
+        },
+        {
+          "surface": "花織",
+          "reading": "かおり"
+        },
+        {
+          "surface": "選手",
+          "reading": "せんしゅ"
+        },
+        {
+          "surface": "選手",
+          "reading": "せんしゅ"
+        },
+        {
+          "surface": "代表",
+          "reading": "だいひょう"
+        },
+        {
+          "surface": "元気",
+          "reading": "げんき"
+        },
+        {
+          "surface": "日本",
+          "reading": "にっぽん"
+        },
+        {
+          "surface": "選手",
+          "reading": "せんしゅ"
+        },
+        {
+          "surface": "姿",
+          "reading": "すがた"
+        },
+        {
+          "surface": "笑顔",
+          "reading": "えがお"
+        },
+        {
+          "surface": "届",
+          "reading": "とど"
+        },
+        {
+          "surface": "頑張",
+          "reading": "がんば"
+        },
+        {
+          "surface": "言",
+          "reading": "い"
+        }
+      ]
+    },
+    {
+      "text": "ミラノ・コルティナオリンピックは2月6日から22日までです。",
+      "tokens": [
+        {
+          "surface": "月",
+          "reading": "がつ"
+        },
+        {
+          "surface": "6日",
+          "reading": "むいか"
+        },
+        {
+          "surface": "日",
+          "reading": "にち"
+        }
+      ]
+    }
+  ]
+}

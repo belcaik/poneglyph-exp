@@ -1,0 +1,174 @@
+{
+  "source": "nhk_easy",
+  "news_id": "ne2026011912028",
+  "url": "https://news.web.nhk/news/easy/ne2026011912028/ne2026011912028.html",
+  "title": "高市総理大臣「23日から始まる国会で衆議院を解散する」",
+  "date": "",
+  "sentences": [
+    {
+      "text": "2026年1月19日 19時40分",
+      "tokens": []
+    },
+    {
+      "text": "政治のニュースです。",
+      "tokens": [
+        {
+          "surface": "政治",
+          "reading": "せいじ"
+        }
+      ]
+    },
+    {
+      "text": "高市総理大臣は、「今週23日から始まる国会の最初の日に衆議院を解散する」と言いました。",
+      "tokens": [
+        {
+          "surface": "高市",
+          "reading": "たかいち"
+        },
+        {
+          "surface": "総理大臣",
+          "reading": "そうりだいじん"
+        },
+        {
+          "surface": "今週",
+          "reading": "こんしゅう"
+        },
+        {
+          "surface": "日",
+          "reading": "にち"
+        },
+        {
+          "surface": "始",
+          "reading": "はじ"
+        },
+        {
+          "surface": "国会",
+          "reading": "こっかい"
+        },
+        {
+          "surface": "最初",
+          "reading": "さいしょ"
+        },
+        {
+          "surface": "日",
+          "reading": "ひ"
+        },
+        {
+          "surface": "衆議院",
+          "reading": "しゅうぎいん"
+        },
+        {
+          "surface": "解散",
+          "reading": "かいさん"
+        },
+        {
+          "surface": "言",
+          "reading": "い"
+        }
+      ]
+    },
+    {
+      "text": "19日、記者たちに話をしました。",
+      "tokens": [
+        {
+          "surface": "日",
+          "reading": "にち"
+        },
+        {
+          "surface": "記者",
+          "reading": "きしゃ"
+        },
+        {
+          "surface": "話",
+          "reading": "はなし"
+        }
+      ]
+    },
+    {
+      "text": "解散すると衆議院の新しい議員を選ぶ選挙があります。",
+      "tokens": [
+        {
+          "surface": "解散",
+          "reading": "かいさん"
+        },
+        {
+          "surface": "衆議院",
+          "reading": "しゅうぎいん"
+        },
+        {
+          "surface": "新",
+          "reading": "あたら"
+        },
+        {
+          "surface": "議員",
+          "reading": "ぎいん"
+        },
+        {
+          "surface": "選",
+          "reading": "えら"
+        },
+        {
+          "surface": "選挙",
+          "reading": "せんきょ"
+        }
+      ]
+    },
+    {
+      "text": "高市総理大臣は、選挙で投票する日は2月8日にしたいと言いました。与党と野党は、急いで選挙の準備をします。",
+      "tokens": [
+        {
+          "surface": "高市",
+          "reading": "たかいち"
+        },
+        {
+          "surface": "総理大臣",
+          "reading": "そうりだいじん"
+        },
+        {
+          "surface": "選挙",
+          "reading": "せんきょ"
+        },
+        {
+          "surface": "投票",
+          "reading": "とうひょう"
+        },
+        {
+          "surface": "日",
+          "reading": "ひ"
+        },
+        {
+          "surface": "月",
+          "reading": "がつ"
+        },
+        {
+          "surface": "8日",
+          "reading": "ようか"
+        },
+        {
+          "surface": "言",
+          "reading": "い"
+        },
+        {
+          "surface": "与党",
+          "reading": "よとう"
+        },
+        {
+          "surface": "野党",
+          "reading": "やとう"
+        },
+        {
+          "surface": "急",
+          "reading": "いそ"
+        },
+        {
+          "surface": "選挙",
+          "reading": "せんきょ"
+        },
+        {
+          "surface": "準備",
+          "reading": "じゅんび"
+        }
+      ]
+    }
+  ]
+}

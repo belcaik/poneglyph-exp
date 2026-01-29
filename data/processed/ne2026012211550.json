@@ -1,0 +1,215 @@
+{
+  "source": "nhk_easy",
+  "news_id": "ne2026012211550",
+  "url": "https://news.web.nhk/news/easy/ne2026012211550/ne2026012211550.html",
+  "title": "日本海側などでたくさん雪が降っている交通に気をつけて",
+  "date": "",
+  "sentences": [
+    {
+      "text": "2026年1月22日 19時19分",
+      "tokens": []
+    },
+    {
+      "text": "とても冷たい空気が入って、日本海側などで雪が降っています。",
+      "tokens": [
+        {
+          "surface": "冷",
+          "reading": "つめ"
+        },
+        {
+          "surface": "空気",
+          "reading": "くうき"
+        },
+        {
+          "surface": "入",
+          "reading": "はい"
+        },
+        {
+          "surface": "日本海",
+          "reading": "にほんかい"
+        },
+        {
+          "surface": "側",
+          "reading": "がわ"
+        },
+        {
+          "surface": "雪",
+          "reading": "ゆき"
+        },
+        {
+          "surface": "降",
+          "reading": "ふ"
+        }
+      ]
+    },
+    {
+      "text": "特に石川県と滋賀県などで、たくさん雪が降りました。",
+      "tokens": [
+        {
+          "surface": "特",
+          "reading": "とく"
+        },
+        {
+          "surface": "石川県",
+          "reading": "いしかわけん"
+        },
+        {
+          "surface": "滋賀県",
+          "reading": "しがけん"
+        },
+        {
+          "surface": "雪",
+          "reading": "ゆき"
+        },
+        {
+          "surface": "降",
+          "reading": "ふ"
+        }
+      ]
+    },
+    {
+      "text": "気象庁によると、23日の夕方までに新潟県の多い所で80cm、東北地方と北陸地方の多い所で70cmの雪が降りそうです。",
+      "tokens": [
+        {
+          "surface": "気象庁",
+          "reading": "きしょうちょう"
+        },
+        {
+          "surface": "日",
+          "reading": "にち"
+        },
+        {
+          "surface": "夕方",
+          "reading": "ゆうがた"
+        },
+        {
+          "surface": "新潟県",
+          "reading": "にいがたけん"
+        },
+        {
+          "surface": "多",
+          "reading": "おお"
+        },
+        {
+          "surface": "所",
+          "reading": "ところ"
+        },
+        {
+          "surface": "東北地方",
+          "reading": "とうほくちほう"
+        },
+        {
+          "surface": "北陸地方",
+          "reading": "ほくりくちほう"
+        },
+        {
+          "surface": "多",
+          "reading": "おお"
+        },
+        {
+          "surface": "所",
+          "reading": "ところ"
+        },
+        {
+          "surface": "雪",
+          "reading": "ゆき"
+        },
+        {
+          "surface": "降",
+          "reading": "ふ"
+        }
+      ]
+    },
+    {
+      "text": "そのあともたくさん雪が降って、特に、24日と25日は大雪になる心配があります。",
+      "tokens": [
+        {
+          "surface": "雪",
+          "reading": "ゆき"
+        },
+        {
+          "surface": "降",
+          "reading": "ふ"
+        },
+        {
+          "surface": "特",
+          "reading": "とく"
+        },
+        {
+          "surface": "24",
+          "reading": "にじゅうよっ"
+        },
+        {
+          "surface": "日",
+          "reading": "か"
+        },
+        {
+          "surface": "日",
+          "reading": "にち"
+        },
+        {
+          "surface": "大雪",
+          "reading": "おおゆき"
+        },
+        {
+          "surface": "心配",
+          "reading": "しんぱい"
+        }
+      ]
+    },
+    {
+      "text": "雪のために、多くの車が、道で動くことができなくなるかもしれません。",
+      "tokens": [
+        {
+          "surface": "雪",
+          "reading": "ゆき"
+        },
+        {
+          "surface": "多",
+          "reading": "おお"
+        },
+        {
+          "surface": "車",
+          "reading": "くるま"
+        },
+        {
+          "surface": "道",
+          "reading": "みち"
+        },
+        {
+          "surface": "動",
+          "reading": "うご"
+        }
+      ]
+    },
+    {
+      "text": "どうしても車を運転しなければならない人は、必ず冬のタイヤやチェーンを使ってください。",
+      "tokens": [
+        {
+          "surface": "車",
+          "reading": "くるま"
+        },
+        {
+          "surface": "運転",
+          "reading": "うんてん"
+        },
+        {
+          "surface": "人",
+          "reading": "ひと"
+        },
+        {
+          "surface": "必",
+          "reading": "かなら"
+        },
+        {
+          "surface": "冬",
+          "reading": "ふゆ"
+        },
+        {
+          "surface": "使",
+          "reading": "つか"
+        }
+      ]
+    }
+  ]
+}

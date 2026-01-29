@@ -1,0 +1,211 @@
+{
+  "source": "nhk_easy",
+  "news_id": "ne2026012811598",
+  "url": "https://news.web.nhk/news/easy/ne2026012811598/ne2026012811598.html",
+  "title": "衆議院の選挙28日から投票できる",
+  "date": "",
+  "sentences": [
+    {
+      "text": "2026年1月28日 19時19分",
+      "tokens": []
+    },
+    {
+      "text": "衆議院の選挙は、2月8日が投票日です。",
+      "tokens": [
+        {
+          "surface": "衆議院",
+          "reading": "しゅうぎいん"
+        },
+        {
+          "surface": "選挙",
+          "reading": "せんきょ"
+        },
+        {
+          "surface": "月",
+          "reading": "がつ"
+        },
+        {
+          "surface": "8日",
+          "reading": "ようか"
+        },
+        {
+          "surface": "投票日",
+          "reading": "とうひょうび"
+        }
+      ]
+    },
+    {
+      "text": "この日に投票に行くことができない人などは、28日から投票できます。",
+      "tokens": [
+        {
+          "surface": "日",
+          "reading": "ひ"
+        },
+        {
+          "surface": "投票",
+          "reading": "とうひょう"
+        },
+        {
+          "surface": "行",
+          "reading": "い"
+        },
+        {
+          "surface": "人",
+          "reading": "ひと"
+        },
+        {
+          "surface": "日",
+          "reading": "にち"
+        },
+        {
+          "surface": "投票",
+          "reading": "とうひょう"
+        }
+      ]
+    },
+    {
+      "text": "しかし、日本中のいろいろな市や町で、投票する場所に入るための券がまだ家に来ていないところがあります。",
+      "tokens": [
+        {
+          "surface": "日本中",
+          "reading": "にっぽんじゅう"
+        },
+        {
+          "surface": "市",
+          "reading": "し"
+        },
+        {
+          "surface": "町",
+          "reading": "まち"
+        },
+        {
+          "surface": "投票",
+          "reading": "とうひょう"
+        },
+        {
+          "surface": "場所",
+          "reading": "ばしょ"
+        },
+        {
+          "surface": "入",
+          "reading": "はい"
+        },
+        {
+          "surface": "券",
+          "reading": "けん"
+        },
+        {
+          "surface": "家",
+          "reading": "いえ"
+        },
+        {
+          "surface": "来",
+          "reading": "き"
+        }
+      ]
+    },
+    {
+      "text": "選挙管理委員会の人は「券がなくても投票はできます」と話しています。",
+      "tokens": [
+        {
+          "surface": "選挙管理委員会",
+          "reading": "せんきょかんりいいんかい"
+        },
+        {
+          "surface": "人",
+          "reading": "ひと"
+        },
+        {
+          "surface": "券",
+          "reading": "けん"
+        },
+        {
+          "surface": "投票",
+          "reading": "とうひょう"
+        },
+        {
+          "surface": "話",
+          "reading": "はな"
+        }
+      ]
+    },
+    {
+      "text": "北海道の函館市では、券を持っていない人が代わりにその人だとわかる運転免許証などを見せて投票していました。",
+      "tokens": [
+        {
+          "surface": "北海道",
+          "reading": "ほっかいどう"
+        },
+        {
+          "surface": "函館市",
+          "reading": "はこだてし"
+        },
+        {
+          "surface": "券",
+          "reading": "けん"
+        },
+        {
+          "surface": "持",
+          "reading": "も"
+        },
+        {
+          "surface": "人",
+          "reading": "ひと"
+        },
+        {
+          "surface": "代",
+          "reading": "か"
+        },
+        {
+          "surface": "人",
+          "reading": "ひと"
+        },
+        {
+          "surface": "運転免許証",
+          "reading": "うんてんめんきょしょう"
+        },
+        {
+          "surface": "見",
+          "reading": "み"
+        },
+        {
+          "surface": "投票",
+          "reading": "とうひょう"
+        }
+      ]
+    },
+    {
+      "text": "投票した女性は「運転免許証を見せて投票したのは初めてです」と話していました。",
+      "tokens": [
+        {
+          "surface": "投票",
+          "reading": "とうひょう"
+        },
+        {
+          "surface": "女性",
+          "reading": "じょせい"
+        },
+        {
+          "surface": "運転免許証",
+          "reading": "うんてんめんきょしょう"
+        },
+        {
+          "surface": "見",
+          "reading": "み"
+        },
+        {
+          "surface": "投票",
+          "reading": "とうひょう"
+        },
+        {
+          "surface": "初",
+          "reading": "はじ"
+        },
+        {
+          "surface": "話",
+          "reading": "はな"
+        }
+      ]
+    }
+  ]
+}

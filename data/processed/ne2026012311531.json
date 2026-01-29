@@ -1,0 +1,221 @@
+{
+  "source": "nhk_easy",
+  "news_id": "ne2026012311531",
+  "url": "https://news.web.nhk/news/easy/ne2026012311531/ne2026012311531.html",
+  "title": "雪の心配24日と25日も続きそう",
+  "date": "",
+  "sentences": [
+    {
+      "text": "2026年1月23日 19時30分",
+      "tokens": []
+    },
+    {
+      "text": "24日と25日も、日本海側などで雪がたくさん降る心配があります。",
+      "tokens": [
+        {
+          "surface": "24",
+          "reading": "にじゅうよっ"
+        },
+        {
+          "surface": "日",
+          "reading": "か"
+        },
+        {
+          "surface": "日",
+          "reading": "にち"
+        },
+        {
+          "surface": "日本海",
+          "reading": "にほんかい"
+        },
+        {
+          "surface": "側",
+          "reading": "がわ"
+        },
+        {
+          "surface": "雪",
+          "reading": "ゆき"
+        },
+        {
+          "surface": "降",
+          "reading": "ふ"
+        },
+        {
+          "surface": "心配",
+          "reading": "しんぱい"
+        }
+      ]
+    },
+    {
+      "text": "気象庁によると、24日の夕方までの24時間に、新潟県と北陸地方、東北地方、それに岐阜県の多い所で70cmぐらい降りそうです。東海地方や四国、九州の、いつもは雪があまり降らない所でも積もるかもしれません。",
+      "tokens": [
+        {
+          "surface": "気象庁",
+          "reading": "きしょうちょう"
+        },
+        {
+          "surface": "24",
+          "reading": "にじゅうよっ"
+        },
+        {
+          "surface": "日",
+          "reading": "か"
+        },
+        {
+          "surface": "夕方",
+          "reading": "ゆうがた"
+        },
+        {
+          "surface": "時間",
+          "reading": "じかん"
+        },
+        {
+          "surface": "新潟県",
+          "reading": "にいがたけん"
+        },
+        {
+          "surface": "北陸地方",
+          "reading": "ほくりくちほう"
+        },
+        {
+          "surface": "東北地方",
+          "reading": "とうほくちほう"
+        },
+        {
+          "surface": "岐阜県",
+          "reading": "ぎふけん"
+        },
+        {
+          "surface": "多",
+          "reading": "おお"
+        },
+        {
+          "surface": "所",
+          "reading": "ところ"
+        },
+        {
+          "surface": "降",
+          "reading": "ふ"
+        },
+        {
+          "surface": "東海地方",
+          "reading": "とうかいちほう"
+        },
+        {
+          "surface": "四国",
+          "reading": "しこく"
+        },
+        {
+          "surface": "九州",
+          "reading": "きゅうしゅう"
+        },
+        {
+          "surface": "雪",
+          "reading": "ゆき"
+        },
+        {
+          "surface": "降",
+          "reading": "ふ"
+        },
+        {
+          "surface": "所",
+          "reading": "ところ"
+        },
+        {
+          "surface": "積",
+          "reading": "つ"
+        }
+      ]
+    },
+    {
+      "text": "そして、25日の夕方までの24時間にも、多い所で70cmぐらい降りそうです。今までに雪がたくさん降っていて、もっと積もりそうです。",
+      "tokens": [
+        {
+          "surface": "日",
+          "reading": "にち"
+        },
+        {
+          "surface": "夕方",
+          "reading": "ゆうがた"
+        },
+        {
+          "surface": "時間",
+          "reading": "じかん"
+        },
+        {
+          "surface": "多",
+          "reading": "おお"
+        },
+        {
+          "surface": "所",
+          "reading": "ところ"
+        },
+        {
+          "surface": "降",
+          "reading": "ふ"
+        },
+        {
+          "surface": "今",
+          "reading": "いま"
+        },
+        {
+          "surface": "雪",
+          "reading": "ゆき"
+        },
+        {
+          "surface": "降",
+          "reading": "ふ"
+        },
+        {
+          "surface": "積",
+          "reading": "つ"
+        }
+      ]
+    },
+    {
+      "text": "車が動くことができなくなる心配があります。出かける前に、天気や交通の新しい情報を見てください。",
+      "tokens": [
+        {
+          "surface": "車",
+          "reading": "くるま"
+        },
+        {
+          "surface": "動",
+          "reading": "うご"
+        },
+        {
+          "surface": "心配",
+          "reading": "しんぱい"
+        },
+        {
+          "surface": "出",
+          "reading": "で"
+        },
+        {
+          "surface": "前",
+          "reading": "まえ"
+        },
+        {
+          "surface": "天気",
+          "reading": "てんき"
+        },
+        {
+          "surface": "交通",
+          "reading": "こうつう"
+        },
+        {
+          "surface": "新",
+          "reading": "あたら"
+        },
+        {
+          "surface": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "surface": "見",
+          "reading": "み"
+        }
+      ]
+    }
+  ]
+}

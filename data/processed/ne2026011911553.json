@@ -1,0 +1,183 @@
+{
+  "source": "nhk_easy",
+  "news_id": "ne2026011911553",
+  "url": "https://news.web.nhk/news/easy/ne2026011911553/ne2026011911553.html",
+  "title": "スペインの高速鉄道で事故39人が亡くなった",
+  "date": "",
+  "sentences": [
+    {
+      "text": "2026年1月19日 19時38分",
+      "tokens": []
+    },
+    {
+      "text": "スペインで鉄道の事故がありました。",
+      "tokens": [
+        {
+          "surface": "鉄道",
+          "reading": "てつどう"
+        },
+        {
+          "surface": "事故",
+          "reading": "じこ"
+        }
+      ]
+    },
+    {
+      "text": "18日の夜、スペインの南部で、速いスピードで走る高速鉄道の列車が線路から外れました。",
+      "tokens": [
+        {
+          "surface": "日",
+          "reading": "にち"
+        },
+        {
+          "surface": "夜",
+          "reading": "よる"
+        },
+        {
+          "surface": "南部",
+          "reading": "なんぶ"
+        },
+        {
+          "surface": "速",
+          "reading": "はや"
+        },
+        {
+          "surface": "走",
+          "reading": "はし"
+        },
+        {
+          "surface": "高速",
+          "reading": "こうそく"
+        },
+        {
+          "surface": "鉄道",
+          "reading": "てつどう"
+        },
+        {
+          "surface": "列車",
+          "reading": "れっしゃ"
+        },
+        {
+          "surface": "線路",
+          "reading": "せんろ"
+        },
+        {
+          "surface": "外",
+          "reading": "はず"
+        }
+      ]
+    },
+    {
+      "text": "この列車に、隣の線路を時速200キロぐらいで走って来た別の高速鉄道の列車がぶつかりました。",
+      "tokens": [
+        {
+          "surface": "列車",
+          "reading": "れっしゃ"
+        },
+        {
+          "surface": "隣",
+          "reading": "となり"
+        },
+        {
+          "surface": "線路",
+          "reading": "せんろ"
+        },
+        {
+          "surface": "時速",
+          "reading": "じそく"
+        },
+        {
+          "surface": "走",
+          "reading": "はし"
+        },
+        {
+          "surface": "来",
+          "reading": "き"
+        },
+        {
+          "surface": "別",
+          "reading": "べつ"
+        },
+        {
+          "surface": "高速",
+          "reading": "こうそく"
+        },
+        {
+          "surface": "鉄道",
+          "reading": "てつどう"
+        },
+        {
+          "surface": "列車",
+          "reading": "れっしゃ"
+        }
+      ]
+    },
+    {
+      "text": "スペインの政府は、これまでに39人が亡くなったと言っています。",
+      "tokens": [
+        {
+          "surface": "政府",
+          "reading": "せいふ"
+        },
+        {
+          "surface": "人",
+          "reading": "にん"
+        },
+        {
+          "surface": "亡",
+          "reading": "な"
+        },
+        {
+          "surface": "言",
+          "reading": "い"
+        }
+      ]
+    },
+    {
+      "text": "事故の原因はわかっていません。",
+      "tokens": [
+        {
+          "surface": "事故",
+          "reading": "じこ"
+        },
+        {
+          "surface": "原因",
+          "reading": "げんいん"
+        }
+      ]
+    },
+    {
+      "text": "2本の列車には全部で400人以上の人が乗っていたということです。",
+      "tokens": [
+        {
+          "surface": "本",
+          "reading": "ほん"
+        },
+        {
+          "surface": "列車",
+          "reading": "れっしゃ"
+        },
+        {
+          "surface": "全部",
+          "reading": "ぜんぶ"
+        },
+        {
+          "surface": "人",
+          "reading": "にん"
+        },
+        {
+          "surface": "以上",
+          "reading": "いじょう"
+        },
+        {
+          "surface": "人",
+          "reading": "ひと"
+        },
+        {
+          "surface": "乗",
+          "reading": "の"
+        }
+      ]
+    }
+  ]
+}

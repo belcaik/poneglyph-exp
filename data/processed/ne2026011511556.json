@@ -1,0 +1,165 @@
+{
+  "source": "nhk_easy",
+  "news_id": "ne2026011511556",
+  "url": "https://news.web.nhk/news/easy/ne2026011511556/ne2026011511556.html",
+  "title": "高市総理大臣衆議院を解散することを伝えた",
+  "date": "",
+  "sentences": [
+    {
+      "text": "2026年1月15日 19時40分",
+      "tokens": []
+    },
+    {
+      "text": "政治のニュースです。",
+      "tokens": [
+        {
+          "surface": "政治",
+          "reading": "せいじ"
+        }
+      ]
+    },
+    {
+      "text": "高市総理大臣は、今月23日から始まる国会で衆議院を解散することを、14日、与党の自民党と日本維新の会に伝えました。",
+      "tokens": [
+        {
+          "surface": "高市",
+          "reading": "たかいち"
+        },
+        {
+          "surface": "総理大臣",
+          "reading": "そうりだいじん"
+        },
+        {
+          "surface": "今月",
+          "reading": "こんげつ"
+        },
+        {
+          "surface": "日",
+          "reading": "にち"
+        },
+        {
+          "surface": "始",
+          "reading": "はじ"
+        },
+        {
+          "surface": "国会",
+          "reading": "こっかい"
+        },
+        {
+          "surface": "衆議院",
+          "reading": "しゅうぎいん"
+        },
+        {
+          "surface": "解散",
+          "reading": "かいさん"
+        },
+        {
+          "surface": "14日",
+          "reading": "じゅうよっか"
+        },
+        {
+          "surface": "与党",
+          "reading": "よとう"
+        },
+        {
+          "surface": "自民党",
+          "reading": "じみんとう"
+        },
+        {
+          "surface": "日本維新",
+          "reading": "にっぽんいしん"
+        },
+        {
+          "surface": "会",
+          "reading": "かい"
+        },
+        {
+          "surface": "伝",
+          "reading": "つた"
+        }
+      ]
+    },
+    {
+      "text": "解散すると、衆議院の新しい議員を選ぶ選挙があります。与党は、投票する日を2月8日と考えています。",
+      "tokens": [
+        {
+          "surface": "解散",
+          "reading": "かいさん"
+        },
+        {
+          "surface": "衆議院",
+          "reading": "しゅうぎいん"
+        },
+        {
+          "surface": "新",
+          "reading": "あたら"
+        },
+        {
+          "surface": "議員",
+          "reading": "ぎいん"
+        },
+        {
+          "surface": "選",
+          "reading": "えら"
+        },
+        {
+          "surface": "選挙",
+          "reading": "せんきょ"
+        },
+        {
+          "surface": "与党",
+          "reading": "よとう"
+        },
+        {
+          "surface": "投票",
+          "reading": "とうひょう"
+        },
+        {
+          "surface": "日",
+          "reading": "ひ"
+        },
+        {
+          "surface": "月",
+          "reading": "がつ"
+        },
+        {
+          "surface": "8日",
+          "reading": "ようか"
+        },
+        {
+          "surface": "考",
+          "reading": "かんが"
+        }
+      ]
+    },
+    {
+      "text": "与党と野党は、選挙の準備を急いで始めています。",
+      "tokens": [
+        {
+          "surface": "与党",
+          "reading": "よとう"
+        },
+        {
+          "surface": "野党",
+          "reading": "やとう"
+        },
+        {
+          "surface": "選挙",
+          "reading": "せんきょ"
+        },
+        {
+          "surface": "準備",
+          "reading": "じゅんび"
+        },
+        {
+          "surface": "急",
+          "reading": "いそ"
+        },
+        {
+          "surface": "始",
+          "reading": "はじ"
+        }
+      ]
+    }
+  ]
+}

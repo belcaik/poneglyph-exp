@@ -1,0 +1,197 @@
+{
+  "source": "nhk_easy",
+  "news_id": "ne2026011411373",
+  "url": "https://news.web.nhk/news/easy/ne2026011411373/ne2026011411373.html",
+  "title": "国の原子力規制委員会「浜岡原発の安全のチェックを止める」",
+  "date": "",
+  "sentences": [
+    {
+      "text": "2026年1月14日 19時20分",
+      "tokens": []
+    },
+    {
+      "text": "静岡県にある原子力発電所のニュースです。",
+      "tokens": [
+        {
+          "surface": "静岡県",
+          "reading": "しずおかけん"
+        },
+        {
+          "surface": "原子力発電所",
+          "reading": "げんしりょくはつでんしょ"
+        }
+      ]
+    },
+    {
+      "text": "中部電力の浜岡原子力発電所は、2011年の大きい地震のあと運転していません。安全に運転できるかどうか、国の原子力規制委員会がチェックをしています。",
+      "tokens": [
+        {
+          "surface": "中部電力",
+          "reading": "ちゅうぶでんりょく"
+        },
+        {
+          "surface": "浜岡",
+          "reading": "はまおか"
+        },
+        {
+          "surface": "原子力発電所",
+          "reading": "げんしりょくはつでんしょ"
+        },
+        {
+          "surface": "年",
+          "reading": "ねん"
+        },
+        {
+          "surface": "大",
+          "reading": "おお"
+        },
+        {
+          "surface": "地震",
+          "reading": "じしん"
+        },
+        {
+          "surface": "運転",
+          "reading": "うんてん"
+        },
+        {
+          "surface": "安全",
+          "reading": "あんぜん"
+        },
+        {
+          "surface": "運転",
+          "reading": "うんてん"
+        },
+        {
+          "surface": "国",
+          "reading": "くに"
+        },
+        {
+          "surface": "原子力規制委員会",
+          "reading": "げんしりょくきせいいいんかい"
+        }
+      ]
+    },
+    {
+      "text": "中部電力は今月5日、チェックに使うデータを選ぶときに、正しくない選び方をした疑いがあると言いました。将来あるかもしれない地震の大きさを小さく考えた可能性があります。",
+      "tokens": [
+        {
+          "surface": "中部電力",
+          "reading": "ちゅうぶでんりょく"
+        },
+        {
+          "surface": "今月",
+          "reading": "こんげつ"
+        },
+        {
+          "surface": "5日",
+          "reading": "いつか"
+        },
+        {
+          "surface": "使",
+          "reading": "つか"
+        },
+        {
+          "surface": "選",
+          "reading": "えら"
+        },
+        {
+          "surface": "正",
+          "reading": "ただ"
+        },
+        {
+          "surface": "選",
+          "reading": "えら"
+        },
+        {
+          "surface": "方",
+          "reading": "かた"
+        },
+        {
+          "surface": "疑",
+          "reading": "うたが"
+        },
+        {
+          "surface": "言",
+          "reading": "い"
+        },
+        {
+          "surface": "将来",
+          "reading": "しょうらい"
+        },
+        {
+          "surface": "地震",
+          "reading": "じしん"
+        },
+        {
+          "surface": "大",
+          "reading": "おお"
+        },
+        {
+          "surface": "小",
+          "reading": "ちい"
+        },
+        {
+          "surface": "考",
+          "reading": "かんが"
+        },
+        {
+          "surface": "可能性",
+          "reading": "かのうせい"
+        }
+      ]
+    },
+    {
+      "text": "委員会は14日、安全に運転できるかどうかのチェックを止めて、厳しく会社を調べることを決めました。調べる時間は長くかかりそうです。",
+      "tokens": [
+        {
+          "surface": "委員会",
+          "reading": "いいんかい"
+        },
+        {
+          "surface": "14日",
+          "reading": "じゅうよっか"
+        },
+        {
+          "surface": "安全",
+          "reading": "あんぜん"
+        },
+        {
+          "surface": "運転",
+          "reading": "うんてん"
+        },
+        {
+          "surface": "止",
+          "reading": "と"
+        },
+        {
+          "surface": "厳",
+          "reading": "きび"
+        },
+        {
+          "surface": "会社",
+          "reading": "かいしゃ"
+        },
+        {
+          "surface": "調",
+          "reading": "しら"
+        },
+        {
+          "surface": "決",
+          "reading": "き"
+        },
+        {
+          "surface": "調",
+          "reading": "しら"
+        },
+        {
+          "surface": "時間",
+          "reading": "じかん"
+        },
+        {
+          "surface": "長",
+          "reading": "なが"
+        }
+      ]
+    }
+  ]
+}

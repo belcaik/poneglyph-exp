@@ -1,0 +1,207 @@
+{
+  "source": "nhk_easy",
+  "news_id": "ne2026012911180",
+  "url": "https://news.web.nhk/news/easy/ne2026012911180/ne2026012911180.html",
+  "title": "群馬県のデパート選挙の投票をした人に商品を安くするサービス",
+  "date": "",
+  "sentences": [
+    {
+      "text": "2026年1月29日 19時17分",
+      "tokens": []
+    },
+    {
+      "text": "衆議院選挙の投票をした人のためのサービスを、群馬県高崎市のデパートが始めました。",
+      "tokens": [
+        {
+          "surface": "衆議院選挙",
+          "reading": "しゅうぎいんせんきょ"
+        },
+        {
+          "surface": "投票",
+          "reading": "とうひょう"
+        },
+        {
+          "surface": "人",
+          "reading": "ひと"
+        },
+        {
+          "surface": "群馬県",
+          "reading": "ぐんまけん"
+        },
+        {
+          "surface": "高崎市",
+          "reading": "たかさきし"
+        },
+        {
+          "surface": "始",
+          "reading": "はじ"
+        }
+      ]
+    },
+    {
+      "text": "投票したことを証明する書類や投票所の写真を見せると、一部の商品が10％安くなります。",
+      "tokens": [
+        {
+          "surface": "投票",
+          "reading": "とうひょう"
+        },
+        {
+          "surface": "証明",
+          "reading": "しょうめい"
+        },
+        {
+          "surface": "書類",
+          "reading": "しょるい"
+        },
+        {
+          "surface": "投票所",
+          "reading": "とうひょうじょ"
+        },
+        {
+          "surface": "写真",
+          "reading": "しゃしん"
+        },
+        {
+          "surface": "見",
+          "reading": "み"
+        },
+        {
+          "surface": "一部",
+          "reading": "いちぶ"
+        },
+        {
+          "surface": "商品",
+          "reading": "しょうひん"
+        },
+        {
+          "surface": "安",
+          "reading": "やす"
+        }
+      ]
+    },
+    {
+      "text": "このほか、レストランなどで飲み物のサービスを受けることができます。",
+      "tokens": [
+        {
+          "surface": "飲",
+          "reading": "の"
+        },
+        {
+          "surface": "物",
+          "reading": "もの"
+        },
+        {
+          "surface": "受",
+          "reading": "う"
+        }
+      ]
+    },
+    {
+      "text": "選挙の間は、いつもより客が少なくなるため、7年前から行っています。",
+      "tokens": [
+        {
+          "surface": "選挙",
+          "reading": "せんきょ"
+        },
+        {
+          "surface": "間",
+          "reading": "あいだ"
+        },
+        {
+          "surface": "客",
+          "reading": "きゃく"
+        },
+        {
+          "surface": "少",
+          "reading": "すく"
+        },
+        {
+          "surface": "7",
+          "reading": "しち"
+        },
+        {
+          "surface": "年",
+          "reading": "ねん"
+        },
+        {
+          "surface": "前",
+          "reading": "まえ"
+        },
+        {
+          "surface": "行",
+          "reading": "おこな"
+        }
+      ]
+    },
+    {
+      "text": "買い物に来た女性は「物の値段が高くなっているので、少しでも安くなればいいです」と話していました。",
+      "tokens": [
+        {
+          "surface": "買",
+          "reading": "か"
+        },
+        {
+          "surface": "物",
+          "reading": "もの"
+        },
+        {
+          "surface": "来",
+          "reading": "き"
+        },
+        {
+          "surface": "女性",
+          "reading": "じょせい"
+        },
+        {
+          "surface": "物",
+          "reading": "もの"
+        },
+        {
+          "surface": "値段",
+          "reading": "ねだん"
+        },
+        {
+          "surface": "高",
+          "reading": "たか"
+        },
+        {
+          "surface": "少",
+          "reading": "すこ"
+        },
+        {
+          "surface": "安",
+          "reading": "やす"
+        },
+        {
+          "surface": "話",
+          "reading": "はな"
+        }
+      ]
+    },
+    {
+      "text": "デパートはこのサービスを、選挙の投票日の次の日まで行います。",
+      "tokens": [
+        {
+          "surface": "選挙",
+          "reading": "せんきょ"
+        },
+        {
+          "surface": "投票日",
+          "reading": "とうひょうび"
+        },
+        {
+          "surface": "次",
+          "reading": "つぎ"
+        },
+        {
+          "surface": "日",
+          "reading": "ひ"
+        },
+        {
+          "surface": "行",
+          "reading": "おこな"
+        }
+      ]
+    }
+  ]
+}

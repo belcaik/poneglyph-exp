@@ -1,0 +1,166 @@
+{
+  "source": "nhk_easy",
+  "news_id": "ne2026011511587",
+  "url": "https://news.web.nhk/news/easy/ne2026011511587/ne2026011511587.html",
+  "title": "「がん」が見つかってから5年間生きている人のデータを発表",
+  "date": "",
+  "sentences": [
+    {
+      "text": "2026年1月15日 19時39分",
+      "tokens": []
+    },
+    {
+      "text": "国は、2016年に「がん」が見つかってから、5年間、生きている人のデータを発表しました。",
+      "tokens": [
+        {
+          "surface": "国",
+          "reading": "くに"
+        },
+        {
+          "surface": "年",
+          "reading": "ねん"
+        },
+        {
+          "surface": "見",
+          "reading": "み"
+        },
+        {
+          "surface": "年",
+          "reading": "ねん"
+        },
+        {
+          "surface": "間",
+          "reading": "かん"
+        },
+        {
+          "surface": "生",
+          "reading": "い"
+        },
+        {
+          "surface": "人",
+          "reading": "ひと"
+        },
+        {
+          "surface": "発表",
+          "reading": "はっぴょう"
+        }
+      ]
+    },
+    {
+      "text": "国によると、がんの種類で、5年間、生きている人の割合は、大きく違うことがわかりました。",
+      "tokens": [
+        {
+          "surface": "国",
+          "reading": "くに"
+        },
+        {
+          "surface": "種類",
+          "reading": "しゅるい"
+        },
+        {
+          "surface": "年",
+          "reading": "ねん"
+        },
+        {
+          "surface": "間",
+          "reading": "かん"
+        },
+        {
+          "surface": "生",
+          "reading": "い"
+        },
+        {
+          "surface": "人",
+          "reading": "ひと"
+        },
+        {
+          "surface": "割合",
+          "reading": "わりあい"
+        },
+        {
+          "surface": "大",
+          "reading": "おお"
+        },
+        {
+          "surface": "違",
+          "reading": "ちが"
+        }
+      ]
+    },
+    {
+      "text": "割合が高かったのは、前立腺がん、甲状腺がん、皮膚がんです。90％以上でした。そして、乳がんは88％、喉頭がんは75.2％、大腸がんは67.8％、肝臓がんは33.4％でした。",
+      "tokens": [
+        {
+          "surface": "割合",
+          "reading": "わりあい"
+        },
+        {
+          "surface": "高",
+          "reading": "たか"
+        },
+        {
+          "surface": "前立腺",
+          "reading": "ぜんりつせん"
+        },
+        {
+          "surface": "甲状腺",
+          "reading": "こうじょうせん"
+        },
+        {
+          "surface": "皮膚",
+          "reading": "ひふ"
+        },
+        {
+          "surface": "以上",
+          "reading": "いじょう"
+        },
+        {
+          "surface": "乳",
+          "reading": "にゅう"
+        },
+        {
+          "surface": "喉頭",
+          "reading": "こうとう"
+        },
+        {
+          "surface": "大腸",
+          "reading": "だいちょう"
+        },
+        {
+          "surface": "肝臓",
+          "reading": "かんぞう"
+        }
+      ]
+    },
+    {
+      "text": "いちばん低かったのは、すい臓がんで、11.8％でした。",
+      "tokens": [
+        {
+          "surface": "低",
+          "reading": "ひく"
+        },
+        {
+          "surface": "臓",
+          "reading": "ぞう"
+        }
+      ]
+    },
+    {
+      "text": "国が、このデータを出すのは初めてです。",
+      "tokens": [
+        {
+          "surface": "国",
+          "reading": "くに"
+        },
+        {
+          "surface": "出",
+          "reading": "だ"
+        },
+        {
+          "surface": "初",
+          "reading": "はじ"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "source": "nhk_easy",
+  "news_id": "ne2026010911454",
+  "url": "https://news.web.nhk/news/easy/ne2026010911454/ne2026010911454.html",
+  "title": "宇宙飛行士体の具合が悪くなって地球に帰ることが決まった",
+  "date": "",
+  "sentences": [
+    {
+      "text": "2026年1月9日 19時28分",
+      "tokens": []
+    },
+    {
+      "text": "国際宇宙ステーションにいる宇宙飛行士の1人が、体の具合が悪くなりました。このため、4人の宇宙飛行士が、予定より早く地球に帰ることが決まりました。去年8月から、国際宇宙ステーションにいて、来月、帰る予定でした。",
+      "tokens": [
+        {
+          "surface": "国際",
+          "reading": "こくさい"
+        },
+        {
+          "surface": "宇宙",
+          "reading": "うちゅう"
+        },
+        {
+          "surface": "宇宙飛行士",
+          "reading": "うちゅうひこうし"
+        },
+        {
+          "surface": "1人",
+          "reading": "ひとり"
+        },
+        {
+          "surface": "体",
+          "reading": "からだ"
+        },
+        {
+          "surface": "具合",
+          "reading": "ぐあい"
+        },
+        {
+          "surface": "悪",
+          "reading": "わる"
+        },
+        {
+          "surface": "人",
+          "reading": "にん"
+        },
+        {
+          "surface": "宇宙飛行士",
+          "reading": "うちゅうひこうし"
+        },
+        {
+          "surface": "予定",
+          "reading": "よてい"
+        },
+        {
+          "surface": "早",
+          "reading": "はや"
+        },
+        {
+          "surface": "地球",
+          "reading": "ちきゅう"
+        },
+        {
+          "surface": "帰",
+          "reading": "かえ"
+        },
+        {
+          "surface": "決",
+          "reading": "き"
+        },
+        {
+          "surface": "去年",
+          "reading": "きょねん"
+        },
+        {
+          "surface": "月",
+          "reading": "がつ"
+        },
+        {
+          "surface": "国際",
+          "reading": "こくさい"
+        },
+        {
+          "surface": "宇宙",
+          "reading": "うちゅう"
+        },
+        {
+          "surface": "来月",
+          "reading": "らいげつ"
+        },
+        {
+          "surface": "帰",
+          "reading": "かえ"
+        },
+        {
+          "surface": "予定",
+          "reading": "よてい"
+        }
+      ]
+    },
+    {
+      "text": "4人の中には、日本人の油井亀美也さんがいます。NASAは、具合が悪くなった人の名前を発表していません。JAXAは、油井さんではないと言っています。",
+      "tokens": [
+        {
+          "surface": "人",
+          "reading": "にん"
+        },
+        {
+          "surface": "中",
+          "reading": "なか"
+        },
+        {
+          "surface": "日本人",
+          "reading": "にほんじん"
+        },
+        {
+          "surface": "油井",
+          "reading": "ゆい"
+        },
+        {
+          "surface": "亀美也",
+          "reading": "きみや"
+        },
+        {
+          "surface": "具合",
+          "reading": "ぐあい"
+        },
+        {
+          "surface": "悪",
+          "reading": "わる"
+        },
+        {
+          "surface": "人",
+          "reading": "ひと"
+        },
+        {
+          "surface": "名前",
+          "reading": "なまえ"
+        },
+        {
+          "surface": "発表",
+          "reading": "はっぴょう"
+        },
+        {
+          "surface": "油井",
+          "reading": "ゆい"
+        },
+        {
+          "surface": "言",
+          "reading": "い"
+        }
+      ]
+    },
+    {
+      "text": "国際宇宙ステーションでは、25年前から、宇宙飛行士が、いろいろな実験をしています。体の具合が悪くなったため予定より早く帰るのは、初めてです。",
+      "tokens": [
+        {
+          "surface": "国際",
+          "reading": "こくさい"
+        },
+        {
+          "surface": "宇宙",
+          "reading": "うちゅう"
+        },
+        {
+          "surface": "年",
+          "reading": "ねん"
+        },
+        {
+          "surface": "前",
+          "reading": "まえ"
+        },
+        {
+          "surface": "宇宙飛行士",
+          "reading": "うちゅうひこうし"
+        },
+        {
+          "surface": "実験",
+          "reading": "じっけん"
+        },
+        {
+          "surface": "体",
+          "reading": "からだ"
+        },
+        {
+          "surface": "具合",
+          "reading": "ぐあい"
+        },
+        {
+          "surface": "悪",
+          "reading": "わる"
+        },
+        {
+          "surface": "予定",
+          "reading": "よてい"
+        },
+        {
+          "surface": "早",
+          "reading": "はや"
+        },
+        {
+          "surface": "帰",
+          "reading": "かえ"
+        },
+        {
+          "surface": "初",
+          "reading": "はじ"
+        }
+      ]
+    }
+  ]
+}

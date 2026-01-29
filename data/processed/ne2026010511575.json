@@ -1,0 +1,269 @@
+{
+  "source": "nhk_easy",
+  "news_id": "ne2026010511575",
+  "url": "https://news.web.nhk/news/easy/ne2026010511575/ne2026010511575.html",
+  "title": "新しい「育成就労制度」日本語教育の費用の負担をどうするか",
+  "date": "",
+  "sentences": [
+    {
+      "text": "2026年1月5日 19時28分",
+      "tokens": []
+    },
+    {
+      "text": "外国人の受け入れについてのニュースです。",
+      "tokens": [
+        {
+          "surface": "外国人",
+          "reading": "がいこくじん"
+        },
+        {
+          "surface": "受",
+          "reading": "う"
+        },
+        {
+          "surface": "入",
+          "reading": "い"
+        }
+      ]
+    },
+    {
+      "text": "国は、2027年4月から、「技能実習制度」をやめて「育成就労制度」という新しい制度を始めます。この制度では、日本語の能力の条件が厳しくなります。",
+      "tokens": [
+        {
+          "surface": "国",
+          "reading": "くに"
+        },
+        {
+          "surface": "年",
+          "reading": "ねん"
+        },
+        {
+          "surface": "月",
+          "reading": "がつ"
+        },
+        {
+          "surface": "技能実習制度",
+          "reading": "ぎのうじっしゅうせいど"
+        },
+        {
+          "surface": "育成就労",
+          "reading": "いくせいしゅうろう"
+        },
+        {
+          "surface": "制度",
+          "reading": "せいど"
+        },
+        {
+          "surface": "新",
+          "reading": "あたら"
+        },
+        {
+          "surface": "制度",
+          "reading": "せいど"
+        },
+        {
+          "surface": "始",
+          "reading": "はじ"
+        },
+        {
+          "surface": "制度",
+          "reading": "せいど"
+        },
+        {
+          "surface": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "surface": "能力",
+          "reading": "のうりょく"
+        },
+        {
+          "surface": "条件",
+          "reading": "じょうけん"
+        },
+        {
+          "surface": "厳",
+          "reading": "きび"
+        }
+      ]
+    },
+    {
+      "text": "「国際人材協力機構」は、技能実習生を受け入れている監理団体などにどう対応するか質問しました。36％の団体が「日本語の能力試験に合格した人だけを受け入れる」と答えました。「日本に来る前に学校などで日本語を勉強させる」団体が16％でした。「日本に来てから勉強させる」団体は10％でした。",
+      "tokens": [
+        {
+          "surface": "国際",
+          "reading": "こくさい"
+        },
+        {
+          "surface": "人材",
+          "reading": "じんざい"
+        },
+        {
+          "surface": "協力",
+          "reading": "きょうりょく"
+        },
+        {
+          "surface": "機構",
+          "reading": "きこう"
+        },
+        {
+          "surface": "技能実習生",
+          "reading": "ぎのうじっしゅうせい"
+        },
+        {
+          "surface": "受",
+          "reading": "う"
+        },
+        {
+          "surface": "入",
+          "reading": "い"
+        },
+        {
+          "surface": "監理団体",
+          "reading": "かんりだんたい"
+        },
+        {
+          "surface": "対応",
+          "reading": "たいおう"
+        },
+        {
+          "surface": "質問",
+          "reading": "しつもん"
+        },
+        {
+          "surface": "団体",
+          "reading": "だんたい"
+        },
+        {
+          "surface": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "surface": "能力",
+          "reading": "のうりょく"
+        },
+        {
+          "surface": "試験",
+          "reading": "しけん"
+        },
+        {
+          "surface": "合格",
+          "reading": "ごうかく"
+        },
+        {
+          "surface": "人",
+          "reading": "ひと"
+        },
+        {
+          "surface": "受",
+          "reading": "う"
+        },
+        {
+          "surface": "入",
+          "reading": "い"
+        },
+        {
+          "surface": "答",
+          "reading": "こた"
+        },
+        {
+          "surface": "日本",
+          "reading": "にっぽん"
+        },
+        {
+          "surface": "来",
+          "reading": "く"
+        },
+        {
+          "surface": "前",
+          "reading": "まえ"
+        },
+        {
+          "surface": "学校",
+          "reading": "がっこう"
+        },
+        {
+          "surface": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "surface": "勉強",
+          "reading": "べんきょう"
+        },
+        {
+          "surface": "団体",
+          "reading": "だんたい"
+        },
+        {
+          "surface": "日本",
+          "reading": "にっぽん"
+        },
+        {
+          "surface": "来",
+          "reading": "き"
+        },
+        {
+          "surface": "勉強",
+          "reading": "べんきょう"
+        },
+        {
+          "surface": "団体",
+          "reading": "だんたい"
+        }
+      ]
+    },
+    {
+      "text": "日本語の教育の費用を心配している団体もあります。専門家は「会社がどこまで費用を負担するのか考える必要がある」と話しています。",
+      "tokens": [
+        {
+          "surface": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "surface": "教育",
+          "reading": "きょういく"
+        },
+        {
+          "surface": "費用",
+          "reading": "ひよう"
+        },
+        {
+          "surface": "心配",
+          "reading": "しんぱい"
+        },
+        {
+          "surface": "団体",
+          "reading": "だんたい"
+        },
+        {
+          "surface": "専門家",
+          "reading": "せんもんか"
+        },
+        {
+          "surface": "会社",
+          "reading": "かいしゃ"
+        },
+        {
+          "surface": "費用",
+          "reading": "ひよう"
+        },
+        {
+          "surface": "負担",
+          "reading": "ふたん"
+        },
+        {
+          "surface": "考",
+          "reading": "かんが"
+        },
+        {
+          "surface": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "surface": "話",
+          "reading": "はな"
+        }
+      ]
+    }
+  ]
+}

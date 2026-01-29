@@ -1,0 +1,159 @@
+{
+  "source": "nhk_easy",
+  "news_id": "ne2026011412009",
+  "url": "https://news.web.nhk/news/easy/ne2026011412009/ne2026011412009.html",
+  "title": "冬のオリンピック日本はボブスレー男子に出場できない",
+  "date": "",
+  "sentences": [
+    {
+      "text": "2026年1月14日 19時18分",
+      "tokens": []
+    },
+    {
+      "text": "冬のオリンピックが2月イタリアで始まります。",
+      "tokens": [
+        {
+          "surface": "冬",
+          "reading": "ふゆ"
+        },
+        {
+          "surface": "月",
+          "reading": "がつ"
+        },
+        {
+          "surface": "始",
+          "reading": "はじ"
+        }
+      ]
+    },
+    {
+      "text": "ボブスレーという競技は、氷の上をそりで滑って速さを競います。",
+      "tokens": [
+        {
+          "surface": "競技",
+          "reading": "きょうぎ"
+        },
+        {
+          "surface": "氷",
+          "reading": "こおり"
+        },
+        {
+          "surface": "上",
+          "reading": "うえ"
+        },
+        {
+          "surface": "滑",
+          "reading": "すべ"
+        },
+        {
+          "surface": "速",
+          "reading": "はや"
+        },
+        {
+          "surface": "競",
+          "reading": "きそ"
+        }
+      ]
+    },
+    {
+      "text": "このボブスレーの男子の競技に、日本の選手が出ることができなくなりました。",
+      "tokens": [
+        {
+          "surface": "男子",
+          "reading": "だんし"
+        },
+        {
+          "surface": "競技",
+          "reading": "きょうぎ"
+        },
+        {
+          "surface": "日本",
+          "reading": "にっぽん"
+        },
+        {
+          "surface": "選手",
+          "reading": "せんしゅ"
+        },
+        {
+          "surface": "出",
+          "reading": "で"
+        }
+      ]
+    },
+    {
+      "text": "日本のボブスレーの競技の団体がルールが変わったことをわかっていなかったためです。",
+      "tokens": [
+        {
+          "surface": "日本",
+          "reading": "にっぽん"
+        },
+        {
+          "surface": "競技",
+          "reading": "きょうぎ"
+        },
+        {
+          "surface": "団体",
+          "reading": "だんたい"
+        },
+        {
+          "surface": "変",
+          "reading": "か"
+        }
+      ]
+    },
+    {
+      "text": "競技に出るために必要な試合に選手を出していませんでした。",
+      "tokens": [
+        {
+          "surface": "競技",
+          "reading": "きょうぎ"
+        },
+        {
+          "surface": "出",
+          "reading": "で"
+        },
+        {
+          "surface": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "surface": "試合",
+          "reading": "しあい"
+        },
+        {
+          "surface": "選手",
+          "reading": "せんしゅ"
+        },
+        {
+          "surface": "出",
+          "reading": "だ"
+        }
+      ]
+    },
+    {
+      "text": "団体は「選手に深く謝ります」と話しています。",
+      "tokens": [
+        {
+          "surface": "団体",
+          "reading": "だんたい"
+        },
+        {
+          "surface": "選手",
+          "reading": "せんしゅ"
+        },
+        {
+          "surface": "深",
+          "reading": "ふか"
+        },
+        {
+          "surface": "謝",
+          "reading": "あやま"
+        },
+        {
+          "surface": "話",
+          "reading": "はな"
+        }
+      ]
+    }
+  ]
+}

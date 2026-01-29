@@ -1,0 +1,215 @@
+{
+  "source": "nhk_easy",
+  "news_id": "ne2026012216259",
+  "url": "https://news.web.nhk/news/easy/ne2026012216259/ne2026012216259.html",
+  "title": "もう一度動かした柏崎刈羽原発6号機また止めることにした",
+  "date": "",
+  "sentences": [
+    {
+      "text": "2026年1月22日 19時20分",
+      "tokens": []
+    },
+    {
+      "text": "新潟県にある原子力発電所のニュースです。",
+      "tokens": [
+        {
+          "surface": "新潟県",
+          "reading": "にいがたけん"
+        },
+        {
+          "surface": "原子力発電所",
+          "reading": "げんしりょくはつでんしょ"
+        }
+      ]
+    },
+    {
+      "text": "東京電力は21日の夜、柏崎刈羽原子力発電所6号機を、もう一度、動かし始めました。",
+      "tokens": [
+        {
+          "surface": "東京電力",
+          "reading": "とうきょうでんりょく"
+        },
+        {
+          "surface": "日",
+          "reading": "にち"
+        },
+        {
+          "surface": "夜",
+          "reading": "よる"
+        },
+        {
+          "surface": "柏崎刈羽原子力発電所",
+          "reading": "かしわざきかりわげんしりょくはつでんしょ"
+        },
+        {
+          "surface": "号機",
+          "reading": "ごうき"
+        },
+        {
+          "surface": "一度",
+          "reading": "いちど"
+        },
+        {
+          "surface": "動",
+          "reading": "うご"
+        },
+        {
+          "surface": "始",
+          "reading": "はじ"
+        }
+      ]
+    },
+    {
+      "text": "2011年に、福島第一原発で事故が起こったあと、東京電力が止まっていた原発を動かすのは初めてです。",
+      "tokens": [
+        {
+          "surface": "年",
+          "reading": "ねん"
+        },
+        {
+          "surface": "福島第一原発",
+          "reading": "ふくしまだいいちげんぱつ"
+        },
+        {
+          "surface": "事故",
+          "reading": "じこ"
+        },
+        {
+          "surface": "起",
+          "reading": "お"
+        },
+        {
+          "surface": "東京電力",
+          "reading": "とうきょうでんりょく"
+        },
+        {
+          "surface": "止",
+          "reading": "と"
+        },
+        {
+          "surface": "原発",
+          "reading": "げんぱつ"
+        },
+        {
+          "surface": "動",
+          "reading": "うご"
+        },
+        {
+          "surface": "初",
+          "reading": "はじ"
+        }
+      ]
+    },
+    {
+      "text": "東京電力は、原発を運転するために、制御棒という物を動かす作業を進めていました。しかし、22日午前0時半ごろ、何かあったことを知らせる警報が鳴りました。",
+      "tokens": [
+        {
+          "surface": "東京電力",
+          "reading": "とうきょうでんりょく"
+        },
+        {
+          "surface": "原発",
+          "reading": "げんぱつ"
+        },
+        {
+          "surface": "運転",
+          "reading": "うんてん"
+        },
+        {
+          "surface": "制御棒",
+          "reading": "せいぎょぼう"
+        },
+        {
+          "surface": "物",
+          "reading": "もの"
+        },
+        {
+          "surface": "動",
+          "reading": "うご"
+        },
+        {
+          "surface": "作業",
+          "reading": "さぎょう"
+        },
+        {
+          "surface": "進",
+          "reading": "すす"
+        },
+        {
+          "surface": "日",
+          "reading": "にち"
+        },
+        {
+          "surface": "午前",
+          "reading": "ごぜん"
+        },
+        {
+          "surface": "時半",
+          "reading": "じはん"
+        },
+        {
+          "surface": "何",
+          "reading": "なに"
+        },
+        {
+          "surface": "知",
+          "reading": "し"
+        },
+        {
+          "surface": "警報",
+          "reading": "けいほう"
+        },
+        {
+          "surface": "鳴",
+          "reading": "な"
+        }
+      ]
+    },
+    {
+      "text": "東京電力は、原因を調べるのに時間がかかるため、原子炉を止めることにしました。",
+      "tokens": [
+        {
+          "surface": "東京電力",
+          "reading": "とうきょうでんりょく"
+        },
+        {
+          "surface": "原因",
+          "reading": "げんいん"
+        },
+        {
+          "surface": "調",
+          "reading": "しら"
+        },
+        {
+          "surface": "時間",
+          "reading": "じかん"
+        },
+        {
+          "surface": "原子炉",
+          "reading": "げんしろ"
+        },
+        {
+          "surface": "止",
+          "reading": "と"
+        }
+      ]
+    },
+    {
+      "text": "東京電力によると、安全について問題はありません。",
+      "tokens": [
+        {
+          "surface": "東京電力",
+          "reading": "とうきょうでんりょく"
+        },
+        {
+          "surface": "安全",
+          "reading": "あんぜん"
+        },
+        {
+          "surface": "問題",
+          "reading": "もんだい"
+        }
+      ]
+    }
+  ]
+}

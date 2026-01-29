@@ -1,0 +1,185 @@
+{
+  "source": "nhk_easy",
+  "news_id": "ne2026011613324",
+  "url": "https://news.web.nhk/news/easy/ne2026011613324/ne2026011613324.html",
+  "title": "高市総理大臣イタリアの首相と会って話をした",
+  "date": "",
+  "sentences": [
+    {
+      "text": "2026年1月16日 19時23分",
+      "tokens": []
+    },
+    {
+      "text": "高市総理大臣は、16日東京で、イタリアのメローニ首相と会いました。",
+      "tokens": [
+        {
+          "surface": "高市",
+          "reading": "たかいち"
+        },
+        {
+          "surface": "総理大臣",
+          "reading": "そうりだいじん"
+        },
+        {
+          "surface": "日",
+          "reading": "にち"
+        },
+        {
+          "surface": "東京",
+          "reading": "とうきょう"
+        },
+        {
+          "surface": "首相",
+          "reading": "しゅしょう"
+        },
+        {
+          "surface": "会",
+          "reading": "あ"
+        }
+      ]
+    },
+    {
+      "text": "高市総理大臣は「日本とイタリアの関係が始まってから、今年で160年です。2つの国の関係を強くしていきたい」と話しました。",
+      "tokens": [
+        {
+          "surface": "高市",
+          "reading": "たかいち"
+        },
+        {
+          "surface": "総理大臣",
+          "reading": "そうりだいじん"
+        },
+        {
+          "surface": "日本",
+          "reading": "にっぽん"
+        },
+        {
+          "surface": "関係",
+          "reading": "かんけい"
+        },
+        {
+          "surface": "始",
+          "reading": "はじ"
+        },
+        {
+          "surface": "今年",
+          "reading": "ことし"
+        },
+        {
+          "surface": "年",
+          "reading": "ねん"
+        },
+        {
+          "surface": "2",
+          "reading": "ふた"
+        },
+        {
+          "surface": "国",
+          "reading": "くに"
+        },
+        {
+          "surface": "関係",
+          "reading": "かんけい"
+        },
+        {
+          "surface": "強",
+          "reading": "つよ"
+        },
+        {
+          "surface": "話",
+          "reading": "はな"
+        }
+      ]
+    },
+    {
+      "text": "2人は、国の安全や経済などについて話しました。そして、レアアースなどの金属や、エネルギー問題などで協力することを約束しました。",
+      "tokens": [
+        {
+          "surface": "2人",
+          "reading": "ふたり"
+        },
+        {
+          "surface": "国",
+          "reading": "くに"
+        },
+        {
+          "surface": "安全",
+          "reading": "あんぜん"
+        },
+        {
+          "surface": "経済",
+          "reading": "けいざい"
+        },
+        {
+          "surface": "話",
+          "reading": "はな"
+        },
+        {
+          "surface": "金属",
+          "reading": "きんぞく"
+        },
+        {
+          "surface": "問題",
+          "reading": "もんだい"
+        },
+        {
+          "surface": "協力",
+          "reading": "きょうりょく"
+        },
+        {
+          "surface": "約束",
+          "reading": "やくそく"
+        }
+      ]
+    },
+    {
+      "text": "会議のあと、メローニ首相は「私たちは2人とも、女性で初めて、国のトップになりました」と話して、日本語で『頑張ろう』と言いました。",
+      "tokens": [
+        {
+          "surface": "会議",
+          "reading": "かいぎ"
+        },
+        {
+          "surface": "首相",
+          "reading": "しゅしょう"
+        },
+        {
+          "surface": "私",
+          "reading": "わたし"
+        },
+        {
+          "surface": "2人",
+          "reading": "ふたり"
+        },
+        {
+          "surface": "女性",
+          "reading": "じょせい"
+        },
+        {
+          "surface": "初",
+          "reading": "はじ"
+        },
+        {
+          "surface": "国",
+          "reading": "くに"
+        },
+        {
+          "surface": "話",
+          "reading": "はな"
+        },
+        {
+          "surface": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "surface": "頑張",
+          "reading": "がんば"
+        },
+        {
+          "surface": "言",
+          "reading": "い"
+        }
+      ]
+    }
+  ]
+}

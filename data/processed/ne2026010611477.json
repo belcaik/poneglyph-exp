@@ -1,0 +1,214 @@
+{
+  "source": "nhk_easy",
+  "news_id": "ne2026010611477",
+  "url": "https://news.web.nhk/news/easy/ne2026010611477/ne2026010611477.html",
+  "title": "ベネズエラのマドゥーロ大統領と妻の裁判が始まった",
+  "date": "",
+  "sentences": [
+    {
+      "text": "2026年1月6日 19時28分",
+      "tokens": []
+    },
+    {
+      "text": "アメリカの軍は3日、南米のベネズエラのマドゥーロ大統領と妻の2人を捕まえました。",
+      "tokens": [
+        {
+          "surface": "軍",
+          "reading": "ぐん"
+        },
+        {
+          "surface": "3日",
+          "reading": "みっか"
+        },
+        {
+          "surface": "南米",
+          "reading": "なんべい"
+        },
+        {
+          "surface": "大統領",
+          "reading": "だいとうりょう"
+        },
+        {
+          "surface": "妻",
+          "reading": "つま"
+        },
+        {
+          "surface": "2人",
+          "reading": "ふたり"
+        },
+        {
+          "surface": "捕",
+          "reading": "つか"
+        }
+      ]
+    },
+    {
+      "text": "そして5日、ニューヨークの裁判所で、2人の裁判が始まりました。",
+      "tokens": [
+        {
+          "surface": "5日",
+          "reading": "いつか"
+        },
+        {
+          "surface": "裁判所",
+          "reading": "さいばんしょ"
+        },
+        {
+          "surface": "2人",
+          "reading": "ふたり"
+        },
+        {
+          "surface": "裁判",
+          "reading": "さいばん"
+        },
+        {
+          "surface": "始",
+          "reading": "はじ"
+        }
+      ]
+    },
+    {
+      "text": "2人は、法律に違反して、コカインという麻薬をアメリカにたくさん入れたとされています。マドゥーロ大統領と妻は、自分たちは悪いことはしていないと言いました。",
+      "tokens": [
+        {
+          "surface": "2人",
+          "reading": "ふたり"
+        },
+        {
+          "surface": "法律",
+          "reading": "ほうりつ"
+        },
+        {
+          "surface": "違反",
+          "reading": "いはん"
+        },
+        {
+          "surface": "麻薬",
+          "reading": "まやく"
+        },
+        {
+          "surface": "入",
+          "reading": "い"
+        },
+        {
+          "surface": "大統領",
+          "reading": "だいとうりょう"
+        },
+        {
+          "surface": "妻",
+          "reading": "つま"
+        },
+        {
+          "surface": "自分",
+          "reading": "じぶん"
+        },
+        {
+          "surface": "悪",
+          "reading": "わる"
+        },
+        {
+          "surface": "言",
+          "reading": "い"
+        }
+      ]
+    },
+    {
+      "text": "次の裁判は3月17日の予定です。",
+      "tokens": [
+        {
+          "surface": "次",
+          "reading": "つぎ"
+        },
+        {
+          "surface": "裁判",
+          "reading": "さいばん"
+        },
+        {
+          "surface": "月",
+          "reading": "がつ"
+        },
+        {
+          "surface": "日",
+          "reading": "にち"
+        },
+        {
+          "surface": "予定",
+          "reading": "よてい"
+        }
+      ]
+    },
+    {
+      "text": "5日は、安全と平和を守るための国連の会議がありました。会議では、軍を使って大統領を捕まえたアメリカのやり方は間違っていると、いろいろな国から意見や心配の声がありました。",
+      "tokens": [
+        {
+          "surface": "5日",
+          "reading": "いつか"
+        },
+        {
+          "surface": "安全",
+          "reading": "あんぜん"
+        },
+        {
+          "surface": "平和",
+          "reading": "へいわ"
+        },
+        {
+          "surface": "守",
+          "reading": "まも"
+        },
+        {
+          "surface": "国連",
+          "reading": "こくれん"
+        },
+        {
+          "surface": "会議",
+          "reading": "かいぎ"
+        },
+        {
+          "surface": "会議",
+          "reading": "かいぎ"
+        },
+        {
+          "surface": "軍",
+          "reading": "ぐん"
+        },
+        {
+          "surface": "使",
+          "reading": "つか"
+        },
+        {
+          "surface": "大統領",
+          "reading": "だいとうりょう"
+        },
+        {
+          "surface": "捕",
+          "reading": "つか"
+        },
+        {
+          "surface": "方",
+          "reading": "かた"
+        },
+        {
+          "surface": "間違",
+          "reading": "まちが"
+        },
+        {
+          "surface": "国",
+          "reading": "くに"
+        },
+        {
+          "surface": "意見",
+          "reading": "いけん"
+        },
+        {
+          "surface": "心配",
+          "reading": "しんぱい"
+        },
+        {
+          "surface": "声",
+          "reading": "こえ"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "source": "nhk_easy",
+  "news_id": "ne2026011611416",
+  "url": "https://news.web.nhk/news/easy/ne2026011611416/ne2026011611416.html",
+  "title": "立憲民主党と公明党新しい政党「中道改革連合」をつくった",
+  "date": "",
+  "sentences": [
+    {
+      "text": "2026年1月16日 19時24分",
+      "tokens": []
+    },
+    {
+      "text": "政治のニュースです。",
+      "tokens": [
+        {
+          "surface": "政治",
+          "reading": "せいじ"
+        }
+      ]
+    },
+    {
+      "text": "高市総理大臣は、23日から始まる国会で衆議院を解散することを考えています。",
+      "tokens": [
+        {
+          "surface": "高市",
+          "reading": "たかいち"
+        },
+        {
+          "surface": "総理大臣",
+          "reading": "そうりだいじん"
+        },
+        {
+          "surface": "日",
+          "reading": "にち"
+        },
+        {
+          "surface": "始",
+          "reading": "はじ"
+        },
+        {
+          "surface": "国会",
+          "reading": "こっかい"
+        },
+        {
+          "surface": "衆議院",
+          "reading": "しゅうぎいん"
+        },
+        {
+          "surface": "解散",
+          "reading": "かいさん"
+        },
+        {
+          "surface": "考",
+          "reading": "かんが"
+        }
+      ]
+    },
+    {
+      "text": "立憲民主党と公明党は、16日、新しい政党をつくりました。新しい政党の名前は「中道改革連合」です。",
+      "tokens": [
+        {
+          "surface": "立憲民主党",
+          "reading": "りっけんみんしゅとう"
+        },
+        {
+          "surface": "公明党",
+          "reading": "こうめいとう"
+        },
+        {
+          "surface": "日",
+          "reading": "にち"
+        },
+        {
+          "surface": "新",
+          "reading": "あたら"
+        },
+        {
+          "surface": "政党",
+          "reading": "せいとう"
+        },
+        {
+          "surface": "新",
+          "reading": "あたら"
+        },
+        {
+          "surface": "政党",
+          "reading": "せいとう"
+        },
+        {
+          "surface": "名前",
+          "reading": "なまえ"
+        },
+        {
+          "surface": "中道",
+          "reading": "ちゅうどう"
+        },
+        {
+          "surface": "改革",
+          "reading": "かいかく"
+        },
+        {
+          "surface": "連合",
+          "reading": "れんごう"
+        }
+      ]
+    },
+    {
+      "text": "立憲民主党は、野党でいちばん議員が多い政党です。野田代表は「右にも左にも行かないで、よく話し合って答えを出すのが中道の考え方だ」と話しました。",
+      "tokens": [
+        {
+          "surface": "立憲民主党",
+          "reading": "りっけんみんしゅとう"
+        },
+        {
+          "surface": "野党",
+          "reading": "やとう"
+        },
+        {
+          "surface": "議員",
+          "reading": "ぎいん"
+        },
+        {
+          "surface": "多",
+          "reading": "おお"
+        },
+        {
+          "surface": "政党",
+          "reading": "せいとう"
+        },
+        {
+          "surface": "野田",
+          "reading": "のだ"
+        },
+        {
+          "surface": "代表",
+          "reading": "だいひょう"
+        },
+        {
+          "surface": "右",
+          "reading": "みぎ"
+        },
+        {
+          "surface": "左",
+          "reading": "ひだり"
+        },
+        {
+          "surface": "行",
+          "reading": "い"
+        },
+        {
+          "surface": "話",
+          "reading": "はな"
+        },
+        {
+          "surface": "合",
+          "reading": "あ"
+        },
+        {
+          "surface": "答",
+          "reading": "こた"
+        },
+        {
+          "surface": "出",
+          "reading": "だ"
+        },
+        {
+          "surface": "中道",
+          "reading": "ちゅうどう"
+        },
+        {
+          "surface": "考",
+          "reading": "かんが"
+        },
+        {
+          "surface": "方",
+          "reading": "かた"
+        },
+        {
+          "surface": "話",
+          "reading": "はな"
+        }
+      ]
+    },
+    {
+      "text": "公明党は、去年10月まで自民党と一緒に政府をつくっていました。斉藤代表は「安心して暮らせる社会をつくって、平和を守っていく」と話しました。",
+      "tokens": [
+        {
+          "surface": "公明党",
+          "reading": "こうめいとう"
+        },
+        {
+          "surface": "去年",
+          "reading": "きょねん"
+        },
+        {
+          "surface": "月",
+          "reading": "がつ"
+        },
+        {
+          "surface": "自民党",
+          "reading": "じみんとう"
+        },
+        {
+          "surface": "一緒",
+          "reading": "いっしょ"
+        },
+        {
+          "surface": "政府",
+          "reading": "せいふ"
+        },
+        {
+          "surface": "斉藤",
+          "reading": "さいとう"
+        },
+        {
+          "surface": "代表",
+          "reading": "だいひょう"
+        },
+        {
+          "surface": "安心",
+          "reading": "あんしん"
+        },
+        {
+          "surface": "暮",
+          "reading": "く"
+        },
+        {
+          "surface": "社会",
+          "reading": "しゃかい"
+        },
+        {
+          "surface": "平和",
+          "reading": "へいわ"
+        },
+        {
+          "surface": "守",
+          "reading": "まも"
+        },
+        {
+          "surface": "話",
+          "reading": "はな"
+        }
+      ]
+    }
+  ]
+}

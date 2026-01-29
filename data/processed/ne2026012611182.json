@@ -1,0 +1,149 @@
+{
+  "source": "nhk_easy",
+  "news_id": "ne2026012611182",
+  "url": "https://news.web.nhk/news/easy/ne2026012611182/ne2026012611182.html",
+  "title": "上野動物園のパンダ中国に帰る前にたくさんの人が会いに来た",
+  "date": "",
+  "sentences": [
+    {
+      "text": "2026年1月26日 19時22分",
+      "tokens": []
+    },
+    {
+      "text": "日本にパンダがいなくなります。上野動物園の双子のパンダ「シャオシャオ」と「レイレイ」は27日、中国に帰る予定です。",
+      "tokens": [
+        {
+          "surface": "日本",
+          "reading": "にっぽん"
+        },
+        {
+          "surface": "上野動物園",
+          "reading": "うえのどうぶつえん"
+        },
+        {
+          "surface": "双子",
+          "reading": "ふたご"
+        },
+        {
+          "surface": "日",
+          "reading": "にち"
+        },
+        {
+          "surface": "中国",
+          "reading": "ちゅうごく"
+        },
+        {
+          "surface": "帰",
+          "reading": "かえ"
+        },
+        {
+          "surface": "予定",
+          "reading": "よてい"
+        }
+      ]
+    },
+    {
+      "text": "25日は、パンダを見ることができる最後の日でした。パンダを見るためには予約が必要でした。見ることができたのは4400人でした。",
+      "tokens": [
+        {
+          "surface": "日",
+          "reading": "にち"
+        },
+        {
+          "surface": "見",
+          "reading": "み"
+        },
+        {
+          "surface": "最後",
+          "reading": "さいご"
+        },
+        {
+          "surface": "日",
+          "reading": "ひ"
+        },
+        {
+          "surface": "見",
+          "reading": "み"
+        },
+        {
+          "surface": "予約",
+          "reading": "よやく"
+        },
+        {
+          "surface": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "surface": "見",
+          "reading": "み"
+        },
+        {
+          "surface": "人",
+          "reading": "にん"
+        }
+      ]
+    },
+    {
+      "text": "2頭はいつものように、竹を食べたり歩いたりしていました。",
+      "tokens": [
+        {
+          "surface": "頭",
+          "reading": "とう"
+        },
+        {
+          "surface": "竹",
+          "reading": "たけ"
+        },
+        {
+          "surface": "食",
+          "reading": "た"
+        },
+        {
+          "surface": "歩",
+          "reading": "ある"
+        }
+      ]
+    },
+    {
+      "text": "60歳ぐらいの女性は「涙が出ました。子どもたちのために、パンダにまた日本に来てほしいと思います」と話しました。",
+      "tokens": [
+        {
+          "surface": "歳",
+          "reading": "さい"
+        },
+        {
+          "surface": "女性",
+          "reading": "じょせい"
+        },
+        {
+          "surface": "涙",
+          "reading": "なみだ"
+        },
+        {
+          "surface": "出",
+          "reading": "で"
+        },
+        {
+          "surface": "子",
+          "reading": "こ"
+        },
+        {
+          "surface": "日本",
+          "reading": "にっぽん"
+        },
+        {
+          "surface": "来",
+          "reading": "き"
+        },
+        {
+          "surface": "思",
+          "reading": "おも"
+        },
+        {
+          "surface": "話",
+          "reading": "はな"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "source": "nhk_easy",
+  "news_id": "ne2026012113381",
+  "url": "https://news.web.nhk/news/easy/ne2026012113381/ne2026012113381.html",
+  "title": "裁判所「安倍元総理大臣を銃で撃った山上被告は無期懲役」",
+  "date": "",
+  "sentences": [
+    {
+      "text": "2026年1月21日 19時18分",
+      "tokens": []
+    },
+    {
+      "text": "裁判のニュースです。",
+      "tokens": [
+        {
+          "surface": "裁判",
+          "reading": "さいばん"
+        }
+      ]
+    },
+    {
+      "text": "2022年、奈良県で、安倍元総理大臣が銃で撃たれて亡くなりました。そのあと、山上徹也被告が人を殺した罪で裁判を受けていました。",
+      "tokens": [
+        {
+          "surface": "年",
+          "reading": "ねん"
+        },
+        {
+          "surface": "奈良県",
+          "reading": "ならけん"
+        },
+        {
+          "surface": "安倍",
+          "reading": "あべ"
+        },
+        {
+          "surface": "元総理",
+          "reading": "もとそうり"
+        },
+        {
+          "surface": "大臣",
+          "reading": "だいじん"
+        },
+        {
+          "surface": "銃",
+          "reading": "じゅう"
+        },
+        {
+          "surface": "撃",
+          "reading": "う"
+        },
+        {
+          "surface": "亡",
+          "reading": "な"
+        },
+        {
+          "surface": "山上",
+          "reading": "やまがみ"
+        },
+        {
+          "surface": "徹也",
+          "reading": "てつや"
+        },
+        {
+          "surface": "被告",
+          "reading": "ひこく"
+        },
+        {
+          "surface": "人",
+          "reading": "ひと"
+        },
+        {
+          "surface": "殺",
+          "reading": "ころ"
+        },
+        {
+          "surface": "罪",
+          "reading": "つみ"
+        },
+        {
+          "surface": "裁判",
+          "reading": "さいばん"
+        },
+        {
+          "surface": "受",
+          "reading": "う"
+        }
+      ]
+    },
+    {
+      "text": "検察官は、山上被告を刑務所にいる期間を決めない「無期懲役」にするように裁判所に言いました。弁護士は、山上被告の今までの生活や銃を撃った理由などを考えて、刑務所にいるのを一番長くて20年にするように言いました。",
+      "tokens": [
+        {
+          "surface": "検察官",
+          "reading": "けんさつかん"
+        },
+        {
+          "surface": "山上",
+          "reading": "やまがみ"
+        },
+        {
+          "surface": "被告",
+          "reading": "ひこく"
+        },
+        {
+          "surface": "刑務所",
+          "reading": "けいむしょ"
+        },
+        {
+          "surface": "期間",
+          "reading": "きかん"
+        },
+        {
+          "surface": "決",
+          "reading": "き"
+        },
+        {
+          "surface": "無期懲役",
+          "reading": "むきちょうえき"
+        },
+        {
+          "surface": "裁判所",
+          "reading": "さいばんしょ"
+        },
+        {
+          "surface": "言",
+          "reading": "い"
+        },
+        {
+          "surface": "弁護士",
+          "reading": "べんごし"
+        },
+        {
+          "surface": "山上",
+          "reading": "やまがみ"
+        },
+        {
+          "surface": "被告",
+          "reading": "ひこく"
+        },
+        {
+          "surface": "今",
+          "reading": "いま"
+        },
+        {
+          "surface": "生活",
+          "reading": "せいかつ"
+        },
+        {
+          "surface": "銃",
+          "reading": "じゅう"
+        },
+        {
+          "surface": "撃",
+          "reading": "う"
+        },
+        {
+          "surface": "理由",
+          "reading": "りゆう"
+        },
+        {
+          "surface": "考",
+          "reading": "かんが"
+        },
+        {
+          "surface": "刑務所",
+          "reading": "けいむしょ"
+        },
+        {
+          "surface": "一番",
+          "reading": "いちばん"
+        },
+        {
+          "surface": "長",
+          "reading": "なが"
+        },
+        {
+          "surface": "年",
+          "reading": "ねん"
+        },
+        {
+          "surface": "言",
+          "reading": "い"
+        }
+      ]
+    },
+    {
+      "text": "21日、奈良地方裁判所は、無期懲役にすると言いました。",
+      "tokens": [
+        {
+          "surface": "日",
+          "reading": "にち"
+        },
+        {
+          "surface": "奈良",
+          "reading": "なら"
+        },
+        {
+          "surface": "地方裁判所",
+          "reading": "ちほうさいばんしょ"
+        },
+        {
+          "surface": "無期懲役",
+          "reading": "むきちょうえき"
+        },
+        {
+          "surface": "言",
+          "reading": "い"
+        }
+      ]
+    },
+    {
+      "text": "弁護士は「裁判を続けるかやめるか、山上被告と話して決める」と言いました。",
+      "tokens": [
+        {
+          "surface": "弁護士",
+          "reading": "べんごし"
+        },
+        {
+          "surface": "裁判",
+          "reading": "さいばん"
+        },
+        {
+          "surface": "続",
+          "reading": "つづ"
+        },
+        {
+          "surface": "山上",
+          "reading": "やまがみ"
+        },
+        {
+          "surface": "被告",
+          "reading": "ひこく"
+        },
+        {
+          "surface": "話",
+          "reading": "はな"
+        },
+        {
+          "surface": "決",
+          "reading": "き"
+        },
+        {
+          "surface": "言",
+          "reading": "い"
+        }
+      ]
+    }
+  ]
+}

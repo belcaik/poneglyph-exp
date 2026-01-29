@@ -1,0 +1,247 @@
+{
+  "source": "nhk_easy",
+  "news_id": "ne2026012711586",
+  "url": "https://news.web.nhk/news/easy/ne2026012711586/ne2026012711586.html",
+  "title": "働く人の給料を高くする話し合いが始まった",
+  "date": "",
+  "sentences": [
+    {
+      "text": "2026年1月27日 19時29分",
+      "tokens": []
+    },
+    {
+      "text": "働く人の団体は毎年、給料をもっと高くしてほしいと言って会社と話し合います。",
+      "tokens": [
+        {
+          "surface": "働",
+          "reading": "はたら"
+        },
+        {
+          "surface": "人",
+          "reading": "ひと"
+        },
+        {
+          "surface": "団体",
+          "reading": "だんたい"
+        },
+        {
+          "surface": "毎年",
+          "reading": "まいとし"
+        },
+        {
+          "surface": "給料",
+          "reading": "きゅうりょう"
+        },
+        {
+          "surface": "高",
+          "reading": "たか"
+        },
+        {
+          "surface": "言",
+          "reading": "い"
+        },
+        {
+          "surface": "会社",
+          "reading": "かいしゃ"
+        },
+        {
+          "surface": "話",
+          "reading": "はな"
+        },
+        {
+          "surface": "合",
+          "reading": "あ"
+        }
+      ]
+    },
+    {
+      "text": "27日、会社でつくる団体「経団連」と働く人の団体「連合」のトップが会って話し合いが始まりました。",
+      "tokens": [
+        {
+          "surface": "日",
+          "reading": "にち"
+        },
+        {
+          "surface": "会社",
+          "reading": "かいしゃ"
+        },
+        {
+          "surface": "団体",
+          "reading": "だんたい"
+        },
+        {
+          "surface": "経団連",
+          "reading": "けいだんれん"
+        },
+        {
+          "surface": "働",
+          "reading": "はたら"
+        },
+        {
+          "surface": "人",
+          "reading": "ひと"
+        },
+        {
+          "surface": "団体",
+          "reading": "だんたい"
+        },
+        {
+          "surface": "連合",
+          "reading": "れんごう"
+        },
+        {
+          "surface": "会",
+          "reading": "あ"
+        },
+        {
+          "surface": "話",
+          "reading": "はな"
+        },
+        {
+          "surface": "合",
+          "reading": "あ"
+        },
+        {
+          "surface": "始",
+          "reading": "はじ"
+        }
+      ]
+    },
+    {
+      "text": "どちらも給料を高くすることが大切だと考えています。",
+      "tokens": [
+        {
+          "surface": "給料",
+          "reading": "きゅうりょう"
+        },
+        {
+          "surface": "高",
+          "reading": "たか"
+        },
+        {
+          "surface": "大切",
+          "reading": "たいせつ"
+        },
+        {
+          "surface": "考",
+          "reading": "かんが"
+        }
+      ]
+    },
+    {
+      "text": "経団連のトップは「物の値段が高くなっていることや働く人が足りないことを考える必要がある」と話しました。",
+      "tokens": [
+        {
+          "surface": "経団連",
+          "reading": "けいだんれん"
+        },
+        {
+          "surface": "物",
+          "reading": "もの"
+        },
+        {
+          "surface": "値段",
+          "reading": "ねだん"
+        },
+        {
+          "surface": "高",
+          "reading": "たか"
+        },
+        {
+          "surface": "働",
+          "reading": "はたら"
+        },
+        {
+          "surface": "人",
+          "reading": "ひと"
+        },
+        {
+          "surface": "足",
+          "reading": "た"
+        },
+        {
+          "surface": "考",
+          "reading": "かんが"
+        },
+        {
+          "surface": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "surface": "話",
+          "reading": "はな"
+        }
+      ]
+    },
+    {
+      "text": "連合のトップは「給料を5%以上高くすることが必要です。大きい会社だけではなくて、小さい会社でも高くできるようにしてほしい」と話しました。",
+      "tokens": [
+        {
+          "surface": "連合",
+          "reading": "れんごう"
+        },
+        {
+          "surface": "給料",
+          "reading": "きゅうりょう"
+        },
+        {
+          "surface": "以上",
+          "reading": "いじょう"
+        },
+        {
+          "surface": "高",
+          "reading": "たか"
+        },
+        {
+          "surface": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "surface": "大",
+          "reading": "おお"
+        },
+        {
+          "surface": "会社",
+          "reading": "かいしゃ"
+        },
+        {
+          "surface": "小",
+          "reading": "ちい"
+        },
+        {
+          "surface": "会社",
+          "reading": "かいしゃ"
+        },
+        {
+          "surface": "高",
+          "reading": "たか"
+        },
+        {
+          "surface": "話",
+          "reading": "はな"
+        }
+      ]
+    },
+    {
+      "text": "話し合いは春まで続きます。",
+      "tokens": [
+        {
+          "surface": "話",
+          "reading": "はな"
+        },
+        {
+          "surface": "合",
+          "reading": "あ"
+        },
+        {
+          "surface": "春",
+          "reading": "はる"
+        },
+        {
+          "surface": "続",
+          "reading": "つづ"
+        }
+      ]
+    }
+  ]
+}

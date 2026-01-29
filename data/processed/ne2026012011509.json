@@ -1,0 +1,203 @@
+{
+  "source": "nhk_easy",
+  "news_id": "ne2026012011509",
+  "url": "https://news.web.nhk/news/easy/ne2026012011509/ne2026012011509.html",
+  "title": "大雪車を運転するときは気をつけて",
+  "date": "",
+  "sentences": [
+    {
+      "text": "2026年1月20日 19時29分",
+      "tokens": []
+    },
+    {
+      "text": "大雪のとき、できるだけ車を運転しないでください。",
+      "tokens": [
+        {
+          "surface": "大雪",
+          "reading": "おおゆき"
+        },
+        {
+          "surface": "車",
+          "reading": "くるま"
+        },
+        {
+          "surface": "運転",
+          "reading": "うんてん"
+        }
+      ]
+    },
+    {
+      "text": "道でたくさんの車が動かなくなることがあります。",
+      "tokens": [
+        {
+          "surface": "道",
+          "reading": "みち"
+        },
+        {
+          "surface": "車",
+          "reading": "くるま"
+        },
+        {
+          "surface": "動",
+          "reading": "うご"
+        }
+      ]
+    },
+    {
+      "text": "どうしても運転しなければならない人は、必ず冬のタイヤやチェーンを使ってください。",
+      "tokens": [
+        {
+          "surface": "運転",
+          "reading": "うんてん"
+        },
+        {
+          "surface": "人",
+          "reading": "ひと"
+        },
+        {
+          "surface": "必",
+          "reading": "かなら"
+        },
+        {
+          "surface": "冬",
+          "reading": "ふゆ"
+        },
+        {
+          "surface": "使",
+          "reading": "つか"
+        }
+      ]
+    },
+    {
+      "text": "ガソリンなどの燃料は、たくさん入れて出かけましょう。車が進まない場合でも、時々、エンジンをかけて車の中を暖かくすることができます。スマートフォンなどの充電ができて、交通の情報を調べることもできます。",
+      "tokens": [
+        {
+          "surface": "燃料",
+          "reading": "ねんりょう"
+        },
+        {
+          "surface": "入",
+          "reading": "い"
+        },
+        {
+          "surface": "出",
+          "reading": "で"
+        },
+        {
+          "surface": "車",
+          "reading": "くるま"
+        },
+        {
+          "surface": "進",
+          "reading": "すす"
+        },
+        {
+          "surface": "場合",
+          "reading": "ばあい"
+        },
+        {
+          "surface": "時々",
+          "reading": "ときどき"
+        },
+        {
+          "surface": "車",
+          "reading": "くるま"
+        },
+        {
+          "surface": "中",
+          "reading": "なか"
+        },
+        {
+          "surface": "暖",
+          "reading": "あたた"
+        },
+        {
+          "surface": "充電",
+          "reading": "じゅうでん"
+        },
+        {
+          "surface": "交通",
+          "reading": "こうつう"
+        },
+        {
+          "surface": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "surface": "調",
+          "reading": "しら"
+        }
+      ]
+    },
+    {
+      "text": "水や食べ物、車の中でも使うことができるトイレもあると安心です。",
+      "tokens": [
+        {
+          "surface": "水",
+          "reading": "みず"
+        },
+        {
+          "surface": "食",
+          "reading": "た"
+        },
+        {
+          "surface": "物",
+          "reading": "もの"
+        },
+        {
+          "surface": "車",
+          "reading": "くるま"
+        },
+        {
+          "surface": "中",
+          "reading": "なか"
+        },
+        {
+          "surface": "使",
+          "reading": "つか"
+        },
+        {
+          "surface": "安心",
+          "reading": "あんしん"
+        }
+      ]
+    },
+    {
+      "text": "車のガスが出るところに雪があると、ガスが車の中に入ってきて危ないです。気をつけてください。",
+      "tokens": [
+        {
+          "surface": "車",
+          "reading": "くるま"
+        },
+        {
+          "surface": "出",
+          "reading": "で"
+        },
+        {
+          "surface": "雪",
+          "reading": "ゆき"
+        },
+        {
+          "surface": "車",
+          "reading": "くるま"
+        },
+        {
+          "surface": "中",
+          "reading": "なか"
+        },
+        {
+          "surface": "入",
+          "reading": "はい"
+        },
+        {
+          "surface": "危",
+          "reading": "あぶ"
+        },
+        {
+          "surface": "気",
+          "reading": "き"
+        }
+      ]
+    }
+  ]
+}

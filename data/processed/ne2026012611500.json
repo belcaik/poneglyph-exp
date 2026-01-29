@@ -1,0 +1,170 @@
+{
+  "source": "nhk_easy",
+  "news_id": "ne2026012611500",
+  "url": "https://news.web.nhk/news/easy/ne2026012611500/ne2026012611500.html",
+  "title": "雪がたくさん積もった所雪を片づけるときの事故に気をつけて",
+  "date": "",
+  "sentences": [
+    {
+      "text": "2026年1月26日 19時25分",
+      "tokens": []
+    },
+    {
+      "text": "日本海側などでは、雪がたくさん降りました。",
+      "tokens": [
+        {
+          "surface": "日本海",
+          "reading": "にほんかい"
+        },
+        {
+          "surface": "側",
+          "reading": "がわ"
+        },
+        {
+          "surface": "雪",
+          "reading": "ゆき"
+        },
+        {
+          "surface": "降",
+          "reading": "ふ"
+        }
+      ]
+    },
+    {
+      "text": "札幌市では、26日も、1m以上の雪が積もっています。札幌市で雪が1mを超えるのは久しぶりです。",
+      "tokens": [
+        {
+          "surface": "札幌市",
+          "reading": "さっぽろし"
+        },
+        {
+          "surface": "日",
+          "reading": "にち"
+        },
+        {
+          "surface": "以上",
+          "reading": "いじょう"
+        },
+        {
+          "surface": "雪",
+          "reading": "ゆき"
+        },
+        {
+          "surface": "積",
+          "reading": "つ"
+        },
+        {
+          "surface": "札幌市",
+          "reading": "さっぽろし"
+        },
+        {
+          "surface": "雪",
+          "reading": "ゆき"
+        },
+        {
+          "surface": "超",
+          "reading": "こ"
+        },
+        {
+          "surface": "久",
+          "reading": "ひさ"
+        }
+      ]
+    },
+    {
+      "text": "雪のため電車や飛行機が止まったり、高速道路が通れなかったりする所があります。",
+      "tokens": [
+        {
+          "surface": "雪",
+          "reading": "ゆき"
+        },
+        {
+          "surface": "電車",
+          "reading": "でんしゃ"
+        },
+        {
+          "surface": "飛行機",
+          "reading": "ひこうき"
+        },
+        {
+          "surface": "止",
+          "reading": "と"
+        },
+        {
+          "surface": "高速道路",
+          "reading": "こうそくどうろ"
+        },
+        {
+          "surface": "通",
+          "reading": "とお"
+        },
+        {
+          "surface": "所",
+          "reading": "ところ"
+        }
+      ]
+    },
+    {
+      "text": "気象庁によると、このあとも日本海側などで雪が降りそうです。",
+      "tokens": [
+        {
+          "surface": "気象庁",
+          "reading": "きしょうちょう"
+        },
+        {
+          "surface": "日本海",
+          "reading": "にほんかい"
+        },
+        {
+          "surface": "側",
+          "reading": "がわ"
+        },
+        {
+          "surface": "雪",
+          "reading": "ゆき"
+        },
+        {
+          "surface": "降",
+          "reading": "ふ"
+        }
+      ]
+    },
+    {
+      "text": "雪を片づけるときには、2人以上でしてください。屋根から落ちてくる雪などに気をつけてください。",
+      "tokens": [
+        {
+          "surface": "雪",
+          "reading": "ゆき"
+        },
+        {
+          "surface": "片",
+          "reading": "かた"
+        },
+        {
+          "surface": "2人",
+          "reading": "ふたり"
+        },
+        {
+          "surface": "以上",
+          "reading": "いじょう"
+        },
+        {
+          "surface": "屋根",
+          "reading": "やね"
+        },
+        {
+          "surface": "落",
+          "reading": "お"
+        },
+        {
+          "surface": "雪",
+          "reading": "ゆき"
+        },
+        {
+          "surface": "気",
+          "reading": "き"
+        }
+      ]
+    }
+  ]
+}

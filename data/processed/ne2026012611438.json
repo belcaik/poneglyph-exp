@@ -1,0 +1,230 @@
+{
+  "source": "nhk_easy",
+  "news_id": "ne2026012611438",
+  "url": "https://news.web.nhk/news/easy/ne2026012611438/ne2026012611438.html",
+  "title": "衆議院の議員を選ぶ選挙の準備を進める雪が多い所では大変",
+  "date": "",
+  "sentences": [
+    {
+      "text": "2026年1月26日 19時24分",
+      "tokens": []
+    },
+    {
+      "text": "衆議院の議員を選ぶ選挙が、27日から始まります。",
+      "tokens": [
+        {
+          "surface": "衆議院",
+          "reading": "しゅうぎいん"
+        },
+        {
+          "surface": "議員",
+          "reading": "ぎいん"
+        },
+        {
+          "surface": "選",
+          "reading": "えら"
+        },
+        {
+          "surface": "選挙",
+          "reading": "せんきょ"
+        },
+        {
+          "surface": "日",
+          "reading": "にち"
+        },
+        {
+          "surface": "始",
+          "reading": "はじ"
+        }
+      ]
+    },
+    {
+      "text": "冬にする選挙なので、雪が多い所では準備が大変です。",
+      "tokens": [
+        {
+          "surface": "冬",
+          "reading": "ふゆ"
+        },
+        {
+          "surface": "選挙",
+          "reading": "せんきょ"
+        },
+        {
+          "surface": "雪",
+          "reading": "ゆき"
+        },
+        {
+          "surface": "多",
+          "reading": "おお"
+        },
+        {
+          "surface": "所",
+          "reading": "ところ"
+        },
+        {
+          "surface": "準備",
+          "reading": "じゅんび"
+        },
+        {
+          "surface": "大変",
+          "reading": "たいへん"
+        }
+      ]
+    },
+    {
+      "text": "青森県で選挙の事務をする選挙管理委員会は、26日、選挙で投票に使う紙などを市や町に送りました。",
+      "tokens": [
+        {
+          "surface": "青森県",
+          "reading": "あおもりけん"
+        },
+        {
+          "surface": "選挙",
+          "reading": "せんきょ"
+        },
+        {
+          "surface": "事務",
+          "reading": "じむ"
+        },
+        {
+          "surface": "選挙管理委員会",
+          "reading": "せんきょかんりいいんかい"
+        },
+        {
+          "surface": "日",
+          "reading": "にち"
+        },
+        {
+          "surface": "選挙",
+          "reading": "せんきょ"
+        },
+        {
+          "surface": "投票",
+          "reading": "とうひょう"
+        },
+        {
+          "surface": "使",
+          "reading": "つか"
+        },
+        {
+          "surface": "紙",
+          "reading": "かみ"
+        },
+        {
+          "surface": "市",
+          "reading": "し"
+        },
+        {
+          "surface": "町",
+          "reading": "まち"
+        },
+        {
+          "surface": "送",
+          "reading": "おく"
+        }
+      ]
+    },
+    {
+      "text": "今度の選挙は準備の時間が短かいです。青森市に住んでいる人に入場券が届くのは、2月になる所もありそうです。",
+      "tokens": [
+        {
+          "surface": "今度",
+          "reading": "こんど"
+        },
+        {
+          "surface": "選挙",
+          "reading": "せんきょ"
+        },
+        {
+          "surface": "準備",
+          "reading": "じゅんび"
+        },
+        {
+          "surface": "時間",
+          "reading": "じかん"
+        },
+        {
+          "surface": "短",
+          "reading": "みじ"
+        },
+        {
+          "surface": "青森市",
+          "reading": "あおもりし"
+        },
+        {
+          "surface": "住",
+          "reading": "す"
+        },
+        {
+          "surface": "人",
+          "reading": "ひと"
+        },
+        {
+          "surface": "入場券",
+          "reading": "にゅうじょうけん"
+        },
+        {
+          "surface": "届",
+          "reading": "とど"
+        },
+        {
+          "surface": "月",
+          "reading": "がつ"
+        },
+        {
+          "surface": "所",
+          "reading": "ところ"
+        }
+      ]
+    },
+    {
+      "text": "選挙の投票日の前に投票する「期日前投票」は、28日からできます。市の人は、入場券がなくても投票することはできますと言っています。",
+      "tokens": [
+        {
+          "surface": "選挙",
+          "reading": "せんきょ"
+        },
+        {
+          "surface": "投票日",
+          "reading": "とうひょうび"
+        },
+        {
+          "surface": "前",
+          "reading": "まえ"
+        },
+        {
+          "surface": "投票",
+          "reading": "とうひょう"
+        },
+        {
+          "surface": "期日前投票",
+          "reading": "きじつまえとうひょう"
+        },
+        {
+          "surface": "日",
+          "reading": "にち"
+        },
+        {
+          "surface": "市",
+          "reading": "し"
+        },
+        {
+          "surface": "人",
+          "reading": "ひと"
+        },
+        {
+          "surface": "入場券",
+          "reading": "にゅうじょうけん"
+        },
+        {
+          "surface": "投票",
+          "reading": "とうひょう"
+        },
+        {
+          "surface": "言",
+          "reading": "い"
+        }
+      ]
+    }
+  ]
+}

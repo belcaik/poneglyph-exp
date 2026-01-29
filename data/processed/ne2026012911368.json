@@ -1,0 +1,161 @@
+{
+  "source": "nhk_easy",
+  "news_id": "ne2026012911368",
+  "url": "https://news.web.nhk/news/easy/ne2026012911368/ne2026012911368.html",
+  "title": "2月は「じゃがいも」「たまねぎ」が30％以上高くなりそう",
+  "date": "",
+  "sentences": [
+    {
+      "text": "2026年1月29日 19時18分",
+      "tokens": []
+    },
+    {
+      "text": "2月、野菜の値段がどうなりそうか、農林水産省が発表しました。",
+      "tokens": [
+        {
+          "surface": "月",
+          "reading": "がつ"
+        },
+        {
+          "surface": "野菜",
+          "reading": "やさい"
+        },
+        {
+          "surface": "値段",
+          "reading": "ねだん"
+        },
+        {
+          "surface": "農林水産省",
+          "reading": "のうりんすいさんしょう"
+        },
+        {
+          "surface": "発表",
+          "reading": "はっぴょう"
+        }
+      ]
+    },
+    {
+      "text": "特に値段が高くなるのは、じゃがいもとたまねぎです。今まで5年の平均より30％以上、高くなりそうです。じゃがいもとたまねぎがたくさんとれる北海道で夏に気温が高かったため、市場へ出す量がいつもの年より少なくなりそうです。",
+      "tokens": [
+        {
+          "surface": "特",
+          "reading": "とく"
+        },
+        {
+          "surface": "値段",
+          "reading": "ねだん"
+        },
+        {
+          "surface": "高",
+          "reading": "たか"
+        },
+        {
+          "surface": "今",
+          "reading": "いま"
+        },
+        {
+          "surface": "年",
+          "reading": "ねん"
+        },
+        {
+          "surface": "平均",
+          "reading": "へいきん"
+        },
+        {
+          "surface": "以上",
+          "reading": "いじょう"
+        },
+        {
+          "surface": "高",
+          "reading": "たか"
+        },
+        {
+          "surface": "北海道",
+          "reading": "ほっかいどう"
+        },
+        {
+          "surface": "夏",
+          "reading": "なつ"
+        },
+        {
+          "surface": "気温",
+          "reading": "きおん"
+        },
+        {
+          "surface": "高",
+          "reading": "たか"
+        },
+        {
+          "surface": "市場",
+          "reading": "しじょう"
+        },
+        {
+          "surface": "出",
+          "reading": "だ"
+        },
+        {
+          "surface": "量",
+          "reading": "りょう"
+        },
+        {
+          "surface": "年",
+          "reading": "とし"
+        },
+        {
+          "surface": "少",
+          "reading": "すく"
+        }
+      ]
+    },
+    {
+      "text": "さといもとにんじんは、10％から30％ぐらい高くなりそうです。低い気温や雨が続いたためです。",
+      "tokens": [
+        {
+          "surface": "高",
+          "reading": "たか"
+        },
+        {
+          "surface": "低",
+          "reading": "ひく"
+        },
+        {
+          "surface": "気温",
+          "reading": "きおん"
+        },
+        {
+          "surface": "雨",
+          "reading": "あめ"
+        },
+        {
+          "surface": "続",
+          "reading": "つづ"
+        }
+      ]
+    },
+    {
+      "text": "だいこんとキャベツは、2月の前半はいつもの年より10％以上安くなりそうです。",
+      "tokens": [
+        {
+          "surface": "月",
+          "reading": "がつ"
+        },
+        {
+          "surface": "前半",
+          "reading": "ぜんはん"
+        },
+        {
+          "surface": "年",
+          "reading": "とし"
+        },
+        {
+          "surface": "以上",
+          "reading": "いじょう"
+        },
+        {
+          "surface": "安",
+          "reading": "やす"
+        }
+      ]
+    }
+  ]
+}

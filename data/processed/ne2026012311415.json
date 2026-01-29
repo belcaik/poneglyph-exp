@@ -1,0 +1,231 @@
+{
+  "source": "nhk_easy",
+  "news_id": "ne2026012311415",
+  "url": "https://news.web.nhk/news/easy/ne2026012311415/ne2026012311415.html",
+  "title": "外国人についての法律やルールをつくるときの考え方を決めた",
+  "date": "",
+  "sentences": [
+    {
+      "text": "2026年1月23日 19時27分",
+      "tokens": []
+    },
+    {
+      "text": "政府は、外国人についての法律やルールをつくるときの考え方を決めました。",
+      "tokens": [
+        {
+          "surface": "政府",
+          "reading": "せいふ"
+        },
+        {
+          "surface": "外国人",
+          "reading": "がいこくじん"
+        },
+        {
+          "surface": "法律",
+          "reading": "ほうりつ"
+        },
+        {
+          "surface": "考",
+          "reading": "かんが"
+        },
+        {
+          "surface": "方",
+          "reading": "かた"
+        },
+        {
+          "surface": "決",
+          "reading": "き"
+        }
+      ]
+    },
+    {
+      "text": "日本人と外国人、みんなが安心して生活できる社会にすることを目標にすると言っています。",
+      "tokens": [
+        {
+          "surface": "日本人",
+          "reading": "にほんじん"
+        },
+        {
+          "surface": "外国人",
+          "reading": "がいこくじん"
+        },
+        {
+          "surface": "安心",
+          "reading": "あんしん"
+        },
+        {
+          "surface": "生活",
+          "reading": "せいかつ"
+        },
+        {
+          "surface": "社会",
+          "reading": "しゃかい"
+        },
+        {
+          "surface": "目標",
+          "reading": "もくひょう"
+        },
+        {
+          "surface": "言",
+          "reading": "い"
+        }
+      ]
+    },
+    {
+      "text": "政府は、外国人が日本語や日本のルールを勉強するプログラムをつくります。外国人が日本にいる資格を取るときには、日本語や日本のルールを理解しているかどうか、チェックすることを考えています。",
+      "tokens": [
+        {
+          "surface": "政府",
+          "reading": "せいふ"
+        },
+        {
+          "surface": "外国人",
+          "reading": "がいこくじん"
+        },
+        {
+          "surface": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "surface": "日本",
+          "reading": "にっぽん"
+        },
+        {
+          "surface": "勉強",
+          "reading": "べんきょう"
+        },
+        {
+          "surface": "外国人",
+          "reading": "がいこくじん"
+        },
+        {
+          "surface": "日本",
+          "reading": "にっぽん"
+        },
+        {
+          "surface": "資格",
+          "reading": "しかく"
+        },
+        {
+          "surface": "取",
+          "reading": "と"
+        },
+        {
+          "surface": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "surface": "日本",
+          "reading": "にっぽん"
+        },
+        {
+          "surface": "理解",
+          "reading": "りかい"
+        },
+        {
+          "surface": "考",
+          "reading": "かんが"
+        }
+      ]
+    },
+    {
+      "text": "日本の国籍を取るときのルールも、厳しくします。",
+      "tokens": [
+        {
+          "surface": "日本",
+          "reading": "にっぽん"
+        },
+        {
+          "surface": "国籍",
+          "reading": "こくせき"
+        },
+        {
+          "surface": "取",
+          "reading": "と"
+        },
+        {
+          "surface": "厳",
+          "reading": "きび"
+        }
+      ]
+    },
+    {
+      "text": "観光地では、外国人が集まりすぎて、困っている所があります。1つの場所に集まりすぎないようにする方法を考えます。",
+      "tokens": [
+        {
+          "surface": "観光地",
+          "reading": "かんこうち"
+        },
+        {
+          "surface": "外国人",
+          "reading": "がいこくじん"
+        },
+        {
+          "surface": "集",
+          "reading": "あつ"
+        },
+        {
+          "surface": "困",
+          "reading": "こま"
+        },
+        {
+          "surface": "所",
+          "reading": "ところ"
+        },
+        {
+          "surface": "1",
+          "reading": "ひと"
+        },
+        {
+          "surface": "場所",
+          "reading": "ばしょ"
+        },
+        {
+          "surface": "集",
+          "reading": "あつ"
+        },
+        {
+          "surface": "方法",
+          "reading": "ほうほう"
+        },
+        {
+          "surface": "考",
+          "reading": "かんが"
+        }
+      ]
+    },
+    {
+      "text": "外国人が家や土地を買うときのルールについては、今年の夏までに、まとめたいと考えています。",
+      "tokens": [
+        {
+          "surface": "外国人",
+          "reading": "がいこくじん"
+        },
+        {
+          "surface": "家",
+          "reading": "いえ"
+        },
+        {
+          "surface": "土地",
+          "reading": "とち"
+        },
+        {
+          "surface": "買",
+          "reading": "か"
+        },
+        {
+          "surface": "今年",
+          "reading": "ことし"
+        },
+        {
+          "surface": "夏",
+          "reading": "なつ"
+        },
+        {
+          "surface": "考",
+          "reading": "かんが"
+        }
+      ]
+    }
+  ]
+}

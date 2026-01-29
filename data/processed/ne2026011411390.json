@@ -1,0 +1,154 @@
+{
+  "source": "nhk_easy",
+  "news_id": "ne2026011411390",
+  "url": "https://news.web.nhk/news/easy/ne2026011411390/ne2026011411390.html",
+  "title": "イランで政府に反対するデモ　「多くの人が亡くなった」",
+  "date": "",
+  "sentences": [
+    {
+      "text": "2026年1月14日 19時19分",
+      "tokens": []
+    },
+    {
+      "text": "中東の国イランでは、物の値段が上がって生活が大変になっています。",
+      "tokens": [
+        {
+          "surface": "中東",
+          "reading": "ちゅうとう"
+        },
+        {
+          "surface": "国",
+          "reading": "くに"
+        },
+        {
+          "surface": "物",
+          "reading": "もの"
+        },
+        {
+          "surface": "値段",
+          "reading": "ねだん"
+        },
+        {
+          "surface": "上",
+          "reading": "あ"
+        },
+        {
+          "surface": "生活",
+          "reading": "せいかつ"
+        },
+        {
+          "surface": "大変",
+          "reading": "たいへん"
+        }
+      ]
+    },
+    {
+      "text": "このため12月の終わりごろから、政府に反対する人たちがデモを行いました。デモは激しくなって警察などが出ました。",
+      "tokens": [
+        {
+          "surface": "月",
+          "reading": "がつ"
+        },
+        {
+          "surface": "終",
+          "reading": "お"
+        },
+        {
+          "surface": "政府",
+          "reading": "せいふ"
+        },
+        {
+          "surface": "反対",
+          "reading": "はんたい"
+        },
+        {
+          "surface": "人",
+          "reading": "ひと"
+        },
+        {
+          "surface": "行",
+          "reading": "おこな"
+        },
+        {
+          "surface": "激",
+          "reading": "はげ"
+        },
+        {
+          "surface": "警察",
+          "reading": "けいさつ"
+        },
+        {
+          "surface": "出",
+          "reading": "で"
+        }
+      ]
+    },
+    {
+      "text": "アメリカの新聞ニューヨーク・タイムズによると、イランの政府に関係する人は「3000人ぐらいが亡くなった」と言っています。",
+      "tokens": [
+        {
+          "surface": "新聞",
+          "reading": "しんぶん"
+        },
+        {
+          "surface": "政府",
+          "reading": "せいふ"
+        },
+        {
+          "surface": "関係",
+          "reading": "かんけい"
+        },
+        {
+          "surface": "人",
+          "reading": "ひと"
+        },
+        {
+          "surface": "人",
+          "reading": "にん"
+        },
+        {
+          "surface": "亡",
+          "reading": "な"
+        },
+        {
+          "surface": "言",
+          "reading": "い"
+        }
+      ]
+    },
+    {
+      "text": "イランではたくさんの場所でインターネットを使うことができなくなっています。",
+      "tokens": [
+        {
+          "surface": "場所",
+          "reading": "ばしょ"
+        },
+        {
+          "surface": "使",
+          "reading": "つか"
+        }
+      ]
+    },
+    {
+      "text": "首都のテヘランでは、14日は大きいデモなどは起こっていません。",
+      "tokens": [
+        {
+          "surface": "首都",
+          "reading": "しゅと"
+        },
+        {
+          "surface": "14日",
+          "reading": "じゅうよっか"
+        },
+        {
+          "surface": "大",
+          "reading": "おお"
+        },
+        {
+          "surface": "起",
+          "reading": "お"
+        }
+      ]
+    }
+  ]
+}

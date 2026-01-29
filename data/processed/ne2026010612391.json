@@ -1,0 +1,163 @@
+{
+  "source": "nhk_easy",
+  "news_id": "ne2026010612391",
+  "url": "https://news.web.nhk/news/easy/ne2026010612391/ne2026010612391.html",
+  "title": "気象庁「大きい地震が続く心配があるので気をつけて」",
+  "date": "",
+  "sentences": [
+    {
+      "text": "2026年1月6日 19時29分",
+      "tokens": []
+    },
+    {
+      "text": "鳥取県や島根県などでは、今までにも大きい地震の後に、同じぐらい大きい地震が続いて起こったことがあります。",
+      "tokens": [
+        {
+          "surface": "鳥取県",
+          "reading": "とっとりけん"
+        },
+        {
+          "surface": "島根県",
+          "reading": "しまねけん"
+        },
+        {
+          "surface": "今",
+          "reading": "いま"
+        },
+        {
+          "surface": "大",
+          "reading": "おお"
+        },
+        {
+          "surface": "地震",
+          "reading": "じしん"
+        },
+        {
+          "surface": "後",
+          "reading": "あと"
+        },
+        {
+          "surface": "同",
+          "reading": "おな"
+        },
+        {
+          "surface": "大",
+          "reading": "おお"
+        },
+        {
+          "surface": "地震",
+          "reading": "じしん"
+        },
+        {
+          "surface": "続",
+          "reading": "つづ"
+        },
+        {
+          "surface": "起",
+          "reading": "お"
+        }
+      ]
+    },
+    {
+      "text": "気象庁は「6日から1週間ぐらいは、震度5強ぐらいの地震に気をつけてください。6日より強い揺れの地震があるかもしれません。家の中で家具が倒れないようにしたり、食べ物や飲み物などの用意をしたりして、大きい地震のための準備をしてください」と言いました。",
+      "tokens": [
+        {
+          "surface": "気象庁",
+          "reading": "きしょうちょう"
+        },
+        {
+          "surface": "6日",
+          "reading": "むいか"
+        },
+        {
+          "surface": "週間",
+          "reading": "しゅうかん"
+        },
+        {
+          "surface": "震度",
+          "reading": "しんど"
+        },
+        {
+          "surface": "強",
+          "reading": "きょう"
+        },
+        {
+          "surface": "地震",
+          "reading": "じしん"
+        },
+        {
+          "surface": "気",
+          "reading": "き"
+        },
+        {
+          "surface": "6日",
+          "reading": "むいか"
+        },
+        {
+          "surface": "強",
+          "reading": "つよ"
+        },
+        {
+          "surface": "揺",
+          "reading": "ゆ"
+        },
+        {
+          "surface": "地震",
+          "reading": "じしん"
+        },
+        {
+          "surface": "家",
+          "reading": "いえ"
+        },
+        {
+          "surface": "中",
+          "reading": "なか"
+        },
+        {
+          "surface": "家具",
+          "reading": "かぐ"
+        },
+        {
+          "surface": "倒",
+          "reading": "たお"
+        },
+        {
+          "surface": "食",
+          "reading": "た"
+        },
+        {
+          "surface": "物",
+          "reading": "もの"
+        },
+        {
+          "surface": "飲",
+          "reading": "の"
+        },
+        {
+          "surface": "物",
+          "reading": "もの"
+        },
+        {
+          "surface": "用意",
+          "reading": "ようい"
+        },
+        {
+          "surface": "大",
+          "reading": "おお"
+        },
+        {
+          "surface": "地震",
+          "reading": "じしん"
+        },
+        {
+          "surface": "準備",
+          "reading": "じゅんび"
+        },
+        {
+          "surface": "言",
+          "reading": "い"
+        }
+      ]
+    }
+  ]
+}

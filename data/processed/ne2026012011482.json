@@ -1,0 +1,201 @@
+{
+  "source": "nhk_easy",
+  "news_id": "ne2026012011482",
+  "url": "https://news.web.nhk/news/easy/ne2026012011482/ne2026012011482.html",
+  "title": "日本に旅行に来た外国人初めて4000万人以上になる",
+  "date": "",
+  "sentences": [
+    {
+      "text": "2026年1月20日 19時28分",
+      "tokens": []
+    },
+    {
+      "text": "日本へ旅行に来た外国人が、初めて1年間で4000万人以上になりました。",
+      "tokens": [
+        {
+          "surface": "日本",
+          "reading": "にっぽん"
+        },
+        {
+          "surface": "旅行",
+          "reading": "りょこう"
+        },
+        {
+          "surface": "来",
+          "reading": "き"
+        },
+        {
+          "surface": "外国人",
+          "reading": "がいこくじん"
+        },
+        {
+          "surface": "初",
+          "reading": "はじ"
+        },
+        {
+          "surface": "年",
+          "reading": "ねん"
+        },
+        {
+          "surface": "間",
+          "reading": "かん"
+        },
+        {
+          "surface": "万",
+          "reading": "まん"
+        },
+        {
+          "surface": "人",
+          "reading": "にん"
+        },
+        {
+          "surface": "以上",
+          "reading": "いじょう"
+        }
+      ]
+    },
+    {
+      "text": "国によると、去年はおととしに比べて500万人以上増えて4270万人ぐらいでした。今までで1番多くなりました。",
+      "tokens": [
+        {
+          "surface": "国",
+          "reading": "くに"
+        },
+        {
+          "surface": "去年",
+          "reading": "きょねん"
+        },
+        {
+          "surface": "比",
+          "reading": "くら"
+        },
+        {
+          "surface": "万",
+          "reading": "まん"
+        },
+        {
+          "surface": "人",
+          "reading": "にん"
+        },
+        {
+          "surface": "以上",
+          "reading": "いじょう"
+        },
+        {
+          "surface": "増",
+          "reading": "ふ"
+        },
+        {
+          "surface": "万",
+          "reading": "まん"
+        },
+        {
+          "surface": "人",
+          "reading": "にん"
+        },
+        {
+          "surface": "今",
+          "reading": "いま"
+        },
+        {
+          "surface": "番",
+          "reading": "ばん"
+        },
+        {
+          "surface": "多",
+          "reading": "おお"
+        }
+      ]
+    },
+    {
+      "text": "国の観光を担当している大臣は「2030年には日本に来る外国人を6000万人にできるように頑張りたい」と話しました。",
+      "tokens": [
+        {
+          "surface": "国",
+          "reading": "くに"
+        },
+        {
+          "surface": "観光",
+          "reading": "かんこう"
+        },
+        {
+          "surface": "担当",
+          "reading": "たんとう"
+        },
+        {
+          "surface": "大臣",
+          "reading": "だいじん"
+        },
+        {
+          "surface": "年",
+          "reading": "ねん"
+        },
+        {
+          "surface": "日本",
+          "reading": "にっぽん"
+        },
+        {
+          "surface": "来",
+          "reading": "く"
+        },
+        {
+          "surface": "外国人",
+          "reading": "がいこくじん"
+        },
+        {
+          "surface": "万",
+          "reading": "まん"
+        },
+        {
+          "surface": "人",
+          "reading": "にん"
+        },
+        {
+          "surface": "頑張",
+          "reading": "がんば"
+        },
+        {
+          "surface": "話",
+          "reading": "はな"
+        }
+      ]
+    },
+    {
+      "text": "一方、去年12月に中国から来た人は、おととしに比べて45%ぐらい少なくなっています。",
+      "tokens": [
+        {
+          "surface": "一方",
+          "reading": "いっぽう"
+        },
+        {
+          "surface": "去年",
+          "reading": "きょねん"
+        },
+        {
+          "surface": "月",
+          "reading": "がつ"
+        },
+        {
+          "surface": "中国",
+          "reading": "ちゅうごく"
+        },
+        {
+          "surface": "来",
+          "reading": "き"
+        },
+        {
+          "surface": "人",
+          "reading": "ひと"
+        },
+        {
+          "surface": "比",
+          "reading": "くら"
+        },
+        {
+          "surface": "少",
+          "reading": "すく"
+        }
+      ]
+    }
+  ]
+}

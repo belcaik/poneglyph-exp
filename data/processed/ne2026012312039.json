@@ -1,0 +1,208 @@
+{
+  "source": "nhk_easy",
+  "news_id": "ne2026012312039",
+  "url": "https://news.web.nhk/news/easy/ne2026012312039/ne2026012312039.html",
+  "title": "冬の選挙雪が多い所は準備が大変",
+  "date": "",
+  "sentences": [
+    {
+      "text": "2026年1月23日 19時28分",
+      "tokens": []
+    },
+    {
+      "text": "選挙の準備が始まっています。冬の選挙では、雪の多い市や町が特に大変です。",
+      "tokens": [
+        {
+          "surface": "選挙",
+          "reading": "せんきょ"
+        },
+        {
+          "surface": "準備",
+          "reading": "じゅんび"
+        },
+        {
+          "surface": "始",
+          "reading": "はじ"
+        },
+        {
+          "surface": "冬",
+          "reading": "ふゆ"
+        },
+        {
+          "surface": "選挙",
+          "reading": "せんきょ"
+        },
+        {
+          "surface": "雪",
+          "reading": "ゆき"
+        },
+        {
+          "surface": "多",
+          "reading": "おお"
+        },
+        {
+          "surface": "市",
+          "reading": "し"
+        },
+        {
+          "surface": "町",
+          "reading": "まち"
+        },
+        {
+          "surface": "特",
+          "reading": "とく"
+        },
+        {
+          "surface": "大変",
+          "reading": "たいへん"
+        }
+      ]
+    },
+    {
+      "text": "福島県南会津町では、いつも、選挙のポスターを貼る掲示板を130ぐらい用意しています。しかし、雪が多いため、今度の選挙は30にします。",
+      "tokens": [
+        {
+          "surface": "福島県南会津町",
+          "reading": "ふくしまけんみなみあいづまち"
+        },
+        {
+          "surface": "選挙",
+          "reading": "せんきょ"
+        },
+        {
+          "surface": "貼",
+          "reading": "は"
+        },
+        {
+          "surface": "掲示板",
+          "reading": "けいじばん"
+        },
+        {
+          "surface": "用意",
+          "reading": "ようい"
+        },
+        {
+          "surface": "雪",
+          "reading": "ゆき"
+        },
+        {
+          "surface": "多",
+          "reading": "おお"
+        },
+        {
+          "surface": "今度",
+          "reading": "こんど"
+        },
+        {
+          "surface": "選挙",
+          "reading": "せんきょ"
+        }
+      ]
+    },
+    {
+      "text": "岩手県北上市も、雪が多い所に掲示板を作るのをやめました。雪が高く積もっている所では、雪を片づけてから掲示板を立てるため、2倍の時間がかかるそうです。作業をしていた人は「選挙まで時間がありませんが、十分に気をつけながら作業を終わらせたいです」と話していました。",
+      "tokens": [
+        {
+          "surface": "岩手県北上市",
+          "reading": "いわてけんきたかみし"
+        },
+        {
+          "surface": "雪",
+          "reading": "ゆき"
+        },
+        {
+          "surface": "多",
+          "reading": "おお"
+        },
+        {
+          "surface": "所",
+          "reading": "ところ"
+        },
+        {
+          "surface": "掲示板",
+          "reading": "けいじばん"
+        },
+        {
+          "surface": "作",
+          "reading": "つく"
+        },
+        {
+          "surface": "雪",
+          "reading": "ゆき"
+        },
+        {
+          "surface": "高",
+          "reading": "たか"
+        },
+        {
+          "surface": "積",
+          "reading": "つ"
+        },
+        {
+          "surface": "所",
+          "reading": "ところ"
+        },
+        {
+          "surface": "雪",
+          "reading": "ゆき"
+        },
+        {
+          "surface": "片",
+          "reading": "かた"
+        },
+        {
+          "surface": "掲示板",
+          "reading": "けいじばん"
+        },
+        {
+          "surface": "立",
+          "reading": "た"
+        },
+        {
+          "surface": "倍",
+          "reading": "ばい"
+        },
+        {
+          "surface": "時間",
+          "reading": "じかん"
+        },
+        {
+          "surface": "作業",
+          "reading": "さぎょう"
+        },
+        {
+          "surface": "人",
+          "reading": "ひと"
+        },
+        {
+          "surface": "選挙",
+          "reading": "せんきょ"
+        },
+        {
+          "surface": "時間",
+          "reading": "じかん"
+        },
+        {
+          "surface": "十分",
+          "reading": "じゅうぶん"
+        },
+        {
+          "surface": "気",
+          "reading": "き"
+        },
+        {
+          "surface": "作業",
+          "reading": "さぎょう"
+        },
+        {
+          "surface": "終",
+          "reading": "お"
+        },
+        {
+          "surface": "話",
+          "reading": "はな"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "source": "nhk_easy",
+  "news_id": "ne2026011311114",
+  "url": "https://news.web.nhk/news/easy/ne2026011311114/ne2026011311114.html",
+  "title": "東京23区では20歳の6人に1人が外国人",
+  "date": "",
+  "sentences": [
+    {
+      "text": "2026年1月13日 19時27分",
+      "tokens": []
+    },
+    {
+      "text": "12日は「成人の日」でした。大人になった人たちをお祝いする日です。",
+      "tokens": [
+        {
+          "surface": "日",
+          "reading": "にち"
+        },
+        {
+          "surface": "成人",
+          "reading": "せいじん"
+        },
+        {
+          "surface": "日",
+          "reading": "ひ"
+        },
+        {
+          "surface": "大人",
+          "reading": "おとな"
+        },
+        {
+          "surface": "人",
+          "reading": "ひと"
+        },
+        {
+          "surface": "祝",
+          "reading": "いわ"
+        },
+        {
+          "surface": "日",
+          "reading": "ひ"
+        }
+      ]
+    },
+    {
+      "text": "NHKの調べでは、東京23区で、今年3月までの1年間に20歳になる人は8万5千人ぐらいでした。",
+      "tokens": [
+        {
+          "surface": "調",
+          "reading": "しら"
+        },
+        {
+          "surface": "東京",
+          "reading": "とうきょう"
+        },
+        {
+          "surface": "区",
+          "reading": "く"
+        },
+        {
+          "surface": "今年",
+          "reading": "ことし"
+        },
+        {
+          "surface": "月",
+          "reading": "がつ"
+        },
+        {
+          "surface": "年",
+          "reading": "ねん"
+        },
+        {
+          "surface": "間",
+          "reading": "かん"
+        },
+        {
+          "surface": "歳",
+          "reading": "さい"
+        },
+        {
+          "surface": "人",
+          "reading": "ひと"
+        },
+        {
+          "surface": "万",
+          "reading": "まん"
+        },
+        {
+          "surface": "人",
+          "reading": "にん"
+        }
+      ]
+    },
+    {
+      "text": "この中で、1万5千人ぐらいが外国人でした。これは6人の中で1人が外国人ということになります。",
+      "tokens": [
+        {
+          "surface": "中",
+          "reading": "なか"
+        },
+        {
+          "surface": "万",
+          "reading": "まん"
+        },
+        {
+          "surface": "人",
+          "reading": "にん"
+        },
+        {
+          "surface": "外国人",
+          "reading": "がいこくじん"
+        },
+        {
+          "surface": "人",
+          "reading": "にん"
+        },
+        {
+          "surface": "中",
+          "reading": "なか"
+        },
+        {
+          "surface": "1人",
+          "reading": "ひとり"
+        },
+        {
+          "surface": "外国人",
+          "reading": "がいこくじん"
+        }
+      ]
+    },
+    {
+      "text": "とくに新宿区は2人に1人が外国人でした。",
+      "tokens": [
+        {
+          "surface": "新宿区",
+          "reading": "しんじゅくく"
+        },
+        {
+          "surface": "2人",
+          "reading": "ふたり"
+        },
+        {
+          "surface": "1人",
+          "reading": "ひとり"
+        },
+        {
+          "surface": "外国人",
+          "reading": "がいこくじん"
+        }
+      ]
+    },
+    {
+      "text": "専門家は「日本は、人口が減っていて、働く人が足りなくなっています。これからも外国人の若者の割合は増えそうです。日本人と外国人が一緒に協力して社会を作るための話し合いも必要です」と話しています。",
+      "tokens": [
+        {
+          "surface": "専門家",
+          "reading": "せんもんか"
+        },
+        {
+          "surface": "日本",
+          "reading": "にっぽん"
+        },
+        {
+          "surface": "人口",
+          "reading": "じんこう"
+        },
+        {
+          "surface": "減",
+          "reading": "へ"
+        },
+        {
+          "surface": "働",
+          "reading": "はたら"
+        },
+        {
+          "surface": "人",
+          "reading": "ひと"
+        },
+        {
+          "surface": "足",
+          "reading": "た"
+        },
+        {
+          "surface": "外国人",
+          "reading": "がいこくじん"
+        },
+        {
+          "surface": "若者",
+          "reading": "わかもの"
+        },
+        {
+          "surface": "割合",
+          "reading": "わりあい"
+        },
+        {
+          "surface": "増",
+          "reading": "ふ"
+        },
+        {
+          "surface": "日本人",
+          "reading": "にっぽんじん"
+        },
+        {
+          "surface": "外国人",
+          "reading": "がいこくじん"
+        },
+        {
+          "surface": "一緒",
+          "reading": "いっしょ"
+        },
+        {
+          "surface": "協力",
+          "reading": "きょうりょく"
+        },
+        {
+          "surface": "社会",
+          "reading": "しゃかい"
+        },
+        {
+          "surface": "作",
+          "reading": "つく"
+        },
+        {
+          "surface": "話",
+          "reading": "はな"
+        },
+        {
+          "surface": "合",
+          "reading": "あ"
+        },
+        {
+          "surface": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "surface": "話",
+          "reading": "はな"
+        }
+      ]
+    }
+  ]
+}

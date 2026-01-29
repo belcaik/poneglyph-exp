@@ -1,0 +1,100 @@
+{
+  "source": "nhk_easy",
+  "news_id": "ne2026010712028",
+  "url": "https://news.web.nhk/news/easy/ne2026010712028/ne2026010712028.html",
+  "title": "「グリーンランドを取るため軍を使うかもしれない」",
+  "date": "",
+  "sentences": [
+    {
+      "text": "2026年1月7日 19時24分",
+      "tokens": []
+    },
+    {
+      "text": "デンマークが持っている島、グリーンランドのニュースです。",
+      "tokens": [
+        {
+          "surface": "持",
+          "reading": "も"
+        },
+        {
+          "surface": "島",
+          "reading": "しま"
+        }
+      ]
+    },
+    {
+      "text": "アメリカのトランプ政権は6日、「グリーンランドはアメリカの安全のために必要だ。敵が来ないようにするためだ」と言いました。そして「アメリカがグリーンランドを取るために、軍を使うことを考えるかもしれない」と言いました。",
+      "tokens": [
+        {
+          "surface": "政権",
+          "reading": "せいけん"
+        },
+        {
+          "surface": "6日",
+          "reading": "むいか"
+        },
+        {
+          "surface": "安全",
+          "reading": "あんぜん"
+        },
+        {
+          "surface": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "surface": "敵",
+          "reading": "てき"
+        },
+        {
+          "surface": "来",
+          "reading": "こ"
+        },
+        {
+          "surface": "言",
+          "reading": "い"
+        },
+        {
+          "surface": "取",
+          "reading": "と"
+        },
+        {
+          "surface": "軍",
+          "reading": "ぐん"
+        },
+        {
+          "surface": "使",
+          "reading": "つか"
+        },
+        {
+          "surface": "考",
+          "reading": "かんが"
+        },
+        {
+          "surface": "言",
+          "reading": "い"
+        }
+      ]
+    },
+    {
+      "text": "デンマークとイギリス、フランス、ドイツなどは「デンマークとグリーンランドのことは住んでいる人だけで決める」と言いました。",
+      "tokens": [
+        {
+          "surface": "住",
+          "reading": "す"
+        },
+        {
+          "surface": "人",
+          "reading": "ひと"
+        },
+        {
+          "surface": "決",
+          "reading": "き"
+        },
+        {
+          "surface": "言",
+          "reading": "い"
+        }
+      ]
+    }
+  ]
+}

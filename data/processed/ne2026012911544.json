@@ -1,0 +1,234 @@
+{
+  "source": "nhk_easy",
+  "news_id": "ne2026012911544",
+  "url": "https://news.web.nhk/news/easy/ne2026012911544/ne2026012911544.html",
+  "title": "JR札幌駅雪を片づけるため夜9時から列車の運転を止める",
+  "date": "",
+  "sentences": [
+    {
+      "text": "2026年1月29日 19時19分",
+      "tokens": []
+    },
+    {
+      "text": "雪のため、北海道のJR札幌駅で、29日午後9時から列車の運転が止まります。",
+      "tokens": [
+        {
+          "surface": "雪",
+          "reading": "ゆき"
+        },
+        {
+          "surface": "北海道",
+          "reading": "ほっかいどう"
+        },
+        {
+          "surface": "札幌駅",
+          "reading": "さっぽろえき"
+        },
+        {
+          "surface": "日",
+          "reading": "にち"
+        },
+        {
+          "surface": "午後",
+          "reading": "ごご"
+        },
+        {
+          "surface": "時",
+          "reading": "じ"
+        },
+        {
+          "surface": "列車",
+          "reading": "れっしゃ"
+        },
+        {
+          "surface": "運転",
+          "reading": "うんてん"
+        },
+        {
+          "surface": "止",
+          "reading": "と"
+        }
+      ]
+    },
+    {
+      "text": "北海道では、1月25日から、雪がたくさん降りました。",
+      "tokens": [
+        {
+          "surface": "北海道",
+          "reading": "ほっかいどう"
+        },
+        {
+          "surface": "月",
+          "reading": "がつ"
+        },
+        {
+          "surface": "日",
+          "reading": "にち"
+        },
+        {
+          "surface": "雪",
+          "reading": "ゆき"
+        },
+        {
+          "surface": "降",
+          "reading": "ふ"
+        }
+      ]
+    },
+    {
+      "text": "JRは29日夜、札幌駅の全部の列車の運転を止めて、雪を片づける作業をします。28日の夜も、列車を止めて作業をしました。",
+      "tokens": [
+        {
+          "surface": "日",
+          "reading": "にち"
+        },
+        {
+          "surface": "夜",
+          "reading": "よる"
+        },
+        {
+          "surface": "札幌駅",
+          "reading": "さっぽろえき"
+        },
+        {
+          "surface": "全部",
+          "reading": "ぜんぶ"
+        },
+        {
+          "surface": "列車",
+          "reading": "れっしゃ"
+        },
+        {
+          "surface": "運転",
+          "reading": "うんてん"
+        },
+        {
+          "surface": "止",
+          "reading": "と"
+        },
+        {
+          "surface": "雪",
+          "reading": "ゆき"
+        },
+        {
+          "surface": "片",
+          "reading": "かた"
+        },
+        {
+          "surface": "作業",
+          "reading": "さぎょう"
+        },
+        {
+          "surface": "日",
+          "reading": "にち"
+        },
+        {
+          "surface": "夜",
+          "reading": "よる"
+        },
+        {
+          "surface": "列車",
+          "reading": "れっしゃ"
+        },
+        {
+          "surface": "止",
+          "reading": "と"
+        },
+        {
+          "surface": "作業",
+          "reading": "さぎょう"
+        }
+      ]
+    },
+    {
+      "text": "JRは、ウェブサイトで列車の情報をチェックしてほしいと言っています。",
+      "tokens": [
+        {
+          "surface": "列車",
+          "reading": "れっしゃ"
+        },
+        {
+          "surface": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "surface": "言",
+          "reading": "い"
+        }
+      ]
+    },
+    {
+      "text": "新千歳空港と札幌の間を走っている列車も止まります。空港の会社は、空港から札幌に向かうバスを特別に出して、飛行機の客を運ぶ予定です。",
+      "tokens": [
+        {
+          "surface": "新千歳空港",
+          "reading": "しんちとせくうこう"
+        },
+        {
+          "surface": "札幌",
+          "reading": "さっぽろ"
+        },
+        {
+          "surface": "間",
+          "reading": "あいだ"
+        },
+        {
+          "surface": "走",
+          "reading": "はし"
+        },
+        {
+          "surface": "列車",
+          "reading": "れっしゃ"
+        },
+        {
+          "surface": "止",
+          "reading": "と"
+        },
+        {
+          "surface": "空港",
+          "reading": "くうこう"
+        },
+        {
+          "surface": "会社",
+          "reading": "かいしゃ"
+        },
+        {
+          "surface": "空港",
+          "reading": "くうこう"
+        },
+        {
+          "surface": "札幌",
+          "reading": "さっぽろ"
+        },
+        {
+          "surface": "向",
+          "reading": "む"
+        },
+        {
+          "surface": "特別",
+          "reading": "とくべつ"
+        },
+        {
+          "surface": "出",
+          "reading": "だ"
+        },
+        {
+          "surface": "飛行機",
+          "reading": "ひこうき"
+        },
+        {
+          "surface": "客",
+          "reading": "きゃく"
+        },
+        {
+          "surface": "運",
+          "reading": "はこ"
+        },
+        {
+          "surface": "予定",
+          "reading": "よてい"
+        }
+      ]
+    }
+  ]
+}

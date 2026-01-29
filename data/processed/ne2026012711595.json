@@ -1,0 +1,195 @@
+{
+  "source": "nhk_easy",
+  "news_id": "ne2026012711595",
+  "url": "https://news.web.nhk/news/easy/ne2026012711595/ne2026012711595.html",
+  "title": "「シャオシャオ」と「レイレイ」成田空港から中国へ",
+  "date": "",
+  "sentences": [
+    {
+      "text": "2026年1月27日 19時27分",
+      "tokens": []
+    },
+    {
+      "text": "東京の上野動物園にいたパンダの「シャオシャオ」と「レイレイ」は、27日の夜中国に出発します。",
+      "tokens": [
+        {
+          "surface": "東京",
+          "reading": "とうきょう"
+        },
+        {
+          "surface": "上野動物園",
+          "reading": "うえのどうぶつえん"
+        },
+        {
+          "surface": "日",
+          "reading": "にち"
+        },
+        {
+          "surface": "夜",
+          "reading": "よる"
+        },
+        {
+          "surface": "中国",
+          "reading": "ちゅうごく"
+        },
+        {
+          "surface": "出発",
+          "reading": "しゅっぱつ"
+        }
+      ]
+    },
+    {
+      "text": "2頭は、27日の午後1時半頃上野動物園を出ました。このあと成田空港から飛行機で中国に向かいます。",
+      "tokens": [
+        {
+          "surface": "頭",
+          "reading": "とう"
+        },
+        {
+          "surface": "日",
+          "reading": "にち"
+        },
+        {
+          "surface": "午後",
+          "reading": "ごご"
+        },
+        {
+          "surface": "時半",
+          "reading": "じはん"
+        },
+        {
+          "surface": "頃",
+          "reading": "ごろ"
+        },
+        {
+          "surface": "上野動物園",
+          "reading": "うえのどうぶつえん"
+        },
+        {
+          "surface": "出",
+          "reading": "で"
+        },
+        {
+          "surface": "成田空港",
+          "reading": "なりたくうこう"
+        },
+        {
+          "surface": "飛行機",
+          "reading": "ひこうき"
+        },
+        {
+          "surface": "中国",
+          "reading": "ちゅうごく"
+        },
+        {
+          "surface": "向",
+          "reading": "む"
+        }
+      ]
+    },
+    {
+      "text": "28日の朝、四川省にあるパンダの研究センターに着く予定です。",
+      "tokens": [
+        {
+          "surface": "日",
+          "reading": "にち"
+        },
+        {
+          "surface": "朝",
+          "reading": "あさ"
+        },
+        {
+          "surface": "四川省",
+          "reading": "しせんしょう"
+        },
+        {
+          "surface": "研究",
+          "reading": "けんきゅう"
+        },
+        {
+          "surface": "着",
+          "reading": "つ"
+        },
+        {
+          "surface": "予定",
+          "reading": "よてい"
+        }
+      ]
+    },
+    {
+      "text": "1972年に日本と中国が交流してから日本にはずっとパンダがいましたが、もうこれでパンダはいません。",
+      "tokens": [
+        {
+          "surface": "年",
+          "reading": "ねん"
+        },
+        {
+          "surface": "日本",
+          "reading": "にっぽん"
+        },
+        {
+          "surface": "中国",
+          "reading": "ちゅうごく"
+        },
+        {
+          "surface": "交流",
+          "reading": "こうりゅう"
+        },
+        {
+          "surface": "日本",
+          "reading": "にっぽん"
+        }
+      ]
+    },
+    {
+      "text": "見送りに来た女性は「すごくさみしいです。中国にいるお母さんやお姉さんと楽しく生活してほしいです」と話していました。",
+      "tokens": [
+        {
+          "surface": "見送",
+          "reading": "みおく"
+        },
+        {
+          "surface": "来",
+          "reading": "き"
+        },
+        {
+          "surface": "女性",
+          "reading": "じょせい"
+        },
+        {
+          "surface": "中国",
+          "reading": "ちゅうごく"
+        },
+        {
+          "surface": "母",
+          "reading": "かあ"
+        },
+        {
+          "surface": "姉",
+          "reading": "ねえ"
+        },
+        {
+          "surface": "楽",
+          "reading": "たの"
+        },
+        {
+          "surface": "生活",
+          "reading": "せいかつ"
+        },
+        {
+          "surface": "話",
+          "reading": "はな"
+        }
+      ]
+    },
+    {
+      "text": "「シャオシャオ」「レイレイ」元気でね。",
+      "tokens": [
+        {
+          "surface": "元気",
+          "reading": "げんき"
+        }
+      ]
+    }
+  ]
+}

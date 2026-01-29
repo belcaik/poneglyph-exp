@@ -1,0 +1,156 @@
+{
+  "source": "nhk_easy",
+  "news_id": "ne2026011613547",
+  "url": "https://news.web.nhk/news/easy/ne2026011613547/ne2026011613547.html",
+  "title": "JR山手線などが長い間止まった",
+  "date": "",
+  "sentences": [
+    {
+      "text": "2026年1月16日 19時25分",
+      "tokens": []
+    },
+    {
+      "text": "16日、東京を走るJRの山手線などが、朝から、止まりました。電気を流すことができなくなったためです。全部の電車が運転できるようになったのは、午後1時ごろでした。電車が止まって、67万人の人が困りました。",
+      "tokens": [
+        {
+          "surface": "日",
+          "reading": "にち"
+        },
+        {
+          "surface": "東京",
+          "reading": "とうきょう"
+        },
+        {
+          "surface": "走",
+          "reading": "はし"
+        },
+        {
+          "surface": "山手線",
+          "reading": "やまのてせん"
+        },
+        {
+          "surface": "朝",
+          "reading": "あさ"
+        },
+        {
+          "surface": "止",
+          "reading": "と"
+        },
+        {
+          "surface": "電気",
+          "reading": "でんき"
+        },
+        {
+          "surface": "流",
+          "reading": "なが"
+        },
+        {
+          "surface": "全部",
+          "reading": "ぜんぶ"
+        },
+        {
+          "surface": "電車",
+          "reading": "でんしゃ"
+        },
+        {
+          "surface": "運転",
+          "reading": "うんてん"
+        },
+        {
+          "surface": "午後",
+          "reading": "ごご"
+        },
+        {
+          "surface": "時",
+          "reading": "じ"
+        },
+        {
+          "surface": "電車",
+          "reading": "でんしゃ"
+        },
+        {
+          "surface": "止",
+          "reading": "と"
+        },
+        {
+          "surface": "万",
+          "reading": "まん"
+        },
+        {
+          "surface": "人",
+          "reading": "にん"
+        },
+        {
+          "surface": "人",
+          "reading": "ひと"
+        },
+        {
+          "surface": "困",
+          "reading": "こま"
+        }
+      ]
+    },
+    {
+      "text": "田町駅にいた男性は「朝は会社に行くことができませんでした。電車の運転が始まってよかったです」と話していました。",
+      "tokens": [
+        {
+          "surface": "田町駅",
+          "reading": "たまちえき"
+        },
+        {
+          "surface": "男性",
+          "reading": "だんせい"
+        },
+        {
+          "surface": "朝",
+          "reading": "あさ"
+        },
+        {
+          "surface": "会社",
+          "reading": "かいしゃ"
+        },
+        {
+          "surface": "行",
+          "reading": "い"
+        },
+        {
+          "surface": "電車",
+          "reading": "でんしゃ"
+        },
+        {
+          "surface": "運転",
+          "reading": "うんてん"
+        },
+        {
+          "surface": "始",
+          "reading": "はじ"
+        },
+        {
+          "surface": "話",
+          "reading": "はな"
+        }
+      ]
+    },
+    {
+      "text": "JR東日本は、詳しい原因を調べています。",
+      "tokens": [
+        {
+          "surface": "東日本",
+          "reading": "ひがしにほん"
+        },
+        {
+          "surface": "詳",
+          "reading": "くわ"
+        },
+        {
+          "surface": "原因",
+          "reading": "げんいん"
+        },
+        {
+          "surface": "調",
+          "reading": "しら"
+        }
+      ]
+    }
+  ]
+}

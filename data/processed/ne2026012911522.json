@@ -1,0 +1,223 @@
+{
+  "source": "nhk_easy",
+  "news_id": "ne2026012911522",
+  "url": "https://news.web.nhk/news/easy/ne2026012911522/ne2026012911522.html",
+  "title": "30日まで日本海側などで雪がたくさん降りそう",
+  "date": "",
+  "sentences": [
+    {
+      "text": "2026年1月29日 19時20分",
+      "tokens": []
+    },
+    {
+      "text": "冷たい空気が入っているため、日本海側などで雪が降っています。",
+      "tokens": [
+        {
+          "surface": "冷",
+          "reading": "つめ"
+        },
+        {
+          "surface": "空気",
+          "reading": "くうき"
+        },
+        {
+          "surface": "入",
+          "reading": "はい"
+        },
+        {
+          "surface": "日本海",
+          "reading": "にほんかい"
+        },
+        {
+          "surface": "側",
+          "reading": "がわ"
+        },
+        {
+          "surface": "雪",
+          "reading": "ゆき"
+        },
+        {
+          "surface": "降",
+          "reading": "ふ"
+        }
+      ]
+    },
+    {
+      "text": "気象庁によると30日まで、東北地方と、東日本から西日本の日本海側などで、雪がたくさん降りそうです。",
+      "tokens": [
+        {
+          "surface": "気象庁",
+          "reading": "きしょうちょう"
+        },
+        {
+          "surface": "日",
+          "reading": "にち"
+        },
+        {
+          "surface": "東北地方",
+          "reading": "とうほくちほう"
+        },
+        {
+          "surface": "東日本",
+          "reading": "ひがしにほん"
+        },
+        {
+          "surface": "西日本",
+          "reading": "にしにほん"
+        },
+        {
+          "surface": "日本海",
+          "reading": "にほんかい"
+        },
+        {
+          "surface": "側",
+          "reading": "がわ"
+        },
+        {
+          "surface": "雪",
+          "reading": "ゆき"
+        },
+        {
+          "surface": "降",
+          "reading": "ふ"
+        }
+      ]
+    },
+    {
+      "text": "30日の夕方までの24時間に、新潟県の多いところで70cm、北陸地方で60cm、東北地方と近畿地方で50cmの雪が降る心配があります。",
+      "tokens": [
+        {
+          "surface": "日",
+          "reading": "にち"
+        },
+        {
+          "surface": "夕方",
+          "reading": "ゆうがた"
+        },
+        {
+          "surface": "時間",
+          "reading": "じかん"
+        },
+        {
+          "surface": "新潟県",
+          "reading": "にいがたけん"
+        },
+        {
+          "surface": "多",
+          "reading": "おお"
+        },
+        {
+          "surface": "北陸地方",
+          "reading": "ほくりくちほう"
+        },
+        {
+          "surface": "東北地方",
+          "reading": "とうほくちほう"
+        },
+        {
+          "surface": "近畿地方",
+          "reading": "きんきちほう"
+        },
+        {
+          "surface": "雪",
+          "reading": "ゆき"
+        },
+        {
+          "surface": "降",
+          "reading": "ふ"
+        },
+        {
+          "surface": "心配",
+          "reading": "しんぱい"
+        }
+      ]
+    },
+    {
+      "text": "いつもは雪が少ない太平洋側でも雪が降り、積もる所がありそうです。",
+      "tokens": [
+        {
+          "surface": "雪",
+          "reading": "ゆき"
+        },
+        {
+          "surface": "少",
+          "reading": "すく"
+        },
+        {
+          "surface": "太平洋",
+          "reading": "たいへいよう"
+        },
+        {
+          "surface": "側",
+          "reading": "がわ"
+        },
+        {
+          "surface": "雪",
+          "reading": "ゆき"
+        },
+        {
+          "surface": "降",
+          "reading": "ふ"
+        },
+        {
+          "surface": "積",
+          "reading": "つ"
+        },
+        {
+          "surface": "所",
+          "reading": "ところ"
+        }
+      ]
+    },
+    {
+      "text": "交通が止まるかもしれません。天気や交通の情報を見てください。",
+      "tokens": [
+        {
+          "surface": "交通",
+          "reading": "こうつう"
+        },
+        {
+          "surface": "止",
+          "reading": "と"
+        },
+        {
+          "surface": "天気",
+          "reading": "てんき"
+        },
+        {
+          "surface": "交通",
+          "reading": "こうつう"
+        },
+        {
+          "surface": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "surface": "見",
+          "reading": "み"
+        }
+      ]
+    },
+    {
+      "text": "雪を片づけるときの事故にも気をつけてください。",
+      "tokens": [
+        {
+          "surface": "雪",
+          "reading": "ゆき"
+        },
+        {
+          "surface": "片",
+          "reading": "かた"
+        },
+        {
+          "surface": "事故",
+          "reading": "じこ"
+        },
+        {
+          "surface": "気",
+          "reading": "き"
+        }
+      ]
+    }
+  ]
+}

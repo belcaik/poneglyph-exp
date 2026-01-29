@@ -1,0 +1,198 @@
+{
+  "source": "nhk_easy",
+  "news_id": "ne2026012213502",
+  "url": "https://news.web.nhk/news/easy/ne2026012213502/ne2026012213502.html",
+  "title": "杉の花粉北海道や大阪府などで多くなりそう",
+  "date": "",
+  "sentences": [
+    {
+      "text": "2026年1月22日 19時18分",
+      "tokens": []
+    },
+    {
+      "text": "杉の花粉は雄の花の数が多いとたくさん飛ぶと言われています。",
+      "tokens": [
+        {
+          "surface": "杉",
+          "reading": "すぎ"
+        },
+        {
+          "surface": "花粉",
+          "reading": "かふん"
+        },
+        {
+          "surface": "雄",
+          "reading": "おす"
+        },
+        {
+          "surface": "花",
+          "reading": "はな"
+        },
+        {
+          "surface": "数",
+          "reading": "かず"
+        },
+        {
+          "surface": "多",
+          "reading": "おお"
+        },
+        {
+          "surface": "飛",
+          "reading": "と"
+        },
+        {
+          "surface": "言",
+          "reading": "い"
+        }
+      ]
+    },
+    {
+      "text": "環境省が杉の雄の花の芽を調べたところ、26の道府県で、今までの平均より多くなりました。",
+      "tokens": [
+        {
+          "surface": "環境省",
+          "reading": "かんきょうしょう"
+        },
+        {
+          "surface": "杉",
+          "reading": "すぎ"
+        },
+        {
+          "surface": "雄",
+          "reading": "おす"
+        },
+        {
+          "surface": "花",
+          "reading": "はな"
+        },
+        {
+          "surface": "芽",
+          "reading": "め"
+        },
+        {
+          "surface": "調",
+          "reading": "しら"
+        },
+        {
+          "surface": "道府県",
+          "reading": "どうふけん"
+        },
+        {
+          "surface": "今",
+          "reading": "いま"
+        },
+        {
+          "surface": "平均",
+          "reading": "へいきん"
+        },
+        {
+          "surface": "多",
+          "reading": "おお"
+        }
+      ]
+    },
+    {
+      "text": "北海道や大阪府、奈良県など9つの道府県で平均の2倍から3倍以上になりました。",
+      "tokens": [
+        {
+          "surface": "北海道",
+          "reading": "ほっかいどう"
+        },
+        {
+          "surface": "大阪府",
+          "reading": "おおさかふ"
+        },
+        {
+          "surface": "奈良県",
+          "reading": "ならけん"
+        },
+        {
+          "surface": "9",
+          "reading": "ここの"
+        },
+        {
+          "surface": "道府県",
+          "reading": "どうふけん"
+        },
+        {
+          "surface": "平均",
+          "reading": "へいきん"
+        },
+        {
+          "surface": "倍",
+          "reading": "ばい"
+        },
+        {
+          "surface": "倍",
+          "reading": "ばい"
+        },
+        {
+          "surface": "以上",
+          "reading": "いじょう"
+        }
+      ]
+    },
+    {
+      "text": "環境省は、杉の花粉を防ぐために、マスクなどをしてくださいと言っています。",
+      "tokens": [
+        {
+          "surface": "環境省",
+          "reading": "かんきょうしょう"
+        },
+        {
+          "surface": "杉",
+          "reading": "すぎ"
+        },
+        {
+          "surface": "花粉",
+          "reading": "かふん"
+        },
+        {
+          "surface": "防",
+          "reading": "ふせ"
+        },
+        {
+          "surface": "言",
+          "reading": "い"
+        }
+      ]
+    },
+    {
+      "text": "そして、花粉が多く飛ぶ昼ごろや夕方に、できるだけ外に出ないようにしてほしいと言っています。",
+      "tokens": [
+        {
+          "surface": "花粉",
+          "reading": "かふん"
+        },
+        {
+          "surface": "多",
+          "reading": "おお"
+        },
+        {
+          "surface": "飛",
+          "reading": "と"
+        },
+        {
+          "surface": "昼",
+          "reading": "ひる"
+        },
+        {
+          "surface": "夕方",
+          "reading": "ゆうがた"
+        },
+        {
+          "surface": "外",
+          "reading": "そと"
+        },
+        {
+          "surface": "出",
+          "reading": "で"
+        },
+        {
+          "surface": "言",
+          "reading": "い"
+        }
+      ]
+    }
+  ]
+}

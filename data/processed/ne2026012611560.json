@@ -1,0 +1,211 @@
+{
+  "source": "nhk_easy",
+  "news_id": "ne2026012611560",
+  "url": "https://news.web.nhk/news/easy/ne2026012611560/ne2026012611560.html",
+  "title": "大相撲安青錦が大関になってすぐに2回目の優勝をした",
+  "date": "",
+  "sentences": [
+    {
+      "text": "2026年1月26日 19時23分",
+      "tokens": []
+    },
+    {
+      "text": "大相撲のニュースです。",
+      "tokens": [
+        {
+          "surface": "大相撲",
+          "reading": "おおずもう"
+        }
+      ]
+    },
+    {
+      "text": "大関の安青錦が2回目の優勝をしました。",
+      "tokens": [
+        {
+          "surface": "大関",
+          "reading": "おおぜき"
+        },
+        {
+          "surface": "安青錦",
+          "reading": "あおにしき"
+        },
+        {
+          "surface": "回",
+          "reading": "かい"
+        },
+        {
+          "surface": "目",
+          "reading": "め"
+        },
+        {
+          "surface": "優勝",
+          "reading": "ゆうしょう"
+        }
+      ]
+    },
+    {
+      "text": "安青錦はウクライナの人です。去年11月に、上から2番目の「大関」になりました。",
+      "tokens": [
+        {
+          "surface": "安青錦",
+          "reading": "あおにしき"
+        },
+        {
+          "surface": "人",
+          "reading": "ひと"
+        },
+        {
+          "surface": "去年",
+          "reading": "きょねん"
+        },
+        {
+          "surface": "月",
+          "reading": "がつ"
+        },
+        {
+          "surface": "上",
+          "reading": "うえ"
+        },
+        {
+          "surface": "番目",
+          "reading": "ばんめ"
+        },
+        {
+          "surface": "大関",
+          "reading": "おおぜき"
+        }
+      ]
+    },
+    {
+      "text": "25日は、優勝を決める相撲で、熱海富士に勝ちました。大関になって初めて出た大相撲で優勝した人は、20年の間、いませんでした。",
+      "tokens": [
+        {
+          "surface": "日",
+          "reading": "にち"
+        },
+        {
+          "surface": "優勝",
+          "reading": "ゆうしょう"
+        },
+        {
+          "surface": "決",
+          "reading": "き"
+        },
+        {
+          "surface": "相撲",
+          "reading": "すもう"
+        },
+        {
+          "surface": "熱海",
+          "reading": "あたみ"
+        },
+        {
+          "surface": "富士",
+          "reading": "ふじ"
+        },
+        {
+          "surface": "勝",
+          "reading": "か"
+        },
+        {
+          "surface": "大関",
+          "reading": "おおぜき"
+        },
+        {
+          "surface": "初",
+          "reading": "はじ"
+        },
+        {
+          "surface": "出",
+          "reading": "で"
+        },
+        {
+          "surface": "大相撲",
+          "reading": "おおずもう"
+        },
+        {
+          "surface": "優勝",
+          "reading": "ゆうしょう"
+        },
+        {
+          "surface": "人",
+          "reading": "ひと"
+        },
+        {
+          "surface": "年",
+          "reading": "ねん"
+        },
+        {
+          "surface": "間",
+          "reading": "あいだ"
+        }
+      ]
+    },
+    {
+      "text": "安青錦は「いつものように自分らしい相撲をすれば、よい結果が出ると思いました」と話しました。",
+      "tokens": [
+        {
+          "surface": "安青錦",
+          "reading": "あおにしき"
+        },
+        {
+          "surface": "自分",
+          "reading": "じぶん"
+        },
+        {
+          "surface": "相撲",
+          "reading": "すもう"
+        },
+        {
+          "surface": "結果",
+          "reading": "けっか"
+        },
+        {
+          "surface": "出",
+          "reading": "で"
+        },
+        {
+          "surface": "思",
+          "reading": "おも"
+        },
+        {
+          "surface": "話",
+          "reading": "はな"
+        }
+      ]
+    },
+    {
+      "text": "安青錦は3月の大相撲で、1番上の「横綱」を目指します。",
+      "tokens": [
+        {
+          "surface": "安青錦",
+          "reading": "あおにしき"
+        },
+        {
+          "surface": "月",
+          "reading": "がつ"
+        },
+        {
+          "surface": "大相撲",
+          "reading": "おおずもう"
+        },
+        {
+          "surface": "番",
+          "reading": "ばん"
+        },
+        {
+          "surface": "上",
+          "reading": "うえ"
+        },
+        {
+          "surface": "横綱",
+          "reading": "よこづな"
+        },
+        {
+          "surface": "目指",
+          "reading": "めざ"
+        }
+      ]
+    }
+  ]
+}

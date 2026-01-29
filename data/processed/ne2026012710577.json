@@ -1,0 +1,217 @@
+{
+  "source": "nhk_easy",
+  "news_id": "ne2026012710577",
+  "url": "https://news.web.nhk/news/easy/ne2026012710577/ne2026012710577.html",
+  "title": "衆議院の選挙が始まった投票日は2月8日",
+  "date": "",
+  "sentences": [
+    {
+      "text": "2026年1月27日 19時30分",
+      "tokens": []
+    },
+    {
+      "text": "衆議院の議員を選ぶ選挙が、始まりました。",
+      "tokens": [
+        {
+          "surface": "衆議院",
+          "reading": "しゅうぎいん"
+        },
+        {
+          "surface": "議員",
+          "reading": "ぎいん"
+        },
+        {
+          "surface": "選",
+          "reading": "えら"
+        },
+        {
+          "surface": "選挙",
+          "reading": "せんきょ"
+        },
+        {
+          "surface": "始",
+          "reading": "はじ"
+        }
+      ]
+    },
+    {
+      "text": "27日、選挙に出る人や政党が手続きをしました。選挙に出た人たちは、今の高市総理大臣の政治がいいかどうかや、物の値段が高いこと、外国との関係などについて、自分の意見を言っています。",
+      "tokens": [
+        {
+          "surface": "日",
+          "reading": "にち"
+        },
+        {
+          "surface": "選挙",
+          "reading": "せんきょ"
+        },
+        {
+          "surface": "出",
+          "reading": "で"
+        },
+        {
+          "surface": "人",
+          "reading": "ひと"
+        },
+        {
+          "surface": "政党",
+          "reading": "せいとう"
+        },
+        {
+          "surface": "手続",
+          "reading": "てつづ"
+        },
+        {
+          "surface": "選挙",
+          "reading": "せんきょ"
+        },
+        {
+          "surface": "出",
+          "reading": "で"
+        },
+        {
+          "surface": "人",
+          "reading": "ひと"
+        },
+        {
+          "surface": "今",
+          "reading": "いま"
+        },
+        {
+          "surface": "高市",
+          "reading": "たかいち"
+        },
+        {
+          "surface": "総理大臣",
+          "reading": "そうりだいじん"
+        },
+        {
+          "surface": "政治",
+          "reading": "せいじ"
+        },
+        {
+          "surface": "物",
+          "reading": "もの"
+        },
+        {
+          "surface": "値段",
+          "reading": "ねだん"
+        },
+        {
+          "surface": "高",
+          "reading": "たか"
+        },
+        {
+          "surface": "外国",
+          "reading": "がいこく"
+        },
+        {
+          "surface": "関係",
+          "reading": "かんけい"
+        },
+        {
+          "surface": "自分",
+          "reading": "じぶん"
+        },
+        {
+          "surface": "意見",
+          "reading": "いけん"
+        },
+        {
+          "surface": "言",
+          "reading": "い"
+        }
+      ]
+    },
+    {
+      "text": "選挙では、全部で465人の議員を選びます。与党の議員が半分より多く選ばれて高市総理大臣の政治が続くのか、それともそうならないのか、関心が集まっています。",
+      "tokens": [
+        {
+          "surface": "選挙",
+          "reading": "せんきょ"
+        },
+        {
+          "surface": "全部",
+          "reading": "ぜんぶ"
+        },
+        {
+          "surface": "人",
+          "reading": "にん"
+        },
+        {
+          "surface": "議員",
+          "reading": "ぎいん"
+        },
+        {
+          "surface": "選",
+          "reading": "えら"
+        },
+        {
+          "surface": "与党",
+          "reading": "よとう"
+        },
+        {
+          "surface": "議員",
+          "reading": "ぎいん"
+        },
+        {
+          "surface": "半分",
+          "reading": "はんぶん"
+        },
+        {
+          "surface": "多",
+          "reading": "おお"
+        },
+        {
+          "surface": "選",
+          "reading": "えら"
+        },
+        {
+          "surface": "高市",
+          "reading": "たかいち"
+        },
+        {
+          "surface": "総理大臣",
+          "reading": "そうりだいじん"
+        },
+        {
+          "surface": "政治",
+          "reading": "せいじ"
+        },
+        {
+          "surface": "続",
+          "reading": "つづ"
+        },
+        {
+          "surface": "関心",
+          "reading": "かんしん"
+        },
+        {
+          "surface": "集",
+          "reading": "あつ"
+        }
+      ]
+    },
+    {
+      "text": "投票する日は、2月8日です。",
+      "tokens": [
+        {
+          "surface": "投票",
+          "reading": "とうひょう"
+        },
+        {
+          "surface": "日",
+          "reading": "ひ"
+        },
+        {
+          "surface": "月",
+          "reading": "がつ"
+        },
+        {
+          "surface": "8日",
+          "reading": "ようか"
+        }
+      ]
+    }
+  ]
+}

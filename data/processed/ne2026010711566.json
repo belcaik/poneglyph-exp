@@ -1,0 +1,173 @@
+{
+  "source": "nhk_easy",
+  "news_id": "ne2026010711566",
+  "url": "https://news.web.nhk/news/easy/ne2026010711566/ne2026010711566.html",
+  "title": "ラスベガス　AIを利用した技術やロボットを紹介するイベント",
+  "date": "",
+  "sentences": [
+    {
+      "text": "2026年1月7日 19時23分",
+      "tokens": []
+    },
+    {
+      "text": "アメリカのラスベガスで、AIなどの新しい技術を紹介するイベントが始まりました。",
+      "tokens": [
+        {
+          "surface": "新",
+          "reading": "あたら"
+        },
+        {
+          "surface": "技術",
+          "reading": "ぎじゅつ"
+        },
+        {
+          "surface": "紹介",
+          "reading": "しょうかい"
+        },
+        {
+          "surface": "始",
+          "reading": "はじ"
+        }
+      ]
+    },
+    {
+      "text": "世界から4000以上の会社や団体が集まっています。今年は、AIを使った人の形のロボットが多くなっています。",
+      "tokens": [
+        {
+          "surface": "世界",
+          "reading": "せかい"
+        },
+        {
+          "surface": "以上",
+          "reading": "いじょう"
+        },
+        {
+          "surface": "会社",
+          "reading": "かいしゃ"
+        },
+        {
+          "surface": "団体",
+          "reading": "だんたい"
+        },
+        {
+          "surface": "集",
+          "reading": "あつ"
+        },
+        {
+          "surface": "今年",
+          "reading": "ことし"
+        },
+        {
+          "surface": "使",
+          "reading": "つか"
+        },
+        {
+          "surface": "人",
+          "reading": "ひと"
+        },
+        {
+          "surface": "形",
+          "reading": "かたち"
+        },
+        {
+          "surface": "多",
+          "reading": "おお"
+        }
+      ]
+    },
+    {
+      "text": "中国の会社のロボットは、部屋に落ちている服を洗濯機まで運んだり、お茶を入れたりしました。アメリカの会社のロボットは話す人の顔をよく見ています。そして、その人の気持ちを考えて答えたり案内したりします。",
+      "tokens": [
+        {
+          "surface": "中国",
+          "reading": "ちゅうごく"
+        },
+        {
+          "surface": "会社",
+          "reading": "かいしゃ"
+        },
+        {
+          "surface": "部屋",
+          "reading": "へや"
+        },
+        {
+          "surface": "落",
+          "reading": "お"
+        },
+        {
+          "surface": "服",
+          "reading": "ふく"
+        },
+        {
+          "surface": "洗濯機",
+          "reading": "せんたくき"
+        },
+        {
+          "surface": "運",
+          "reading": "はこ"
+        },
+        {
+          "surface": "茶",
+          "reading": "ちゃ"
+        },
+        {
+          "surface": "入",
+          "reading": "い"
+        },
+        {
+          "surface": "会社",
+          "reading": "かいしゃ"
+        },
+        {
+          "surface": "話",
+          "reading": "はな"
+        },
+        {
+          "surface": "人",
+          "reading": "ひと"
+        },
+        {
+          "surface": "顔",
+          "reading": "かお"
+        },
+        {
+          "surface": "見",
+          "reading": "み"
+        },
+        {
+          "surface": "人",
+          "reading": "ひと"
+        },
+        {
+          "surface": "気持",
+          "reading": "きも"
+        },
+        {
+          "surface": "考",
+          "reading": "かんが"
+        },
+        {
+          "surface": "答",
+          "reading": "こた"
+        },
+        {
+          "surface": "案内",
+          "reading": "あんない"
+        }
+      ]
+    },
+    {
+      "text": "このイベントは今月9日までです。",
+      "tokens": [
+        {
+          "surface": "今月",
+          "reading": "こんげつ"
+        },
+        {
+          "surface": "9日",
+          "reading": "ここのか"
+        }
+      ]
+    }
+  ]
+}

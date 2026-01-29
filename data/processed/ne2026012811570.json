@@ -1,0 +1,158 @@
+{
+  "source": "nhk_easy",
+  "news_id": "ne2026012811570",
+  "url": "https://news.web.nhk/news/easy/ne2026012811570/ne2026012811570.html",
+  "title": "スポーツ庁長官「選手をSＮSの悪口から守りたい」",
+  "date": "",
+  "sentences": [
+    {
+      "text": "2026年1月28日 19時18分",
+      "tokens": []
+    },
+    {
+      "text": "インターネットのSNSなどにスポーツ選手のことを悪く書く人がいます。",
+      "tokens": [
+        {
+          "surface": "選手",
+          "reading": "せんしゅ"
+        },
+        {
+          "surface": "悪",
+          "reading": "わる"
+        },
+        {
+          "surface": "書",
+          "reading": "か"
+        },
+        {
+          "surface": "人",
+          "reading": "ひと"
+        }
+      ]
+    },
+    {
+      "text": "2024年のパリオリンピックなどのときも、たくさんあって問題になりました。",
+      "tokens": [
+        {
+          "surface": "年",
+          "reading": "ねん"
+        },
+        {
+          "surface": "問題",
+          "reading": "もんだい"
+        }
+      ]
+    },
+    {
+      "text": "国のスポーツ庁の長官は、27日「人のことを悪く言う、悪口はよくありません。選手を守ることは国の大切な仕事です」と言いました。",
+      "tokens": [
+        {
+          "surface": "国",
+          "reading": "くに"
+        },
+        {
+          "surface": "庁",
+          "reading": "ちょう"
+        },
+        {
+          "surface": "長官",
+          "reading": "ちょうかん"
+        },
+        {
+          "surface": "日",
+          "reading": "にち"
+        },
+        {
+          "surface": "人",
+          "reading": "ひと"
+        },
+        {
+          "surface": "悪",
+          "reading": "わる"
+        },
+        {
+          "surface": "言",
+          "reading": "い"
+        },
+        {
+          "surface": "悪口",
+          "reading": "わるくち"
+        },
+        {
+          "surface": "選手",
+          "reading": "せんしゅ"
+        },
+        {
+          "surface": "守",
+          "reading": "まも"
+        },
+        {
+          "surface": "国",
+          "reading": "くに"
+        },
+        {
+          "surface": "大切",
+          "reading": "たいせつ"
+        },
+        {
+          "surface": "仕事",
+          "reading": "しごと"
+        },
+        {
+          "surface": "言",
+          "reading": "い"
+        }
+      ]
+    },
+    {
+      "text": "2月イタリアのミラノなどで、冬のオリンピックがあります。",
+      "tokens": [
+        {
+          "surface": "月",
+          "reading": "がつ"
+        },
+        {
+          "surface": "冬",
+          "reading": "ふゆ"
+        }
+      ]
+    },
+    {
+      "text": "国は、日本のオリンピック委員会などと一緒に、SＮSをチェックします。そして選手の相談にも答えたいと考えています。",
+      "tokens": [
+        {
+          "surface": "国",
+          "reading": "くに"
+        },
+        {
+          "surface": "日本",
+          "reading": "にっぽん"
+        },
+        {
+          "surface": "委員会",
+          "reading": "いいんかい"
+        },
+        {
+          "surface": "一緒",
+          "reading": "いっしょ"
+        },
+        {
+          "surface": "選手",
+          "reading": "せんしゅ"
+        },
+        {
+          "surface": "相談",
+          "reading": "そうだん"
+        },
+        {
+          "surface": "答",
+          "reading": "こた"
+        },
+        {
+          "surface": "考",
+          "reading": "かんが"
+        }
+      ]
+    }
+  ]
+}

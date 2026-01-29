@@ -1,0 +1,218 @@
+{
+  "source": "nhk_easy",
+  "news_id": "ne2026012812020",
+  "url": "https://news.web.nhk/news/easy/ne2026012812020/ne2026012812020.html",
+  "title": "埼玉県で道に大きい穴が開いてから1年直す工事が続く",
+  "date": "",
+  "sentences": [
+    {
+      "text": "2026年1月28日 19時17分",
+      "tokens": []
+    },
+    {
+      "text": "去年の1月28日、埼玉県で道に大きい穴が開きました。穴に車が落ちて男性が亡くなりました。",
+      "tokens": [
+        {
+          "surface": "去年",
+          "reading": "きょねん"
+        },
+        {
+          "surface": "月",
+          "reading": "がつ"
+        },
+        {
+          "surface": "日",
+          "reading": "にち"
+        },
+        {
+          "surface": "埼玉県",
+          "reading": "さいたまけん"
+        },
+        {
+          "surface": "道",
+          "reading": "みち"
+        },
+        {
+          "surface": "大",
+          "reading": "おお"
+        },
+        {
+          "surface": "穴",
+          "reading": "あな"
+        },
+        {
+          "surface": "開",
+          "reading": "あ"
+        },
+        {
+          "surface": "穴",
+          "reading": "あな"
+        },
+        {
+          "surface": "車",
+          "reading": "くるま"
+        },
+        {
+          "surface": "落",
+          "reading": "お"
+        },
+        {
+          "surface": "男性",
+          "reading": "だんせい"
+        },
+        {
+          "surface": "亡",
+          "reading": "な"
+        }
+      ]
+    },
+    {
+      "text": "この事故から1年がすぎました。",
+      "tokens": [
+        {
+          "surface": "事故",
+          "reading": "じこ"
+        },
+        {
+          "surface": "年",
+          "reading": "ねん"
+        }
+      ]
+    },
+    {
+      "text": "穴ができた理由は、道の下にある下水道が壊れたためです。今も下水道を直す工事が続いています。工事は5年から7年ぐらいかかりそうです。道は通ることができません。",
+      "tokens": [
+        {
+          "surface": "穴",
+          "reading": "あな"
+        },
+        {
+          "surface": "理由",
+          "reading": "りゆう"
+        },
+        {
+          "surface": "道",
+          "reading": "みち"
+        },
+        {
+          "surface": "下",
+          "reading": "した"
+        },
+        {
+          "surface": "下水道",
+          "reading": "げすいどう"
+        },
+        {
+          "surface": "壊",
+          "reading": "こわ"
+        },
+        {
+          "surface": "今",
+          "reading": "いま"
+        },
+        {
+          "surface": "下水道",
+          "reading": "げすいどう"
+        },
+        {
+          "surface": "直",
+          "reading": "なお"
+        },
+        {
+          "surface": "工事",
+          "reading": "こうじ"
+        },
+        {
+          "surface": "続",
+          "reading": "つづ"
+        },
+        {
+          "surface": "工事",
+          "reading": "こうじ"
+        },
+        {
+          "surface": "年",
+          "reading": "ねん"
+        },
+        {
+          "surface": "7",
+          "reading": "しち"
+        },
+        {
+          "surface": "年",
+          "reading": "ねん"
+        },
+        {
+          "surface": "道",
+          "reading": "みち"
+        },
+        {
+          "surface": "通",
+          "reading": "とお"
+        }
+      ]
+    },
+    {
+      "text": "下水道から嫌な臭いが出ているため、近くに住んでいる人たちが困っています。",
+      "tokens": [
+        {
+          "surface": "下水道",
+          "reading": "げすいどう"
+        },
+        {
+          "surface": "嫌",
+          "reading": "いや"
+        },
+        {
+          "surface": "臭",
+          "reading": "にお"
+        },
+        {
+          "surface": "出",
+          "reading": "で"
+        },
+        {
+          "surface": "近",
+          "reading": "ちか"
+        },
+        {
+          "surface": "住",
+          "reading": "す"
+        },
+        {
+          "surface": "人",
+          "reading": "ひと"
+        },
+        {
+          "surface": "困",
+          "reading": "こま"
+        }
+      ]
+    },
+    {
+      "text": "埼玉県の知事は「同じことがないように頑張ります」と話しました。",
+      "tokens": [
+        {
+          "surface": "埼玉県",
+          "reading": "さいたまけん"
+        },
+        {
+          "surface": "知事",
+          "reading": "ちじ"
+        },
+        {
+          "surface": "同",
+          "reading": "おな"
+        },
+        {
+          "surface": "頑張",
+          "reading": "がんば"
+        },
+        {
+          "surface": "話",
+          "reading": "はな"
+        }
+      ]
+    }
+  ]
+}

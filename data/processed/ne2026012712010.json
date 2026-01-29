@@ -1,0 +1,193 @@
+{
+  "source": "nhk_easy",
+  "news_id": "ne2026012712010",
+  "url": "https://news.web.nhk/news/easy/ne2026012712010/ne2026012712010.html",
+  "title": "世界遺産の「姫路城」を火事から守る訓練",
+  "date": "",
+  "sentences": [
+    {
+      "text": "2026年1月27日 19時28分",
+      "tokens": []
+    },
+    {
+      "text": "兵庫県姫路市に「姫路城」という有名なお城があります。世界遺産です。",
+      "tokens": [
+        {
+          "surface": "兵庫県姫路市",
+          "reading": "ひょうごけんひめじし"
+        },
+        {
+          "surface": "姫路城",
+          "reading": "ひめじじょう"
+        },
+        {
+          "surface": "有名",
+          "reading": "ゆうめい"
+        },
+        {
+          "surface": "城",
+          "reading": "しろ"
+        },
+        {
+          "surface": "世界遺産",
+          "reading": "せかいいさん"
+        }
+      ]
+    },
+    {
+      "text": "その姫路城で26日、火事が起こったときの訓練がありました。",
+      "tokens": [
+        {
+          "surface": "姫路城",
+          "reading": "ひめじじょう"
+        },
+        {
+          "surface": "日",
+          "reading": "にち"
+        },
+        {
+          "surface": "火事",
+          "reading": "かじ"
+        },
+        {
+          "surface": "起",
+          "reading": "お"
+        },
+        {
+          "surface": "訓練",
+          "reading": "くんれん"
+        }
+      ]
+    },
+    {
+      "text": "90人ぐらいの人が集まって、消火器という道具を使って火を消しました。観光客に、機械を使って英語や中国語など4つの言葉で逃げるように言いました。ドローンを使って空から火事をチェックする練習もしました。",
+      "tokens": [
+        {
+          "surface": "人",
+          "reading": "にん"
+        },
+        {
+          "surface": "人",
+          "reading": "ひと"
+        },
+        {
+          "surface": "集",
+          "reading": "あつ"
+        },
+        {
+          "surface": "消火器",
+          "reading": "しょうかき"
+        },
+        {
+          "surface": "道具",
+          "reading": "どうぐ"
+        },
+        {
+          "surface": "使",
+          "reading": "つか"
+        },
+        {
+          "surface": "火",
+          "reading": "ひ"
+        },
+        {
+          "surface": "消",
+          "reading": "け"
+        },
+        {
+          "surface": "観光",
+          "reading": "かんこう"
+        },
+        {
+          "surface": "客",
+          "reading": "きゃく"
+        },
+        {
+          "surface": "機械",
+          "reading": "きかい"
+        },
+        {
+          "surface": "使",
+          "reading": "つか"
+        },
+        {
+          "surface": "英語",
+          "reading": "えいご"
+        },
+        {
+          "surface": "中国語",
+          "reading": "ちゅうごくご"
+        },
+        {
+          "surface": "言葉",
+          "reading": "ことば"
+        },
+        {
+          "surface": "逃",
+          "reading": "に"
+        },
+        {
+          "surface": "言",
+          "reading": "い"
+        },
+        {
+          "surface": "使",
+          "reading": "つか"
+        },
+        {
+          "surface": "空",
+          "reading": "そら"
+        },
+        {
+          "surface": "火事",
+          "reading": "かじ"
+        },
+        {
+          "surface": "練習",
+          "reading": "れんしゅう"
+        }
+      ]
+    },
+    {
+      "text": "姫路市の消防の人は「訓練を十分にして、火事からお城を守りたいです」と話しました。",
+      "tokens": [
+        {
+          "surface": "姫路市",
+          "reading": "ひめじし"
+        },
+        {
+          "surface": "消防",
+          "reading": "しょうぼう"
+        },
+        {
+          "surface": "人",
+          "reading": "ひと"
+        },
+        {
+          "surface": "訓練",
+          "reading": "くんれん"
+        },
+        {
+          "surface": "十分",
+          "reading": "じゅうぶん"
+        },
+        {
+          "surface": "火事",
+          "reading": "かじ"
+        },
+        {
+          "surface": "城",
+          "reading": "しろ"
+        },
+        {
+          "surface": "守",
+          "reading": "まも"
+        },
+        {
+          "surface": "話",
+          "reading": "はな"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "source": "nhk_easy",
+  "news_id": "ne2026010513545",
+  "url": "https://news.web.nhk/news/easy/ne2026010513545/ne2026010513545.html",
+  "title": "トランプ大統領ベネズエラの大統領を捕まえてアメリカに移す",
+  "date": "",
+  "sentences": [
+    {
+      "text": "2026年1月5日 19時30分",
+      "tokens": []
+    },
+    {
+      "text": "南米のベネズエラについてのニュースです。",
+      "tokens": [
+        {
+          "surface": "南米",
+          "reading": "なんべい"
+        }
+      ]
+    },
+    {
+      "text": "アメリカの軍は、3日、ベネズエラに入って、マドゥーロ大統領を捕まえました。そしてニューヨークに連れて行きました。アメリカはマドゥーロ大統領が、麻薬の密輸に関係したとしています。",
+      "tokens": [
+        {
+          "surface": "軍",
+          "reading": "ぐん"
+        },
+        {
+          "surface": "3日",
+          "reading": "みっか"
+        },
+        {
+          "surface": "入",
+          "reading": "はい"
+        },
+        {
+          "surface": "大統領",
+          "reading": "だいとうりょう"
+        },
+        {
+          "surface": "捕",
+          "reading": "つか"
+        },
+        {
+          "surface": "連",
+          "reading": "つ"
+        },
+        {
+          "surface": "行",
+          "reading": "い"
+        },
+        {
+          "surface": "大統領",
+          "reading": "だいとうりょう"
+        },
+        {
+          "surface": "麻薬",
+          "reading": "まやく"
+        },
+        {
+          "surface": "密輸",
+          "reading": "みつゆ"
+        },
+        {
+          "surface": "関係",
+          "reading": "かんけい"
+        }
+      ]
+    },
+    {
+      "text": "ベネズエラは国内に大統領がいなくなりました。記者たちは、トランプ大統領に誰がベネズエラの政治に責任を持つか聞きました。トランプ大統領は、アメリカがベネズエラのすべてのことに関係していくという考えを言いました。",
+      "tokens": [
+        {
+          "surface": "国内",
+          "reading": "こくない"
+        },
+        {
+          "surface": "大統領",
+          "reading": "だいとうりょう"
+        },
+        {
+          "surface": "記者",
+          "reading": "きしゃ"
+        },
+        {
+          "surface": "大統領",
+          "reading": "だいとうりょう"
+        },
+        {
+          "surface": "誰",
+          "reading": "だれ"
+        },
+        {
+          "surface": "政治",
+          "reading": "せいじ"
+        },
+        {
+          "surface": "責任",
+          "reading": "せきにん"
+        },
+        {
+          "surface": "持",
+          "reading": "も"
+        },
+        {
+          "surface": "聞",
+          "reading": "き"
+        },
+        {
+          "surface": "大統領",
+          "reading": "だいとうりょう"
+        },
+        {
+          "surface": "関係",
+          "reading": "かんけい"
+        },
+        {
+          "surface": "考",
+          "reading": "かんが"
+        },
+        {
+          "surface": "言",
+          "reading": "い"
+        }
+      ]
+    },
+    {
+      "text": "アメリカがしたことについて、国連のグテーレス事務総長は、国と国の間で守らなければならない国際法に違反しているという考えを話しています。",
+      "tokens": [
+        {
+          "surface": "国連",
+          "reading": "こくれん"
+        },
+        {
+          "surface": "事務総長",
+          "reading": "じむそうちょう"
+        },
+        {
+          "surface": "国",
+          "reading": "くに"
+        },
+        {
+          "surface": "国",
+          "reading": "くに"
+        },
+        {
+          "surface": "間",
+          "reading": "あいだ"
+        },
+        {
+          "surface": "守",
+          "reading": "まも"
+        },
+        {
+          "surface": "国際法",
+          "reading": "こくさいほう"
+        },
+        {
+          "surface": "違反",
+          "reading": "いはん"
+        },
+        {
+          "surface": "考",
+          "reading": "かんが"
+        },
+        {
+          "surface": "話",
+          "reading": "はな"
+        }
+      ]
+    }
+  ]
+}

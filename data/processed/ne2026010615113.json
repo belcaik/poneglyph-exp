@@ -1,0 +1,195 @@
+{
+  "source": "nhk_easy",
+  "news_id": "ne2026010615113",
+  "url": "https://news.web.nhk/news/easy/ne2026010615113/ne2026010615113.html",
+  "title": "鳥取県と島根県で強い地震",
+  "date": "",
+  "sentences": [
+    {
+      "text": "2026年1月6日 19時30分",
+      "tokens": []
+    },
+    {
+      "text": "6日の午前、鳥取県と島根県で強い地震がありました。",
+      "tokens": [
+        {
+          "surface": "6日",
+          "reading": "むいか"
+        },
+        {
+          "surface": "午前",
+          "reading": "ごぜん"
+        },
+        {
+          "surface": "鳥取県",
+          "reading": "とっとりけん"
+        },
+        {
+          "surface": "島根県",
+          "reading": "しまねけん"
+        },
+        {
+          "surface": "強",
+          "reading": "つよ"
+        },
+        {
+          "surface": "地震",
+          "reading": "じしん"
+        }
+      ]
+    },
+    {
+      "text": "いちばん強く揺れた場所は、鳥取県の境港市、島根県の松江市と安来市などで、震度5強でした。",
+      "tokens": [
+        {
+          "surface": "強",
+          "reading": "つよ"
+        },
+        {
+          "surface": "揺",
+          "reading": "ゆ"
+        },
+        {
+          "surface": "場所",
+          "reading": "ばしょ"
+        },
+        {
+          "surface": "鳥取県",
+          "reading": "とっとりけん"
+        },
+        {
+          "surface": "境港市",
+          "reading": "さかいみなとし"
+        },
+        {
+          "surface": "島根県",
+          "reading": "しまねけん"
+        },
+        {
+          "surface": "松江市",
+          "reading": "まつえし"
+        },
+        {
+          "surface": "安来市",
+          "reading": "やすぎし"
+        },
+        {
+          "surface": "震度",
+          "reading": "しんど"
+        },
+        {
+          "surface": "強",
+          "reading": "きょう"
+        }
+      ]
+    },
+    {
+      "text": "地震で、部屋の中で転んだりしてけがをした人がいます。松江市では3人が病院に運ばれました。",
+      "tokens": [
+        {
+          "surface": "地震",
+          "reading": "じしん"
+        },
+        {
+          "surface": "部屋",
+          "reading": "へや"
+        },
+        {
+          "surface": "中",
+          "reading": "なか"
+        },
+        {
+          "surface": "転",
+          "reading": "ころ"
+        },
+        {
+          "surface": "人",
+          "reading": "ひと"
+        },
+        {
+          "surface": "松江市",
+          "reading": "まつえし"
+        },
+        {
+          "surface": "人",
+          "reading": "にん"
+        },
+        {
+          "surface": "病院",
+          "reading": "びょういん"
+        },
+        {
+          "surface": "運",
+          "reading": "はこ"
+        }
+      ]
+    },
+    {
+      "text": "境港市の小学校では、窓のガラスが20枚ぐらい壊れました。",
+      "tokens": [
+        {
+          "surface": "境港市",
+          "reading": "さかいみなとし"
+        },
+        {
+          "surface": "小学校",
+          "reading": "しょうがっこう"
+        },
+        {
+          "surface": "窓",
+          "reading": "まど"
+        },
+        {
+          "surface": "枚",
+          "reading": "まい"
+        },
+        {
+          "surface": "壊",
+          "reading": "こわ"
+        }
+      ]
+    },
+    {
+      "text": "道に石が落ちて通ることができないところもあります。",
+      "tokens": [
+        {
+          "surface": "道",
+          "reading": "みち"
+        },
+        {
+          "surface": "石",
+          "reading": "いし"
+        },
+        {
+          "surface": "落",
+          "reading": "お"
+        },
+        {
+          "surface": "通",
+          "reading": "とお"
+        }
+      ]
+    },
+    {
+      "text": "鳥取県や島根県では、そのあとも地震が続いています。",
+      "tokens": [
+        {
+          "surface": "鳥取県",
+          "reading": "とっとりけん"
+        },
+        {
+          "surface": "島根県",
+          "reading": "しまねけん"
+        },
+        {
+          "surface": "地震",
+          "reading": "じしん"
+        },
+        {
+          "surface": "続",
+          "reading": "つづ"
+        }
+      ]
+    }
+  ]
+}
