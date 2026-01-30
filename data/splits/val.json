@@ -1,0 +1,1336 @@
+[
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012911544",
+    "text": "雪のため、北海道のJR札幌駅で、29日午後9時から列車の運転が止まります。",
+    "tokens": [
+      {
+        "surface": "雪",
+        "reading": "ゆき"
+      },
+      {
+        "surface": "北海道",
+        "reading": "ほっかいどう"
+      },
+      {
+        "surface": "札幌駅",
+        "reading": "さっぽろえき"
+      },
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "午後",
+        "reading": "ごご"
+      },
+      {
+        "surface": "時",
+        "reading": "じ"
+      },
+      {
+        "surface": "列車",
+        "reading": "れっしゃ"
+      },
+      {
+        "surface": "運転",
+        "reading": "うんてん"
+      },
+      {
+        "surface": "止",
+        "reading": "と"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012911544",
+    "text": "北海道では、1月25日から、雪がたくさん降りました。",
+    "tokens": [
+      {
+        "surface": "北海道",
+        "reading": "ほっかいどう"
+      },
+      {
+        "surface": "月",
+        "reading": "がつ"
+      },
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "雪",
+        "reading": "ゆき"
+      },
+      {
+        "surface": "降",
+        "reading": "ふ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012911544",
+    "text": "JRは29日夜、札幌駅の全部の列車の運転を止めて、雪を片づける作業をします。28日の夜も、列車を止めて作業をしました。",
+    "tokens": [
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "夜",
+        "reading": "よる"
+      },
+      {
+        "surface": "札幌駅",
+        "reading": "さっぽろえき"
+      },
+      {
+        "surface": "全部",
+        "reading": "ぜんぶ"
+      },
+      {
+        "surface": "列車",
+        "reading": "れっしゃ"
+      },
+      {
+        "surface": "運転",
+        "reading": "うんてん"
+      },
+      {
+        "surface": "止",
+        "reading": "と"
+      },
+      {
+        "surface": "雪",
+        "reading": "ゆき"
+      },
+      {
+        "surface": "片",
+        "reading": "かた"
+      },
+      {
+        "surface": "作業",
+        "reading": "さぎょう"
+      },
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "夜",
+        "reading": "よる"
+      },
+      {
+        "surface": "列車",
+        "reading": "れっしゃ"
+      },
+      {
+        "surface": "止",
+        "reading": "と"
+      },
+      {
+        "surface": "作業",
+        "reading": "さぎょう"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012911544",
+    "text": "JRは、ウェブサイトで列車の情報をチェックしてほしいと言っています。",
+    "tokens": [
+      {
+        "surface": "列車",
+        "reading": "れっしゃ"
+      },
+      {
+        "surface": "情報",
+        "reading": "じょうほう"
+      },
+      {
+        "surface": "言",
+        "reading": "い"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012911544",
+    "text": "新千歳空港と札幌の間を走っている列車も止まります。空港の会社は、空港から札幌に向かうバスを特別に出して、飛行機の客を運ぶ予定です。",
+    "tokens": [
+      {
+        "surface": "新千歳空港",
+        "reading": "しんちとせくうこう"
+      },
+      {
+        "surface": "札幌",
+        "reading": "さっぽろ"
+      },
+      {
+        "surface": "間",
+        "reading": "あいだ"
+      },
+      {
+        "surface": "走",
+        "reading": "はし"
+      },
+      {
+        "surface": "列車",
+        "reading": "れっしゃ"
+      },
+      {
+        "surface": "止",
+        "reading": "と"
+      },
+      {
+        "surface": "空港",
+        "reading": "くうこう"
+      },
+      {
+        "surface": "会社",
+        "reading": "かいしゃ"
+      },
+      {
+        "surface": "空港",
+        "reading": "くうこう"
+      },
+      {
+        "surface": "札幌",
+        "reading": "さっぽろ"
+      },
+      {
+        "surface": "向",
+        "reading": "む"
+      },
+      {
+        "surface": "特別",
+        "reading": "とくべつ"
+      },
+      {
+        "surface": "出",
+        "reading": "だ"
+      },
+      {
+        "surface": "飛行機",
+        "reading": "ひこうき"
+      },
+      {
+        "surface": "客",
+        "reading": "きゃく"
+      },
+      {
+        "surface": "運",
+        "reading": "はこ"
+      },
+      {
+        "surface": "予定",
+        "reading": "よてい"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012911368",
+    "text": "2月、野菜の値段がどうなりそうか、農林水産省が発表しました。",
+    "tokens": [
+      {
+        "surface": "月",
+        "reading": "がつ"
+      },
+      {
+        "surface": "野菜",
+        "reading": "やさい"
+      },
+      {
+        "surface": "値段",
+        "reading": "ねだん"
+      },
+      {
+        "surface": "農林水産省",
+        "reading": "のうりんすいさんしょう"
+      },
+      {
+        "surface": "発表",
+        "reading": "はっぴょう"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012911368",
+    "text": "特に値段が高くなるのは、じゃがいもとたまねぎです。今まで5年の平均より30％以上、高くなりそうです。じゃがいもとたまねぎがたくさんとれる北海道で夏に気温が高かったため、市場へ出す量がいつもの年より少なくなりそうです。",
+    "tokens": [
+      {
+        "surface": "特",
+        "reading": "とく"
+      },
+      {
+        "surface": "値段",
+        "reading": "ねだん"
+      },
+      {
+        "surface": "高",
+        "reading": "たか"
+      },
+      {
+        "surface": "今",
+        "reading": "いま"
+      },
+      {
+        "surface": "年",
+        "reading": "ねん"
+      },
+      {
+        "surface": "平均",
+        "reading": "へいきん"
+      },
+      {
+        "surface": "以上",
+        "reading": "いじょう"
+      },
+      {
+        "surface": "高",
+        "reading": "たか"
+      },
+      {
+        "surface": "北海道",
+        "reading": "ほっかいどう"
+      },
+      {
+        "surface": "夏",
+        "reading": "なつ"
+      },
+      {
+        "surface": "気温",
+        "reading": "きおん"
+      },
+      {
+        "surface": "高",
+        "reading": "たか"
+      },
+      {
+        "surface": "市場",
+        "reading": "しじょう"
+      },
+      {
+        "surface": "出",
+        "reading": "だ"
+      },
+      {
+        "surface": "量",
+        "reading": "りょう"
+      },
+      {
+        "surface": "年",
+        "reading": "とし"
+      },
+      {
+        "surface": "少",
+        "reading": "すく"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012911368",
+    "text": "さといもとにんじんは、10％から30％ぐらい高くなりそうです。低い気温や雨が続いたためです。",
+    "tokens": [
+      {
+        "surface": "高",
+        "reading": "たか"
+      },
+      {
+        "surface": "低",
+        "reading": "ひく"
+      },
+      {
+        "surface": "気温",
+        "reading": "きおん"
+      },
+      {
+        "surface": "雨",
+        "reading": "あめ"
+      },
+      {
+        "surface": "続",
+        "reading": "つづ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012911368",
+    "text": "だいこんとキャベツは、2月の前半はいつもの年より10％以上安くなりそうです。",
+    "tokens": [
+      {
+        "surface": "月",
+        "reading": "がつ"
+      },
+      {
+        "surface": "前半",
+        "reading": "ぜんはん"
+      },
+      {
+        "surface": "年",
+        "reading": "とし"
+      },
+      {
+        "surface": "以上",
+        "reading": "いじょう"
+      },
+      {
+        "surface": "安",
+        "reading": "やす"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026010611477",
+    "text": "アメリカの軍は3日、南米のベネズエラのマドゥーロ大統領と妻の2人を捕まえました。",
+    "tokens": [
+      {
+        "surface": "軍",
+        "reading": "ぐん"
+      },
+      {
+        "surface": "3日",
+        "reading": "みっか"
+      },
+      {
+        "surface": "南米",
+        "reading": "なんべい"
+      },
+      {
+        "surface": "大統領",
+        "reading": "だいとうりょう"
+      },
+      {
+        "surface": "妻",
+        "reading": "つま"
+      },
+      {
+        "surface": "2人",
+        "reading": "ふたり"
+      },
+      {
+        "surface": "捕",
+        "reading": "つか"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026010611477",
+    "text": "そして5日、ニューヨークの裁判所で、2人の裁判が始まりました。",
+    "tokens": [
+      {
+        "surface": "5日",
+        "reading": "いつか"
+      },
+      {
+        "surface": "裁判所",
+        "reading": "さいばんしょ"
+      },
+      {
+        "surface": "2人",
+        "reading": "ふたり"
+      },
+      {
+        "surface": "裁判",
+        "reading": "さいばん"
+      },
+      {
+        "surface": "始",
+        "reading": "はじ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026010611477",
+    "text": "2人は、法律に違反して、コカインという麻薬をアメリカにたくさん入れたとされています。マドゥーロ大統領と妻は、自分たちは悪いことはしていないと言いました。",
+    "tokens": [
+      {
+        "surface": "2人",
+        "reading": "ふたり"
+      },
+      {
+        "surface": "法律",
+        "reading": "ほうりつ"
+      },
+      {
+        "surface": "違反",
+        "reading": "いはん"
+      },
+      {
+        "surface": "麻薬",
+        "reading": "まやく"
+      },
+      {
+        "surface": "入",
+        "reading": "い"
+      },
+      {
+        "surface": "大統領",
+        "reading": "だいとうりょう"
+      },
+      {
+        "surface": "妻",
+        "reading": "つま"
+      },
+      {
+        "surface": "自分",
+        "reading": "じぶん"
+      },
+      {
+        "surface": "悪",
+        "reading": "わる"
+      },
+      {
+        "surface": "言",
+        "reading": "い"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026010611477",
+    "text": "次の裁判は3月17日の予定です。",
+    "tokens": [
+      {
+        "surface": "次",
+        "reading": "つぎ"
+      },
+      {
+        "surface": "裁判",
+        "reading": "さいばん"
+      },
+      {
+        "surface": "月",
+        "reading": "がつ"
+      },
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "予定",
+        "reading": "よてい"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026010611477",
+    "text": "5日は、安全と平和を守るための国連の会議がありました。会議では、軍を使って大統領を捕まえたアメリカのやり方は間違っていると、いろいろな国から意見や心配の声がありました。",
+    "tokens": [
+      {
+        "surface": "5日",
+        "reading": "いつか"
+      },
+      {
+        "surface": "安全",
+        "reading": "あんぜん"
+      },
+      {
+        "surface": "平和",
+        "reading": "へいわ"
+      },
+      {
+        "surface": "守",
+        "reading": "まも"
+      },
+      {
+        "surface": "国連",
+        "reading": "こくれん"
+      },
+      {
+        "surface": "会議",
+        "reading": "かいぎ"
+      },
+      {
+        "surface": "会議",
+        "reading": "かいぎ"
+      },
+      {
+        "surface": "軍",
+        "reading": "ぐん"
+      },
+      {
+        "surface": "使",
+        "reading": "つか"
+      },
+      {
+        "surface": "大統領",
+        "reading": "だいとうりょう"
+      },
+      {
+        "surface": "捕",
+        "reading": "つか"
+      },
+      {
+        "surface": "方",
+        "reading": "かた"
+      },
+      {
+        "surface": "間違",
+        "reading": "まちが"
+      },
+      {
+        "surface": "国",
+        "reading": "くに"
+      },
+      {
+        "surface": "意見",
+        "reading": "いけん"
+      },
+      {
+        "surface": "心配",
+        "reading": "しんぱい"
+      },
+      {
+        "surface": "声",
+        "reading": "こえ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012211550",
+    "text": "とても冷たい空気が入って、日本海側などで雪が降っています。",
+    "tokens": [
+      {
+        "surface": "冷",
+        "reading": "つめ"
+      },
+      {
+        "surface": "空気",
+        "reading": "くうき"
+      },
+      {
+        "surface": "入",
+        "reading": "はい"
+      },
+      {
+        "surface": "日本海",
+        "reading": "にほんかい"
+      },
+      {
+        "surface": "側",
+        "reading": "がわ"
+      },
+      {
+        "surface": "雪",
+        "reading": "ゆき"
+      },
+      {
+        "surface": "降",
+        "reading": "ふ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012211550",
+    "text": "特に石川県と滋賀県などで、たくさん雪が降りました。",
+    "tokens": [
+      {
+        "surface": "特",
+        "reading": "とく"
+      },
+      {
+        "surface": "石川県",
+        "reading": "いしかわけん"
+      },
+      {
+        "surface": "滋賀県",
+        "reading": "しがけん"
+      },
+      {
+        "surface": "雪",
+        "reading": "ゆき"
+      },
+      {
+        "surface": "降",
+        "reading": "ふ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012211550",
+    "text": "気象庁によると、23日の夕方までに新潟県の多い所で80cm、東北地方と北陸地方の多い所で70cmの雪が降りそうです。",
+    "tokens": [
+      {
+        "surface": "気象庁",
+        "reading": "きしょうちょう"
+      },
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "夕方",
+        "reading": "ゆうがた"
+      },
+      {
+        "surface": "新潟県",
+        "reading": "にいがたけん"
+      },
+      {
+        "surface": "多",
+        "reading": "おお"
+      },
+      {
+        "surface": "所",
+        "reading": "ところ"
+      },
+      {
+        "surface": "東北地方",
+        "reading": "とうほくちほう"
+      },
+      {
+        "surface": "北陸地方",
+        "reading": "ほくりくちほう"
+      },
+      {
+        "surface": "多",
+        "reading": "おお"
+      },
+      {
+        "surface": "所",
+        "reading": "ところ"
+      },
+      {
+        "surface": "雪",
+        "reading": "ゆき"
+      },
+      {
+        "surface": "降",
+        "reading": "ふ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012211550",
+    "text": "そのあともたくさん雪が降って、特に、24日と25日は大雪になる心配があります。",
+    "tokens": [
+      {
+        "surface": "雪",
+        "reading": "ゆき"
+      },
+      {
+        "surface": "降",
+        "reading": "ふ"
+      },
+      {
+        "surface": "特",
+        "reading": "とく"
+      },
+      {
+        "surface": "24",
+        "reading": "にじゅうよっ"
+      },
+      {
+        "surface": "日",
+        "reading": "か"
+      },
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "大雪",
+        "reading": "おおゆき"
+      },
+      {
+        "surface": "心配",
+        "reading": "しんぱい"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012211550",
+    "text": "雪のために、多くの車が、道で動くことができなくなるかもしれません。",
+    "tokens": [
+      {
+        "surface": "雪",
+        "reading": "ゆき"
+      },
+      {
+        "surface": "多",
+        "reading": "おお"
+      },
+      {
+        "surface": "車",
+        "reading": "くるま"
+      },
+      {
+        "surface": "道",
+        "reading": "みち"
+      },
+      {
+        "surface": "動",
+        "reading": "うご"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012211550",
+    "text": "どうしても車を運転しなければならない人は、必ず冬のタイヤやチェーンを使ってください。",
+    "tokens": [
+      {
+        "surface": "車",
+        "reading": "くるま"
+      },
+      {
+        "surface": "運転",
+        "reading": "うんてん"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと"
+      },
+      {
+        "surface": "必",
+        "reading": "かなら"
+      },
+      {
+        "surface": "冬",
+        "reading": "ふゆ"
+      },
+      {
+        "surface": "使",
+        "reading": "つか"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012611560",
+    "text": "大相撲のニュースです。",
+    "tokens": [
+      {
+        "surface": "大相撲",
+        "reading": "おおずもう"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012611560",
+    "text": "大関の安青錦が2回目の優勝をしました。",
+    "tokens": [
+      {
+        "surface": "大関",
+        "reading": "おおぜき"
+      },
+      {
+        "surface": "安青錦",
+        "reading": "あおにしき"
+      },
+      {
+        "surface": "回",
+        "reading": "かい"
+      },
+      {
+        "surface": "目",
+        "reading": "め"
+      },
+      {
+        "surface": "優勝",
+        "reading": "ゆうしょう"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012611560",
+    "text": "安青錦はウクライナの人です。去年11月に、上から2番目の「大関」になりました。",
+    "tokens": [
+      {
+        "surface": "安青錦",
+        "reading": "あおにしき"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと"
+      },
+      {
+        "surface": "去年",
+        "reading": "きょねん"
+      },
+      {
+        "surface": "月",
+        "reading": "がつ"
+      },
+      {
+        "surface": "上",
+        "reading": "うえ"
+      },
+      {
+        "surface": "番目",
+        "reading": "ばんめ"
+      },
+      {
+        "surface": "大関",
+        "reading": "おおぜき"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012611560",
+    "text": "25日は、優勝を決める相撲で、熱海富士に勝ちました。大関になって初めて出た大相撲で優勝した人は、20年の間、いませんでした。",
+    "tokens": [
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "優勝",
+        "reading": "ゆうしょう"
+      },
+      {
+        "surface": "決",
+        "reading": "き"
+      },
+      {
+        "surface": "相撲",
+        "reading": "すもう"
+      },
+      {
+        "surface": "熱海",
+        "reading": "あたみ"
+      },
+      {
+        "surface": "富士",
+        "reading": "ふじ"
+      },
+      {
+        "surface": "勝",
+        "reading": "か"
+      },
+      {
+        "surface": "大関",
+        "reading": "おおぜき"
+      },
+      {
+        "surface": "初",
+        "reading": "はじ"
+      },
+      {
+        "surface": "出",
+        "reading": "で"
+      },
+      {
+        "surface": "大相撲",
+        "reading": "おおずもう"
+      },
+      {
+        "surface": "優勝",
+        "reading": "ゆうしょう"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと"
+      },
+      {
+        "surface": "年",
+        "reading": "ねん"
+      },
+      {
+        "surface": "間",
+        "reading": "あいだ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012611560",
+    "text": "安青錦は「いつものように自分らしい相撲をすれば、よい結果が出ると思いました」と話しました。",
+    "tokens": [
+      {
+        "surface": "安青錦",
+        "reading": "あおにしき"
+      },
+      {
+        "surface": "自分",
+        "reading": "じぶん"
+      },
+      {
+        "surface": "相撲",
+        "reading": "すもう"
+      },
+      {
+        "surface": "結果",
+        "reading": "けっか"
+      },
+      {
+        "surface": "出",
+        "reading": "で"
+      },
+      {
+        "surface": "思",
+        "reading": "おも"
+      },
+      {
+        "surface": "話",
+        "reading": "はな"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012611560",
+    "text": "安青錦は3月の大相撲で、1番上の「横綱」を目指します。",
+    "tokens": [
+      {
+        "surface": "安青錦",
+        "reading": "あおにしき"
+      },
+      {
+        "surface": "月",
+        "reading": "がつ"
+      },
+      {
+        "surface": "大相撲",
+        "reading": "おおずもう"
+      },
+      {
+        "surface": "番",
+        "reading": "ばん"
+      },
+      {
+        "surface": "上",
+        "reading": "うえ"
+      },
+      {
+        "surface": "横綱",
+        "reading": "よこづな"
+      },
+      {
+        "surface": "目指",
+        "reading": "めざ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026010711566",
+    "text": "アメリカのラスベガスで、AIなどの新しい技術を紹介するイベントが始まりました。",
+    "tokens": [
+      {
+        "surface": "新",
+        "reading": "あたら"
+      },
+      {
+        "surface": "技術",
+        "reading": "ぎじゅつ"
+      },
+      {
+        "surface": "紹介",
+        "reading": "しょうかい"
+      },
+      {
+        "surface": "始",
+        "reading": "はじ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026010711566",
+    "text": "世界から4000以上の会社や団体が集まっています。今年は、AIを使った人の形のロボットが多くなっています。",
+    "tokens": [
+      {
+        "surface": "世界",
+        "reading": "せかい"
+      },
+      {
+        "surface": "以上",
+        "reading": "いじょう"
+      },
+      {
+        "surface": "会社",
+        "reading": "かいしゃ"
+      },
+      {
+        "surface": "団体",
+        "reading": "だんたい"
+      },
+      {
+        "surface": "集",
+        "reading": "あつ"
+      },
+      {
+        "surface": "今年",
+        "reading": "ことし"
+      },
+      {
+        "surface": "使",
+        "reading": "つか"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと"
+      },
+      {
+        "surface": "形",
+        "reading": "かたち"
+      },
+      {
+        "surface": "多",
+        "reading": "おお"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026010711566",
+    "text": "中国の会社のロボットは、部屋に落ちている服を洗濯機まで運んだり、お茶を入れたりしました。アメリカの会社のロボットは話す人の顔をよく見ています。そして、その人の気持ちを考えて答えたり案内したりします。",
+    "tokens": [
+      {
+        "surface": "中国",
+        "reading": "ちゅうごく"
+      },
+      {
+        "surface": "会社",
+        "reading": "かいしゃ"
+      },
+      {
+        "surface": "部屋",
+        "reading": "へや"
+      },
+      {
+        "surface": "落",
+        "reading": "お"
+      },
+      {
+        "surface": "服",
+        "reading": "ふく"
+      },
+      {
+        "surface": "洗濯機",
+        "reading": "せんたくき"
+      },
+      {
+        "surface": "運",
+        "reading": "はこ"
+      },
+      {
+        "surface": "茶",
+        "reading": "ちゃ"
+      },
+      {
+        "surface": "入",
+        "reading": "い"
+      },
+      {
+        "surface": "会社",
+        "reading": "かいしゃ"
+      },
+      {
+        "surface": "話",
+        "reading": "はな"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと"
+      },
+      {
+        "surface": "顔",
+        "reading": "かお"
+      },
+      {
+        "surface": "見",
+        "reading": "み"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと"
+      },
+      {
+        "surface": "気持",
+        "reading": "きも"
+      },
+      {
+        "surface": "考",
+        "reading": "かんが"
+      },
+      {
+        "surface": "答",
+        "reading": "こた"
+      },
+      {
+        "surface": "案内",
+        "reading": "あんない"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026010711566",
+    "text": "このイベントは今月9日までです。",
+    "tokens": [
+      {
+        "surface": "今月",
+        "reading": "こんげつ"
+      },
+      {
+        "surface": "9日",
+        "reading": "ここのか"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012611182",
+    "text": "日本にパンダがいなくなります。上野動物園の双子のパンダ「シャオシャオ」と「レイレイ」は27日、中国に帰る予定です。",
+    "tokens": [
+      {
+        "surface": "日本",
+        "reading": "にっぽん"
+      },
+      {
+        "surface": "上野動物園",
+        "reading": "うえのどうぶつえん"
+      },
+      {
+        "surface": "双子",
+        "reading": "ふたご"
+      },
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "中国",
+        "reading": "ちゅうごく"
+      },
+      {
+        "surface": "帰",
+        "reading": "かえ"
+      },
+      {
+        "surface": "予定",
+        "reading": "よてい"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012611182",
+    "text": "25日は、パンダを見ることができる最後の日でした。パンダを見るためには予約が必要でした。見ることができたのは4400人でした。",
+    "tokens": [
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "見",
+        "reading": "み"
+      },
+      {
+        "surface": "最後",
+        "reading": "さいご"
+      },
+      {
+        "surface": "日",
+        "reading": "ひ"
+      },
+      {
+        "surface": "見",
+        "reading": "み"
+      },
+      {
+        "surface": "予約",
+        "reading": "よやく"
+      },
+      {
+        "surface": "必要",
+        "reading": "ひつよう"
+      },
+      {
+        "surface": "見",
+        "reading": "み"
+      },
+      {
+        "surface": "人",
+        "reading": "にん"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012611182",
+    "text": "2頭はいつものように、竹を食べたり歩いたりしていました。",
+    "tokens": [
+      {
+        "surface": "頭",
+        "reading": "とう"
+      },
+      {
+        "surface": "竹",
+        "reading": "たけ"
+      },
+      {
+        "surface": "食",
+        "reading": "た"
+      },
+      {
+        "surface": "歩",
+        "reading": "ある"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012611182",
+    "text": "60歳ぐらいの女性は「涙が出ました。子どもたちのために、パンダにまた日本に来てほしいと思います」と話しました。",
+    "tokens": [
+      {
+        "surface": "歳",
+        "reading": "さい"
+      },
+      {
+        "surface": "女性",
+        "reading": "じょせい"
+      },
+      {
+        "surface": "涙",
+        "reading": "なみだ"
+      },
+      {
+        "surface": "出",
+        "reading": "で"
+      },
+      {
+        "surface": "子",
+        "reading": "こ"
+      },
+      {
+        "surface": "日本",
+        "reading": "にっぽん"
+      },
+      {
+        "surface": "来",
+        "reading": "き"
+      },
+      {
+        "surface": "思",
+        "reading": "おも"
+      },
+      {
+        "surface": "話",
+        "reading": "はな"
+      }
+    ]
+  }
+]

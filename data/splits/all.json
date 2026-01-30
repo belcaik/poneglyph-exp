@@ -1,0 +1,9653 @@
+[
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012112132",
+    "text": "有名な車のレース「F1」のニュースです。",
+    "tokens": [
+      {
+        "surface": "有名",
+        "reading": "ゆうめい"
+      },
+      {
+        "surface": "車",
+        "reading": "くるま"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012112132",
+    "text": "ホンダは2021年からF1に出ることをやめていましたが、今年からまた出る予定です。",
+    "tokens": [
+      {
+        "surface": "年",
+        "reading": "ねん"
+      },
+      {
+        "surface": "出",
+        "reading": "で"
+      },
+      {
+        "surface": "今年",
+        "reading": "ことし"
+      },
+      {
+        "surface": "出",
+        "reading": "で"
+      },
+      {
+        "surface": "予定",
+        "reading": "よてい"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012112132",
+    "text": "ホンダの社長は「F1は人と技術をよくしていくために大切なレースです」と言いました。そして「世界でいちばんになるように頑張ります」と言いました。",
+    "tokens": [
+      {
+        "surface": "社長",
+        "reading": "しゃちょう"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと"
+      },
+      {
+        "surface": "技術",
+        "reading": "ぎじゅつ"
+      },
+      {
+        "surface": "大切",
+        "reading": "たいせつ"
+      },
+      {
+        "surface": "言",
+        "reading": "い"
+      },
+      {
+        "surface": "世界",
+        "reading": "せかい"
+      },
+      {
+        "surface": "頑張",
+        "reading": "がんば"
+      },
+      {
+        "surface": "言",
+        "reading": "い"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012112132",
+    "text": "F1は、環境のことを考えてルールを変えています。今年から、車に使う燃料を、二酸化炭素を増やさない新しい燃料にします。電気エネルギーを今までより多く使います。",
+    "tokens": [
+      {
+        "surface": "環境",
+        "reading": "かんきょう"
+      },
+      {
+        "surface": "考",
+        "reading": "かんが"
+      },
+      {
+        "surface": "変",
+        "reading": "か"
+      },
+      {
+        "surface": "今年",
+        "reading": "ことし"
+      },
+      {
+        "surface": "車",
+        "reading": "くるま"
+      },
+      {
+        "surface": "使",
+        "reading": "つか"
+      },
+      {
+        "surface": "燃料",
+        "reading": "ねんりょう"
+      },
+      {
+        "surface": "二酸化炭素",
+        "reading": "にさんかたんそ"
+      },
+      {
+        "surface": "増",
+        "reading": "ふ"
+      },
+      {
+        "surface": "新",
+        "reading": "あたら"
+      },
+      {
+        "surface": "燃料",
+        "reading": "ねんりょう"
+      },
+      {
+        "surface": "電気",
+        "reading": "でんき"
+      },
+      {
+        "surface": "今",
+        "reading": "いま"
+      },
+      {
+        "surface": "多",
+        "reading": "おお"
+      },
+      {
+        "surface": "使",
+        "reading": "つか"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012112132",
+    "text": "ホンダは、このような新しい技術に力を入れると言っています。",
+    "tokens": [
+      {
+        "surface": "新",
+        "reading": "あたら"
+      },
+      {
+        "surface": "技術",
+        "reading": "ぎじゅつ"
+      },
+      {
+        "surface": "力",
+        "reading": "ちから"
+      },
+      {
+        "surface": "入",
+        "reading": "い"
+      },
+      {
+        "surface": "言",
+        "reading": "い"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012011482",
+    "text": "日本へ旅行に来た外国人が、初めて1年間で4000万人以上になりました。",
+    "tokens": [
+      {
+        "surface": "日本",
+        "reading": "にっぽん"
+      },
+      {
+        "surface": "旅行",
+        "reading": "りょこう"
+      },
+      {
+        "surface": "来",
+        "reading": "き"
+      },
+      {
+        "surface": "外国人",
+        "reading": "がいこくじん"
+      },
+      {
+        "surface": "初",
+        "reading": "はじ"
+      },
+      {
+        "surface": "年",
+        "reading": "ねん"
+      },
+      {
+        "surface": "間",
+        "reading": "かん"
+      },
+      {
+        "surface": "万",
+        "reading": "まん"
+      },
+      {
+        "surface": "人",
+        "reading": "にん"
+      },
+      {
+        "surface": "以上",
+        "reading": "いじょう"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012011482",
+    "text": "国によると、去年はおととしに比べて500万人以上増えて4270万人ぐらいでした。今までで1番多くなりました。",
+    "tokens": [
+      {
+        "surface": "国",
+        "reading": "くに"
+      },
+      {
+        "surface": "去年",
+        "reading": "きょねん"
+      },
+      {
+        "surface": "比",
+        "reading": "くら"
+      },
+      {
+        "surface": "万",
+        "reading": "まん"
+      },
+      {
+        "surface": "人",
+        "reading": "にん"
+      },
+      {
+        "surface": "以上",
+        "reading": "いじょう"
+      },
+      {
+        "surface": "増",
+        "reading": "ふ"
+      },
+      {
+        "surface": "万",
+        "reading": "まん"
+      },
+      {
+        "surface": "人",
+        "reading": "にん"
+      },
+      {
+        "surface": "今",
+        "reading": "いま"
+      },
+      {
+        "surface": "番",
+        "reading": "ばん"
+      },
+      {
+        "surface": "多",
+        "reading": "おお"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012011482",
+    "text": "国の観光を担当している大臣は「2030年には日本に来る外国人を6000万人にできるように頑張りたい」と話しました。",
+    "tokens": [
+      {
+        "surface": "国",
+        "reading": "くに"
+      },
+      {
+        "surface": "観光",
+        "reading": "かんこう"
+      },
+      {
+        "surface": "担当",
+        "reading": "たんとう"
+      },
+      {
+        "surface": "大臣",
+        "reading": "だいじん"
+      },
+      {
+        "surface": "年",
+        "reading": "ねん"
+      },
+      {
+        "surface": "日本",
+        "reading": "にっぽん"
+      },
+      {
+        "surface": "来",
+        "reading": "く"
+      },
+      {
+        "surface": "外国人",
+        "reading": "がいこくじん"
+      },
+      {
+        "surface": "万",
+        "reading": "まん"
+      },
+      {
+        "surface": "人",
+        "reading": "にん"
+      },
+      {
+        "surface": "頑張",
+        "reading": "がんば"
+      },
+      {
+        "surface": "話",
+        "reading": "はな"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012011482",
+    "text": "一方、去年12月に中国から来た人は、おととしに比べて45%ぐらい少なくなっています。",
+    "tokens": [
+      {
+        "surface": "一方",
+        "reading": "いっぽう"
+      },
+      {
+        "surface": "去年",
+        "reading": "きょねん"
+      },
+      {
+        "surface": "月",
+        "reading": "がつ"
+      },
+      {
+        "surface": "中国",
+        "reading": "ちゅうごく"
+      },
+      {
+        "surface": "来",
+        "reading": "き"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと"
+      },
+      {
+        "surface": "比",
+        "reading": "くら"
+      },
+      {
+        "surface": "少",
+        "reading": "すく"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011613547",
+    "text": "16日、東京を走るJRの山手線などが、朝から、止まりました。電気を流すことができなくなったためです。全部の電車が運転できるようになったのは、午後1時ごろでした。電車が止まって、67万人の人が困りました。",
+    "tokens": [
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "東京",
+        "reading": "とうきょう"
+      },
+      {
+        "surface": "走",
+        "reading": "はし"
+      },
+      {
+        "surface": "山手線",
+        "reading": "やまのてせん"
+      },
+      {
+        "surface": "朝",
+        "reading": "あさ"
+      },
+      {
+        "surface": "止",
+        "reading": "と"
+      },
+      {
+        "surface": "電気",
+        "reading": "でんき"
+      },
+      {
+        "surface": "流",
+        "reading": "なが"
+      },
+      {
+        "surface": "全部",
+        "reading": "ぜんぶ"
+      },
+      {
+        "surface": "電車",
+        "reading": "でんしゃ"
+      },
+      {
+        "surface": "運転",
+        "reading": "うんてん"
+      },
+      {
+        "surface": "午後",
+        "reading": "ごご"
+      },
+      {
+        "surface": "時",
+        "reading": "じ"
+      },
+      {
+        "surface": "電車",
+        "reading": "でんしゃ"
+      },
+      {
+        "surface": "止",
+        "reading": "と"
+      },
+      {
+        "surface": "万",
+        "reading": "まん"
+      },
+      {
+        "surface": "人",
+        "reading": "にん"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと"
+      },
+      {
+        "surface": "困",
+        "reading": "こま"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011613547",
+    "text": "田町駅にいた男性は「朝は会社に行くことができませんでした。電車の運転が始まってよかったです」と話していました。",
+    "tokens": [
+      {
+        "surface": "田町駅",
+        "reading": "たまちえき"
+      },
+      {
+        "surface": "男性",
+        "reading": "だんせい"
+      },
+      {
+        "surface": "朝",
+        "reading": "あさ"
+      },
+      {
+        "surface": "会社",
+        "reading": "かいしゃ"
+      },
+      {
+        "surface": "行",
+        "reading": "い"
+      },
+      {
+        "surface": "電車",
+        "reading": "でんしゃ"
+      },
+      {
+        "surface": "運転",
+        "reading": "うんてん"
+      },
+      {
+        "surface": "始",
+        "reading": "はじ"
+      },
+      {
+        "surface": "話",
+        "reading": "はな"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011613547",
+    "text": "JR東日本は、詳しい原因を調べています。",
+    "tokens": [
+      {
+        "surface": "東日本",
+        "reading": "ひがしにほん"
+      },
+      {
+        "surface": "詳",
+        "reading": "くわ"
+      },
+      {
+        "surface": "原因",
+        "reading": "げんいん"
+      },
+      {
+        "surface": "調",
+        "reading": "しら"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011411373",
+    "text": "静岡県にある原子力発電所のニュースです。",
+    "tokens": [
+      {
+        "surface": "静岡県",
+        "reading": "しずおかけん"
+      },
+      {
+        "surface": "原子力発電所",
+        "reading": "げんしりょくはつでんしょ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011411373",
+    "text": "中部電力の浜岡原子力発電所は、2011年の大きい地震のあと運転していません。安全に運転できるかどうか、国の原子力規制委員会がチェックをしています。",
+    "tokens": [
+      {
+        "surface": "中部電力",
+        "reading": "ちゅうぶでんりょく"
+      },
+      {
+        "surface": "浜岡",
+        "reading": "はまおか"
+      },
+      {
+        "surface": "原子力発電所",
+        "reading": "げんしりょくはつでんしょ"
+      },
+      {
+        "surface": "年",
+        "reading": "ねん"
+      },
+      {
+        "surface": "大",
+        "reading": "おお"
+      },
+      {
+        "surface": "地震",
+        "reading": "じしん"
+      },
+      {
+        "surface": "運転",
+        "reading": "うんてん"
+      },
+      {
+        "surface": "安全",
+        "reading": "あんぜん"
+      },
+      {
+        "surface": "運転",
+        "reading": "うんてん"
+      },
+      {
+        "surface": "国",
+        "reading": "くに"
+      },
+      {
+        "surface": "原子力規制委員会",
+        "reading": "げんしりょくきせいいいんかい"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011411373",
+    "text": "中部電力は今月5日、チェックに使うデータを選ぶときに、正しくない選び方をした疑いがあると言いました。将来あるかもしれない地震の大きさを小さく考えた可能性があります。",
+    "tokens": [
+      {
+        "surface": "中部電力",
+        "reading": "ちゅうぶでんりょく"
+      },
+      {
+        "surface": "今月",
+        "reading": "こんげつ"
+      },
+      {
+        "surface": "5日",
+        "reading": "いつか"
+      },
+      {
+        "surface": "使",
+        "reading": "つか"
+      },
+      {
+        "surface": "選",
+        "reading": "えら"
+      },
+      {
+        "surface": "正",
+        "reading": "ただ"
+      },
+      {
+        "surface": "選",
+        "reading": "えら"
+      },
+      {
+        "surface": "方",
+        "reading": "かた"
+      },
+      {
+        "surface": "疑",
+        "reading": "うたが"
+      },
+      {
+        "surface": "言",
+        "reading": "い"
+      },
+      {
+        "surface": "将来",
+        "reading": "しょうらい"
+      },
+      {
+        "surface": "地震",
+        "reading": "じしん"
+      },
+      {
+        "surface": "大",
+        "reading": "おお"
+      },
+      {
+        "surface": "小",
+        "reading": "ちい"
+      },
+      {
+        "surface": "考",
+        "reading": "かんが"
+      },
+      {
+        "surface": "可能性",
+        "reading": "かのうせい"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011411373",
+    "text": "委員会は14日、安全に運転できるかどうかのチェックを止めて、厳しく会社を調べることを決めました。調べる時間は長くかかりそうです。",
+    "tokens": [
+      {
+        "surface": "委員会",
+        "reading": "いいんかい"
+      },
+      {
+        "surface": "14日",
+        "reading": "じゅうよっか"
+      },
+      {
+        "surface": "安全",
+        "reading": "あんぜん"
+      },
+      {
+        "surface": "運転",
+        "reading": "うんてん"
+      },
+      {
+        "surface": "止",
+        "reading": "と"
+      },
+      {
+        "surface": "厳",
+        "reading": "きび"
+      },
+      {
+        "surface": "会社",
+        "reading": "かいしゃ"
+      },
+      {
+        "surface": "調",
+        "reading": "しら"
+      },
+      {
+        "surface": "決",
+        "reading": "き"
+      },
+      {
+        "surface": "調",
+        "reading": "しら"
+      },
+      {
+        "surface": "時間",
+        "reading": "じかん"
+      },
+      {
+        "surface": "長",
+        "reading": "なが"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026010615113",
+    "text": "6日の午前、鳥取県と島根県で強い地震がありました。",
+    "tokens": [
+      {
+        "surface": "6日",
+        "reading": "むいか"
+      },
+      {
+        "surface": "午前",
+        "reading": "ごぜん"
+      },
+      {
+        "surface": "鳥取県",
+        "reading": "とっとりけん"
+      },
+      {
+        "surface": "島根県",
+        "reading": "しまねけん"
+      },
+      {
+        "surface": "強",
+        "reading": "つよ"
+      },
+      {
+        "surface": "地震",
+        "reading": "じしん"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026010615113",
+    "text": "いちばん強く揺れた場所は、鳥取県の境港市、島根県の松江市と安来市などで、震度5強でした。",
+    "tokens": [
+      {
+        "surface": "強",
+        "reading": "つよ"
+      },
+      {
+        "surface": "揺",
+        "reading": "ゆ"
+      },
+      {
+        "surface": "場所",
+        "reading": "ばしょ"
+      },
+      {
+        "surface": "鳥取県",
+        "reading": "とっとりけん"
+      },
+      {
+        "surface": "境港市",
+        "reading": "さかいみなとし"
+      },
+      {
+        "surface": "島根県",
+        "reading": "しまねけん"
+      },
+      {
+        "surface": "松江市",
+        "reading": "まつえし"
+      },
+      {
+        "surface": "安来市",
+        "reading": "やすぎし"
+      },
+      {
+        "surface": "震度",
+        "reading": "しんど"
+      },
+      {
+        "surface": "強",
+        "reading": "きょう"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026010615113",
+    "text": "地震で、部屋の中で転んだりしてけがをした人がいます。松江市では3人が病院に運ばれました。",
+    "tokens": [
+      {
+        "surface": "地震",
+        "reading": "じしん"
+      },
+      {
+        "surface": "部屋",
+        "reading": "へや"
+      },
+      {
+        "surface": "中",
+        "reading": "なか"
+      },
+      {
+        "surface": "転",
+        "reading": "ころ"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと"
+      },
+      {
+        "surface": "松江市",
+        "reading": "まつえし"
+      },
+      {
+        "surface": "人",
+        "reading": "にん"
+      },
+      {
+        "surface": "病院",
+        "reading": "びょういん"
+      },
+      {
+        "surface": "運",
+        "reading": "はこ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026010615113",
+    "text": "境港市の小学校では、窓のガラスが20枚ぐらい壊れました。",
+    "tokens": [
+      {
+        "surface": "境港市",
+        "reading": "さかいみなとし"
+      },
+      {
+        "surface": "小学校",
+        "reading": "しょうがっこう"
+      },
+      {
+        "surface": "窓",
+        "reading": "まど"
+      },
+      {
+        "surface": "枚",
+        "reading": "まい"
+      },
+      {
+        "surface": "壊",
+        "reading": "こわ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026010615113",
+    "text": "道に石が落ちて通ることができないところもあります。",
+    "tokens": [
+      {
+        "surface": "道",
+        "reading": "みち"
+      },
+      {
+        "surface": "石",
+        "reading": "いし"
+      },
+      {
+        "surface": "落",
+        "reading": "お"
+      },
+      {
+        "surface": "通",
+        "reading": "とお"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026010615113",
+    "text": "鳥取県や島根県では、そのあとも地震が続いています。",
+    "tokens": [
+      {
+        "surface": "鳥取県",
+        "reading": "とっとりけん"
+      },
+      {
+        "surface": "島根県",
+        "reading": "しまねけん"
+      },
+      {
+        "surface": "地震",
+        "reading": "じしん"
+      },
+      {
+        "surface": "続",
+        "reading": "つづ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012812020",
+    "text": "去年の1月28日、埼玉県で道に大きい穴が開きました。穴に車が落ちて男性が亡くなりました。",
+    "tokens": [
+      {
+        "surface": "去年",
+        "reading": "きょねん"
+      },
+      {
+        "surface": "月",
+        "reading": "がつ"
+      },
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "埼玉県",
+        "reading": "さいたまけん"
+      },
+      {
+        "surface": "道",
+        "reading": "みち"
+      },
+      {
+        "surface": "大",
+        "reading": "おお"
+      },
+      {
+        "surface": "穴",
+        "reading": "あな"
+      },
+      {
+        "surface": "開",
+        "reading": "あ"
+      },
+      {
+        "surface": "穴",
+        "reading": "あな"
+      },
+      {
+        "surface": "車",
+        "reading": "くるま"
+      },
+      {
+        "surface": "落",
+        "reading": "お"
+      },
+      {
+        "surface": "男性",
+        "reading": "だんせい"
+      },
+      {
+        "surface": "亡",
+        "reading": "な"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012812020",
+    "text": "この事故から1年がすぎました。",
+    "tokens": [
+      {
+        "surface": "事故",
+        "reading": "じこ"
+      },
+      {
+        "surface": "年",
+        "reading": "ねん"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012812020",
+    "text": "穴ができた理由は、道の下にある下水道が壊れたためです。今も下水道を直す工事が続いています。工事は5年から7年ぐらいかかりそうです。道は通ることができません。",
+    "tokens": [
+      {
+        "surface": "穴",
+        "reading": "あな"
+      },
+      {
+        "surface": "理由",
+        "reading": "りゆう"
+      },
+      {
+        "surface": "道",
+        "reading": "みち"
+      },
+      {
+        "surface": "下",
+        "reading": "した"
+      },
+      {
+        "surface": "下水道",
+        "reading": "げすいどう"
+      },
+      {
+        "surface": "壊",
+        "reading": "こわ"
+      },
+      {
+        "surface": "今",
+        "reading": "いま"
+      },
+      {
+        "surface": "下水道",
+        "reading": "げすいどう"
+      },
+      {
+        "surface": "直",
+        "reading": "なお"
+      },
+      {
+        "surface": "工事",
+        "reading": "こうじ"
+      },
+      {
+        "surface": "続",
+        "reading": "つづ"
+      },
+      {
+        "surface": "工事",
+        "reading": "こうじ"
+      },
+      {
+        "surface": "年",
+        "reading": "ねん"
+      },
+      {
+        "surface": "7",
+        "reading": "しち"
+      },
+      {
+        "surface": "年",
+        "reading": "ねん"
+      },
+      {
+        "surface": "道",
+        "reading": "みち"
+      },
+      {
+        "surface": "通",
+        "reading": "とお"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012812020",
+    "text": "下水道から嫌な臭いが出ているため、近くに住んでいる人たちが困っています。",
+    "tokens": [
+      {
+        "surface": "下水道",
+        "reading": "げすいどう"
+      },
+      {
+        "surface": "嫌",
+        "reading": "いや"
+      },
+      {
+        "surface": "臭",
+        "reading": "にお"
+      },
+      {
+        "surface": "出",
+        "reading": "で"
+      },
+      {
+        "surface": "近",
+        "reading": "ちか"
+      },
+      {
+        "surface": "住",
+        "reading": "す"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと"
+      },
+      {
+        "surface": "困",
+        "reading": "こま"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012812020",
+    "text": "埼玉県の知事は「同じことがないように頑張ります」と話しました。",
+    "tokens": [
+      {
+        "surface": "埼玉県",
+        "reading": "さいたまけん"
+      },
+      {
+        "surface": "知事",
+        "reading": "ちじ"
+      },
+      {
+        "surface": "同",
+        "reading": "おな"
+      },
+      {
+        "surface": "頑張",
+        "reading": "がんば"
+      },
+      {
+        "surface": "話",
+        "reading": "はな"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012113381",
+    "text": "裁判のニュースです。",
+    "tokens": [
+      {
+        "surface": "裁判",
+        "reading": "さいばん"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012113381",
+    "text": "2022年、奈良県で、安倍元総理大臣が銃で撃たれて亡くなりました。そのあと、山上徹也被告が人を殺した罪で裁判を受けていました。",
+    "tokens": [
+      {
+        "surface": "年",
+        "reading": "ねん"
+      },
+      {
+        "surface": "奈良県",
+        "reading": "ならけん"
+      },
+      {
+        "surface": "安倍",
+        "reading": "あべ"
+      },
+      {
+        "surface": "元総理",
+        "reading": "もとそうり"
+      },
+      {
+        "surface": "大臣",
+        "reading": "だいじん"
+      },
+      {
+        "surface": "銃",
+        "reading": "じゅう"
+      },
+      {
+        "surface": "撃",
+        "reading": "う"
+      },
+      {
+        "surface": "亡",
+        "reading": "な"
+      },
+      {
+        "surface": "山上",
+        "reading": "やまがみ"
+      },
+      {
+        "surface": "徹也",
+        "reading": "てつや"
+      },
+      {
+        "surface": "被告",
+        "reading": "ひこく"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと"
+      },
+      {
+        "surface": "殺",
+        "reading": "ころ"
+      },
+      {
+        "surface": "罪",
+        "reading": "つみ"
+      },
+      {
+        "surface": "裁判",
+        "reading": "さいばん"
+      },
+      {
+        "surface": "受",
+        "reading": "う"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012113381",
+    "text": "検察官は、山上被告を刑務所にいる期間を決めない「無期懲役」にするように裁判所に言いました。弁護士は、山上被告の今までの生活や銃を撃った理由などを考えて、刑務所にいるのを一番長くて20年にするように言いました。",
+    "tokens": [
+      {
+        "surface": "検察官",
+        "reading": "けんさつかん"
+      },
+      {
+        "surface": "山上",
+        "reading": "やまがみ"
+      },
+      {
+        "surface": "被告",
+        "reading": "ひこく"
+      },
+      {
+        "surface": "刑務所",
+        "reading": "けいむしょ"
+      },
+      {
+        "surface": "期間",
+        "reading": "きかん"
+      },
+      {
+        "surface": "決",
+        "reading": "き"
+      },
+      {
+        "surface": "無期懲役",
+        "reading": "むきちょうえき"
+      },
+      {
+        "surface": "裁判所",
+        "reading": "さいばんしょ"
+      },
+      {
+        "surface": "言",
+        "reading": "い"
+      },
+      {
+        "surface": "弁護士",
+        "reading": "べんごし"
+      },
+      {
+        "surface": "山上",
+        "reading": "やまがみ"
+      },
+      {
+        "surface": "被告",
+        "reading": "ひこく"
+      },
+      {
+        "surface": "今",
+        "reading": "いま"
+      },
+      {
+        "surface": "生活",
+        "reading": "せいかつ"
+      },
+      {
+        "surface": "銃",
+        "reading": "じゅう"
+      },
+      {
+        "surface": "撃",
+        "reading": "う"
+      },
+      {
+        "surface": "理由",
+        "reading": "りゆう"
+      },
+      {
+        "surface": "考",
+        "reading": "かんが"
+      },
+      {
+        "surface": "刑務所",
+        "reading": "けいむしょ"
+      },
+      {
+        "surface": "一番",
+        "reading": "いちばん"
+      },
+      {
+        "surface": "長",
+        "reading": "なが"
+      },
+      {
+        "surface": "年",
+        "reading": "ねん"
+      },
+      {
+        "surface": "言",
+        "reading": "い"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012113381",
+    "text": "21日、奈良地方裁判所は、無期懲役にすると言いました。",
+    "tokens": [
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "奈良",
+        "reading": "なら"
+      },
+      {
+        "surface": "地方裁判所",
+        "reading": "ちほうさいばんしょ"
+      },
+      {
+        "surface": "無期懲役",
+        "reading": "むきちょうえき"
+      },
+      {
+        "surface": "言",
+        "reading": "い"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012113381",
+    "text": "弁護士は「裁判を続けるかやめるか、山上被告と話して決める」と言いました。",
+    "tokens": [
+      {
+        "surface": "弁護士",
+        "reading": "べんごし"
+      },
+      {
+        "surface": "裁判",
+        "reading": "さいばん"
+      },
+      {
+        "surface": "続",
+        "reading": "つづ"
+      },
+      {
+        "surface": "山上",
+        "reading": "やまがみ"
+      },
+      {
+        "surface": "被告",
+        "reading": "ひこく"
+      },
+      {
+        "surface": "話",
+        "reading": "はな"
+      },
+      {
+        "surface": "決",
+        "reading": "き"
+      },
+      {
+        "surface": "言",
+        "reading": "い"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011312059",
+    "text": "政治のニュースです。",
+    "tokens": [
+      {
+        "surface": "政治",
+        "reading": "せいじ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011312059",
+    "text": "13日、国会の予定を決める会議がありました。",
+    "tokens": [
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "国会",
+        "reading": "こっかい"
+      },
+      {
+        "surface": "予定",
+        "reading": "よてい"
+      },
+      {
+        "surface": "決",
+        "reading": "き"
+      },
+      {
+        "surface": "会議",
+        "reading": "かいぎ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011312059",
+    "text": "政府の木原官房長官が出席して、1月23日から国会を始めたいと伝えました。",
+    "tokens": [
+      {
+        "surface": "政府",
+        "reading": "せいふ"
+      },
+      {
+        "surface": "木原",
+        "reading": "きはら"
+      },
+      {
+        "surface": "官房長官",
+        "reading": "かんぼうちょうかん"
+      },
+      {
+        "surface": "出席",
+        "reading": "しゅっせき"
+      },
+      {
+        "surface": "月",
+        "reading": "がつ"
+      },
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "国会",
+        "reading": "こっかい"
+      },
+      {
+        "surface": "始",
+        "reading": "はじ"
+      },
+      {
+        "surface": "伝",
+        "reading": "つた"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011312059",
+    "text": "国会議員の間では、高市総理大臣が衆議院を解散するのではないかという声も出ています。",
+    "tokens": [
+      {
+        "surface": "国会議員",
+        "reading": "こっかいぎいん"
+      },
+      {
+        "surface": "間",
+        "reading": "あいだ"
+      },
+      {
+        "surface": "高市",
+        "reading": "たかいち"
+      },
+      {
+        "surface": "総理大臣",
+        "reading": "そうりだいじん"
+      },
+      {
+        "surface": "衆議院",
+        "reading": "しゅうぎいん"
+      },
+      {
+        "surface": "解散",
+        "reading": "かいさん"
+      },
+      {
+        "surface": "声",
+        "reading": "こえ"
+      },
+      {
+        "surface": "出",
+        "reading": "で"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011312059",
+    "text": "会議で野党の議員は、「国会の最初の日に解散するつもりか」と聞きました。",
+    "tokens": [
+      {
+        "surface": "会議",
+        "reading": "かいぎ"
+      },
+      {
+        "surface": "野党",
+        "reading": "やとう"
+      },
+      {
+        "surface": "議員",
+        "reading": "ぎいん"
+      },
+      {
+        "surface": "国会",
+        "reading": "こっかい"
+      },
+      {
+        "surface": "最初",
+        "reading": "さいしょ"
+      },
+      {
+        "surface": "日",
+        "reading": "ひ"
+      },
+      {
+        "surface": "解散",
+        "reading": "かいさん"
+      },
+      {
+        "surface": "聞",
+        "reading": "き"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011312059",
+    "text": "木原官房長官は、「解散は総理大臣が決めることだ」と話しました。",
+    "tokens": [
+      {
+        "surface": "木原",
+        "reading": "きはら"
+      },
+      {
+        "surface": "官房長官",
+        "reading": "かんぼうちょうかん"
+      },
+      {
+        "surface": "解散",
+        "reading": "かいさん"
+      },
+      {
+        "surface": "総理大臣",
+        "reading": "そうりだいじん"
+      },
+      {
+        "surface": "決",
+        "reading": "き"
+      },
+      {
+        "surface": "話",
+        "reading": "はな"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011312059",
+    "text": "このため、国会が始まってからの予定は決まりませんでした。",
+    "tokens": [
+      {
+        "surface": "国会",
+        "reading": "こっかい"
+      },
+      {
+        "surface": "始",
+        "reading": "はじ"
+      },
+      {
+        "surface": "予定",
+        "reading": "よてい"
+      },
+      {
+        "surface": "決",
+        "reading": "き"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012216259",
+    "text": "新潟県にある原子力発電所のニュースです。",
+    "tokens": [
+      {
+        "surface": "新潟県",
+        "reading": "にいがたけん"
+      },
+      {
+        "surface": "原子力発電所",
+        "reading": "げんしりょくはつでんしょ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012216259",
+    "text": "東京電力は21日の夜、柏崎刈羽原子力発電所6号機を、もう一度、動かし始めました。",
+    "tokens": [
+      {
+        "surface": "東京電力",
+        "reading": "とうきょうでんりょく"
+      },
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "夜",
+        "reading": "よる"
+      },
+      {
+        "surface": "柏崎刈羽原子力発電所",
+        "reading": "かしわざきかりわげんしりょくはつでんしょ"
+      },
+      {
+        "surface": "号機",
+        "reading": "ごうき"
+      },
+      {
+        "surface": "一度",
+        "reading": "いちど"
+      },
+      {
+        "surface": "動",
+        "reading": "うご"
+      },
+      {
+        "surface": "始",
+        "reading": "はじ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012216259",
+    "text": "2011年に、福島第一原発で事故が起こったあと、東京電力が止まっていた原発を動かすのは初めてです。",
+    "tokens": [
+      {
+        "surface": "年",
+        "reading": "ねん"
+      },
+      {
+        "surface": "福島第一原発",
+        "reading": "ふくしまだいいちげんぱつ"
+      },
+      {
+        "surface": "事故",
+        "reading": "じこ"
+      },
+      {
+        "surface": "起",
+        "reading": "お"
+      },
+      {
+        "surface": "東京電力",
+        "reading": "とうきょうでんりょく"
+      },
+      {
+        "surface": "止",
+        "reading": "と"
+      },
+      {
+        "surface": "原発",
+        "reading": "げんぱつ"
+      },
+      {
+        "surface": "動",
+        "reading": "うご"
+      },
+      {
+        "surface": "初",
+        "reading": "はじ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012216259",
+    "text": "東京電力は、原発を運転するために、制御棒という物を動かす作業を進めていました。しかし、22日午前0時半ごろ、何かあったことを知らせる警報が鳴りました。",
+    "tokens": [
+      {
+        "surface": "東京電力",
+        "reading": "とうきょうでんりょく"
+      },
+      {
+        "surface": "原発",
+        "reading": "げんぱつ"
+      },
+      {
+        "surface": "運転",
+        "reading": "うんてん"
+      },
+      {
+        "surface": "制御棒",
+        "reading": "せいぎょぼう"
+      },
+      {
+        "surface": "物",
+        "reading": "もの"
+      },
+      {
+        "surface": "動",
+        "reading": "うご"
+      },
+      {
+        "surface": "作業",
+        "reading": "さぎょう"
+      },
+      {
+        "surface": "進",
+        "reading": "すす"
+      },
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "午前",
+        "reading": "ごぜん"
+      },
+      {
+        "surface": "時半",
+        "reading": "じはん"
+      },
+      {
+        "surface": "何",
+        "reading": "なに"
+      },
+      {
+        "surface": "知",
+        "reading": "し"
+      },
+      {
+        "surface": "警報",
+        "reading": "けいほう"
+      },
+      {
+        "surface": "鳴",
+        "reading": "な"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012216259",
+    "text": "東京電力は、原因を調べるのに時間がかかるため、原子炉を止めることにしました。",
+    "tokens": [
+      {
+        "surface": "東京電力",
+        "reading": "とうきょうでんりょく"
+      },
+      {
+        "surface": "原因",
+        "reading": "げんいん"
+      },
+      {
+        "surface": "調",
+        "reading": "しら"
+      },
+      {
+        "surface": "時間",
+        "reading": "じかん"
+      },
+      {
+        "surface": "原子炉",
+        "reading": "げんしろ"
+      },
+      {
+        "surface": "止",
+        "reading": "と"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012216259",
+    "text": "東京電力によると、安全について問題はありません。",
+    "tokens": [
+      {
+        "surface": "東京電力",
+        "reading": "とうきょうでんりょく"
+      },
+      {
+        "surface": "安全",
+        "reading": "あんぜん"
+      },
+      {
+        "surface": "問題",
+        "reading": "もんだい"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011512134",
+    "text": "フランスのルーブル美術館が、14日から、ヨーロッパ以外から来る人の料金を、45％高くしました。日本のお金で、5900円ぐらいです。",
+    "tokens": [
+      {
+        "surface": "美術館",
+        "reading": "びじゅつかん"
+      },
+      {
+        "surface": "14日",
+        "reading": "じゅうよっか"
+      },
+      {
+        "surface": "以外",
+        "reading": "いがい"
+      },
+      {
+        "surface": "来",
+        "reading": "く"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと"
+      },
+      {
+        "surface": "料金",
+        "reading": "りょうきん"
+      },
+      {
+        "surface": "高",
+        "reading": "たか"
+      },
+      {
+        "surface": "日本",
+        "reading": "にっぽん"
+      },
+      {
+        "surface": "金",
+        "reading": "かね"
+      },
+      {
+        "surface": "円",
+        "reading": "えん"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011512134",
+    "text": "ほかの国でも、外国人の料金を高くするところがあります。",
+    "tokens": [
+      {
+        "surface": "国",
+        "reading": "くに"
+      },
+      {
+        "surface": "外国人",
+        "reading": "がいこくじん"
+      },
+      {
+        "surface": "料金",
+        "reading": "りょうきん"
+      },
+      {
+        "surface": "高",
+        "reading": "たか"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011512134",
+    "text": "インドの「タージマハル」では、外国人の料金は20倍以上です。カンボジアの「アンコールワット」では、カンボジア人は無料です。外国人はお金を払います。",
+    "tokens": [
+      {
+        "surface": "外国人",
+        "reading": "がいこくじん"
+      },
+      {
+        "surface": "料金",
+        "reading": "りょうきん"
+      },
+      {
+        "surface": "倍",
+        "reading": "ばい"
+      },
+      {
+        "surface": "以上",
+        "reading": "いじょう"
+      },
+      {
+        "surface": "人",
+        "reading": "じん"
+      },
+      {
+        "surface": "無料",
+        "reading": "むりょう"
+      },
+      {
+        "surface": "外国人",
+        "reading": "がいこくじん"
+      },
+      {
+        "surface": "金",
+        "reading": "かね"
+      },
+      {
+        "surface": "払",
+        "reading": "はら"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011512134",
+    "text": "日本の博物館や美術館は、日本人と外国人が同じ料金です。しかし、外国人には、外国語で説明するサービスなどがあります。",
+    "tokens": [
+      {
+        "surface": "日本",
+        "reading": "にっぽん"
+      },
+      {
+        "surface": "博物館",
+        "reading": "はくぶつかん"
+      },
+      {
+        "surface": "美術館",
+        "reading": "びじゅつかん"
+      },
+      {
+        "surface": "日本人",
+        "reading": "にっぽんじん"
+      },
+      {
+        "surface": "外国人",
+        "reading": "がいこくじん"
+      },
+      {
+        "surface": "同",
+        "reading": "おな"
+      },
+      {
+        "surface": "料金",
+        "reading": "りょうきん"
+      },
+      {
+        "surface": "外国人",
+        "reading": "がいこくじん"
+      },
+      {
+        "surface": "外国語",
+        "reading": "がいこくご"
+      },
+      {
+        "surface": "説明",
+        "reading": "せつめい"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011512134",
+    "text": "国は、日本で外国人の料金をどうするか、3月の終わりまでに考えたいと言っています。",
+    "tokens": [
+      {
+        "surface": "国",
+        "reading": "くに"
+      },
+      {
+        "surface": "日本",
+        "reading": "にっぽん"
+      },
+      {
+        "surface": "外国人",
+        "reading": "がいこくじん"
+      },
+      {
+        "surface": "料金",
+        "reading": "りょうきん"
+      },
+      {
+        "surface": "月",
+        "reading": "がつ"
+      },
+      {
+        "surface": "終",
+        "reading": "お"
+      },
+      {
+        "surface": "考",
+        "reading": "かんが"
+      },
+      {
+        "surface": "言",
+        "reading": "い"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012311531",
+    "text": "24日と25日も、日本海側などで雪がたくさん降る心配があります。",
+    "tokens": [
+      {
+        "surface": "24",
+        "reading": "にじゅうよっ"
+      },
+      {
+        "surface": "日",
+        "reading": "か"
+      },
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "日本海",
+        "reading": "にほんかい"
+      },
+      {
+        "surface": "側",
+        "reading": "がわ"
+      },
+      {
+        "surface": "雪",
+        "reading": "ゆき"
+      },
+      {
+        "surface": "降",
+        "reading": "ふ"
+      },
+      {
+        "surface": "心配",
+        "reading": "しんぱい"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012311531",
+    "text": "気象庁によると、24日の夕方までの24時間に、新潟県と北陸地方、東北地方、それに岐阜県の多い所で70cmぐらい降りそうです。東海地方や四国、九州の、いつもは雪があまり降らない所でも積もるかもしれません。",
+    "tokens": [
+      {
+        "surface": "気象庁",
+        "reading": "きしょうちょう"
+      },
+      {
+        "surface": "24",
+        "reading": "にじゅうよっ"
+      },
+      {
+        "surface": "日",
+        "reading": "か"
+      },
+      {
+        "surface": "夕方",
+        "reading": "ゆうがた"
+      },
+      {
+        "surface": "時間",
+        "reading": "じかん"
+      },
+      {
+        "surface": "新潟県",
+        "reading": "にいがたけん"
+      },
+      {
+        "surface": "北陸地方",
+        "reading": "ほくりくちほう"
+      },
+      {
+        "surface": "東北地方",
+        "reading": "とうほくちほう"
+      },
+      {
+        "surface": "岐阜県",
+        "reading": "ぎふけん"
+      },
+      {
+        "surface": "多",
+        "reading": "おお"
+      },
+      {
+        "surface": "所",
+        "reading": "ところ"
+      },
+      {
+        "surface": "降",
+        "reading": "ふ"
+      },
+      {
+        "surface": "東海地方",
+        "reading": "とうかいちほう"
+      },
+      {
+        "surface": "四国",
+        "reading": "しこく"
+      },
+      {
+        "surface": "九州",
+        "reading": "きゅうしゅう"
+      },
+      {
+        "surface": "雪",
+        "reading": "ゆき"
+      },
+      {
+        "surface": "降",
+        "reading": "ふ"
+      },
+      {
+        "surface": "所",
+        "reading": "ところ"
+      },
+      {
+        "surface": "積",
+        "reading": "つ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012311531",
+    "text": "そして、25日の夕方までの24時間にも、多い所で70cmぐらい降りそうです。今までに雪がたくさん降っていて、もっと積もりそうです。",
+    "tokens": [
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "夕方",
+        "reading": "ゆうがた"
+      },
+      {
+        "surface": "時間",
+        "reading": "じかん"
+      },
+      {
+        "surface": "多",
+        "reading": "おお"
+      },
+      {
+        "surface": "所",
+        "reading": "ところ"
+      },
+      {
+        "surface": "降",
+        "reading": "ふ"
+      },
+      {
+        "surface": "今",
+        "reading": "いま"
+      },
+      {
+        "surface": "雪",
+        "reading": "ゆき"
+      },
+      {
+        "surface": "降",
+        "reading": "ふ"
+      },
+      {
+        "surface": "積",
+        "reading": "つ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012311531",
+    "text": "車が動くことができなくなる心配があります。出かける前に、天気や交通の新しい情報を見てください。",
+    "tokens": [
+      {
+        "surface": "車",
+        "reading": "くるま"
+      },
+      {
+        "surface": "動",
+        "reading": "うご"
+      },
+      {
+        "surface": "心配",
+        "reading": "しんぱい"
+      },
+      {
+        "surface": "出",
+        "reading": "で"
+      },
+      {
+        "surface": "前",
+        "reading": "まえ"
+      },
+      {
+        "surface": "天気",
+        "reading": "てんき"
+      },
+      {
+        "surface": "交通",
+        "reading": "こうつう"
+      },
+      {
+        "surface": "新",
+        "reading": "あたら"
+      },
+      {
+        "surface": "情報",
+        "reading": "じょうほう"
+      },
+      {
+        "surface": "見",
+        "reading": "み"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011912028",
+    "text": "政治のニュースです。",
+    "tokens": [
+      {
+        "surface": "政治",
+        "reading": "せいじ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011912028",
+    "text": "高市総理大臣は、「今週23日から始まる国会の最初の日に衆議院を解散する」と言いました。",
+    "tokens": [
+      {
+        "surface": "高市",
+        "reading": "たかいち"
+      },
+      {
+        "surface": "総理大臣",
+        "reading": "そうりだいじん"
+      },
+      {
+        "surface": "今週",
+        "reading": "こんしゅう"
+      },
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "始",
+        "reading": "はじ"
+      },
+      {
+        "surface": "国会",
+        "reading": "こっかい"
+      },
+      {
+        "surface": "最初",
+        "reading": "さいしょ"
+      },
+      {
+        "surface": "日",
+        "reading": "ひ"
+      },
+      {
+        "surface": "衆議院",
+        "reading": "しゅうぎいん"
+      },
+      {
+        "surface": "解散",
+        "reading": "かいさん"
+      },
+      {
+        "surface": "言",
+        "reading": "い"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011912028",
+    "text": "19日、記者たちに話をしました。",
+    "tokens": [
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "記者",
+        "reading": "きしゃ"
+      },
+      {
+        "surface": "話",
+        "reading": "はなし"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011912028",
+    "text": "解散すると衆議院の新しい議員を選ぶ選挙があります。",
+    "tokens": [
+      {
+        "surface": "解散",
+        "reading": "かいさん"
+      },
+      {
+        "surface": "衆議院",
+        "reading": "しゅうぎいん"
+      },
+      {
+        "surface": "新",
+        "reading": "あたら"
+      },
+      {
+        "surface": "議員",
+        "reading": "ぎいん"
+      },
+      {
+        "surface": "選",
+        "reading": "えら"
+      },
+      {
+        "surface": "選挙",
+        "reading": "せんきょ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011912028",
+    "text": "高市総理大臣は、選挙で投票する日は2月8日にしたいと言いました。与党と野党は、急いで選挙の準備をします。",
+    "tokens": [
+      {
+        "surface": "高市",
+        "reading": "たかいち"
+      },
+      {
+        "surface": "総理大臣",
+        "reading": "そうりだいじん"
+      },
+      {
+        "surface": "選挙",
+        "reading": "せんきょ"
+      },
+      {
+        "surface": "投票",
+        "reading": "とうひょう"
+      },
+      {
+        "surface": "日",
+        "reading": "ひ"
+      },
+      {
+        "surface": "月",
+        "reading": "がつ"
+      },
+      {
+        "surface": "8日",
+        "reading": "ようか"
+      },
+      {
+        "surface": "言",
+        "reading": "い"
+      },
+      {
+        "surface": "与党",
+        "reading": "よとう"
+      },
+      {
+        "surface": "野党",
+        "reading": "やとう"
+      },
+      {
+        "surface": "急",
+        "reading": "いそ"
+      },
+      {
+        "surface": "選挙",
+        "reading": "せんきょ"
+      },
+      {
+        "surface": "準備",
+        "reading": "じゅんび"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011411390",
+    "text": "中東の国イランでは、物の値段が上がって生活が大変になっています。",
+    "tokens": [
+      {
+        "surface": "中東",
+        "reading": "ちゅうとう"
+      },
+      {
+        "surface": "国",
+        "reading": "くに"
+      },
+      {
+        "surface": "物",
+        "reading": "もの"
+      },
+      {
+        "surface": "値段",
+        "reading": "ねだん"
+      },
+      {
+        "surface": "上",
+        "reading": "あ"
+      },
+      {
+        "surface": "生活",
+        "reading": "せいかつ"
+      },
+      {
+        "surface": "大変",
+        "reading": "たいへん"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011411390",
+    "text": "このため12月の終わりごろから、政府に反対する人たちがデモを行いました。デモは激しくなって警察などが出ました。",
+    "tokens": [
+      {
+        "surface": "月",
+        "reading": "がつ"
+      },
+      {
+        "surface": "終",
+        "reading": "お"
+      },
+      {
+        "surface": "政府",
+        "reading": "せいふ"
+      },
+      {
+        "surface": "反対",
+        "reading": "はんたい"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと"
+      },
+      {
+        "surface": "行",
+        "reading": "おこな"
+      },
+      {
+        "surface": "激",
+        "reading": "はげ"
+      },
+      {
+        "surface": "警察",
+        "reading": "けいさつ"
+      },
+      {
+        "surface": "出",
+        "reading": "で"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011411390",
+    "text": "アメリカの新聞ニューヨーク・タイムズによると、イランの政府に関係する人は「3000人ぐらいが亡くなった」と言っています。",
+    "tokens": [
+      {
+        "surface": "新聞",
+        "reading": "しんぶん"
+      },
+      {
+        "surface": "政府",
+        "reading": "せいふ"
+      },
+      {
+        "surface": "関係",
+        "reading": "かんけい"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと"
+      },
+      {
+        "surface": "人",
+        "reading": "にん"
+      },
+      {
+        "surface": "亡",
+        "reading": "な"
+      },
+      {
+        "surface": "言",
+        "reading": "い"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011411390",
+    "text": "イランではたくさんの場所でインターネットを使うことができなくなっています。",
+    "tokens": [
+      {
+        "surface": "場所",
+        "reading": "ばしょ"
+      },
+      {
+        "surface": "使",
+        "reading": "つか"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011411390",
+    "text": "首都のテヘランでは、14日は大きいデモなどは起こっていません。",
+    "tokens": [
+      {
+        "surface": "首都",
+        "reading": "しゅと"
+      },
+      {
+        "surface": "14日",
+        "reading": "じゅうよっか"
+      },
+      {
+        "surface": "大",
+        "reading": "おお"
+      },
+      {
+        "surface": "起",
+        "reading": "お"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026010612391",
+    "text": "鳥取県や島根県などでは、今までにも大きい地震の後に、同じぐらい大きい地震が続いて起こったことがあります。",
+    "tokens": [
+      {
+        "surface": "鳥取県",
+        "reading": "とっとりけん"
+      },
+      {
+        "surface": "島根県",
+        "reading": "しまねけん"
+      },
+      {
+        "surface": "今",
+        "reading": "いま"
+      },
+      {
+        "surface": "大",
+        "reading": "おお"
+      },
+      {
+        "surface": "地震",
+        "reading": "じしん"
+      },
+      {
+        "surface": "後",
+        "reading": "あと"
+      },
+      {
+        "surface": "同",
+        "reading": "おな"
+      },
+      {
+        "surface": "大",
+        "reading": "おお"
+      },
+      {
+        "surface": "地震",
+        "reading": "じしん"
+      },
+      {
+        "surface": "続",
+        "reading": "つづ"
+      },
+      {
+        "surface": "起",
+        "reading": "お"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026010612391",
+    "text": "気象庁は「6日から1週間ぐらいは、震度5強ぐらいの地震に気をつけてください。6日より強い揺れの地震があるかもしれません。家の中で家具が倒れないようにしたり、食べ物や飲み物などの用意をしたりして、大きい地震のための準備をしてください」と言いました。",
+    "tokens": [
+      {
+        "surface": "気象庁",
+        "reading": "きしょうちょう"
+      },
+      {
+        "surface": "6日",
+        "reading": "むいか"
+      },
+      {
+        "surface": "週間",
+        "reading": "しゅうかん"
+      },
+      {
+        "surface": "震度",
+        "reading": "しんど"
+      },
+      {
+        "surface": "強",
+        "reading": "きょう"
+      },
+      {
+        "surface": "地震",
+        "reading": "じしん"
+      },
+      {
+        "surface": "気",
+        "reading": "き"
+      },
+      {
+        "surface": "6日",
+        "reading": "むいか"
+      },
+      {
+        "surface": "強",
+        "reading": "つよ"
+      },
+      {
+        "surface": "揺",
+        "reading": "ゆ"
+      },
+      {
+        "surface": "地震",
+        "reading": "じしん"
+      },
+      {
+        "surface": "家",
+        "reading": "いえ"
+      },
+      {
+        "surface": "中",
+        "reading": "なか"
+      },
+      {
+        "surface": "家具",
+        "reading": "かぐ"
+      },
+      {
+        "surface": "倒",
+        "reading": "たお"
+      },
+      {
+        "surface": "食",
+        "reading": "た"
+      },
+      {
+        "surface": "物",
+        "reading": "もの"
+      },
+      {
+        "surface": "飲",
+        "reading": "の"
+      },
+      {
+        "surface": "物",
+        "reading": "もの"
+      },
+      {
+        "surface": "用意",
+        "reading": "ようい"
+      },
+      {
+        "surface": "大",
+        "reading": "おお"
+      },
+      {
+        "surface": "地震",
+        "reading": "じしん"
+      },
+      {
+        "surface": "準備",
+        "reading": "じゅんび"
+      },
+      {
+        "surface": "言",
+        "reading": "い"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012711586",
+    "text": "働く人の団体は毎年、給料をもっと高くしてほしいと言って会社と話し合います。",
+    "tokens": [
+      {
+        "surface": "働",
+        "reading": "はたら"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと"
+      },
+      {
+        "surface": "団体",
+        "reading": "だんたい"
+      },
+      {
+        "surface": "毎年",
+        "reading": "まいとし"
+      },
+      {
+        "surface": "給料",
+        "reading": "きゅうりょう"
+      },
+      {
+        "surface": "高",
+        "reading": "たか"
+      },
+      {
+        "surface": "言",
+        "reading": "い"
+      },
+      {
+        "surface": "会社",
+        "reading": "かいしゃ"
+      },
+      {
+        "surface": "話",
+        "reading": "はな"
+      },
+      {
+        "surface": "合",
+        "reading": "あ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012711586",
+    "text": "27日、会社でつくる団体「経団連」と働く人の団体「連合」のトップが会って話し合いが始まりました。",
+    "tokens": [
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "会社",
+        "reading": "かいしゃ"
+      },
+      {
+        "surface": "団体",
+        "reading": "だんたい"
+      },
+      {
+        "surface": "経団連",
+        "reading": "けいだんれん"
+      },
+      {
+        "surface": "働",
+        "reading": "はたら"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと"
+      },
+      {
+        "surface": "団体",
+        "reading": "だんたい"
+      },
+      {
+        "surface": "連合",
+        "reading": "れんごう"
+      },
+      {
+        "surface": "会",
+        "reading": "あ"
+      },
+      {
+        "surface": "話",
+        "reading": "はな"
+      },
+      {
+        "surface": "合",
+        "reading": "あ"
+      },
+      {
+        "surface": "始",
+        "reading": "はじ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012711586",
+    "text": "どちらも給料を高くすることが大切だと考えています。",
+    "tokens": [
+      {
+        "surface": "給料",
+        "reading": "きゅうりょう"
+      },
+      {
+        "surface": "高",
+        "reading": "たか"
+      },
+      {
+        "surface": "大切",
+        "reading": "たいせつ"
+      },
+      {
+        "surface": "考",
+        "reading": "かんが"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012711586",
+    "text": "経団連のトップは「物の値段が高くなっていることや働く人が足りないことを考える必要がある」と話しました。",
+    "tokens": [
+      {
+        "surface": "経団連",
+        "reading": "けいだんれん"
+      },
+      {
+        "surface": "物",
+        "reading": "もの"
+      },
+      {
+        "surface": "値段",
+        "reading": "ねだん"
+      },
+      {
+        "surface": "高",
+        "reading": "たか"
+      },
+      {
+        "surface": "働",
+        "reading": "はたら"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと"
+      },
+      {
+        "surface": "足",
+        "reading": "た"
+      },
+      {
+        "surface": "考",
+        "reading": "かんが"
+      },
+      {
+        "surface": "必要",
+        "reading": "ひつよう"
+      },
+      {
+        "surface": "話",
+        "reading": "はな"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012711586",
+    "text": "連合のトップは「給料を5%以上高くすることが必要です。大きい会社だけではなくて、小さい会社でも高くできるようにしてほしい」と話しました。",
+    "tokens": [
+      {
+        "surface": "連合",
+        "reading": "れんごう"
+      },
+      {
+        "surface": "給料",
+        "reading": "きゅうりょう"
+      },
+      {
+        "surface": "以上",
+        "reading": "いじょう"
+      },
+      {
+        "surface": "高",
+        "reading": "たか"
+      },
+      {
+        "surface": "必要",
+        "reading": "ひつよう"
+      },
+      {
+        "surface": "大",
+        "reading": "おお"
+      },
+      {
+        "surface": "会社",
+        "reading": "かいしゃ"
+      },
+      {
+        "surface": "小",
+        "reading": "ちい"
+      },
+      {
+        "surface": "会社",
+        "reading": "かいしゃ"
+      },
+      {
+        "surface": "高",
+        "reading": "たか"
+      },
+      {
+        "surface": "話",
+        "reading": "はな"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012711586",
+    "text": "話し合いは春まで続きます。",
+    "tokens": [
+      {
+        "surface": "話",
+        "reading": "はな"
+      },
+      {
+        "surface": "合",
+        "reading": "あ"
+      },
+      {
+        "surface": "春",
+        "reading": "はる"
+      },
+      {
+        "surface": "続",
+        "reading": "つづ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012710577",
+    "text": "衆議院の議員を選ぶ選挙が、始まりました。",
+    "tokens": [
+      {
+        "surface": "衆議院",
+        "reading": "しゅうぎいん"
+      },
+      {
+        "surface": "議員",
+        "reading": "ぎいん"
+      },
+      {
+        "surface": "選",
+        "reading": "えら"
+      },
+      {
+        "surface": "選挙",
+        "reading": "せんきょ"
+      },
+      {
+        "surface": "始",
+        "reading": "はじ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012710577",
+    "text": "27日、選挙に出る人や政党が手続きをしました。選挙に出た人たちは、今の高市総理大臣の政治がいいかどうかや、物の値段が高いこと、外国との関係などについて、自分の意見を言っています。",
+    "tokens": [
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "選挙",
+        "reading": "せんきょ"
+      },
+      {
+        "surface": "出",
+        "reading": "で"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと"
+      },
+      {
+        "surface": "政党",
+        "reading": "せいとう"
+      },
+      {
+        "surface": "手続",
+        "reading": "てつづ"
+      },
+      {
+        "surface": "選挙",
+        "reading": "せんきょ"
+      },
+      {
+        "surface": "出",
+        "reading": "で"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと"
+      },
+      {
+        "surface": "今",
+        "reading": "いま"
+      },
+      {
+        "surface": "高市",
+        "reading": "たかいち"
+      },
+      {
+        "surface": "総理大臣",
+        "reading": "そうりだいじん"
+      },
+      {
+        "surface": "政治",
+        "reading": "せいじ"
+      },
+      {
+        "surface": "物",
+        "reading": "もの"
+      },
+      {
+        "surface": "値段",
+        "reading": "ねだん"
+      },
+      {
+        "surface": "高",
+        "reading": "たか"
+      },
+      {
+        "surface": "外国",
+        "reading": "がいこく"
+      },
+      {
+        "surface": "関係",
+        "reading": "かんけい"
+      },
+      {
+        "surface": "自分",
+        "reading": "じぶん"
+      },
+      {
+        "surface": "意見",
+        "reading": "いけん"
+      },
+      {
+        "surface": "言",
+        "reading": "い"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012710577",
+    "text": "選挙では、全部で465人の議員を選びます。与党の議員が半分より多く選ばれて高市総理大臣の政治が続くのか、それともそうならないのか、関心が集まっています。",
+    "tokens": [
+      {
+        "surface": "選挙",
+        "reading": "せんきょ"
+      },
+      {
+        "surface": "全部",
+        "reading": "ぜんぶ"
+      },
+      {
+        "surface": "人",
+        "reading": "にん"
+      },
+      {
+        "surface": "議員",
+        "reading": "ぎいん"
+      },
+      {
+        "surface": "選",
+        "reading": "えら"
+      },
+      {
+        "surface": "与党",
+        "reading": "よとう"
+      },
+      {
+        "surface": "議員",
+        "reading": "ぎいん"
+      },
+      {
+        "surface": "半分",
+        "reading": "はんぶん"
+      },
+      {
+        "surface": "多",
+        "reading": "おお"
+      },
+      {
+        "surface": "選",
+        "reading": "えら"
+      },
+      {
+        "surface": "高市",
+        "reading": "たかいち"
+      },
+      {
+        "surface": "総理大臣",
+        "reading": "そうりだいじん"
+      },
+      {
+        "surface": "政治",
+        "reading": "せいじ"
+      },
+      {
+        "surface": "続",
+        "reading": "つづ"
+      },
+      {
+        "surface": "関心",
+        "reading": "かんしん"
+      },
+      {
+        "surface": "集",
+        "reading": "あつ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012710577",
+    "text": "投票する日は、2月8日です。",
+    "tokens": [
+      {
+        "surface": "投票",
+        "reading": "とうひょう"
+      },
+      {
+        "surface": "日",
+        "reading": "ひ"
+      },
+      {
+        "surface": "月",
+        "reading": "がつ"
+      },
+      {
+        "surface": "8日",
+        "reading": "ようか"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011312070",
+    "text": "13日、韓国のイ・ジェミョン大統領が日本に来ました。",
+    "tokens": [
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "韓国",
+        "reading": "かんこく"
+      },
+      {
+        "surface": "大統領",
+        "reading": "だいとうりょう"
+      },
+      {
+        "surface": "日本",
+        "reading": "にっぽん"
+      },
+      {
+        "surface": "来",
+        "reading": "き"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011312070",
+    "text": "午後、奈良県で高市総理大臣と会って話をしました。",
+    "tokens": [
+      {
+        "surface": "午後",
+        "reading": "ごご"
+      },
+      {
+        "surface": "奈良県",
+        "reading": "ならけん"
+      },
+      {
+        "surface": "高市",
+        "reading": "たかいち"
+      },
+      {
+        "surface": "総理大臣",
+        "reading": "そうりだいじん"
+      },
+      {
+        "surface": "会",
+        "reading": "あ"
+      },
+      {
+        "surface": "話",
+        "reading": "はなし"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011312070",
+    "text": "高市総理大臣は、「大統領を私のふるさとに迎えることができて、うれしく思っている。2つの国の関係をもっとよくしていきたい」と言いました。",
+    "tokens": [
+      {
+        "surface": "高市",
+        "reading": "たかいち"
+      },
+      {
+        "surface": "総理大臣",
+        "reading": "そうりだいじん"
+      },
+      {
+        "surface": "大統領",
+        "reading": "だいとうりょう"
+      },
+      {
+        "surface": "私",
+        "reading": "わたし"
+      },
+      {
+        "surface": "迎",
+        "reading": "むか"
+      },
+      {
+        "surface": "思",
+        "reading": "おも"
+      },
+      {
+        "surface": "2",
+        "reading": "ふた"
+      },
+      {
+        "surface": "国",
+        "reading": "くに"
+      },
+      {
+        "surface": "関係",
+        "reading": "かんけい"
+      },
+      {
+        "surface": "言",
+        "reading": "い"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011312070",
+    "text": "イ・ジェミョン大統領は、「奈良は古い時代から朝鮮半島と日本で多くの交流があった所だ。高市総理大臣と未来に向かって協力していきたい」と話しました。",
+    "tokens": [
+      {
+        "surface": "大統領",
+        "reading": "だいとうりょう"
+      },
+      {
+        "surface": "奈良",
+        "reading": "なら"
+      },
+      {
+        "surface": "古",
+        "reading": "ふる"
+      },
+      {
+        "surface": "時代",
+        "reading": "じだい"
+      },
+      {
+        "surface": "朝鮮半島",
+        "reading": "ちょうせんはんとう"
+      },
+      {
+        "surface": "日本",
+        "reading": "にっぽん"
+      },
+      {
+        "surface": "多",
+        "reading": "おお"
+      },
+      {
+        "surface": "交流",
+        "reading": "こうりゅう"
+      },
+      {
+        "surface": "所",
+        "reading": "ところ"
+      },
+      {
+        "surface": "高市",
+        "reading": "たかいち"
+      },
+      {
+        "surface": "総理大臣",
+        "reading": "そうりだいじん"
+      },
+      {
+        "surface": "未来",
+        "reading": "みらい"
+      },
+      {
+        "surface": "向",
+        "reading": "む"
+      },
+      {
+        "surface": "協力",
+        "reading": "きょうりょく"
+      },
+      {
+        "surface": "話",
+        "reading": "はな"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011312070",
+    "text": "このあと、高市総理大臣は、2つの国のトップが行ったり来たりして話し合う「シャトル外交」を続けていくことを確認したと記者たちに言いました。",
+    "tokens": [
+      {
+        "surface": "高市",
+        "reading": "たかいち"
+      },
+      {
+        "surface": "総理大臣",
+        "reading": "そうりだいじん"
+      },
+      {
+        "surface": "2",
+        "reading": "ふた"
+      },
+      {
+        "surface": "国",
+        "reading": "くに"
+      },
+      {
+        "surface": "行",
+        "reading": "い"
+      },
+      {
+        "surface": "来",
+        "reading": "き"
+      },
+      {
+        "surface": "話",
+        "reading": "はな"
+      },
+      {
+        "surface": "合",
+        "reading": "あ"
+      },
+      {
+        "surface": "外交",
+        "reading": "がいこう"
+      },
+      {
+        "surface": "続",
+        "reading": "つづ"
+      },
+      {
+        "surface": "確認",
+        "reading": "かくにん"
+      },
+      {
+        "surface": "記者",
+        "reading": "きしゃ"
+      },
+      {
+        "surface": "言",
+        "reading": "い"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012011509",
+    "text": "大雪のとき、できるだけ車を運転しないでください。",
+    "tokens": [
+      {
+        "surface": "大雪",
+        "reading": "おおゆき"
+      },
+      {
+        "surface": "車",
+        "reading": "くるま"
+      },
+      {
+        "surface": "運転",
+        "reading": "うんてん"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012011509",
+    "text": "道でたくさんの車が動かなくなることがあります。",
+    "tokens": [
+      {
+        "surface": "道",
+        "reading": "みち"
+      },
+      {
+        "surface": "車",
+        "reading": "くるま"
+      },
+      {
+        "surface": "動",
+        "reading": "うご"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012011509",
+    "text": "どうしても運転しなければならない人は、必ず冬のタイヤやチェーンを使ってください。",
+    "tokens": [
+      {
+        "surface": "運転",
+        "reading": "うんてん"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと"
+      },
+      {
+        "surface": "必",
+        "reading": "かなら"
+      },
+      {
+        "surface": "冬",
+        "reading": "ふゆ"
+      },
+      {
+        "surface": "使",
+        "reading": "つか"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012011509",
+    "text": "ガソリンなどの燃料は、たくさん入れて出かけましょう。車が進まない場合でも、時々、エンジンをかけて車の中を暖かくすることができます。スマートフォンなどの充電ができて、交通の情報を調べることもできます。",
+    "tokens": [
+      {
+        "surface": "燃料",
+        "reading": "ねんりょう"
+      },
+      {
+        "surface": "入",
+        "reading": "い"
+      },
+      {
+        "surface": "出",
+        "reading": "で"
+      },
+      {
+        "surface": "車",
+        "reading": "くるま"
+      },
+      {
+        "surface": "進",
+        "reading": "すす"
+      },
+      {
+        "surface": "場合",
+        "reading": "ばあい"
+      },
+      {
+        "surface": "時々",
+        "reading": "ときどき"
+      },
+      {
+        "surface": "車",
+        "reading": "くるま"
+      },
+      {
+        "surface": "中",
+        "reading": "なか"
+      },
+      {
+        "surface": "暖",
+        "reading": "あたた"
+      },
+      {
+        "surface": "充電",
+        "reading": "じゅうでん"
+      },
+      {
+        "surface": "交通",
+        "reading": "こうつう"
+      },
+      {
+        "surface": "情報",
+        "reading": "じょうほう"
+      },
+      {
+        "surface": "調",
+        "reading": "しら"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012011509",
+    "text": "水や食べ物、車の中でも使うことができるトイレもあると安心です。",
+    "tokens": [
+      {
+        "surface": "水",
+        "reading": "みず"
+      },
+      {
+        "surface": "食",
+        "reading": "た"
+      },
+      {
+        "surface": "物",
+        "reading": "もの"
+      },
+      {
+        "surface": "車",
+        "reading": "くるま"
+      },
+      {
+        "surface": "中",
+        "reading": "なか"
+      },
+      {
+        "surface": "使",
+        "reading": "つか"
+      },
+      {
+        "surface": "安心",
+        "reading": "あんしん"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012011509",
+    "text": "車のガスが出るところに雪があると、ガスが車の中に入ってきて危ないです。気をつけてください。",
+    "tokens": [
+      {
+        "surface": "車",
+        "reading": "くるま"
+      },
+      {
+        "surface": "出",
+        "reading": "で"
+      },
+      {
+        "surface": "雪",
+        "reading": "ゆき"
+      },
+      {
+        "surface": "車",
+        "reading": "くるま"
+      },
+      {
+        "surface": "中",
+        "reading": "なか"
+      },
+      {
+        "surface": "入",
+        "reading": "はい"
+      },
+      {
+        "surface": "危",
+        "reading": "あぶ"
+      },
+      {
+        "surface": "気",
+        "reading": "き"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012611438",
+    "text": "衆議院の議員を選ぶ選挙が、27日から始まります。",
+    "tokens": [
+      {
+        "surface": "衆議院",
+        "reading": "しゅうぎいん"
+      },
+      {
+        "surface": "議員",
+        "reading": "ぎいん"
+      },
+      {
+        "surface": "選",
+        "reading": "えら"
+      },
+      {
+        "surface": "選挙",
+        "reading": "せんきょ"
+      },
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "始",
+        "reading": "はじ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012611438",
+    "text": "冬にする選挙なので、雪が多い所では準備が大変です。",
+    "tokens": [
+      {
+        "surface": "冬",
+        "reading": "ふゆ"
+      },
+      {
+        "surface": "選挙",
+        "reading": "せんきょ"
+      },
+      {
+        "surface": "雪",
+        "reading": "ゆき"
+      },
+      {
+        "surface": "多",
+        "reading": "おお"
+      },
+      {
+        "surface": "所",
+        "reading": "ところ"
+      },
+      {
+        "surface": "準備",
+        "reading": "じゅんび"
+      },
+      {
+        "surface": "大変",
+        "reading": "たいへん"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012611438",
+    "text": "青森県で選挙の事務をする選挙管理委員会は、26日、選挙で投票に使う紙などを市や町に送りました。",
+    "tokens": [
+      {
+        "surface": "青森県",
+        "reading": "あおもりけん"
+      },
+      {
+        "surface": "選挙",
+        "reading": "せんきょ"
+      },
+      {
+        "surface": "事務",
+        "reading": "じむ"
+      },
+      {
+        "surface": "選挙管理委員会",
+        "reading": "せんきょかんりいいんかい"
+      },
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "選挙",
+        "reading": "せんきょ"
+      },
+      {
+        "surface": "投票",
+        "reading": "とうひょう"
+      },
+      {
+        "surface": "使",
+        "reading": "つか"
+      },
+      {
+        "surface": "紙",
+        "reading": "かみ"
+      },
+      {
+        "surface": "市",
+        "reading": "し"
+      },
+      {
+        "surface": "町",
+        "reading": "まち"
+      },
+      {
+        "surface": "送",
+        "reading": "おく"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012611438",
+    "text": "今度の選挙は準備の時間が短かいです。青森市に住んでいる人に入場券が届くのは、2月になる所もありそうです。",
+    "tokens": [
+      {
+        "surface": "今度",
+        "reading": "こんど"
+      },
+      {
+        "surface": "選挙",
+        "reading": "せんきょ"
+      },
+      {
+        "surface": "準備",
+        "reading": "じゅんび"
+      },
+      {
+        "surface": "時間",
+        "reading": "じかん"
+      },
+      {
+        "surface": "短",
+        "reading": "みじ"
+      },
+      {
+        "surface": "青森市",
+        "reading": "あおもりし"
+      },
+      {
+        "surface": "住",
+        "reading": "す"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと"
+      },
+      {
+        "surface": "入場券",
+        "reading": "にゅうじょうけん"
+      },
+      {
+        "surface": "届",
+        "reading": "とど"
+      },
+      {
+        "surface": "月",
+        "reading": "がつ"
+      },
+      {
+        "surface": "所",
+        "reading": "ところ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012611438",
+    "text": "選挙の投票日の前に投票する「期日前投票」は、28日からできます。市の人は、入場券がなくても投票することはできますと言っています。",
+    "tokens": [
+      {
+        "surface": "選挙",
+        "reading": "せんきょ"
+      },
+      {
+        "surface": "投票日",
+        "reading": "とうひょうび"
+      },
+      {
+        "surface": "前",
+        "reading": "まえ"
+      },
+      {
+        "surface": "投票",
+        "reading": "とうひょう"
+      },
+      {
+        "surface": "期日前投票",
+        "reading": "きじつまえとうひょう"
+      },
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "市",
+        "reading": "し"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと"
+      },
+      {
+        "surface": "入場券",
+        "reading": "にゅうじょうけん"
+      },
+      {
+        "surface": "投票",
+        "reading": "とうひょう"
+      },
+      {
+        "surface": "言",
+        "reading": "い"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026010511575",
+    "text": "外国人の受け入れについてのニュースです。",
+    "tokens": [
+      {
+        "surface": "外国人",
+        "reading": "がいこくじん"
+      },
+      {
+        "surface": "受",
+        "reading": "う"
+      },
+      {
+        "surface": "入",
+        "reading": "い"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026010511575",
+    "text": "国は、2027年4月から、「技能実習制度」をやめて「育成就労制度」という新しい制度を始めます。この制度では、日本語の能力の条件が厳しくなります。",
+    "tokens": [
+      {
+        "surface": "国",
+        "reading": "くに"
+      },
+      {
+        "surface": "年",
+        "reading": "ねん"
+      },
+      {
+        "surface": "月",
+        "reading": "がつ"
+      },
+      {
+        "surface": "技能実習制度",
+        "reading": "ぎのうじっしゅうせいど"
+      },
+      {
+        "surface": "育成就労",
+        "reading": "いくせいしゅうろう"
+      },
+      {
+        "surface": "制度",
+        "reading": "せいど"
+      },
+      {
+        "surface": "新",
+        "reading": "あたら"
+      },
+      {
+        "surface": "制度",
+        "reading": "せいど"
+      },
+      {
+        "surface": "始",
+        "reading": "はじ"
+      },
+      {
+        "surface": "制度",
+        "reading": "せいど"
+      },
+      {
+        "surface": "日本語",
+        "reading": "にほんご"
+      },
+      {
+        "surface": "能力",
+        "reading": "のうりょく"
+      },
+      {
+        "surface": "条件",
+        "reading": "じょうけん"
+      },
+      {
+        "surface": "厳",
+        "reading": "きび"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026010511575",
+    "text": "「国際人材協力機構」は、技能実習生を受け入れている監理団体などにどう対応するか質問しました。36％の団体が「日本語の能力試験に合格した人だけを受け入れる」と答えました。「日本に来る前に学校などで日本語を勉強させる」団体が16％でした。「日本に来てから勉強させる」団体は10％でした。",
+    "tokens": [
+      {
+        "surface": "国際",
+        "reading": "こくさい"
+      },
+      {
+        "surface": "人材",
+        "reading": "じんざい"
+      },
+      {
+        "surface": "協力",
+        "reading": "きょうりょく"
+      },
+      {
+        "surface": "機構",
+        "reading": "きこう"
+      },
+      {
+        "surface": "技能実習生",
+        "reading": "ぎのうじっしゅうせい"
+      },
+      {
+        "surface": "受",
+        "reading": "う"
+      },
+      {
+        "surface": "入",
+        "reading": "い"
+      },
+      {
+        "surface": "監理団体",
+        "reading": "かんりだんたい"
+      },
+      {
+        "surface": "対応",
+        "reading": "たいおう"
+      },
+      {
+        "surface": "質問",
+        "reading": "しつもん"
+      },
+      {
+        "surface": "団体",
+        "reading": "だんたい"
+      },
+      {
+        "surface": "日本語",
+        "reading": "にほんご"
+      },
+      {
+        "surface": "能力",
+        "reading": "のうりょく"
+      },
+      {
+        "surface": "試験",
+        "reading": "しけん"
+      },
+      {
+        "surface": "合格",
+        "reading": "ごうかく"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと"
+      },
+      {
+        "surface": "受",
+        "reading": "う"
+      },
+      {
+        "surface": "入",
+        "reading": "い"
+      },
+      {
+        "surface": "答",
+        "reading": "こた"
+      },
+      {
+        "surface": "日本",
+        "reading": "にっぽん"
+      },
+      {
+        "surface": "来",
+        "reading": "く"
+      },
+      {
+        "surface": "前",
+        "reading": "まえ"
+      },
+      {
+        "surface": "学校",
+        "reading": "がっこう"
+      },
+      {
+        "surface": "日本語",
+        "reading": "にほんご"
+      },
+      {
+        "surface": "勉強",
+        "reading": "べんきょう"
+      },
+      {
+        "surface": "団体",
+        "reading": "だんたい"
+      },
+      {
+        "surface": "日本",
+        "reading": "にっぽん"
+      },
+      {
+        "surface": "来",
+        "reading": "き"
+      },
+      {
+        "surface": "勉強",
+        "reading": "べんきょう"
+      },
+      {
+        "surface": "団体",
+        "reading": "だんたい"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026010511575",
+    "text": "日本語の教育の費用を心配している団体もあります。専門家は「会社がどこまで費用を負担するのか考える必要がある」と話しています。",
+    "tokens": [
+      {
+        "surface": "日本語",
+        "reading": "にほんご"
+      },
+      {
+        "surface": "教育",
+        "reading": "きょういく"
+      },
+      {
+        "surface": "費用",
+        "reading": "ひよう"
+      },
+      {
+        "surface": "心配",
+        "reading": "しんぱい"
+      },
+      {
+        "surface": "団体",
+        "reading": "だんたい"
+      },
+      {
+        "surface": "専門家",
+        "reading": "せんもんか"
+      },
+      {
+        "surface": "会社",
+        "reading": "かいしゃ"
+      },
+      {
+        "surface": "費用",
+        "reading": "ひよう"
+      },
+      {
+        "surface": "負担",
+        "reading": "ふたん"
+      },
+      {
+        "surface": "考",
+        "reading": "かんが"
+      },
+      {
+        "surface": "必要",
+        "reading": "ひつよう"
+      },
+      {
+        "surface": "話",
+        "reading": "はな"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012811570",
+    "text": "インターネットのSNSなどにスポーツ選手のことを悪く書く人がいます。",
+    "tokens": [
+      {
+        "surface": "選手",
+        "reading": "せんしゅ"
+      },
+      {
+        "surface": "悪",
+        "reading": "わる"
+      },
+      {
+        "surface": "書",
+        "reading": "か"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012811570",
+    "text": "2024年のパリオリンピックなどのときも、たくさんあって問題になりました。",
+    "tokens": [
+      {
+        "surface": "年",
+        "reading": "ねん"
+      },
+      {
+        "surface": "問題",
+        "reading": "もんだい"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012811570",
+    "text": "国のスポーツ庁の長官は、27日「人のことを悪く言う、悪口はよくありません。選手を守ることは国の大切な仕事です」と言いました。",
+    "tokens": [
+      {
+        "surface": "国",
+        "reading": "くに"
+      },
+      {
+        "surface": "庁",
+        "reading": "ちょう"
+      },
+      {
+        "surface": "長官",
+        "reading": "ちょうかん"
+      },
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと"
+      },
+      {
+        "surface": "悪",
+        "reading": "わる"
+      },
+      {
+        "surface": "言",
+        "reading": "い"
+      },
+      {
+        "surface": "悪口",
+        "reading": "わるくち"
+      },
+      {
+        "surface": "選手",
+        "reading": "せんしゅ"
+      },
+      {
+        "surface": "守",
+        "reading": "まも"
+      },
+      {
+        "surface": "国",
+        "reading": "くに"
+      },
+      {
+        "surface": "大切",
+        "reading": "たいせつ"
+      },
+      {
+        "surface": "仕事",
+        "reading": "しごと"
+      },
+      {
+        "surface": "言",
+        "reading": "い"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012811570",
+    "text": "2月イタリアのミラノなどで、冬のオリンピックがあります。",
+    "tokens": [
+      {
+        "surface": "月",
+        "reading": "がつ"
+      },
+      {
+        "surface": "冬",
+        "reading": "ふゆ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012811570",
+    "text": "国は、日本のオリンピック委員会などと一緒に、SＮSをチェックします。そして選手の相談にも答えたいと考えています。",
+    "tokens": [
+      {
+        "surface": "国",
+        "reading": "くに"
+      },
+      {
+        "surface": "日本",
+        "reading": "にっぽん"
+      },
+      {
+        "surface": "委員会",
+        "reading": "いいんかい"
+      },
+      {
+        "surface": "一緒",
+        "reading": "いっしょ"
+      },
+      {
+        "surface": "選手",
+        "reading": "せんしゅ"
+      },
+      {
+        "surface": "相談",
+        "reading": "そうだん"
+      },
+      {
+        "surface": "答",
+        "reading": "こた"
+      },
+      {
+        "surface": "考",
+        "reading": "かんが"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011613324",
+    "text": "高市総理大臣は、16日東京で、イタリアのメローニ首相と会いました。",
+    "tokens": [
+      {
+        "surface": "高市",
+        "reading": "たかいち"
+      },
+      {
+        "surface": "総理大臣",
+        "reading": "そうりだいじん"
+      },
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "東京",
+        "reading": "とうきょう"
+      },
+      {
+        "surface": "首相",
+        "reading": "しゅしょう"
+      },
+      {
+        "surface": "会",
+        "reading": "あ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011613324",
+    "text": "高市総理大臣は「日本とイタリアの関係が始まってから、今年で160年です。2つの国の関係を強くしていきたい」と話しました。",
+    "tokens": [
+      {
+        "surface": "高市",
+        "reading": "たかいち"
+      },
+      {
+        "surface": "総理大臣",
+        "reading": "そうりだいじん"
+      },
+      {
+        "surface": "日本",
+        "reading": "にっぽん"
+      },
+      {
+        "surface": "関係",
+        "reading": "かんけい"
+      },
+      {
+        "surface": "始",
+        "reading": "はじ"
+      },
+      {
+        "surface": "今年",
+        "reading": "ことし"
+      },
+      {
+        "surface": "年",
+        "reading": "ねん"
+      },
+      {
+        "surface": "2",
+        "reading": "ふた"
+      },
+      {
+        "surface": "国",
+        "reading": "くに"
+      },
+      {
+        "surface": "関係",
+        "reading": "かんけい"
+      },
+      {
+        "surface": "強",
+        "reading": "つよ"
+      },
+      {
+        "surface": "話",
+        "reading": "はな"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011613324",
+    "text": "2人は、国の安全や経済などについて話しました。そして、レアアースなどの金属や、エネルギー問題などで協力することを約束しました。",
+    "tokens": [
+      {
+        "surface": "2人",
+        "reading": "ふたり"
+      },
+      {
+        "surface": "国",
+        "reading": "くに"
+      },
+      {
+        "surface": "安全",
+        "reading": "あんぜん"
+      },
+      {
+        "surface": "経済",
+        "reading": "けいざい"
+      },
+      {
+        "surface": "話",
+        "reading": "はな"
+      },
+      {
+        "surface": "金属",
+        "reading": "きんぞく"
+      },
+      {
+        "surface": "問題",
+        "reading": "もんだい"
+      },
+      {
+        "surface": "協力",
+        "reading": "きょうりょく"
+      },
+      {
+        "surface": "約束",
+        "reading": "やくそく"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011613324",
+    "text": "会議のあと、メローニ首相は「私たちは2人とも、女性で初めて、国のトップになりました」と話して、日本語で『頑張ろう』と言いました。",
+    "tokens": [
+      {
+        "surface": "会議",
+        "reading": "かいぎ"
+      },
+      {
+        "surface": "首相",
+        "reading": "しゅしょう"
+      },
+      {
+        "surface": "私",
+        "reading": "わたし"
+      },
+      {
+        "surface": "2人",
+        "reading": "ふたり"
+      },
+      {
+        "surface": "女性",
+        "reading": "じょせい"
+      },
+      {
+        "surface": "初",
+        "reading": "はじ"
+      },
+      {
+        "surface": "国",
+        "reading": "くに"
+      },
+      {
+        "surface": "話",
+        "reading": "はな"
+      },
+      {
+        "surface": "日本語",
+        "reading": "にほんご"
+      },
+      {
+        "surface": "頑張",
+        "reading": "がんば"
+      },
+      {
+        "surface": "言",
+        "reading": "い"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012313147",
+    "text": "23日、国会で衆議院が解散しました。1月に国会が始まるようになってから、最初の日に解散するのは、初めてです。",
+    "tokens": [
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "国会",
+        "reading": "こっかい"
+      },
+      {
+        "surface": "衆議院",
+        "reading": "しゅうぎいん"
+      },
+      {
+        "surface": "解散",
+        "reading": "かいさん"
+      },
+      {
+        "surface": "月",
+        "reading": "がつ"
+      },
+      {
+        "surface": "国会",
+        "reading": "こっかい"
+      },
+      {
+        "surface": "始",
+        "reading": "はじ"
+      },
+      {
+        "surface": "最初",
+        "reading": "さいしょ"
+      },
+      {
+        "surface": "日",
+        "reading": "ひ"
+      },
+      {
+        "surface": "解散",
+        "reading": "かいさん"
+      },
+      {
+        "surface": "初",
+        "reading": "はじ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012313147",
+    "text": "新しい議員を選ぶ選挙は、27日に始まります。投票は、2月8日です。解散から投票まで16日で、とても短い選挙です。与党や野党は、消費税や国の安全などについて自分たちの意見を言い合います。",
+    "tokens": [
+      {
+        "surface": "新",
+        "reading": "あたら"
+      },
+      {
+        "surface": "議員",
+        "reading": "ぎいん"
+      },
+      {
+        "surface": "選",
+        "reading": "えら"
+      },
+      {
+        "surface": "選挙",
+        "reading": "せんきょ"
+      },
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "始",
+        "reading": "はじ"
+      },
+      {
+        "surface": "投票",
+        "reading": "とうひょう"
+      },
+      {
+        "surface": "月",
+        "reading": "がつ"
+      },
+      {
+        "surface": "8日",
+        "reading": "ようか"
+      },
+      {
+        "surface": "解散",
+        "reading": "かいさん"
+      },
+      {
+        "surface": "投票",
+        "reading": "とうひょう"
+      },
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "短",
+        "reading": "みじか"
+      },
+      {
+        "surface": "選挙",
+        "reading": "せんきょ"
+      },
+      {
+        "surface": "与党",
+        "reading": "よとう"
+      },
+      {
+        "surface": "野党",
+        "reading": "やとう"
+      },
+      {
+        "surface": "消費税",
+        "reading": "しょうひぜい"
+      },
+      {
+        "surface": "国",
+        "reading": "くに"
+      },
+      {
+        "surface": "安全",
+        "reading": "あんぜん"
+      },
+      {
+        "surface": "自分",
+        "reading": "じぶん"
+      },
+      {
+        "surface": "意見",
+        "reading": "いけん"
+      },
+      {
+        "surface": "言",
+        "reading": "い"
+      },
+      {
+        "surface": "合",
+        "reading": "あ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012911522",
+    "text": "冷たい空気が入っているため、日本海側などで雪が降っています。",
+    "tokens": [
+      {
+        "surface": "冷",
+        "reading": "つめ"
+      },
+      {
+        "surface": "空気",
+        "reading": "くうき"
+      },
+      {
+        "surface": "入",
+        "reading": "はい"
+      },
+      {
+        "surface": "日本海",
+        "reading": "にほんかい"
+      },
+      {
+        "surface": "側",
+        "reading": "がわ"
+      },
+      {
+        "surface": "雪",
+        "reading": "ゆき"
+      },
+      {
+        "surface": "降",
+        "reading": "ふ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012911522",
+    "text": "気象庁によると30日まで、東北地方と、東日本から西日本の日本海側などで、雪がたくさん降りそうです。",
+    "tokens": [
+      {
+        "surface": "気象庁",
+        "reading": "きしょうちょう"
+      },
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "東北地方",
+        "reading": "とうほくちほう"
+      },
+      {
+        "surface": "東日本",
+        "reading": "ひがしにほん"
+      },
+      {
+        "surface": "西日本",
+        "reading": "にしにほん"
+      },
+      {
+        "surface": "日本海",
+        "reading": "にほんかい"
+      },
+      {
+        "surface": "側",
+        "reading": "がわ"
+      },
+      {
+        "surface": "雪",
+        "reading": "ゆき"
+      },
+      {
+        "surface": "降",
+        "reading": "ふ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012911522",
+    "text": "30日の夕方までの24時間に、新潟県の多いところで70cm、北陸地方で60cm、東北地方と近畿地方で50cmの雪が降る心配があります。",
+    "tokens": [
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "夕方",
+        "reading": "ゆうがた"
+      },
+      {
+        "surface": "時間",
+        "reading": "じかん"
+      },
+      {
+        "surface": "新潟県",
+        "reading": "にいがたけん"
+      },
+      {
+        "surface": "多",
+        "reading": "おお"
+      },
+      {
+        "surface": "北陸地方",
+        "reading": "ほくりくちほう"
+      },
+      {
+        "surface": "東北地方",
+        "reading": "とうほくちほう"
+      },
+      {
+        "surface": "近畿地方",
+        "reading": "きんきちほう"
+      },
+      {
+        "surface": "雪",
+        "reading": "ゆき"
+      },
+      {
+        "surface": "降",
+        "reading": "ふ"
+      },
+      {
+        "surface": "心配",
+        "reading": "しんぱい"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012911522",
+    "text": "いつもは雪が少ない太平洋側でも雪が降り、積もる所がありそうです。",
+    "tokens": [
+      {
+        "surface": "雪",
+        "reading": "ゆき"
+      },
+      {
+        "surface": "少",
+        "reading": "すく"
+      },
+      {
+        "surface": "太平洋",
+        "reading": "たいへいよう"
+      },
+      {
+        "surface": "側",
+        "reading": "がわ"
+      },
+      {
+        "surface": "雪",
+        "reading": "ゆき"
+      },
+      {
+        "surface": "降",
+        "reading": "ふ"
+      },
+      {
+        "surface": "積",
+        "reading": "つ"
+      },
+      {
+        "surface": "所",
+        "reading": "ところ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012911522",
+    "text": "交通が止まるかもしれません。天気や交通の情報を見てください。",
+    "tokens": [
+      {
+        "surface": "交通",
+        "reading": "こうつう"
+      },
+      {
+        "surface": "止",
+        "reading": "と"
+      },
+      {
+        "surface": "天気",
+        "reading": "てんき"
+      },
+      {
+        "surface": "交通",
+        "reading": "こうつう"
+      },
+      {
+        "surface": "情報",
+        "reading": "じょうほう"
+      },
+      {
+        "surface": "見",
+        "reading": "み"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012911522",
+    "text": "雪を片づけるときの事故にも気をつけてください。",
+    "tokens": [
+      {
+        "surface": "雪",
+        "reading": "ゆき"
+      },
+      {
+        "surface": "片",
+        "reading": "かた"
+      },
+      {
+        "surface": "事故",
+        "reading": "じこ"
+      },
+      {
+        "surface": "気",
+        "reading": "き"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012712010",
+    "text": "兵庫県姫路市に「姫路城」という有名なお城があります。世界遺産です。",
+    "tokens": [
+      {
+        "surface": "兵庫県姫路市",
+        "reading": "ひょうごけんひめじし"
+      },
+      {
+        "surface": "姫路城",
+        "reading": "ひめじじょう"
+      },
+      {
+        "surface": "有名",
+        "reading": "ゆうめい"
+      },
+      {
+        "surface": "城",
+        "reading": "しろ"
+      },
+      {
+        "surface": "世界遺産",
+        "reading": "せかいいさん"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012712010",
+    "text": "その姫路城で26日、火事が起こったときの訓練がありました。",
+    "tokens": [
+      {
+        "surface": "姫路城",
+        "reading": "ひめじじょう"
+      },
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "火事",
+        "reading": "かじ"
+      },
+      {
+        "surface": "起",
+        "reading": "お"
+      },
+      {
+        "surface": "訓練",
+        "reading": "くんれん"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012712010",
+    "text": "90人ぐらいの人が集まって、消火器という道具を使って火を消しました。観光客に、機械を使って英語や中国語など4つの言葉で逃げるように言いました。ドローンを使って空から火事をチェックする練習もしました。",
+    "tokens": [
+      {
+        "surface": "人",
+        "reading": "にん"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと"
+      },
+      {
+        "surface": "集",
+        "reading": "あつ"
+      },
+      {
+        "surface": "消火器",
+        "reading": "しょうかき"
+      },
+      {
+        "surface": "道具",
+        "reading": "どうぐ"
+      },
+      {
+        "surface": "使",
+        "reading": "つか"
+      },
+      {
+        "surface": "火",
+        "reading": "ひ"
+      },
+      {
+        "surface": "消",
+        "reading": "け"
+      },
+      {
+        "surface": "観光",
+        "reading": "かんこう"
+      },
+      {
+        "surface": "客",
+        "reading": "きゃく"
+      },
+      {
+        "surface": "機械",
+        "reading": "きかい"
+      },
+      {
+        "surface": "使",
+        "reading": "つか"
+      },
+      {
+        "surface": "英語",
+        "reading": "えいご"
+      },
+      {
+        "surface": "中国語",
+        "reading": "ちゅうごくご"
+      },
+      {
+        "surface": "言葉",
+        "reading": "ことば"
+      },
+      {
+        "surface": "逃",
+        "reading": "に"
+      },
+      {
+        "surface": "言",
+        "reading": "い"
+      },
+      {
+        "surface": "使",
+        "reading": "つか"
+      },
+      {
+        "surface": "空",
+        "reading": "そら"
+      },
+      {
+        "surface": "火事",
+        "reading": "かじ"
+      },
+      {
+        "surface": "練習",
+        "reading": "れんしゅう"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012712010",
+    "text": "姫路市の消防の人は「訓練を十分にして、火事からお城を守りたいです」と話しました。",
+    "tokens": [
+      {
+        "surface": "姫路市",
+        "reading": "ひめじし"
+      },
+      {
+        "surface": "消防",
+        "reading": "しょうぼう"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと"
+      },
+      {
+        "surface": "訓練",
+        "reading": "くんれん"
+      },
+      {
+        "surface": "十分",
+        "reading": "じゅうぶん"
+      },
+      {
+        "surface": "火事",
+        "reading": "かじ"
+      },
+      {
+        "surface": "城",
+        "reading": "しろ"
+      },
+      {
+        "surface": "守",
+        "reading": "まも"
+      },
+      {
+        "surface": "話",
+        "reading": "はな"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012311415",
+    "text": "政府は、外国人についての法律やルールをつくるときの考え方を決めました。",
+    "tokens": [
+      {
+        "surface": "政府",
+        "reading": "せいふ"
+      },
+      {
+        "surface": "外国人",
+        "reading": "がいこくじん"
+      },
+      {
+        "surface": "法律",
+        "reading": "ほうりつ"
+      },
+      {
+        "surface": "考",
+        "reading": "かんが"
+      },
+      {
+        "surface": "方",
+        "reading": "かた"
+      },
+      {
+        "surface": "決",
+        "reading": "き"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012311415",
+    "text": "日本人と外国人、みんなが安心して生活できる社会にすることを目標にすると言っています。",
+    "tokens": [
+      {
+        "surface": "日本人",
+        "reading": "にほんじん"
+      },
+      {
+        "surface": "外国人",
+        "reading": "がいこくじん"
+      },
+      {
+        "surface": "安心",
+        "reading": "あんしん"
+      },
+      {
+        "surface": "生活",
+        "reading": "せいかつ"
+      },
+      {
+        "surface": "社会",
+        "reading": "しゃかい"
+      },
+      {
+        "surface": "目標",
+        "reading": "もくひょう"
+      },
+      {
+        "surface": "言",
+        "reading": "い"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012311415",
+    "text": "政府は、外国人が日本語や日本のルールを勉強するプログラムをつくります。外国人が日本にいる資格を取るときには、日本語や日本のルールを理解しているかどうか、チェックすることを考えています。",
+    "tokens": [
+      {
+        "surface": "政府",
+        "reading": "せいふ"
+      },
+      {
+        "surface": "外国人",
+        "reading": "がいこくじん"
+      },
+      {
+        "surface": "日本語",
+        "reading": "にほんご"
+      },
+      {
+        "surface": "日本",
+        "reading": "にっぽん"
+      },
+      {
+        "surface": "勉強",
+        "reading": "べんきょう"
+      },
+      {
+        "surface": "外国人",
+        "reading": "がいこくじん"
+      },
+      {
+        "surface": "日本",
+        "reading": "にっぽん"
+      },
+      {
+        "surface": "資格",
+        "reading": "しかく"
+      },
+      {
+        "surface": "取",
+        "reading": "と"
+      },
+      {
+        "surface": "日本語",
+        "reading": "にほんご"
+      },
+      {
+        "surface": "日本",
+        "reading": "にっぽん"
+      },
+      {
+        "surface": "理解",
+        "reading": "りかい"
+      },
+      {
+        "surface": "考",
+        "reading": "かんが"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012311415",
+    "text": "日本の国籍を取るときのルールも、厳しくします。",
+    "tokens": [
+      {
+        "surface": "日本",
+        "reading": "にっぽん"
+      },
+      {
+        "surface": "国籍",
+        "reading": "こくせき"
+      },
+      {
+        "surface": "取",
+        "reading": "と"
+      },
+      {
+        "surface": "厳",
+        "reading": "きび"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012311415",
+    "text": "観光地では、外国人が集まりすぎて、困っている所があります。1つの場所に集まりすぎないようにする方法を考えます。",
+    "tokens": [
+      {
+        "surface": "観光地",
+        "reading": "かんこうち"
+      },
+      {
+        "surface": "外国人",
+        "reading": "がいこくじん"
+      },
+      {
+        "surface": "集",
+        "reading": "あつ"
+      },
+      {
+        "surface": "困",
+        "reading": "こま"
+      },
+      {
+        "surface": "所",
+        "reading": "ところ"
+      },
+      {
+        "surface": "1",
+        "reading": "ひと"
+      },
+      {
+        "surface": "場所",
+        "reading": "ばしょ"
+      },
+      {
+        "surface": "集",
+        "reading": "あつ"
+      },
+      {
+        "surface": "方法",
+        "reading": "ほうほう"
+      },
+      {
+        "surface": "考",
+        "reading": "かんが"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012311415",
+    "text": "外国人が家や土地を買うときのルールについては、今年の夏までに、まとめたいと考えています。",
+    "tokens": [
+      {
+        "surface": "外国人",
+        "reading": "がいこくじん"
+      },
+      {
+        "surface": "家",
+        "reading": "いえ"
+      },
+      {
+        "surface": "土地",
+        "reading": "とち"
+      },
+      {
+        "surface": "買",
+        "reading": "か"
+      },
+      {
+        "surface": "今年",
+        "reading": "ことし"
+      },
+      {
+        "surface": "夏",
+        "reading": "なつ"
+      },
+      {
+        "surface": "考",
+        "reading": "かんが"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012213502",
+    "text": "杉の花粉は雄の花の数が多いとたくさん飛ぶと言われています。",
+    "tokens": [
+      {
+        "surface": "杉",
+        "reading": "すぎ"
+      },
+      {
+        "surface": "花粉",
+        "reading": "かふん"
+      },
+      {
+        "surface": "雄",
+        "reading": "おす"
+      },
+      {
+        "surface": "花",
+        "reading": "はな"
+      },
+      {
+        "surface": "数",
+        "reading": "かず"
+      },
+      {
+        "surface": "多",
+        "reading": "おお"
+      },
+      {
+        "surface": "飛",
+        "reading": "と"
+      },
+      {
+        "surface": "言",
+        "reading": "い"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012213502",
+    "text": "環境省が杉の雄の花の芽を調べたところ、26の道府県で、今までの平均より多くなりました。",
+    "tokens": [
+      {
+        "surface": "環境省",
+        "reading": "かんきょうしょう"
+      },
+      {
+        "surface": "杉",
+        "reading": "すぎ"
+      },
+      {
+        "surface": "雄",
+        "reading": "おす"
+      },
+      {
+        "surface": "花",
+        "reading": "はな"
+      },
+      {
+        "surface": "芽",
+        "reading": "め"
+      },
+      {
+        "surface": "調",
+        "reading": "しら"
+      },
+      {
+        "surface": "道府県",
+        "reading": "どうふけん"
+      },
+      {
+        "surface": "今",
+        "reading": "いま"
+      },
+      {
+        "surface": "平均",
+        "reading": "へいきん"
+      },
+      {
+        "surface": "多",
+        "reading": "おお"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012213502",
+    "text": "北海道や大阪府、奈良県など9つの道府県で平均の2倍から3倍以上になりました。",
+    "tokens": [
+      {
+        "surface": "北海道",
+        "reading": "ほっかいどう"
+      },
+      {
+        "surface": "大阪府",
+        "reading": "おおさかふ"
+      },
+      {
+        "surface": "奈良県",
+        "reading": "ならけん"
+      },
+      {
+        "surface": "9",
+        "reading": "ここの"
+      },
+      {
+        "surface": "道府県",
+        "reading": "どうふけん"
+      },
+      {
+        "surface": "平均",
+        "reading": "へいきん"
+      },
+      {
+        "surface": "倍",
+        "reading": "ばい"
+      },
+      {
+        "surface": "倍",
+        "reading": "ばい"
+      },
+      {
+        "surface": "以上",
+        "reading": "いじょう"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012213502",
+    "text": "環境省は、杉の花粉を防ぐために、マスクなどをしてくださいと言っています。",
+    "tokens": [
+      {
+        "surface": "環境省",
+        "reading": "かんきょうしょう"
+      },
+      {
+        "surface": "杉",
+        "reading": "すぎ"
+      },
+      {
+        "surface": "花粉",
+        "reading": "かふん"
+      },
+      {
+        "surface": "防",
+        "reading": "ふせ"
+      },
+      {
+        "surface": "言",
+        "reading": "い"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012213502",
+    "text": "そして、花粉が多く飛ぶ昼ごろや夕方に、できるだけ外に出ないようにしてほしいと言っています。",
+    "tokens": [
+      {
+        "surface": "花粉",
+        "reading": "かふん"
+      },
+      {
+        "surface": "多",
+        "reading": "おお"
+      },
+      {
+        "surface": "飛",
+        "reading": "と"
+      },
+      {
+        "surface": "昼",
+        "reading": "ひる"
+      },
+      {
+        "surface": "夕方",
+        "reading": "ゆうがた"
+      },
+      {
+        "surface": "外",
+        "reading": "そと"
+      },
+      {
+        "surface": "出",
+        "reading": "で"
+      },
+      {
+        "surface": "言",
+        "reading": "い"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011911553",
+    "text": "スペインで鉄道の事故がありました。",
+    "tokens": [
+      {
+        "surface": "鉄道",
+        "reading": "てつどう"
+      },
+      {
+        "surface": "事故",
+        "reading": "じこ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011911553",
+    "text": "18日の夜、スペインの南部で、速いスピードで走る高速鉄道の列車が線路から外れました。",
+    "tokens": [
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "夜",
+        "reading": "よる"
+      },
+      {
+        "surface": "南部",
+        "reading": "なんぶ"
+      },
+      {
+        "surface": "速",
+        "reading": "はや"
+      },
+      {
+        "surface": "走",
+        "reading": "はし"
+      },
+      {
+        "surface": "高速",
+        "reading": "こうそく"
+      },
+      {
+        "surface": "鉄道",
+        "reading": "てつどう"
+      },
+      {
+        "surface": "列車",
+        "reading": "れっしゃ"
+      },
+      {
+        "surface": "線路",
+        "reading": "せんろ"
+      },
+      {
+        "surface": "外",
+        "reading": "はず"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011911553",
+    "text": "この列車に、隣の線路を時速200キロぐらいで走って来た別の高速鉄道の列車がぶつかりました。",
+    "tokens": [
+      {
+        "surface": "列車",
+        "reading": "れっしゃ"
+      },
+      {
+        "surface": "隣",
+        "reading": "となり"
+      },
+      {
+        "surface": "線路",
+        "reading": "せんろ"
+      },
+      {
+        "surface": "時速",
+        "reading": "じそく"
+      },
+      {
+        "surface": "走",
+        "reading": "はし"
+      },
+      {
+        "surface": "来",
+        "reading": "き"
+      },
+      {
+        "surface": "別",
+        "reading": "べつ"
+      },
+      {
+        "surface": "高速",
+        "reading": "こうそく"
+      },
+      {
+        "surface": "鉄道",
+        "reading": "てつどう"
+      },
+      {
+        "surface": "列車",
+        "reading": "れっしゃ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011911553",
+    "text": "スペインの政府は、これまでに39人が亡くなったと言っています。",
+    "tokens": [
+      {
+        "surface": "政府",
+        "reading": "せいふ"
+      },
+      {
+        "surface": "人",
+        "reading": "にん"
+      },
+      {
+        "surface": "亡",
+        "reading": "な"
+      },
+      {
+        "surface": "言",
+        "reading": "い"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011911553",
+    "text": "事故の原因はわかっていません。",
+    "tokens": [
+      {
+        "surface": "事故",
+        "reading": "じこ"
+      },
+      {
+        "surface": "原因",
+        "reading": "げんいん"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011911553",
+    "text": "2本の列車には全部で400人以上の人が乗っていたということです。",
+    "tokens": [
+      {
+        "surface": "本",
+        "reading": "ほん"
+      },
+      {
+        "surface": "列車",
+        "reading": "れっしゃ"
+      },
+      {
+        "surface": "全部",
+        "reading": "ぜんぶ"
+      },
+      {
+        "surface": "人",
+        "reading": "にん"
+      },
+      {
+        "surface": "以上",
+        "reading": "いじょう"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと"
+      },
+      {
+        "surface": "乗",
+        "reading": "の"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011912084",
+    "text": "2月イタリアで冬のオリンピックがあります。",
+    "tokens": [
+      {
+        "surface": "月",
+        "reading": "がつ"
+      },
+      {
+        "surface": "冬",
+        "reading": "ふゆ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011912084",
+    "text": "18日このオリンピックに出る日本の選手たちが、千葉県で集まる式がありました。",
+    "tokens": [
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "出",
+        "reading": "で"
+      },
+      {
+        "surface": "日本",
+        "reading": "にっぽん"
+      },
+      {
+        "surface": "選手",
+        "reading": "せんしゅ"
+      },
+      {
+        "surface": "千葉県",
+        "reading": "ちばけん"
+      },
+      {
+        "surface": "集",
+        "reading": "あつ"
+      },
+      {
+        "surface": "式",
+        "reading": "しき"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011912084",
+    "text": "オリンピックではスピードスケートの森重航選手が日本の旗を持ちます。しかし森重選手は外国にいるので、式に参加できませんでした。",
+    "tokens": [
+      {
+        "surface": "森重",
+        "reading": "もりしげ"
+      },
+      {
+        "surface": "航",
+        "reading": "わたる"
+      },
+      {
+        "surface": "選手",
+        "reading": "せんしゅ"
+      },
+      {
+        "surface": "日本",
+        "reading": "にっぽん"
+      },
+      {
+        "surface": "旗",
+        "reading": "はた"
+      },
+      {
+        "surface": "持",
+        "reading": "も"
+      },
+      {
+        "surface": "森重",
+        "reading": "もりしげ"
+      },
+      {
+        "surface": "選手",
+        "reading": "せんしゅ"
+      },
+      {
+        "surface": "外国",
+        "reading": "がいこく"
+      },
+      {
+        "surface": "式",
+        "reading": "しき"
+      },
+      {
+        "surface": "参加",
+        "reading": "さんか"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011912084",
+    "text": "フィギュアスケートの坂本花織選手は、選手を代表して「元気な日本の選手の姿、笑顔を届けることができるように頑張ります」と言いました。",
+    "tokens": [
+      {
+        "surface": "坂本",
+        "reading": "さかもと"
+      },
+      {
+        "surface": "花織",
+        "reading": "かおり"
+      },
+      {
+        "surface": "選手",
+        "reading": "せんしゅ"
+      },
+      {
+        "surface": "選手",
+        "reading": "せんしゅ"
+      },
+      {
+        "surface": "代表",
+        "reading": "だいひょう"
+      },
+      {
+        "surface": "元気",
+        "reading": "げんき"
+      },
+      {
+        "surface": "日本",
+        "reading": "にっぽん"
+      },
+      {
+        "surface": "選手",
+        "reading": "せんしゅ"
+      },
+      {
+        "surface": "姿",
+        "reading": "すがた"
+      },
+      {
+        "surface": "笑顔",
+        "reading": "えがお"
+      },
+      {
+        "surface": "届",
+        "reading": "とど"
+      },
+      {
+        "surface": "頑張",
+        "reading": "がんば"
+      },
+      {
+        "surface": "言",
+        "reading": "い"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011912084",
+    "text": "ミラノ・コルティナオリンピックは2月6日から22日までです。",
+    "tokens": [
+      {
+        "surface": "月",
+        "reading": "がつ"
+      },
+      {
+        "surface": "6日",
+        "reading": "むいか"
+      },
+      {
+        "surface": "日",
+        "reading": "にち"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012811533",
+    "text": "東北地方から中国地方までの日本海側などで、29日からまた雪がたくさん降りそうです。",
+    "tokens": [
+      {
+        "surface": "東北地方",
+        "reading": "とうほくちほう"
+      },
+      {
+        "surface": "中国地方",
+        "reading": "ちゅうごくちほう"
+      },
+      {
+        "surface": "日本海",
+        "reading": "にほんかい"
+      },
+      {
+        "surface": "側",
+        "reading": "がわ"
+      },
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "雪",
+        "reading": "ゆき"
+      },
+      {
+        "surface": "降",
+        "reading": "ふ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012811533",
+    "text": "気象庁によると、29日の夕方までの24時間に、新潟県と北陸地方の多いところで60cm、青森県で50cm、近畿地方で40cmぐらいの雪が降る心配があります。いつもは雪が少ない太平洋側でも雪が降るところがありそうです。",
+    "tokens": [
+      {
+        "surface": "気象庁",
+        "reading": "きしょうちょう"
+      },
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "夕方",
+        "reading": "ゆうがた"
+      },
+      {
+        "surface": "時間",
+        "reading": "じかん"
+      },
+      {
+        "surface": "新潟県",
+        "reading": "にいがたけん"
+      },
+      {
+        "surface": "北陸地方",
+        "reading": "ほくりくちほう"
+      },
+      {
+        "surface": "多",
+        "reading": "おお"
+      },
+      {
+        "surface": "青森県",
+        "reading": "あおもりけん"
+      },
+      {
+        "surface": "近畿地方",
+        "reading": "きんきちほう"
+      },
+      {
+        "surface": "雪",
+        "reading": "ゆき"
+      },
+      {
+        "surface": "降",
+        "reading": "ふ"
+      },
+      {
+        "surface": "心配",
+        "reading": "しんぱい"
+      },
+      {
+        "surface": "雪",
+        "reading": "ゆき"
+      },
+      {
+        "surface": "少",
+        "reading": "すく"
+      },
+      {
+        "surface": "太平洋",
+        "reading": "たいへいよう"
+      },
+      {
+        "surface": "側",
+        "reading": "がわ"
+      },
+      {
+        "surface": "雪",
+        "reading": "ゆき"
+      },
+      {
+        "surface": "降",
+        "reading": "ふ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012811533",
+    "text": "交通が止まるかもしれません。天気や交通の情報を見てください。雪を片づけるときの事故にも気をつけてください。",
+    "tokens": [
+      {
+        "surface": "交通",
+        "reading": "こうつう"
+      },
+      {
+        "surface": "止",
+        "reading": "と"
+      },
+      {
+        "surface": "天気",
+        "reading": "てんき"
+      },
+      {
+        "surface": "交通",
+        "reading": "こうつう"
+      },
+      {
+        "surface": "情報",
+        "reading": "じょうほう"
+      },
+      {
+        "surface": "見",
+        "reading": "み"
+      },
+      {
+        "surface": "雪",
+        "reading": "ゆき"
+      },
+      {
+        "surface": "片",
+        "reading": "かた"
+      },
+      {
+        "surface": "事故",
+        "reading": "じこ"
+      },
+      {
+        "surface": "気",
+        "reading": "き"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012911180",
+    "text": "衆議院選挙の投票をした人のためのサービスを、群馬県高崎市のデパートが始めました。",
+    "tokens": [
+      {
+        "surface": "衆議院選挙",
+        "reading": "しゅうぎいんせんきょ"
+      },
+      {
+        "surface": "投票",
+        "reading": "とうひょう"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと"
+      },
+      {
+        "surface": "群馬県",
+        "reading": "ぐんまけん"
+      },
+      {
+        "surface": "高崎市",
+        "reading": "たかさきし"
+      },
+      {
+        "surface": "始",
+        "reading": "はじ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012911180",
+    "text": "投票したことを証明する書類や投票所の写真を見せると、一部の商品が10％安くなります。",
+    "tokens": [
+      {
+        "surface": "投票",
+        "reading": "とうひょう"
+      },
+      {
+        "surface": "証明",
+        "reading": "しょうめい"
+      },
+      {
+        "surface": "書類",
+        "reading": "しょるい"
+      },
+      {
+        "surface": "投票所",
+        "reading": "とうひょうじょ"
+      },
+      {
+        "surface": "写真",
+        "reading": "しゃしん"
+      },
+      {
+        "surface": "見",
+        "reading": "み"
+      },
+      {
+        "surface": "一部",
+        "reading": "いちぶ"
+      },
+      {
+        "surface": "商品",
+        "reading": "しょうひん"
+      },
+      {
+        "surface": "安",
+        "reading": "やす"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012911180",
+    "text": "このほか、レストランなどで飲み物のサービスを受けることができます。",
+    "tokens": [
+      {
+        "surface": "飲",
+        "reading": "の"
+      },
+      {
+        "surface": "物",
+        "reading": "もの"
+      },
+      {
+        "surface": "受",
+        "reading": "う"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012911180",
+    "text": "選挙の間は、いつもより客が少なくなるため、7年前から行っています。",
+    "tokens": [
+      {
+        "surface": "選挙",
+        "reading": "せんきょ"
+      },
+      {
+        "surface": "間",
+        "reading": "あいだ"
+      },
+      {
+        "surface": "客",
+        "reading": "きゃく"
+      },
+      {
+        "surface": "少",
+        "reading": "すく"
+      },
+      {
+        "surface": "7",
+        "reading": "しち"
+      },
+      {
+        "surface": "年",
+        "reading": "ねん"
+      },
+      {
+        "surface": "前",
+        "reading": "まえ"
+      },
+      {
+        "surface": "行",
+        "reading": "おこな"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012911180",
+    "text": "買い物に来た女性は「物の値段が高くなっているので、少しでも安くなればいいです」と話していました。",
+    "tokens": [
+      {
+        "surface": "買",
+        "reading": "か"
+      },
+      {
+        "surface": "物",
+        "reading": "もの"
+      },
+      {
+        "surface": "来",
+        "reading": "き"
+      },
+      {
+        "surface": "女性",
+        "reading": "じょせい"
+      },
+      {
+        "surface": "物",
+        "reading": "もの"
+      },
+      {
+        "surface": "値段",
+        "reading": "ねだん"
+      },
+      {
+        "surface": "高",
+        "reading": "たか"
+      },
+      {
+        "surface": "少",
+        "reading": "すこ"
+      },
+      {
+        "surface": "安",
+        "reading": "やす"
+      },
+      {
+        "surface": "話",
+        "reading": "はな"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012911180",
+    "text": "デパートはこのサービスを、選挙の投票日の次の日まで行います。",
+    "tokens": [
+      {
+        "surface": "選挙",
+        "reading": "せんきょ"
+      },
+      {
+        "surface": "投票日",
+        "reading": "とうひょうび"
+      },
+      {
+        "surface": "次",
+        "reading": "つぎ"
+      },
+      {
+        "surface": "日",
+        "reading": "ひ"
+      },
+      {
+        "surface": "行",
+        "reading": "おこな"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012611500",
+    "text": "日本海側などでは、雪がたくさん降りました。",
+    "tokens": [
+      {
+        "surface": "日本海",
+        "reading": "にほんかい"
+      },
+      {
+        "surface": "側",
+        "reading": "がわ"
+      },
+      {
+        "surface": "雪",
+        "reading": "ゆき"
+      },
+      {
+        "surface": "降",
+        "reading": "ふ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012611500",
+    "text": "札幌市では、26日も、1m以上の雪が積もっています。札幌市で雪が1mを超えるのは久しぶりです。",
+    "tokens": [
+      {
+        "surface": "札幌市",
+        "reading": "さっぽろし"
+      },
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "以上",
+        "reading": "いじょう"
+      },
+      {
+        "surface": "雪",
+        "reading": "ゆき"
+      },
+      {
+        "surface": "積",
+        "reading": "つ"
+      },
+      {
+        "surface": "札幌市",
+        "reading": "さっぽろし"
+      },
+      {
+        "surface": "雪",
+        "reading": "ゆき"
+      },
+      {
+        "surface": "超",
+        "reading": "こ"
+      },
+      {
+        "surface": "久",
+        "reading": "ひさ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012611500",
+    "text": "雪のため電車や飛行機が止まったり、高速道路が通れなかったりする所があります。",
+    "tokens": [
+      {
+        "surface": "雪",
+        "reading": "ゆき"
+      },
+      {
+        "surface": "電車",
+        "reading": "でんしゃ"
+      },
+      {
+        "surface": "飛行機",
+        "reading": "ひこうき"
+      },
+      {
+        "surface": "止",
+        "reading": "と"
+      },
+      {
+        "surface": "高速道路",
+        "reading": "こうそくどうろ"
+      },
+      {
+        "surface": "通",
+        "reading": "とお"
+      },
+      {
+        "surface": "所",
+        "reading": "ところ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012611500",
+    "text": "気象庁によると、このあとも日本海側などで雪が降りそうです。",
+    "tokens": [
+      {
+        "surface": "気象庁",
+        "reading": "きしょうちょう"
+      },
+      {
+        "surface": "日本海",
+        "reading": "にほんかい"
+      },
+      {
+        "surface": "側",
+        "reading": "がわ"
+      },
+      {
+        "surface": "雪",
+        "reading": "ゆき"
+      },
+      {
+        "surface": "降",
+        "reading": "ふ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012611500",
+    "text": "雪を片づけるときには、2人以上でしてください。屋根から落ちてくる雪などに気をつけてください。",
+    "tokens": [
+      {
+        "surface": "雪",
+        "reading": "ゆき"
+      },
+      {
+        "surface": "片",
+        "reading": "かた"
+      },
+      {
+        "surface": "2人",
+        "reading": "ふたり"
+      },
+      {
+        "surface": "以上",
+        "reading": "いじょう"
+      },
+      {
+        "surface": "屋根",
+        "reading": "やね"
+      },
+      {
+        "surface": "落",
+        "reading": "お"
+      },
+      {
+        "surface": "雪",
+        "reading": "ゆき"
+      },
+      {
+        "surface": "気",
+        "reading": "き"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012312039",
+    "text": "選挙の準備が始まっています。冬の選挙では、雪の多い市や町が特に大変です。",
+    "tokens": [
+      {
+        "surface": "選挙",
+        "reading": "せんきょ"
+      },
+      {
+        "surface": "準備",
+        "reading": "じゅんび"
+      },
+      {
+        "surface": "始",
+        "reading": "はじ"
+      },
+      {
+        "surface": "冬",
+        "reading": "ふゆ"
+      },
+      {
+        "surface": "選挙",
+        "reading": "せんきょ"
+      },
+      {
+        "surface": "雪",
+        "reading": "ゆき"
+      },
+      {
+        "surface": "多",
+        "reading": "おお"
+      },
+      {
+        "surface": "市",
+        "reading": "し"
+      },
+      {
+        "surface": "町",
+        "reading": "まち"
+      },
+      {
+        "surface": "特",
+        "reading": "とく"
+      },
+      {
+        "surface": "大変",
+        "reading": "たいへん"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012312039",
+    "text": "福島県南会津町では、いつも、選挙のポスターを貼る掲示板を130ぐらい用意しています。しかし、雪が多いため、今度の選挙は30にします。",
+    "tokens": [
+      {
+        "surface": "福島県南会津町",
+        "reading": "ふくしまけんみなみあいづまち"
+      },
+      {
+        "surface": "選挙",
+        "reading": "せんきょ"
+      },
+      {
+        "surface": "貼",
+        "reading": "は"
+      },
+      {
+        "surface": "掲示板",
+        "reading": "けいじばん"
+      },
+      {
+        "surface": "用意",
+        "reading": "ようい"
+      },
+      {
+        "surface": "雪",
+        "reading": "ゆき"
+      },
+      {
+        "surface": "多",
+        "reading": "おお"
+      },
+      {
+        "surface": "今度",
+        "reading": "こんど"
+      },
+      {
+        "surface": "選挙",
+        "reading": "せんきょ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012312039",
+    "text": "岩手県北上市も、雪が多い所に掲示板を作るのをやめました。雪が高く積もっている所では、雪を片づけてから掲示板を立てるため、2倍の時間がかかるそうです。作業をしていた人は「選挙まで時間がありませんが、十分に気をつけながら作業を終わらせたいです」と話していました。",
+    "tokens": [
+      {
+        "surface": "岩手県北上市",
+        "reading": "いわてけんきたかみし"
+      },
+      {
+        "surface": "雪",
+        "reading": "ゆき"
+      },
+      {
+        "surface": "多",
+        "reading": "おお"
+      },
+      {
+        "surface": "所",
+        "reading": "ところ"
+      },
+      {
+        "surface": "掲示板",
+        "reading": "けいじばん"
+      },
+      {
+        "surface": "作",
+        "reading": "つく"
+      },
+      {
+        "surface": "雪",
+        "reading": "ゆき"
+      },
+      {
+        "surface": "高",
+        "reading": "たか"
+      },
+      {
+        "surface": "積",
+        "reading": "つ"
+      },
+      {
+        "surface": "所",
+        "reading": "ところ"
+      },
+      {
+        "surface": "雪",
+        "reading": "ゆき"
+      },
+      {
+        "surface": "片",
+        "reading": "かた"
+      },
+      {
+        "surface": "掲示板",
+        "reading": "けいじばん"
+      },
+      {
+        "surface": "立",
+        "reading": "た"
+      },
+      {
+        "surface": "倍",
+        "reading": "ばい"
+      },
+      {
+        "surface": "時間",
+        "reading": "じかん"
+      },
+      {
+        "surface": "作業",
+        "reading": "さぎょう"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと"
+      },
+      {
+        "surface": "選挙",
+        "reading": "せんきょ"
+      },
+      {
+        "surface": "時間",
+        "reading": "じかん"
+      },
+      {
+        "surface": "十分",
+        "reading": "じゅうぶん"
+      },
+      {
+        "surface": "気",
+        "reading": "き"
+      },
+      {
+        "surface": "作業",
+        "reading": "さぎょう"
+      },
+      {
+        "surface": "終",
+        "reading": "お"
+      },
+      {
+        "surface": "話",
+        "reading": "はな"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012811598",
+    "text": "衆議院の選挙は、2月8日が投票日です。",
+    "tokens": [
+      {
+        "surface": "衆議院",
+        "reading": "しゅうぎいん"
+      },
+      {
+        "surface": "選挙",
+        "reading": "せんきょ"
+      },
+      {
+        "surface": "月",
+        "reading": "がつ"
+      },
+      {
+        "surface": "8日",
+        "reading": "ようか"
+      },
+      {
+        "surface": "投票日",
+        "reading": "とうひょうび"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012811598",
+    "text": "この日に投票に行くことができない人などは、28日から投票できます。",
+    "tokens": [
+      {
+        "surface": "日",
+        "reading": "ひ"
+      },
+      {
+        "surface": "投票",
+        "reading": "とうひょう"
+      },
+      {
+        "surface": "行",
+        "reading": "い"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと"
+      },
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "投票",
+        "reading": "とうひょう"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012811598",
+    "text": "しかし、日本中のいろいろな市や町で、投票する場所に入るための券がまだ家に来ていないところがあります。",
+    "tokens": [
+      {
+        "surface": "日本中",
+        "reading": "にっぽんじゅう"
+      },
+      {
+        "surface": "市",
+        "reading": "し"
+      },
+      {
+        "surface": "町",
+        "reading": "まち"
+      },
+      {
+        "surface": "投票",
+        "reading": "とうひょう"
+      },
+      {
+        "surface": "場所",
+        "reading": "ばしょ"
+      },
+      {
+        "surface": "入",
+        "reading": "はい"
+      },
+      {
+        "surface": "券",
+        "reading": "けん"
+      },
+      {
+        "surface": "家",
+        "reading": "いえ"
+      },
+      {
+        "surface": "来",
+        "reading": "き"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012811598",
+    "text": "選挙管理委員会の人は「券がなくても投票はできます」と話しています。",
+    "tokens": [
+      {
+        "surface": "選挙管理委員会",
+        "reading": "せんきょかんりいいんかい"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと"
+      },
+      {
+        "surface": "券",
+        "reading": "けん"
+      },
+      {
+        "surface": "投票",
+        "reading": "とうひょう"
+      },
+      {
+        "surface": "話",
+        "reading": "はな"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012811598",
+    "text": "北海道の函館市では、券を持っていない人が代わりにその人だとわかる運転免許証などを見せて投票していました。",
+    "tokens": [
+      {
+        "surface": "北海道",
+        "reading": "ほっかいどう"
+      },
+      {
+        "surface": "函館市",
+        "reading": "はこだてし"
+      },
+      {
+        "surface": "券",
+        "reading": "けん"
+      },
+      {
+        "surface": "持",
+        "reading": "も"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと"
+      },
+      {
+        "surface": "代",
+        "reading": "か"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと"
+      },
+      {
+        "surface": "運転免許証",
+        "reading": "うんてんめんきょしょう"
+      },
+      {
+        "surface": "見",
+        "reading": "み"
+      },
+      {
+        "surface": "投票",
+        "reading": "とうひょう"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012811598",
+    "text": "投票した女性は「運転免許証を見せて投票したのは初めてです」と話していました。",
+    "tokens": [
+      {
+        "surface": "投票",
+        "reading": "とうひょう"
+      },
+      {
+        "surface": "女性",
+        "reading": "じょせい"
+      },
+      {
+        "surface": "運転免許証",
+        "reading": "うんてんめんきょしょう"
+      },
+      {
+        "surface": "見",
+        "reading": "み"
+      },
+      {
+        "surface": "投票",
+        "reading": "とうひょう"
+      },
+      {
+        "surface": "初",
+        "reading": "はじ"
+      },
+      {
+        "surface": "話",
+        "reading": "はな"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011412009",
+    "text": "冬のオリンピックが2月イタリアで始まります。",
+    "tokens": [
+      {
+        "surface": "冬",
+        "reading": "ふゆ"
+      },
+      {
+        "surface": "月",
+        "reading": "がつ"
+      },
+      {
+        "surface": "始",
+        "reading": "はじ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011412009",
+    "text": "ボブスレーという競技は、氷の上をそりで滑って速さを競います。",
+    "tokens": [
+      {
+        "surface": "競技",
+        "reading": "きょうぎ"
+      },
+      {
+        "surface": "氷",
+        "reading": "こおり"
+      },
+      {
+        "surface": "上",
+        "reading": "うえ"
+      },
+      {
+        "surface": "滑",
+        "reading": "すべ"
+      },
+      {
+        "surface": "速",
+        "reading": "はや"
+      },
+      {
+        "surface": "競",
+        "reading": "きそ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011412009",
+    "text": "このボブスレーの男子の競技に、日本の選手が出ることができなくなりました。",
+    "tokens": [
+      {
+        "surface": "男子",
+        "reading": "だんし"
+      },
+      {
+        "surface": "競技",
+        "reading": "きょうぎ"
+      },
+      {
+        "surface": "日本",
+        "reading": "にっぽん"
+      },
+      {
+        "surface": "選手",
+        "reading": "せんしゅ"
+      },
+      {
+        "surface": "出",
+        "reading": "で"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011412009",
+    "text": "日本のボブスレーの競技の団体がルールが変わったことをわかっていなかったためです。",
+    "tokens": [
+      {
+        "surface": "日本",
+        "reading": "にっぽん"
+      },
+      {
+        "surface": "競技",
+        "reading": "きょうぎ"
+      },
+      {
+        "surface": "団体",
+        "reading": "だんたい"
+      },
+      {
+        "surface": "変",
+        "reading": "か"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011412009",
+    "text": "競技に出るために必要な試合に選手を出していませんでした。",
+    "tokens": [
+      {
+        "surface": "競技",
+        "reading": "きょうぎ"
+      },
+      {
+        "surface": "出",
+        "reading": "で"
+      },
+      {
+        "surface": "必要",
+        "reading": "ひつよう"
+      },
+      {
+        "surface": "試合",
+        "reading": "しあい"
+      },
+      {
+        "surface": "選手",
+        "reading": "せんしゅ"
+      },
+      {
+        "surface": "出",
+        "reading": "だ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011412009",
+    "text": "団体は「選手に深く謝ります」と話しています。",
+    "tokens": [
+      {
+        "surface": "団体",
+        "reading": "だんたい"
+      },
+      {
+        "surface": "選手",
+        "reading": "せんしゅ"
+      },
+      {
+        "surface": "深",
+        "reading": "ふか"
+      },
+      {
+        "surface": "謝",
+        "reading": "あやま"
+      },
+      {
+        "surface": "話",
+        "reading": "はな"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012911544",
+    "text": "雪のため、北海道のJR札幌駅で、29日午後9時から列車の運転が止まります。",
+    "tokens": [
+      {
+        "surface": "雪",
+        "reading": "ゆき"
+      },
+      {
+        "surface": "北海道",
+        "reading": "ほっかいどう"
+      },
+      {
+        "surface": "札幌駅",
+        "reading": "さっぽろえき"
+      },
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "午後",
+        "reading": "ごご"
+      },
+      {
+        "surface": "時",
+        "reading": "じ"
+      },
+      {
+        "surface": "列車",
+        "reading": "れっしゃ"
+      },
+      {
+        "surface": "運転",
+        "reading": "うんてん"
+      },
+      {
+        "surface": "止",
+        "reading": "と"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012911544",
+    "text": "北海道では、1月25日から、雪がたくさん降りました。",
+    "tokens": [
+      {
+        "surface": "北海道",
+        "reading": "ほっかいどう"
+      },
+      {
+        "surface": "月",
+        "reading": "がつ"
+      },
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "雪",
+        "reading": "ゆき"
+      },
+      {
+        "surface": "降",
+        "reading": "ふ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012911544",
+    "text": "JRは29日夜、札幌駅の全部の列車の運転を止めて、雪を片づける作業をします。28日の夜も、列車を止めて作業をしました。",
+    "tokens": [
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "夜",
+        "reading": "よる"
+      },
+      {
+        "surface": "札幌駅",
+        "reading": "さっぽろえき"
+      },
+      {
+        "surface": "全部",
+        "reading": "ぜんぶ"
+      },
+      {
+        "surface": "列車",
+        "reading": "れっしゃ"
+      },
+      {
+        "surface": "運転",
+        "reading": "うんてん"
+      },
+      {
+        "surface": "止",
+        "reading": "と"
+      },
+      {
+        "surface": "雪",
+        "reading": "ゆき"
+      },
+      {
+        "surface": "片",
+        "reading": "かた"
+      },
+      {
+        "surface": "作業",
+        "reading": "さぎょう"
+      },
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "夜",
+        "reading": "よる"
+      },
+      {
+        "surface": "列車",
+        "reading": "れっしゃ"
+      },
+      {
+        "surface": "止",
+        "reading": "と"
+      },
+      {
+        "surface": "作業",
+        "reading": "さぎょう"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012911544",
+    "text": "JRは、ウェブサイトで列車の情報をチェックしてほしいと言っています。",
+    "tokens": [
+      {
+        "surface": "列車",
+        "reading": "れっしゃ"
+      },
+      {
+        "surface": "情報",
+        "reading": "じょうほう"
+      },
+      {
+        "surface": "言",
+        "reading": "い"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012911544",
+    "text": "新千歳空港と札幌の間を走っている列車も止まります。空港の会社は、空港から札幌に向かうバスを特別に出して、飛行機の客を運ぶ予定です。",
+    "tokens": [
+      {
+        "surface": "新千歳空港",
+        "reading": "しんちとせくうこう"
+      },
+      {
+        "surface": "札幌",
+        "reading": "さっぽろ"
+      },
+      {
+        "surface": "間",
+        "reading": "あいだ"
+      },
+      {
+        "surface": "走",
+        "reading": "はし"
+      },
+      {
+        "surface": "列車",
+        "reading": "れっしゃ"
+      },
+      {
+        "surface": "止",
+        "reading": "と"
+      },
+      {
+        "surface": "空港",
+        "reading": "くうこう"
+      },
+      {
+        "surface": "会社",
+        "reading": "かいしゃ"
+      },
+      {
+        "surface": "空港",
+        "reading": "くうこう"
+      },
+      {
+        "surface": "札幌",
+        "reading": "さっぽろ"
+      },
+      {
+        "surface": "向",
+        "reading": "む"
+      },
+      {
+        "surface": "特別",
+        "reading": "とくべつ"
+      },
+      {
+        "surface": "出",
+        "reading": "だ"
+      },
+      {
+        "surface": "飛行機",
+        "reading": "ひこうき"
+      },
+      {
+        "surface": "客",
+        "reading": "きゃく"
+      },
+      {
+        "surface": "運",
+        "reading": "はこ"
+      },
+      {
+        "surface": "予定",
+        "reading": "よてい"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012911368",
+    "text": "2月、野菜の値段がどうなりそうか、農林水産省が発表しました。",
+    "tokens": [
+      {
+        "surface": "月",
+        "reading": "がつ"
+      },
+      {
+        "surface": "野菜",
+        "reading": "やさい"
+      },
+      {
+        "surface": "値段",
+        "reading": "ねだん"
+      },
+      {
+        "surface": "農林水産省",
+        "reading": "のうりんすいさんしょう"
+      },
+      {
+        "surface": "発表",
+        "reading": "はっぴょう"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012911368",
+    "text": "特に値段が高くなるのは、じゃがいもとたまねぎです。今まで5年の平均より30％以上、高くなりそうです。じゃがいもとたまねぎがたくさんとれる北海道で夏に気温が高かったため、市場へ出す量がいつもの年より少なくなりそうです。",
+    "tokens": [
+      {
+        "surface": "特",
+        "reading": "とく"
+      },
+      {
+        "surface": "値段",
+        "reading": "ねだん"
+      },
+      {
+        "surface": "高",
+        "reading": "たか"
+      },
+      {
+        "surface": "今",
+        "reading": "いま"
+      },
+      {
+        "surface": "年",
+        "reading": "ねん"
+      },
+      {
+        "surface": "平均",
+        "reading": "へいきん"
+      },
+      {
+        "surface": "以上",
+        "reading": "いじょう"
+      },
+      {
+        "surface": "高",
+        "reading": "たか"
+      },
+      {
+        "surface": "北海道",
+        "reading": "ほっかいどう"
+      },
+      {
+        "surface": "夏",
+        "reading": "なつ"
+      },
+      {
+        "surface": "気温",
+        "reading": "きおん"
+      },
+      {
+        "surface": "高",
+        "reading": "たか"
+      },
+      {
+        "surface": "市場",
+        "reading": "しじょう"
+      },
+      {
+        "surface": "出",
+        "reading": "だ"
+      },
+      {
+        "surface": "量",
+        "reading": "りょう"
+      },
+      {
+        "surface": "年",
+        "reading": "とし"
+      },
+      {
+        "surface": "少",
+        "reading": "すく"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012911368",
+    "text": "さといもとにんじんは、10％から30％ぐらい高くなりそうです。低い気温や雨が続いたためです。",
+    "tokens": [
+      {
+        "surface": "高",
+        "reading": "たか"
+      },
+      {
+        "surface": "低",
+        "reading": "ひく"
+      },
+      {
+        "surface": "気温",
+        "reading": "きおん"
+      },
+      {
+        "surface": "雨",
+        "reading": "あめ"
+      },
+      {
+        "surface": "続",
+        "reading": "つづ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012911368",
+    "text": "だいこんとキャベツは、2月の前半はいつもの年より10％以上安くなりそうです。",
+    "tokens": [
+      {
+        "surface": "月",
+        "reading": "がつ"
+      },
+      {
+        "surface": "前半",
+        "reading": "ぜんはん"
+      },
+      {
+        "surface": "年",
+        "reading": "とし"
+      },
+      {
+        "surface": "以上",
+        "reading": "いじょう"
+      },
+      {
+        "surface": "安",
+        "reading": "やす"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026010611477",
+    "text": "アメリカの軍は3日、南米のベネズエラのマドゥーロ大統領と妻の2人を捕まえました。",
+    "tokens": [
+      {
+        "surface": "軍",
+        "reading": "ぐん"
+      },
+      {
+        "surface": "3日",
+        "reading": "みっか"
+      },
+      {
+        "surface": "南米",
+        "reading": "なんべい"
+      },
+      {
+        "surface": "大統領",
+        "reading": "だいとうりょう"
+      },
+      {
+        "surface": "妻",
+        "reading": "つま"
+      },
+      {
+        "surface": "2人",
+        "reading": "ふたり"
+      },
+      {
+        "surface": "捕",
+        "reading": "つか"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026010611477",
+    "text": "そして5日、ニューヨークの裁判所で、2人の裁判が始まりました。",
+    "tokens": [
+      {
+        "surface": "5日",
+        "reading": "いつか"
+      },
+      {
+        "surface": "裁判所",
+        "reading": "さいばんしょ"
+      },
+      {
+        "surface": "2人",
+        "reading": "ふたり"
+      },
+      {
+        "surface": "裁判",
+        "reading": "さいばん"
+      },
+      {
+        "surface": "始",
+        "reading": "はじ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026010611477",
+    "text": "2人は、法律に違反して、コカインという麻薬をアメリカにたくさん入れたとされています。マドゥーロ大統領と妻は、自分たちは悪いことはしていないと言いました。",
+    "tokens": [
+      {
+        "surface": "2人",
+        "reading": "ふたり"
+      },
+      {
+        "surface": "法律",
+        "reading": "ほうりつ"
+      },
+      {
+        "surface": "違反",
+        "reading": "いはん"
+      },
+      {
+        "surface": "麻薬",
+        "reading": "まやく"
+      },
+      {
+        "surface": "入",
+        "reading": "い"
+      },
+      {
+        "surface": "大統領",
+        "reading": "だいとうりょう"
+      },
+      {
+        "surface": "妻",
+        "reading": "つま"
+      },
+      {
+        "surface": "自分",
+        "reading": "じぶん"
+      },
+      {
+        "surface": "悪",
+        "reading": "わる"
+      },
+      {
+        "surface": "言",
+        "reading": "い"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026010611477",
+    "text": "次の裁判は3月17日の予定です。",
+    "tokens": [
+      {
+        "surface": "次",
+        "reading": "つぎ"
+      },
+      {
+        "surface": "裁判",
+        "reading": "さいばん"
+      },
+      {
+        "surface": "月",
+        "reading": "がつ"
+      },
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "予定",
+        "reading": "よてい"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026010611477",
+    "text": "5日は、安全と平和を守るための国連の会議がありました。会議では、軍を使って大統領を捕まえたアメリカのやり方は間違っていると、いろいろな国から意見や心配の声がありました。",
+    "tokens": [
+      {
+        "surface": "5日",
+        "reading": "いつか"
+      },
+      {
+        "surface": "安全",
+        "reading": "あんぜん"
+      },
+      {
+        "surface": "平和",
+        "reading": "へいわ"
+      },
+      {
+        "surface": "守",
+        "reading": "まも"
+      },
+      {
+        "surface": "国連",
+        "reading": "こくれん"
+      },
+      {
+        "surface": "会議",
+        "reading": "かいぎ"
+      },
+      {
+        "surface": "会議",
+        "reading": "かいぎ"
+      },
+      {
+        "surface": "軍",
+        "reading": "ぐん"
+      },
+      {
+        "surface": "使",
+        "reading": "つか"
+      },
+      {
+        "surface": "大統領",
+        "reading": "だいとうりょう"
+      },
+      {
+        "surface": "捕",
+        "reading": "つか"
+      },
+      {
+        "surface": "方",
+        "reading": "かた"
+      },
+      {
+        "surface": "間違",
+        "reading": "まちが"
+      },
+      {
+        "surface": "国",
+        "reading": "くに"
+      },
+      {
+        "surface": "意見",
+        "reading": "いけん"
+      },
+      {
+        "surface": "心配",
+        "reading": "しんぱい"
+      },
+      {
+        "surface": "声",
+        "reading": "こえ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012211550",
+    "text": "とても冷たい空気が入って、日本海側などで雪が降っています。",
+    "tokens": [
+      {
+        "surface": "冷",
+        "reading": "つめ"
+      },
+      {
+        "surface": "空気",
+        "reading": "くうき"
+      },
+      {
+        "surface": "入",
+        "reading": "はい"
+      },
+      {
+        "surface": "日本海",
+        "reading": "にほんかい"
+      },
+      {
+        "surface": "側",
+        "reading": "がわ"
+      },
+      {
+        "surface": "雪",
+        "reading": "ゆき"
+      },
+      {
+        "surface": "降",
+        "reading": "ふ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012211550",
+    "text": "特に石川県と滋賀県などで、たくさん雪が降りました。",
+    "tokens": [
+      {
+        "surface": "特",
+        "reading": "とく"
+      },
+      {
+        "surface": "石川県",
+        "reading": "いしかわけん"
+      },
+      {
+        "surface": "滋賀県",
+        "reading": "しがけん"
+      },
+      {
+        "surface": "雪",
+        "reading": "ゆき"
+      },
+      {
+        "surface": "降",
+        "reading": "ふ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012211550",
+    "text": "気象庁によると、23日の夕方までに新潟県の多い所で80cm、東北地方と北陸地方の多い所で70cmの雪が降りそうです。",
+    "tokens": [
+      {
+        "surface": "気象庁",
+        "reading": "きしょうちょう"
+      },
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "夕方",
+        "reading": "ゆうがた"
+      },
+      {
+        "surface": "新潟県",
+        "reading": "にいがたけん"
+      },
+      {
+        "surface": "多",
+        "reading": "おお"
+      },
+      {
+        "surface": "所",
+        "reading": "ところ"
+      },
+      {
+        "surface": "東北地方",
+        "reading": "とうほくちほう"
+      },
+      {
+        "surface": "北陸地方",
+        "reading": "ほくりくちほう"
+      },
+      {
+        "surface": "多",
+        "reading": "おお"
+      },
+      {
+        "surface": "所",
+        "reading": "ところ"
+      },
+      {
+        "surface": "雪",
+        "reading": "ゆき"
+      },
+      {
+        "surface": "降",
+        "reading": "ふ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012211550",
+    "text": "そのあともたくさん雪が降って、特に、24日と25日は大雪になる心配があります。",
+    "tokens": [
+      {
+        "surface": "雪",
+        "reading": "ゆき"
+      },
+      {
+        "surface": "降",
+        "reading": "ふ"
+      },
+      {
+        "surface": "特",
+        "reading": "とく"
+      },
+      {
+        "surface": "24",
+        "reading": "にじゅうよっ"
+      },
+      {
+        "surface": "日",
+        "reading": "か"
+      },
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "大雪",
+        "reading": "おおゆき"
+      },
+      {
+        "surface": "心配",
+        "reading": "しんぱい"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012211550",
+    "text": "雪のために、多くの車が、道で動くことができなくなるかもしれません。",
+    "tokens": [
+      {
+        "surface": "雪",
+        "reading": "ゆき"
+      },
+      {
+        "surface": "多",
+        "reading": "おお"
+      },
+      {
+        "surface": "車",
+        "reading": "くるま"
+      },
+      {
+        "surface": "道",
+        "reading": "みち"
+      },
+      {
+        "surface": "動",
+        "reading": "うご"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012211550",
+    "text": "どうしても車を運転しなければならない人は、必ず冬のタイヤやチェーンを使ってください。",
+    "tokens": [
+      {
+        "surface": "車",
+        "reading": "くるま"
+      },
+      {
+        "surface": "運転",
+        "reading": "うんてん"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと"
+      },
+      {
+        "surface": "必",
+        "reading": "かなら"
+      },
+      {
+        "surface": "冬",
+        "reading": "ふゆ"
+      },
+      {
+        "surface": "使",
+        "reading": "つか"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012611560",
+    "text": "大相撲のニュースです。",
+    "tokens": [
+      {
+        "surface": "大相撲",
+        "reading": "おおずもう"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012611560",
+    "text": "大関の安青錦が2回目の優勝をしました。",
+    "tokens": [
+      {
+        "surface": "大関",
+        "reading": "おおぜき"
+      },
+      {
+        "surface": "安青錦",
+        "reading": "あおにしき"
+      },
+      {
+        "surface": "回",
+        "reading": "かい"
+      },
+      {
+        "surface": "目",
+        "reading": "め"
+      },
+      {
+        "surface": "優勝",
+        "reading": "ゆうしょう"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012611560",
+    "text": "安青錦はウクライナの人です。去年11月に、上から2番目の「大関」になりました。",
+    "tokens": [
+      {
+        "surface": "安青錦",
+        "reading": "あおにしき"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと"
+      },
+      {
+        "surface": "去年",
+        "reading": "きょねん"
+      },
+      {
+        "surface": "月",
+        "reading": "がつ"
+      },
+      {
+        "surface": "上",
+        "reading": "うえ"
+      },
+      {
+        "surface": "番目",
+        "reading": "ばんめ"
+      },
+      {
+        "surface": "大関",
+        "reading": "おおぜき"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012611560",
+    "text": "25日は、優勝を決める相撲で、熱海富士に勝ちました。大関になって初めて出た大相撲で優勝した人は、20年の間、いませんでした。",
+    "tokens": [
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "優勝",
+        "reading": "ゆうしょう"
+      },
+      {
+        "surface": "決",
+        "reading": "き"
+      },
+      {
+        "surface": "相撲",
+        "reading": "すもう"
+      },
+      {
+        "surface": "熱海",
+        "reading": "あたみ"
+      },
+      {
+        "surface": "富士",
+        "reading": "ふじ"
+      },
+      {
+        "surface": "勝",
+        "reading": "か"
+      },
+      {
+        "surface": "大関",
+        "reading": "おおぜき"
+      },
+      {
+        "surface": "初",
+        "reading": "はじ"
+      },
+      {
+        "surface": "出",
+        "reading": "で"
+      },
+      {
+        "surface": "大相撲",
+        "reading": "おおずもう"
+      },
+      {
+        "surface": "優勝",
+        "reading": "ゆうしょう"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと"
+      },
+      {
+        "surface": "年",
+        "reading": "ねん"
+      },
+      {
+        "surface": "間",
+        "reading": "あいだ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012611560",
+    "text": "安青錦は「いつものように自分らしい相撲をすれば、よい結果が出ると思いました」と話しました。",
+    "tokens": [
+      {
+        "surface": "安青錦",
+        "reading": "あおにしき"
+      },
+      {
+        "surface": "自分",
+        "reading": "じぶん"
+      },
+      {
+        "surface": "相撲",
+        "reading": "すもう"
+      },
+      {
+        "surface": "結果",
+        "reading": "けっか"
+      },
+      {
+        "surface": "出",
+        "reading": "で"
+      },
+      {
+        "surface": "思",
+        "reading": "おも"
+      },
+      {
+        "surface": "話",
+        "reading": "はな"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012611560",
+    "text": "安青錦は3月の大相撲で、1番上の「横綱」を目指します。",
+    "tokens": [
+      {
+        "surface": "安青錦",
+        "reading": "あおにしき"
+      },
+      {
+        "surface": "月",
+        "reading": "がつ"
+      },
+      {
+        "surface": "大相撲",
+        "reading": "おおずもう"
+      },
+      {
+        "surface": "番",
+        "reading": "ばん"
+      },
+      {
+        "surface": "上",
+        "reading": "うえ"
+      },
+      {
+        "surface": "横綱",
+        "reading": "よこづな"
+      },
+      {
+        "surface": "目指",
+        "reading": "めざ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026010711566",
+    "text": "アメリカのラスベガスで、AIなどの新しい技術を紹介するイベントが始まりました。",
+    "tokens": [
+      {
+        "surface": "新",
+        "reading": "あたら"
+      },
+      {
+        "surface": "技術",
+        "reading": "ぎじゅつ"
+      },
+      {
+        "surface": "紹介",
+        "reading": "しょうかい"
+      },
+      {
+        "surface": "始",
+        "reading": "はじ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026010711566",
+    "text": "世界から4000以上の会社や団体が集まっています。今年は、AIを使った人の形のロボットが多くなっています。",
+    "tokens": [
+      {
+        "surface": "世界",
+        "reading": "せかい"
+      },
+      {
+        "surface": "以上",
+        "reading": "いじょう"
+      },
+      {
+        "surface": "会社",
+        "reading": "かいしゃ"
+      },
+      {
+        "surface": "団体",
+        "reading": "だんたい"
+      },
+      {
+        "surface": "集",
+        "reading": "あつ"
+      },
+      {
+        "surface": "今年",
+        "reading": "ことし"
+      },
+      {
+        "surface": "使",
+        "reading": "つか"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと"
+      },
+      {
+        "surface": "形",
+        "reading": "かたち"
+      },
+      {
+        "surface": "多",
+        "reading": "おお"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026010711566",
+    "text": "中国の会社のロボットは、部屋に落ちている服を洗濯機まで運んだり、お茶を入れたりしました。アメリカの会社のロボットは話す人の顔をよく見ています。そして、その人の気持ちを考えて答えたり案内したりします。",
+    "tokens": [
+      {
+        "surface": "中国",
+        "reading": "ちゅうごく"
+      },
+      {
+        "surface": "会社",
+        "reading": "かいしゃ"
+      },
+      {
+        "surface": "部屋",
+        "reading": "へや"
+      },
+      {
+        "surface": "落",
+        "reading": "お"
+      },
+      {
+        "surface": "服",
+        "reading": "ふく"
+      },
+      {
+        "surface": "洗濯機",
+        "reading": "せんたくき"
+      },
+      {
+        "surface": "運",
+        "reading": "はこ"
+      },
+      {
+        "surface": "茶",
+        "reading": "ちゃ"
+      },
+      {
+        "surface": "入",
+        "reading": "い"
+      },
+      {
+        "surface": "会社",
+        "reading": "かいしゃ"
+      },
+      {
+        "surface": "話",
+        "reading": "はな"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと"
+      },
+      {
+        "surface": "顔",
+        "reading": "かお"
+      },
+      {
+        "surface": "見",
+        "reading": "み"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと"
+      },
+      {
+        "surface": "気持",
+        "reading": "きも"
+      },
+      {
+        "surface": "考",
+        "reading": "かんが"
+      },
+      {
+        "surface": "答",
+        "reading": "こた"
+      },
+      {
+        "surface": "案内",
+        "reading": "あんない"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026010711566",
+    "text": "このイベントは今月9日までです。",
+    "tokens": [
+      {
+        "surface": "今月",
+        "reading": "こんげつ"
+      },
+      {
+        "surface": "9日",
+        "reading": "ここのか"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012611182",
+    "text": "日本にパンダがいなくなります。上野動物園の双子のパンダ「シャオシャオ」と「レイレイ」は27日、中国に帰る予定です。",
+    "tokens": [
+      {
+        "surface": "日本",
+        "reading": "にっぽん"
+      },
+      {
+        "surface": "上野動物園",
+        "reading": "うえのどうぶつえん"
+      },
+      {
+        "surface": "双子",
+        "reading": "ふたご"
+      },
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "中国",
+        "reading": "ちゅうごく"
+      },
+      {
+        "surface": "帰",
+        "reading": "かえ"
+      },
+      {
+        "surface": "予定",
+        "reading": "よてい"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012611182",
+    "text": "25日は、パンダを見ることができる最後の日でした。パンダを見るためには予約が必要でした。見ることができたのは4400人でした。",
+    "tokens": [
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "見",
+        "reading": "み"
+      },
+      {
+        "surface": "最後",
+        "reading": "さいご"
+      },
+      {
+        "surface": "日",
+        "reading": "ひ"
+      },
+      {
+        "surface": "見",
+        "reading": "み"
+      },
+      {
+        "surface": "予約",
+        "reading": "よやく"
+      },
+      {
+        "surface": "必要",
+        "reading": "ひつよう"
+      },
+      {
+        "surface": "見",
+        "reading": "み"
+      },
+      {
+        "surface": "人",
+        "reading": "にん"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012611182",
+    "text": "2頭はいつものように、竹を食べたり歩いたりしていました。",
+    "tokens": [
+      {
+        "surface": "頭",
+        "reading": "とう"
+      },
+      {
+        "surface": "竹",
+        "reading": "たけ"
+      },
+      {
+        "surface": "食",
+        "reading": "た"
+      },
+      {
+        "surface": "歩",
+        "reading": "ある"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012611182",
+    "text": "60歳ぐらいの女性は「涙が出ました。子どもたちのために、パンダにまた日本に来てほしいと思います」と話しました。",
+    "tokens": [
+      {
+        "surface": "歳",
+        "reading": "さい"
+      },
+      {
+        "surface": "女性",
+        "reading": "じょせい"
+      },
+      {
+        "surface": "涙",
+        "reading": "なみだ"
+      },
+      {
+        "surface": "出",
+        "reading": "で"
+      },
+      {
+        "surface": "子",
+        "reading": "こ"
+      },
+      {
+        "surface": "日本",
+        "reading": "にっぽん"
+      },
+      {
+        "surface": "来",
+        "reading": "き"
+      },
+      {
+        "surface": "思",
+        "reading": "おも"
+      },
+      {
+        "surface": "話",
+        "reading": "はな"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026010712028",
+    "text": "デンマークが持っている島、グリーンランドのニュースです。",
+    "tokens": [
+      {
+        "surface": "持",
+        "reading": "も"
+      },
+      {
+        "surface": "島",
+        "reading": "しま"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026010712028",
+    "text": "アメリカのトランプ政権は6日、「グリーンランドはアメリカの安全のために必要だ。敵が来ないようにするためだ」と言いました。そして「アメリカがグリーンランドを取るために、軍を使うことを考えるかもしれない」と言いました。",
+    "tokens": [
+      {
+        "surface": "政権",
+        "reading": "せいけん"
+      },
+      {
+        "surface": "6日",
+        "reading": "むいか"
+      },
+      {
+        "surface": "安全",
+        "reading": "あんぜん"
+      },
+      {
+        "surface": "必要",
+        "reading": "ひつよう"
+      },
+      {
+        "surface": "敵",
+        "reading": "てき"
+      },
+      {
+        "surface": "来",
+        "reading": "こ"
+      },
+      {
+        "surface": "言",
+        "reading": "い"
+      },
+      {
+        "surface": "取",
+        "reading": "と"
+      },
+      {
+        "surface": "軍",
+        "reading": "ぐん"
+      },
+      {
+        "surface": "使",
+        "reading": "つか"
+      },
+      {
+        "surface": "考",
+        "reading": "かんが"
+      },
+      {
+        "surface": "言",
+        "reading": "い"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026010712028",
+    "text": "デンマークとイギリス、フランス、ドイツなどは「デンマークとグリーンランドのことは住んでいる人だけで決める」と言いました。",
+    "tokens": [
+      {
+        "surface": "住",
+        "reading": "す"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと"
+      },
+      {
+        "surface": "決",
+        "reading": "き"
+      },
+      {
+        "surface": "言",
+        "reading": "い"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011311114",
+    "text": "12日は「成人の日」でした。大人になった人たちをお祝いする日です。",
+    "tokens": [
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "成人",
+        "reading": "せいじん"
+      },
+      {
+        "surface": "日",
+        "reading": "ひ"
+      },
+      {
+        "surface": "大人",
+        "reading": "おとな"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと"
+      },
+      {
+        "surface": "祝",
+        "reading": "いわ"
+      },
+      {
+        "surface": "日",
+        "reading": "ひ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011311114",
+    "text": "NHKの調べでは、東京23区で、今年3月までの1年間に20歳になる人は8万5千人ぐらいでした。",
+    "tokens": [
+      {
+        "surface": "調",
+        "reading": "しら"
+      },
+      {
+        "surface": "東京",
+        "reading": "とうきょう"
+      },
+      {
+        "surface": "区",
+        "reading": "く"
+      },
+      {
+        "surface": "今年",
+        "reading": "ことし"
+      },
+      {
+        "surface": "月",
+        "reading": "がつ"
+      },
+      {
+        "surface": "年",
+        "reading": "ねん"
+      },
+      {
+        "surface": "間",
+        "reading": "かん"
+      },
+      {
+        "surface": "歳",
+        "reading": "さい"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと"
+      },
+      {
+        "surface": "万",
+        "reading": "まん"
+      },
+      {
+        "surface": "人",
+        "reading": "にん"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011311114",
+    "text": "この中で、1万5千人ぐらいが外国人でした。これは6人の中で1人が外国人ということになります。",
+    "tokens": [
+      {
+        "surface": "中",
+        "reading": "なか"
+      },
+      {
+        "surface": "万",
+        "reading": "まん"
+      },
+      {
+        "surface": "人",
+        "reading": "にん"
+      },
+      {
+        "surface": "外国人",
+        "reading": "がいこくじん"
+      },
+      {
+        "surface": "人",
+        "reading": "にん"
+      },
+      {
+        "surface": "中",
+        "reading": "なか"
+      },
+      {
+        "surface": "1人",
+        "reading": "ひとり"
+      },
+      {
+        "surface": "外国人",
+        "reading": "がいこくじん"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011311114",
+    "text": "とくに新宿区は2人に1人が外国人でした。",
+    "tokens": [
+      {
+        "surface": "新宿区",
+        "reading": "しんじゅくく"
+      },
+      {
+        "surface": "2人",
+        "reading": "ふたり"
+      },
+      {
+        "surface": "1人",
+        "reading": "ひとり"
+      },
+      {
+        "surface": "外国人",
+        "reading": "がいこくじん"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011311114",
+    "text": "専門家は「日本は、人口が減っていて、働く人が足りなくなっています。これからも外国人の若者の割合は増えそうです。日本人と外国人が一緒に協力して社会を作るための話し合いも必要です」と話しています。",
+    "tokens": [
+      {
+        "surface": "専門家",
+        "reading": "せんもんか"
+      },
+      {
+        "surface": "日本",
+        "reading": "にっぽん"
+      },
+      {
+        "surface": "人口",
+        "reading": "じんこう"
+      },
+      {
+        "surface": "減",
+        "reading": "へ"
+      },
+      {
+        "surface": "働",
+        "reading": "はたら"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと"
+      },
+      {
+        "surface": "足",
+        "reading": "た"
+      },
+      {
+        "surface": "外国人",
+        "reading": "がいこくじん"
+      },
+      {
+        "surface": "若者",
+        "reading": "わかもの"
+      },
+      {
+        "surface": "割合",
+        "reading": "わりあい"
+      },
+      {
+        "surface": "増",
+        "reading": "ふ"
+      },
+      {
+        "surface": "日本人",
+        "reading": "にっぽんじん"
+      },
+      {
+        "surface": "外国人",
+        "reading": "がいこくじん"
+      },
+      {
+        "surface": "一緒",
+        "reading": "いっしょ"
+      },
+      {
+        "surface": "協力",
+        "reading": "きょうりょく"
+      },
+      {
+        "surface": "社会",
+        "reading": "しゃかい"
+      },
+      {
+        "surface": "作",
+        "reading": "つく"
+      },
+      {
+        "surface": "話",
+        "reading": "はな"
+      },
+      {
+        "surface": "合",
+        "reading": "あ"
+      },
+      {
+        "surface": "必要",
+        "reading": "ひつよう"
+      },
+      {
+        "surface": "話",
+        "reading": "はな"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011511556",
+    "text": "政治のニュースです。",
+    "tokens": [
+      {
+        "surface": "政治",
+        "reading": "せいじ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011511556",
+    "text": "高市総理大臣は、今月23日から始まる国会で衆議院を解散することを、14日、与党の自民党と日本維新の会に伝えました。",
+    "tokens": [
+      {
+        "surface": "高市",
+        "reading": "たかいち"
+      },
+      {
+        "surface": "総理大臣",
+        "reading": "そうりだいじん"
+      },
+      {
+        "surface": "今月",
+        "reading": "こんげつ"
+      },
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "始",
+        "reading": "はじ"
+      },
+      {
+        "surface": "国会",
+        "reading": "こっかい"
+      },
+      {
+        "surface": "衆議院",
+        "reading": "しゅうぎいん"
+      },
+      {
+        "surface": "解散",
+        "reading": "かいさん"
+      },
+      {
+        "surface": "14日",
+        "reading": "じゅうよっか"
+      },
+      {
+        "surface": "与党",
+        "reading": "よとう"
+      },
+      {
+        "surface": "自民党",
+        "reading": "じみんとう"
+      },
+      {
+        "surface": "日本維新",
+        "reading": "にっぽんいしん"
+      },
+      {
+        "surface": "会",
+        "reading": "かい"
+      },
+      {
+        "surface": "伝",
+        "reading": "つた"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011511556",
+    "text": "解散すると、衆議院の新しい議員を選ぶ選挙があります。与党は、投票する日を2月8日と考えています。",
+    "tokens": [
+      {
+        "surface": "解散",
+        "reading": "かいさん"
+      },
+      {
+        "surface": "衆議院",
+        "reading": "しゅうぎいん"
+      },
+      {
+        "surface": "新",
+        "reading": "あたら"
+      },
+      {
+        "surface": "議員",
+        "reading": "ぎいん"
+      },
+      {
+        "surface": "選",
+        "reading": "えら"
+      },
+      {
+        "surface": "選挙",
+        "reading": "せんきょ"
+      },
+      {
+        "surface": "与党",
+        "reading": "よとう"
+      },
+      {
+        "surface": "投票",
+        "reading": "とうひょう"
+      },
+      {
+        "surface": "日",
+        "reading": "ひ"
+      },
+      {
+        "surface": "月",
+        "reading": "がつ"
+      },
+      {
+        "surface": "8日",
+        "reading": "ようか"
+      },
+      {
+        "surface": "考",
+        "reading": "かんが"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011511556",
+    "text": "与党と野党は、選挙の準備を急いで始めています。",
+    "tokens": [
+      {
+        "surface": "与党",
+        "reading": "よとう"
+      },
+      {
+        "surface": "野党",
+        "reading": "やとう"
+      },
+      {
+        "surface": "選挙",
+        "reading": "せんきょ"
+      },
+      {
+        "surface": "準備",
+        "reading": "じゅんび"
+      },
+      {
+        "surface": "急",
+        "reading": "いそ"
+      },
+      {
+        "surface": "始",
+        "reading": "はじ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011511587",
+    "text": "国は、2016年に「がん」が見つかってから、5年間、生きている人のデータを発表しました。",
+    "tokens": [
+      {
+        "surface": "国",
+        "reading": "くに"
+      },
+      {
+        "surface": "年",
+        "reading": "ねん"
+      },
+      {
+        "surface": "見",
+        "reading": "み"
+      },
+      {
+        "surface": "年",
+        "reading": "ねん"
+      },
+      {
+        "surface": "間",
+        "reading": "かん"
+      },
+      {
+        "surface": "生",
+        "reading": "い"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと"
+      },
+      {
+        "surface": "発表",
+        "reading": "はっぴょう"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011511587",
+    "text": "国によると、がんの種類で、5年間、生きている人の割合は、大きく違うことがわかりました。",
+    "tokens": [
+      {
+        "surface": "国",
+        "reading": "くに"
+      },
+      {
+        "surface": "種類",
+        "reading": "しゅるい"
+      },
+      {
+        "surface": "年",
+        "reading": "ねん"
+      },
+      {
+        "surface": "間",
+        "reading": "かん"
+      },
+      {
+        "surface": "生",
+        "reading": "い"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと"
+      },
+      {
+        "surface": "割合",
+        "reading": "わりあい"
+      },
+      {
+        "surface": "大",
+        "reading": "おお"
+      },
+      {
+        "surface": "違",
+        "reading": "ちが"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011511587",
+    "text": "割合が高かったのは、前立腺がん、甲状腺がん、皮膚がんです。90％以上でした。そして、乳がんは88％、喉頭がんは75.2％、大腸がんは67.8％、肝臓がんは33.4％でした。",
+    "tokens": [
+      {
+        "surface": "割合",
+        "reading": "わりあい"
+      },
+      {
+        "surface": "高",
+        "reading": "たか"
+      },
+      {
+        "surface": "前立腺",
+        "reading": "ぜんりつせん"
+      },
+      {
+        "surface": "甲状腺",
+        "reading": "こうじょうせん"
+      },
+      {
+        "surface": "皮膚",
+        "reading": "ひふ"
+      },
+      {
+        "surface": "以上",
+        "reading": "いじょう"
+      },
+      {
+        "surface": "乳",
+        "reading": "にゅう"
+      },
+      {
+        "surface": "喉頭",
+        "reading": "こうとう"
+      },
+      {
+        "surface": "大腸",
+        "reading": "だいちょう"
+      },
+      {
+        "surface": "肝臓",
+        "reading": "かんぞう"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011511587",
+    "text": "いちばん低かったのは、すい臓がんで、11.8％でした。",
+    "tokens": [
+      {
+        "surface": "低",
+        "reading": "ひく"
+      },
+      {
+        "surface": "臓",
+        "reading": "ぞう"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011511587",
+    "text": "国が、このデータを出すのは初めてです。",
+    "tokens": [
+      {
+        "surface": "国",
+        "reading": "くに"
+      },
+      {
+        "surface": "出",
+        "reading": "だ"
+      },
+      {
+        "surface": "初",
+        "reading": "はじ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011611416",
+    "text": "政治のニュースです。",
+    "tokens": [
+      {
+        "surface": "政治",
+        "reading": "せいじ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011611416",
+    "text": "高市総理大臣は、23日から始まる国会で衆議院を解散することを考えています。",
+    "tokens": [
+      {
+        "surface": "高市",
+        "reading": "たかいち"
+      },
+      {
+        "surface": "総理大臣",
+        "reading": "そうりだいじん"
+      },
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "始",
+        "reading": "はじ"
+      },
+      {
+        "surface": "国会",
+        "reading": "こっかい"
+      },
+      {
+        "surface": "衆議院",
+        "reading": "しゅうぎいん"
+      },
+      {
+        "surface": "解散",
+        "reading": "かいさん"
+      },
+      {
+        "surface": "考",
+        "reading": "かんが"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011611416",
+    "text": "立憲民主党と公明党は、16日、新しい政党をつくりました。新しい政党の名前は「中道改革連合」です。",
+    "tokens": [
+      {
+        "surface": "立憲民主党",
+        "reading": "りっけんみんしゅとう"
+      },
+      {
+        "surface": "公明党",
+        "reading": "こうめいとう"
+      },
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "新",
+        "reading": "あたら"
+      },
+      {
+        "surface": "政党",
+        "reading": "せいとう"
+      },
+      {
+        "surface": "新",
+        "reading": "あたら"
+      },
+      {
+        "surface": "政党",
+        "reading": "せいとう"
+      },
+      {
+        "surface": "名前",
+        "reading": "なまえ"
+      },
+      {
+        "surface": "中道",
+        "reading": "ちゅうどう"
+      },
+      {
+        "surface": "改革",
+        "reading": "かいかく"
+      },
+      {
+        "surface": "連合",
+        "reading": "れんごう"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011611416",
+    "text": "立憲民主党は、野党でいちばん議員が多い政党です。野田代表は「右にも左にも行かないで、よく話し合って答えを出すのが中道の考え方だ」と話しました。",
+    "tokens": [
+      {
+        "surface": "立憲民主党",
+        "reading": "りっけんみんしゅとう"
+      },
+      {
+        "surface": "野党",
+        "reading": "やとう"
+      },
+      {
+        "surface": "議員",
+        "reading": "ぎいん"
+      },
+      {
+        "surface": "多",
+        "reading": "おお"
+      },
+      {
+        "surface": "政党",
+        "reading": "せいとう"
+      },
+      {
+        "surface": "野田",
+        "reading": "のだ"
+      },
+      {
+        "surface": "代表",
+        "reading": "だいひょう"
+      },
+      {
+        "surface": "右",
+        "reading": "みぎ"
+      },
+      {
+        "surface": "左",
+        "reading": "ひだり"
+      },
+      {
+        "surface": "行",
+        "reading": "い"
+      },
+      {
+        "surface": "話",
+        "reading": "はな"
+      },
+      {
+        "surface": "合",
+        "reading": "あ"
+      },
+      {
+        "surface": "答",
+        "reading": "こた"
+      },
+      {
+        "surface": "出",
+        "reading": "だ"
+      },
+      {
+        "surface": "中道",
+        "reading": "ちゅうどう"
+      },
+      {
+        "surface": "考",
+        "reading": "かんが"
+      },
+      {
+        "surface": "方",
+        "reading": "かた"
+      },
+      {
+        "surface": "話",
+        "reading": "はな"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026011611416",
+    "text": "公明党は、去年10月まで自民党と一緒に政府をつくっていました。斉藤代表は「安心して暮らせる社会をつくって、平和を守っていく」と話しました。",
+    "tokens": [
+      {
+        "surface": "公明党",
+        "reading": "こうめいとう"
+      },
+      {
+        "surface": "去年",
+        "reading": "きょねん"
+      },
+      {
+        "surface": "月",
+        "reading": "がつ"
+      },
+      {
+        "surface": "自民党",
+        "reading": "じみんとう"
+      },
+      {
+        "surface": "一緒",
+        "reading": "いっしょ"
+      },
+      {
+        "surface": "政府",
+        "reading": "せいふ"
+      },
+      {
+        "surface": "斉藤",
+        "reading": "さいとう"
+      },
+      {
+        "surface": "代表",
+        "reading": "だいひょう"
+      },
+      {
+        "surface": "安心",
+        "reading": "あんしん"
+      },
+      {
+        "surface": "暮",
+        "reading": "く"
+      },
+      {
+        "surface": "社会",
+        "reading": "しゃかい"
+      },
+      {
+        "surface": "平和",
+        "reading": "へいわ"
+      },
+      {
+        "surface": "守",
+        "reading": "まも"
+      },
+      {
+        "surface": "話",
+        "reading": "はな"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026010513545",
+    "text": "南米のベネズエラについてのニュースです。",
+    "tokens": [
+      {
+        "surface": "南米",
+        "reading": "なんべい"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026010513545",
+    "text": "アメリカの軍は、3日、ベネズエラに入って、マドゥーロ大統領を捕まえました。そしてニューヨークに連れて行きました。アメリカはマドゥーロ大統領が、麻薬の密輸に関係したとしています。",
+    "tokens": [
+      {
+        "surface": "軍",
+        "reading": "ぐん"
+      },
+      {
+        "surface": "3日",
+        "reading": "みっか"
+      },
+      {
+        "surface": "入",
+        "reading": "はい"
+      },
+      {
+        "surface": "大統領",
+        "reading": "だいとうりょう"
+      },
+      {
+        "surface": "捕",
+        "reading": "つか"
+      },
+      {
+        "surface": "連",
+        "reading": "つ"
+      },
+      {
+        "surface": "行",
+        "reading": "い"
+      },
+      {
+        "surface": "大統領",
+        "reading": "だいとうりょう"
+      },
+      {
+        "surface": "麻薬",
+        "reading": "まやく"
+      },
+      {
+        "surface": "密輸",
+        "reading": "みつゆ"
+      },
+      {
+        "surface": "関係",
+        "reading": "かんけい"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026010513545",
+    "text": "ベネズエラは国内に大統領がいなくなりました。記者たちは、トランプ大統領に誰がベネズエラの政治に責任を持つか聞きました。トランプ大統領は、アメリカがベネズエラのすべてのことに関係していくという考えを言いました。",
+    "tokens": [
+      {
+        "surface": "国内",
+        "reading": "こくない"
+      },
+      {
+        "surface": "大統領",
+        "reading": "だいとうりょう"
+      },
+      {
+        "surface": "記者",
+        "reading": "きしゃ"
+      },
+      {
+        "surface": "大統領",
+        "reading": "だいとうりょう"
+      },
+      {
+        "surface": "誰",
+        "reading": "だれ"
+      },
+      {
+        "surface": "政治",
+        "reading": "せいじ"
+      },
+      {
+        "surface": "責任",
+        "reading": "せきにん"
+      },
+      {
+        "surface": "持",
+        "reading": "も"
+      },
+      {
+        "surface": "聞",
+        "reading": "き"
+      },
+      {
+        "surface": "大統領",
+        "reading": "だいとうりょう"
+      },
+      {
+        "surface": "関係",
+        "reading": "かんけい"
+      },
+      {
+        "surface": "考",
+        "reading": "かんが"
+      },
+      {
+        "surface": "言",
+        "reading": "い"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026010513545",
+    "text": "アメリカがしたことについて、国連のグテーレス事務総長は、国と国の間で守らなければならない国際法に違反しているという考えを話しています。",
+    "tokens": [
+      {
+        "surface": "国連",
+        "reading": "こくれん"
+      },
+      {
+        "surface": "事務総長",
+        "reading": "じむそうちょう"
+      },
+      {
+        "surface": "国",
+        "reading": "くに"
+      },
+      {
+        "surface": "国",
+        "reading": "くに"
+      },
+      {
+        "surface": "間",
+        "reading": "あいだ"
+      },
+      {
+        "surface": "守",
+        "reading": "まも"
+      },
+      {
+        "surface": "国際法",
+        "reading": "こくさいほう"
+      },
+      {
+        "surface": "違反",
+        "reading": "いはん"
+      },
+      {
+        "surface": "考",
+        "reading": "かんが"
+      },
+      {
+        "surface": "話",
+        "reading": "はな"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026010911454",
+    "text": "国際宇宙ステーションにいる宇宙飛行士の1人が、体の具合が悪くなりました。このため、4人の宇宙飛行士が、予定より早く地球に帰ることが決まりました。去年8月から、国際宇宙ステーションにいて、来月、帰る予定でした。",
+    "tokens": [
+      {
+        "surface": "国際",
+        "reading": "こくさい"
+      },
+      {
+        "surface": "宇宙",
+        "reading": "うちゅう"
+      },
+      {
+        "surface": "宇宙飛行士",
+        "reading": "うちゅうひこうし"
+      },
+      {
+        "surface": "1人",
+        "reading": "ひとり"
+      },
+      {
+        "surface": "体",
+        "reading": "からだ"
+      },
+      {
+        "surface": "具合",
+        "reading": "ぐあい"
+      },
+      {
+        "surface": "悪",
+        "reading": "わる"
+      },
+      {
+        "surface": "人",
+        "reading": "にん"
+      },
+      {
+        "surface": "宇宙飛行士",
+        "reading": "うちゅうひこうし"
+      },
+      {
+        "surface": "予定",
+        "reading": "よてい"
+      },
+      {
+        "surface": "早",
+        "reading": "はや"
+      },
+      {
+        "surface": "地球",
+        "reading": "ちきゅう"
+      },
+      {
+        "surface": "帰",
+        "reading": "かえ"
+      },
+      {
+        "surface": "決",
+        "reading": "き"
+      },
+      {
+        "surface": "去年",
+        "reading": "きょねん"
+      },
+      {
+        "surface": "月",
+        "reading": "がつ"
+      },
+      {
+        "surface": "国際",
+        "reading": "こくさい"
+      },
+      {
+        "surface": "宇宙",
+        "reading": "うちゅう"
+      },
+      {
+        "surface": "来月",
+        "reading": "らいげつ"
+      },
+      {
+        "surface": "帰",
+        "reading": "かえ"
+      },
+      {
+        "surface": "予定",
+        "reading": "よてい"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026010911454",
+    "text": "4人の中には、日本人の油井亀美也さんがいます。NASAは、具合が悪くなった人の名前を発表していません。JAXAは、油井さんではないと言っています。",
+    "tokens": [
+      {
+        "surface": "人",
+        "reading": "にん"
+      },
+      {
+        "surface": "中",
+        "reading": "なか"
+      },
+      {
+        "surface": "日本人",
+        "reading": "にほんじん"
+      },
+      {
+        "surface": "油井",
+        "reading": "ゆい"
+      },
+      {
+        "surface": "亀美也",
+        "reading": "きみや"
+      },
+      {
+        "surface": "具合",
+        "reading": "ぐあい"
+      },
+      {
+        "surface": "悪",
+        "reading": "わる"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと"
+      },
+      {
+        "surface": "名前",
+        "reading": "なまえ"
+      },
+      {
+        "surface": "発表",
+        "reading": "はっぴょう"
+      },
+      {
+        "surface": "油井",
+        "reading": "ゆい"
+      },
+      {
+        "surface": "言",
+        "reading": "い"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026010911454",
+    "text": "国際宇宙ステーションでは、25年前から、宇宙飛行士が、いろいろな実験をしています。体の具合が悪くなったため予定より早く帰るのは、初めてです。",
+    "tokens": [
+      {
+        "surface": "国際",
+        "reading": "こくさい"
+      },
+      {
+        "surface": "宇宙",
+        "reading": "うちゅう"
+      },
+      {
+        "surface": "年",
+        "reading": "ねん"
+      },
+      {
+        "surface": "前",
+        "reading": "まえ"
+      },
+      {
+        "surface": "宇宙飛行士",
+        "reading": "うちゅうひこうし"
+      },
+      {
+        "surface": "実験",
+        "reading": "じっけん"
+      },
+      {
+        "surface": "体",
+        "reading": "からだ"
+      },
+      {
+        "surface": "具合",
+        "reading": "ぐあい"
+      },
+      {
+        "surface": "悪",
+        "reading": "わる"
+      },
+      {
+        "surface": "予定",
+        "reading": "よてい"
+      },
+      {
+        "surface": "早",
+        "reading": "はや"
+      },
+      {
+        "surface": "帰",
+        "reading": "かえ"
+      },
+      {
+        "surface": "初",
+        "reading": "はじ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012711595",
+    "text": "東京の上野動物園にいたパンダの「シャオシャオ」と「レイレイ」は、27日の夜中国に出発します。",
+    "tokens": [
+      {
+        "surface": "東京",
+        "reading": "とうきょう"
+      },
+      {
+        "surface": "上野動物園",
+        "reading": "うえのどうぶつえん"
+      },
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "夜",
+        "reading": "よる"
+      },
+      {
+        "surface": "中国",
+        "reading": "ちゅうごく"
+      },
+      {
+        "surface": "出発",
+        "reading": "しゅっぱつ"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012711595",
+    "text": "2頭は、27日の午後1時半頃上野動物園を出ました。このあと成田空港から飛行機で中国に向かいます。",
+    "tokens": [
+      {
+        "surface": "頭",
+        "reading": "とう"
+      },
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "午後",
+        "reading": "ごご"
+      },
+      {
+        "surface": "時半",
+        "reading": "じはん"
+      },
+      {
+        "surface": "頃",
+        "reading": "ごろ"
+      },
+      {
+        "surface": "上野動物園",
+        "reading": "うえのどうぶつえん"
+      },
+      {
+        "surface": "出",
+        "reading": "で"
+      },
+      {
+        "surface": "成田空港",
+        "reading": "なりたくうこう"
+      },
+      {
+        "surface": "飛行機",
+        "reading": "ひこうき"
+      },
+      {
+        "surface": "中国",
+        "reading": "ちゅうごく"
+      },
+      {
+        "surface": "向",
+        "reading": "む"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012711595",
+    "text": "28日の朝、四川省にあるパンダの研究センターに着く予定です。",
+    "tokens": [
+      {
+        "surface": "日",
+        "reading": "にち"
+      },
+      {
+        "surface": "朝",
+        "reading": "あさ"
+      },
+      {
+        "surface": "四川省",
+        "reading": "しせんしょう"
+      },
+      {
+        "surface": "研究",
+        "reading": "けんきゅう"
+      },
+      {
+        "surface": "着",
+        "reading": "つ"
+      },
+      {
+        "surface": "予定",
+        "reading": "よてい"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012711595",
+    "text": "1972年に日本と中国が交流してから日本にはずっとパンダがいましたが、もうこれでパンダはいません。",
+    "tokens": [
+      {
+        "surface": "年",
+        "reading": "ねん"
+      },
+      {
+        "surface": "日本",
+        "reading": "にっぽん"
+      },
+      {
+        "surface": "中国",
+        "reading": "ちゅうごく"
+      },
+      {
+        "surface": "交流",
+        "reading": "こうりゅう"
+      },
+      {
+        "surface": "日本",
+        "reading": "にっぽん"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012711595",
+    "text": "見送りに来た女性は「すごくさみしいです。中国にいるお母さんやお姉さんと楽しく生活してほしいです」と話していました。",
+    "tokens": [
+      {
+        "surface": "見送",
+        "reading": "みおく"
+      },
+      {
+        "surface": "来",
+        "reading": "き"
+      },
+      {
+        "surface": "女性",
+        "reading": "じょせい"
+      },
+      {
+        "surface": "中国",
+        "reading": "ちゅうごく"
+      },
+      {
+        "surface": "母",
+        "reading": "かあ"
+      },
+      {
+        "surface": "姉",
+        "reading": "ねえ"
+      },
+      {
+        "surface": "楽",
+        "reading": "たの"
+      },
+      {
+        "surface": "生活",
+        "reading": "せいかつ"
+      },
+      {
+        "surface": "話",
+        "reading": "はな"
+      }
+    ]
+  },
+  {
+    "source": "nhk_easy",
+    "news_id": "ne2026012711595",
+    "text": "「シャオシャオ」「レイレイ」元気でね。",
+    "tokens": [
+      {
+        "surface": "元気",
+        "reading": "げんき"
+      }
+    ]
+  }
+]
