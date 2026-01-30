@@ -11,3 +11,5 @@ logs/security/
 
 data/**/*.json
 data/**/*.html
+
+target/
