@@ -22,8 +22,23 @@ logger = logging.getLogger(__name__)
 BASE_URL = "https://news.web.nhk/news/easy"
 
 # Rate limiting
-CONCURRENT_REQUESTS = 5
-REQUEST_DELAY = 0.5  # seconds between requests
+CONCURRENT_REQUESTS = 3
+REQUEST_DELAY = 1.0  # seconds between requests
+
+# Realistic browser headers to avoid 403 blocks
+BROWSER_HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+    "Accept-Language": "ja,en-US;q=0.9,en;q=0.8",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive",
+    "Upgrade-Insecure-Requests": "1",
+    "Sec-Fetch-Dest": "document",
+    "Sec-Fetch-Mode": "navigate",
+    "Sec-Fetch-Site": "none",
+    "Sec-Fetch-User": "?1",
+    "Cache-Control": "max-age=0",
+}
 
 
 async def fetch_article(session: aiohttp.ClientSession, news_id: str) -> tuple[str, str | None]:
@@ -63,26 +78,24 @@ async def save_article(news_id: str, html: str, output_dir: Path):
 
 async def scrape_batch(articles: list[dict], output_dir: Path, semaphore: asyncio.Semaphore):
     """Scrape a batch of articles."""
-    async with aiohttp.ClientSession(headers={
-        "User-Agent": "Mozilla/5.0 (compatible; FuriganaLab/1.0)"
-    }) as session:
-        tasks = []
-        for article in articles:
-            async def fetch_and_save(a):
-                async with semaphore:
-                    news_id = a["news_id"]
-                    news_id, html = await fetch_article(session, news_id)
-                    if html:
-                        await save_article(news_id, html, output_dir)
-                        return True
-                    return False
-            tasks.append(fetch_and_save(article))
-
-        results = await asyncio.gather(*tasks)
-        return sum(results)
+    async with aiohttp.ClientSession(headers=BROWSER_HEADERS) as session:
+        success_count = 0
+        for i, article in enumerate(articles):
+            async with semaphore:
+                news_id = article["news_id"]
+                news_id, html = await fetch_article(session, news_id)
+                if html:
+                    await save_article(news_id, html, output_dir)
+                    success_count += 1
+                    logger.info(f"  [{i+1}/{len(articles)}] ✓ {news_id}")
+                else:
+                    logger.warning(f"  [{i+1}/{len(articles)}] ✗ {news_id}")
+                # Rate limit between requests
+                await asyncio.sleep(REQUEST_DELAY)
+        return success_count
 
 
-async def main():
+async def main(limit: int = 0):
     # Paths
     script_dir = Path(__file__).parent
     project_dir = script_dir.parent.parent
@@ -103,6 +116,10 @@ async def main():
 
     # Filter to articles we need
     to_scrape = [a for a in all_articles if a["news_id"] not in existing]
+
+    # Apply limit if specified
+    if limit > 0:
+        to_scrape = to_scrape[:limit]
 
     logger.info(f"Total target: {len(all_articles)}")
     logger.info(f"Already downloaded: {len(existing)}")
@@ -132,4 +149,8 @@ async def main():
 
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    import argparse
+    parser = argparse.ArgumentParser(description="Batch scrape NHK Easy articles")
+    parser.add_argument("--limit", type=int, default=0, help="Limit number of articles to scrape (0 = no limit)")
+    args = parser.parse_args()
+    asyncio.run(main(limit=args.limit))
