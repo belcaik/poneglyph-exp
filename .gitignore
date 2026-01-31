@@ -1,15 +1,46 @@
-# Auto Claude data directory
-.auto-claude/
+# Models (large binary files)
+models/
+*.pt
+*.pth
+*.bin
+*.onnx
+*.safetensors
 
-# Auto Claude generated files
-.auto-claude-security.json
-.auto-claude-status
-.claude_settings.json
-.worktrees/
-.security-key
-logs/security/
+# Data (can be regenerated)
+data/raw/
+data/processed/
+!data/splits/
 
-data/**/*.json
-data/**/*.html
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+*.egg-info/
+.eggs/
+dist/
+build/
 
-target/__pycache__/
+# Rust
+target/
+Cargo.lock
+
+# Training
+wandb/
+runs/
+checkpoints/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
