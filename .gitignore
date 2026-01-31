@@ -1,4 +1,11 @@
-# Models (large binary files)
+# =============================================================================
+# Furigana Lab .gitignore
+# =============================================================================
+
+# -----------------------------------------------------------------------------
+# Model Weights (LARGE - do not track)
+# -----------------------------------------------------------------------------
+# T5 model is ~850MB, must be regenerated via training
 models/
 *.pt
 *.pth
@@ -6,41 +13,116 @@ models/
 *.onnx
 *.safetensors
 
-# Data (can be regenerated)
+# -----------------------------------------------------------------------------
+# Data Files (can be regenerated)
+# -----------------------------------------------------------------------------
+# Raw HTML from scraper (~9MB for 500 articles)
+# Regenerate: python data/scrapers/nhk_easy.py --num-articles 500
 data/raw/
-data/processed/
-!data/splits/
 
-# Python
+# Processed JSON from parser
+# Regenerate: python data/scrapers/parse_nhk.py
+data/processed/
+
+# NOTE: data/splits/ IS tracked (small, defines train/val/test split)
+# To ensure reproducibility of benchmark results
+
+# Scraper intermediate files
+data/scrapers/all_articles.json
+data/scrapers/article_list.json
+
+# -----------------------------------------------------------------------------
+# Python Artifacts
+# -----------------------------------------------------------------------------
 __pycache__/
 *.py[cod]
 *$py.class
+*.so
+
+# Virtual environments
 .venv/
 venv/
+ENV/
+env/
+
+# Distribution / packaging
 *.egg-info/
+*.egg
 .eggs/
 dist/
 build/
+*.whl
 
-# Rust
+# Type checkers
+.mypy_cache/
+.pytype/
+
+# -----------------------------------------------------------------------------
+# Rust Artifacts
+# -----------------------------------------------------------------------------
+# Build output (~1.7GB)
 target/
-Cargo.lock
 
-# Training
+# NOTE: Cargo.lock IS tracked (required for reproducible builds)
+# Only libraries should ignore Cargo.lock
+
+# -----------------------------------------------------------------------------
+# Training & Experiment Tracking
+# -----------------------------------------------------------------------------
 wandb/
 runs/
+mlruns/
+lightning_logs/
+tensorboard/
 checkpoints/
-*.log
 
-# IDE
+# Logs
+*.log
+scraper.log
+
+# -----------------------------------------------------------------------------
+# IDE & Editor
+# -----------------------------------------------------------------------------
 .vscode/
 .idea/
 *.swp
 *.swo
+*~
+.project
+.classpath
+.settings/
 
-# OS
+# -----------------------------------------------------------------------------
+# OS Generated
+# -----------------------------------------------------------------------------
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
 Thumbs.db
+ehthumbs.db
+Desktop.ini
 
-# Jupyter
+# -----------------------------------------------------------------------------
+# Jupyter Notebooks
+# -----------------------------------------------------------------------------
 .ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# -----------------------------------------------------------------------------
+# Testing & Coverage
+# -----------------------------------------------------------------------------
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# -----------------------------------------------------------------------------
+# Temporary Files
+# -----------------------------------------------------------------------------
+*.tmp
+*.temp
+*.bak
+debug_*.png
