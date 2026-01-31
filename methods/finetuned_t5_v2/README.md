@@ -37,11 +37,18 @@ The model outputs the **original text with inline bracket annotations**, preserv
 
 ## Results
 
-| Method | Accuracy | Notes |
-|--------|----------|-------|
-| T5 v1 (hiragana) | 61.8% | Extraction bottleneck |
-| Sudachi Mode C | 63.5% | Style mismatch |
-| **T5 v2 (bracket)** | **TBD%** | Pending evaluation |
+| Method | Accuracy | Improvement | Notes |
+|--------|----------|-------------|-------|
+| T5 v1 (hiragana) | 61.8% | — | Extraction bottleneck |
+| Sudachi Mode C | 63.5% | +1.7% | Style mismatch |
+| **T5 v2 (bracket)** | **80.4%** | **+18.6%** | **New best** |
+
+### Error Analysis
+
+Remaining errors in T5 v2 (~20%):
+- **Number+counter style** (~10%): NHK annotates `人` in `5人`, T5 generates `5人[にん]`
+- **Model reading errors** (~7%): Some kanji get wrong readings (e.g., `土地` → `ちいき` instead of `とち`)
+- **Rare words** (~3%): Uncommon compounds or proper nouns
 
 ## Usage
 

@@ -6,25 +6,28 @@
 
 ## Executive Summary
 
-This benchmark compares three approaches to automatic furigana annotation for Japanese text.
+This benchmark compares multiple approaches to automatic furigana annotation for Japanese text.
 The goal is to select the best method for the Poneglyph project, prioritizing accuracy over
 implementation complexity.
 
 ### Key Finding
 
-**Sudachi Mode C achieves the highest accuracy (74.7%)**, outperforming both the Lindera
-baseline (+12%) and fine-tuned T5 approach. The improvement comes from better compound
-word segmentation that matches NHK Easy News annotation style.
+**T5 v2 with bracket annotation format achieves the highest accuracy (80.4%)**, significantly
+outperforming dictionary-based methods. The improvement comes from:
+1. Character-level span prediction preserving position information
+2. Simple bracket parsing eliminating extraction failures
+3. Learning NHK-specific annotation patterns
 
 ## Method Comparison
 
 ![Accuracy Comparison](figures/accuracy_comparison.png)
 
-| Method | Accuracy | Tokens Matched | Improvement |
+| Method | Accuracy | Tokens Matched | vs Baseline |
 |--------|----------|----------------|-------------|
 | Lindera baseline | 62.7% | 52/83 | — |
-| **Sudachi Mode C** | **74.7%** | **62/83** | **+12.0%** |
-| Fine-tuned T5 | 61.8% | 1,766/2,857 | -0.9% |
+| T5 v1 (hiragana) | 61.8% | 1,766/2,857 | -0.9% |
+| Sudachi Mode C | 63.5% | 1,813/2,857 | +0.8% |
+| **T5 v2 (bracket)** | **80.4%** | **2,298/2,857** | **+17.7%** |
 
 ### Method Details
 
@@ -149,27 +152,58 @@ seq2seq output, not the model's reading generation quality.
 | 値段 | ねだん | ✓ | ✓ | ✓ |
 | 下 | さ | ✗ (下がり) | ✓ | ✗ |
 
+## T5 v2: Bracket Annotation Format
+
+### Why v2?
+
+T5 v1 achieved only 61.8% despite generating correct readings ~87% of the time. Analysis
+revealed 73.7% of errors were caused by the extraction algorithm, not the model.
+
+### The Solution
+
+Instead of converting to full hiragana, T5 v2 preserves the original text with inline brackets:
+
+```
+Input:  読み: 去年の能登半島地震で被害があった場所では
+Output: 去年[きょねん]の能登半島地震[のとはんとうじしん]で被害[ひがい]があった場所[ばしょ]では
+```
+
+### Results
+
+| Metric | T5 v1 | T5 v2 | Improvement |
+|--------|-------|-------|-------------|
+| Accuracy | 61.8% | 80.4% | +18.6% |
+| Extraction failures | 73.7% | 0% | Eliminated |
+| Model reading errors | ~10% | ~10% | Same |
+
+### Remaining Errors
+
+1. **Number+counter style** (~10%): `5人[にん]` vs GT `人→にん`
+2. **Model reading errors** (~7%): Some kanji get wrong readings
+3. **Rare/proper nouns** (~3%): Uncommon words or names
+
 ## Recommendations
 
 ### For Poneglyph Project
 
-1. **Primary method**: Sudachi Mode C (Python prototype, Rust port pending)
-2. **Fallback**: Lindera with user dictionary for common compounds
-3. **Future**: Ensemble approach combining dictionary + neural methods
+1. **Primary method**: T5 v2 (bracket format) - highest accuracy at 80.4%
+2. **Fallback**: Sudachi Mode C for low-latency scenarios
+3. **Future**: Post-processing rules for number+counter patterns
 
 ### Implementation Priority
 
-1. Port Sudachi Mode C logic to Rust using sudachi.rs when API available
-2. Add user dictionary with NHK-specific compound words
-3. Post-processing rules for counter readings (月, 日, 人, etc.)
+1. Port T5 v2 inference to ONNX for faster CPU inference
+2. Add number+counter normalization (strip leading digits)
+3. Consider ensemble: T5 v2 + dictionary fallback for OOV
 
-### Accuracy Targets
+### Accuracy Targets (Updated)
 
 | Milestone | Target | Method |
 |-----------|--------|--------|
-| MVP | 75% | Sudachi Mode C |
-| V1.0 | 85% | + User dictionary |
-| V2.0 | 95% | + Neural hybrid |
+| ~~MVP~~ | ~~75%~~ | ~~Sudachi Mode C~~ |
+| **MVP** | **80%** | **T5 v2 (achieved)** |
+| V1.0 | 85% | + Counter normalization |
+| V2.0 | 90% | + More training data |
 
 ## Reproducibility
 
@@ -195,12 +229,18 @@ cargo run --release -p baseline_lindera -- --input data/splits/test.json
 # Sudachi Mode C
 python -m methods.sudachi_mode_c --input data/splits/test.json
 
-# Fine-tuned T5
+# T5 v1 (hiragana format)
 python -m methods.finetuned_t5.train --model sonoisa/t5-base-japanese \
     --train data/splits/train.json --val data/splits/val.json \
     --output models/t5-furigana --epochs 5
-
 python -m methods.finetuned_t5 --model models/t5-furigana --input data/splits/test.json
+
+# T5 v2 (bracket format) - RECOMMENDED
+python scripts/prepare_bracket_format.py
+python -m methods.finetuned_t5_v2.train --model sonoisa/t5-base-japanese \
+    --train data/bracket_format/train.json --val data/bracket_format/val.json \
+    --output models/t5-furigana-v2 --epochs 5
+python -m methods.finetuned_t5_v2 --model models/t5-furigana-v2 --input data/splits/test.json
 ```
 
 ## Appendix: Dataset Statistics
