@@ -147,8 +147,9 @@ def main():
 
     # Data collator
     data_collator = DataCollatorForSeq2Seq(
-        processing_class=tokenizer,
+        tokenizer=tokenizer,
         model=model,
+        padding=True,
         label_pad_token_id=-100,
     )
 

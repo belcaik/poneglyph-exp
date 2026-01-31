@@ -34,18 +34,38 @@ def extract_bracket_annotations(text: str) -> list[dict]:
     Returns:
         List of {surface, reading} dicts
     """
-    # Pattern: one or more characters followed by [reading]
-    # The reading should be hiragana (or katakana for some edge cases)
-    pattern = r'([^\[\]]+?)\[([ぁ-んァ-ヶー]+)\]'
-
     tokens = []
-    for match in re.finditer(pattern, text):
-        surface = match.group(1)
-        reading = match.group(2)
 
-        # Only include if surface contains kanji
-        if contains_kanji(surface):
-            # Find position in original text (without brackets)
+    # Find all bracket annotations
+    # Pattern: [...] where content is hiragana/katakana
+    bracket_pattern = r'\[([ぁ-んァ-ヶー]+)\]'
+
+    # Find each bracket and look backwards for the kanji surface
+    for match in re.finditer(bracket_pattern, text):
+        reading = match.group(1)
+        bracket_start = match.start()
+
+        # Look backwards from bracket to find kanji surface
+        # The surface is the kanji sequence immediately before the bracket
+        surface_end = bracket_start
+        surface_start = surface_end
+
+        # Walk backwards to find start of kanji sequence
+        while surface_start > 0:
+            prev_char = text[surface_start - 1]
+            # Stop if we hit another bracket, hiragana, or punctuation
+            if prev_char in '[]' or not contains_kanji(prev_char):
+                # Check if this character is part of the surface (numbers for counters)
+                if prev_char.isdigit():
+                    surface_start -= 1
+                    continue
+                break
+            surface_start -= 1
+
+        surface = text[surface_start:surface_end]
+
+        # Only include if surface has content and contains kanji
+        if surface and contains_kanji(surface):
             tokens.append({
                 "surface": surface,
                 "reading": reading,
