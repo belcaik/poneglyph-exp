@@ -1,26 +1,89 @@
 #!/usr/bin/env python3
 """
-Split parsed NHK Easy articles into train/val/test sets.
-Also displays statistics about the dataset.
+Split parsed articles into train/val/test sets.
+Supports multi-source data with stratification by source.
+
+Usage:
+    python scripts/split_data.py --input data/processed --output data/splits
+    python scripts/split_data.py --source matcha --input data/processed/matcha --output data/splits
 """
 
 import argparse
 import json
 import random
-from collections import Counter
+from collections import Counter, defaultdict
 from pathlib import Path
 
+# Known source directories (relative to data/processed/)
+SOURCE_DIRS = {
+    "nhk": "",  # NHK uses root processed dir
+    "matcha": "matcha",
+    "kahoku": "kahoku",
+    "hirogaru": "hirogaru",
+    "all_sources": "all_sources",
+}
 
-def load_processed_articles(input_dir: Path) -> list[dict]:
-    """Load all processed articles."""
+
+def load_processed_articles(input_dir: Path, source_filter: str = None) -> list[dict]:
+    """Load all processed articles, optionally filtering by source."""
     articles = []
+
+    # If input is all_sources, load the combined file
+    all_articles_path = input_dir / "all_articles.json"
+    if all_articles_path.exists():
+        all_data = json.loads(all_articles_path.read_text(encoding="utf-8"))
+        for article in all_data:
+            if source_filter and article.get("source") != source_filter:
+                continue
+            articles.append(article)
+        return articles
+
+    # Otherwise, load individual JSON files
     for f in sorted(input_dir.glob("*.json")):
-        articles.append(json.loads(f.read_text(encoding="utf-8")))
+        try:
+            article = json.loads(f.read_text(encoding="utf-8"))
+            if source_filter and article.get("source") != source_filter:
+                continue
+            articles.append(article)
+        except Exception:
+            pass
+
     return articles
 
 
+def stratified_split(articles: list[dict], train_ratio: float = 0.7, val_ratio: float = 0.15):
+    """Split articles into train/val/test sets, stratified by source."""
+    random.seed(42)  # Reproducibility
+
+    # Group articles by source
+    by_source = defaultdict(list)
+    for article in articles:
+        source = article.get("source", "unknown")
+        by_source[source].append(article)
+
+    # Split each source separately
+    splits = {"train": [], "val": [], "test": []}
+
+    for source, source_articles in by_source.items():
+        random.shuffle(source_articles)
+
+        n = len(source_articles)
+        train_end = int(n * train_ratio)
+        val_end = int(n * (train_ratio + val_ratio))
+
+        splits["train"].extend(source_articles[:train_end])
+        splits["val"].extend(source_articles[train_end:val_end])
+        splits["test"].extend(source_articles[val_end:])
+
+    # Shuffle each split
+    for split_name in splits:
+        random.shuffle(splits[split_name])
+
+    return splits
+
+
 def split_data(articles: list[dict], train_ratio: float = 0.7, val_ratio: float = 0.15):
-    """Split articles into train/val/test sets."""
+    """Split articles into train/val/test sets (simple random split)."""
     random.seed(42)  # Reproducibility
     random.shuffle(articles)
 
@@ -68,13 +131,19 @@ def compute_statistics(articles: list[dict]) -> dict:
 
 def main():
     parser = argparse.ArgumentParser(description="Split data into train/val/test")
-    parser.add_argument("--input", type=Path, default=Path("data/processed"))
+    parser.add_argument("--input", type=Path, default=Path("data/processed/all_sources"))
     parser.add_argument("--output", type=Path, default=Path("data/splits"))
+    parser.add_argument("--source", type=str, default=None, help="Filter by source (nhk, matcha, kahoku, hirogaru)")
+    parser.add_argument("--stratify", action="store_true", default=True, help="Stratify splits by source")
+    parser.add_argument("--no-stratify", dest="stratify", action="store_false", help="Use simple random split")
     args = parser.parse_args()
 
     # Load articles
-    articles = load_processed_articles(args.input)
+    articles = load_processed_articles(args.input, source_filter=args.source)
     print(f"\nLoaded {len(articles)} articles from {args.input}")
+
+    if args.source:
+        print(f"Filtered by source: {args.source}")
 
     # Compute overall statistics
     overall_stats = compute_statistics(articles)
@@ -93,8 +162,19 @@ def main():
     print(f"  Max: {overall_stats['tokens_per_sentence_distribution']['max']}")
     print(f"  Median: {overall_stats['tokens_per_sentence_distribution']['median']}")
 
-    # Split data
-    splits = split_data(articles)
+    # Show source distribution
+    source_counts = Counter(a.get("source", "unknown") for a in articles)
+    if len(source_counts) > 1:
+        print("\nSource distribution:")
+        for source, count in sorted(source_counts.items()):
+            print(f"  {source}: {count} articles")
+
+    # Split data (stratified by source if multiple sources)
+    if args.stratify and len(source_counts) > 1:
+        print("\nUsing stratified split (each source represented in each split)")
+        splits = stratified_split(articles)
+    else:
+        splits = split_data(articles)
 
     # Create output directory
     args.output.mkdir(parents=True, exist_ok=True)
@@ -108,11 +188,14 @@ def main():
         # Flatten to sentences for training
         sentences = []
         for article in split_data_list:
+            # Get article ID (different sources use different field names)
+            article_id = article.get("article_id") or article.get("news_id", "")
+
             for sentence in article.get("sentences", []):
                 if sentence.get("tokens"):  # Only sentences with tokens
                     sentences.append({
-                        "source": article.get("source", "nhk_easy"),
-                        "news_id": article.get("news_id", ""),
+                        "source": article.get("source", "unknown"),
+                        "article_id": article_id,
                         "text": sentence.get("text", ""),
                         "tokens": sentence.get("tokens", []),
                     })
@@ -134,11 +217,12 @@ def main():
     # Also save a combined file with all sentences
     all_sentences = []
     for article in articles:
+        article_id = article.get("article_id") or article.get("news_id", "")
         for sentence in article.get("sentences", []):
             if sentence.get("tokens"):
                 all_sentences.append({
-                    "source": article.get("source", "nhk_easy"),
-                    "news_id": article.get("news_id", ""),
+                    "source": article.get("source", "unknown"),
+                    "article_id": article_id,
                     "text": sentence.get("text", ""),
                     "tokens": sentence.get("tokens", []),
                 })
