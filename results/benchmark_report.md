@@ -29,6 +29,8 @@ implementation complexity.
 | Lindera baseline | 62.7% | 52/83 | — |
 | T5 v1 (hiragana) | 61.8% | 1,766/2,857 | -0.9% |
 | Sudachi Mode C | 63.5% | 1,813/2,857 | +0.8% |
+| ByT5 v1 (byte-level) | 65.7% | 11,447/17,424 | +3.0% |
+| T5 v4 (segmented) | 66.4% | — | +3.7% |
 | T5 v2 (bracket) | 80.4% | 2,298/2,857 | +17.7% |
 | **T5 v3 (bracket, NHK)** | **82.1%** | **2,409/2,934** | **+19.4%** |
 
