@@ -49,7 +49,7 @@ See `results/t5_v3_expanded_data_report.md` for detailed comparison.
 | T5 v1 (hiragana) | 61.8% | Extraction bottleneck |
 | Sudachi Mode C | 63.5% | Dictionary + morphology |
 | T5 v2 (NHK-only) | 80.4% | Bracket format, 5 epochs |
-| **T5 v3 (multi-source)** | **??%** | **4x data, early stopping** |
+| **T5 v3 (NHK test)** | **82.1%** | **4x data, early stopping, +1.7%** |
 
 ## Usage
 
@@ -106,17 +106,16 @@ results/
 └── t5_v3_expanded_data_report.md  # Full comparison report
 ```
 
-## Expected Outcomes
+## Actual Outcomes
 
-Based on data scaling research:
+| Source | Accuracy | Notes |
+|--------|----------|-------|
+| NHK (sentence-level) | **82.1%** | +1.7% over v2, improved |
+| Hirogaru (sentence-level) | 80.8% | Good generalization |
+| Kahoku (paragraph-level) | 60.2% | Partial truncation issues |
+| MATCHA (article-level) | 32.5% | Data structure mismatch |
 
-| Scenario | Accuracy | Notes |
-|----------|----------|-------|
-| Pessimistic | 81-82% | Diminishing returns, similar style |
-| Realistic | 83-85% | Moderate improvement from diversity |
-| Optimistic | 86-88% | New sources fill vocabulary gaps |
-
-Number+counter errors (~10%) are unlikely to improve significantly since all 4 sources use "easy Japanese" annotation style.
+**Key finding**: Accuracy on sentence-level data improved (80.4% → 82.1%). The low MATCHA accuracy is due to article-level data (avg 443 chars) being evaluated in a sentence-level pipeline (max 256 tokens). See `results/t5_v3_expanded_data_report.md` for full analysis.
 
 ## Reproduction
 

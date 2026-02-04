@@ -1,8 +1,8 @@
 # Furigana Annotation Benchmark Report
 
-**Date**: January 2026
-**Dataset**: NHK Easy News (500 articles, 2,284 sentences with furigana)
-**Test Set**: 340 sentences, 2,857 tokens with ground truth readings
+**Date**: February 2026
+**Dataset**: Multi-source (801 articles: NHK 500 + MATCHA 141 + Kahoku 50 + Hirogaru 110)
+**Test Set**: 957 sentences, 17,424 tokens (NHK subset: 333 sentences, 2,934 tokens)
 
 ## Executive Summary
 
@@ -12,11 +12,13 @@ implementation complexity.
 
 ### Key Finding
 
-**T5 v2 with bracket annotation format achieves the highest accuracy (80.4%)**, significantly
-outperforming dictionary-based methods. The improvement comes from:
+**T5 v3 with bracket annotation format achieves the highest accuracy (82.1% on NHK)**, an improvement over v2 (80.4%) through expanded multi-source training data. The improvement comes from:
 1. Character-level span prediction preserving position information
 2. Simple bracket parsing eliminating extraction failures
-3. Learning NHK-specific annotation patterns
+3. Learning from diverse sources (NHK, MATCHA, Kahoku, Hirogaru)
+4. 4x more training data (80K tokens vs 19K)
+
+*See `t5_v3_expanded_data_report.md` for detailed analysis of the expanded dataset experiment.*
 
 ## Method Comparison
 
@@ -27,7 +29,10 @@ outperforming dictionary-based methods. The improvement comes from:
 | Lindera baseline | 62.7% | 52/83 | — |
 | T5 v1 (hiragana) | 61.8% | 1,766/2,857 | -0.9% |
 | Sudachi Mode C | 63.5% | 1,813/2,857 | +0.8% |
-| **T5 v2 (bracket)** | **80.4%** | **2,298/2,857** | **+17.7%** |
+| T5 v2 (bracket) | 80.4% | 2,298/2,857 | +17.7% |
+| **T5 v3 (bracket, NHK)** | **82.1%** | **2,409/2,934** | **+19.4%** |
+
+*Note: T5 v3 was trained on expanded multi-source data (4x more tokens). NHK accuracy shown for comparison with v2. See `t5_v3_expanded_data_report.md` for full multi-source analysis.*
 
 ### Method Details
 
