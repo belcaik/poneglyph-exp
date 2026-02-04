@@ -1,0 +1,6861 @@
+{
+  "summary": {
+    "sentences": 100,
+    "total_tokens": 608,
+    "matches": 444,
+    "accuracy": 73.0
+  },
+  "per_source": {
+    "matcha": {
+      "accuracy": 66.5,
+      "matches": 298,
+      "total": 448,
+      "sentences": 85
+    },
+    "nhk": {
+      "accuracy": 92.5,
+      "matches": 74,
+      "total": 80,
+      "sentences": 10
+    },
+    "hirogaru": {
+      "accuracy": 90.0,
+      "matches": 72,
+      "total": 80,
+      "sentences": 5
+    }
+  },
+  "predictions": [
+    {
+      "text": "おなかに良いだけでは ない！日本の乳酸菌飲料(probiotic lactic acid bacteria drink)「ヤクルト」の秘密(secret)を教えます",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "良",
+          "reading": "よ"
+        },
+        {
+          "surface": "日本",
+          "reading": "にほん"
+        },
+        {
+          "surface": "乳酸菌",
+          "reading": "にゅうさんきん"
+        },
+        {
+          "surface": "飲料",
+          "reading": "いんりょう"
+        },
+        {
+          "surface": "秘密",
+          "reading": "ひみつ"
+        },
+        {
+          "surface": "教",
+          "reading": "おし"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "良",
+          "reading": "よ",
+          "start_offset": 4,
+          "end_offset": 5,
+          "confidence": 0.95
+        },
+        {
+          "surface": "日本",
+          "reading": "にほん",
+          "start_offset": 14,
+          "end_offset": 16,
+          "confidence": 0.95
+        },
+        {
+          "surface": "乳酸菌",
+          "reading": "にゅうさんきん",
+          "start_offset": 17,
+          "end_offset": 20,
+          "confidence": 0.95
+        },
+        {
+          "surface": "飲料",
+          "reading": "いんりょう",
+          "start_offset": 20,
+          "end_offset": 22,
+          "confidence": 0.95
+        },
+        {
+          "surface": "秘密",
+          "reading": "ひみつ",
+          "start_offset": 67,
+          "end_offset": 69,
+          "confidence": 0.95
+        },
+        {
+          "surface": "教",
+          "reading": "おし",
+          "start_offset": 78,
+          "end_offset": 79,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 6,
+      "total": 6
+    },
+    {
+      "text": "山梨県自然・四季富士山・桜・五重塔ぜんぶ一緒に見ることが できる“The Japan”な場所「忠霊塔」日本(にほん)で 有名(ゆうめい)な 富士山(ふじさん)・桜(さくら)・五重塔(ごじゅうのとう)を ぜんぶ 一緒(いっしょ)に 見(み)ることが できる「忠霊塔(ちゅうれいとう)」を 紹介(しょうかい)します。",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "富士山",
+          "reading": "ふじさん"
+        },
+        {
+          "surface": "桜",
+          "reading": "さくら"
+        },
+        {
+          "surface": "五重塔",
+          "reading": "ごじゅうのとう"
+        },
+        {
+          "surface": "一緒",
+          "reading": "いっしょ"
+        },
+        {
+          "surface": "見",
+          "reading": "み"
+        },
+        {
+          "surface": "場所",
+          "reading": "ばしょ"
+        },
+        {
+          "surface": "忠霊塔",
+          "reading": "ちゅうれいとう"
+        },
+        {
+          "surface": "日本",
+          "reading": "にほん"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "四季富士山",
+          "reading": "ふじさん",
+          "start_offset": 6,
+          "end_offset": 11,
+          "confidence": 0.95
+        },
+        {
+          "surface": "桜",
+          "reading": "さくら",
+          "start_offset": 12,
+          "end_offset": 13,
+          "confidence": 0.95
+        },
+        {
+          "surface": "五重塔",
+          "reading": "ごじゅうのとう",
+          "start_offset": 14,
+          "end_offset": 17,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 2,
+      "total": 8
+    },
+    {
+      "text": "moredocument.addEventListener(\"DOMContentLoaded\", function () { const descriptions = document.querySelectorAll(\".description-wrapper__details\") const moreLinks = document.querySelectorAll(\".read-more-link\") function updateDescriptions() { descriptions.forEach((description, index) => { const moreLink = moreLinks[index] const lineHeight = parseInt(getComputedStyle(description).lineHeight) const maxHeight = lineHeight * 3 if (description.scrollHeight > maxHeight) { moreLink.style.display = \"inline\" } else { moreLink.style.display = \"none\" } moreLink.addEventListener(\"click\", function () { moreLink.style.display = \"none\" }) }) } updateDescriptions() window.addEventListener(\"resize\", updateDescriptions) })本サービスにはプロモーションが含まれていますGoogleで 「日本」を調べる……あなたは日本()へ来()たら、どんな景色()を見()たいですか？",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "調",
+          "reading": "しら"
+        }
+      ],
+      "predicted": [],
+      "matches": 0,
+      "total": 1
+    },
+    {
+      "text": "「富士山」、「木で できた建物」、「桜」を考()える人()が多()いかもしれません。",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "富士山",
+          "reading": "ふじさん"
+        },
+        {
+          "surface": "木",
+          "reading": "き"
+        },
+        {
+          "surface": "建物",
+          "reading": "たてもの"
+        },
+        {
+          "surface": "桜",
+          "reading": "さくら"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "富士山",
+          "reading": "ふじさん",
+          "start_offset": 1,
+          "end_offset": 4,
+          "confidence": 0.95
+        },
+        {
+          "surface": "木",
+          "reading": "き",
+          "start_offset": 7,
+          "end_offset": 8,
+          "confidence": 0.95
+        },
+        {
+          "surface": "建物",
+          "reading": "たてもの",
+          "start_offset": 13,
+          "end_offset": 15,
+          "confidence": 0.95
+        },
+        {
+          "surface": "桜",
+          "reading": "さくら",
+          "start_offset": 18,
+          "end_offset": 19,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 4,
+      "total": 4
+    },
+    {
+      "text": "Picture courtesy of ふじよしだ観光振興サービスすると、このような写真()が出()てきます。",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "観光振興",
+          "reading": "かんこうしんこう"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "観光振興",
+          "reading": "かんこうしんこう",
+          "start_offset": 25,
+          "end_offset": 29,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 1,
+      "total": 1
+    },
+    {
+      "text": "実()は この写真()を撮()った場所()は山梨県の富士吉田市。",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "山梨県",
+          "reading": "やまなしけん"
+        },
+        {
+          "surface": "富士",
+          "reading": "ふじ"
+        },
+        {
+          "surface": "吉田市",
+          "reading": "よしだし"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "山梨県",
+          "reading": "やまなしけん",
+          "start_offset": 22,
+          "end_offset": 25,
+          "confidence": 0.95
+        },
+        {
+          "surface": "富士吉田市",
+          "reading": "ふじよしだし",
+          "start_offset": 26,
+          "end_offset": 31,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 1,
+      "total": 3
+    },
+    {
+      "text": "東京から 2時間ぐらい、リゾートの河口湖や山中湖()から少()し遠()い「新倉山()浅間()公園()」の中()に ある「忠霊()塔()」という場所()です。",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "東京",
+          "reading": "とうきょう"
+        },
+        {
+          "surface": "時間",
+          "reading": "じかん"
+        },
+        {
+          "surface": "リゾート",
+          "reading": "resort"
+        },
+        {
+          "surface": "河口湖",
+          "reading": "かわぐちこ"
+        },
+        {
+          "surface": "忠霊",
+          "reading": "ちゅうれい"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "東京",
+          "reading": "とうきょう",
+          "start_offset": 0,
+          "end_offset": 2,
+          "confidence": 0.95
+        },
+        {
+          "surface": "2時間",
+          "reading": "じかん",
+          "start_offset": 5,
+          "end_offset": 8,
+          "confidence": 0.95
+        },
+        {
+          "surface": "河口湖",
+          "reading": "かわぐちこ",
+          "start_offset": 17,
+          "end_offset": 20,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 2,
+      "total": 5
+    },
+    {
+      "text": "この記事()では、今()、日本()・外国()いろいろな場所()から多()くの人()が訪()れる忠霊塔()への行()き方()や撮影()スポット(写真()を撮()るのに いい場所())、そして きれいな写真()の撮()り方()を紹介()します。",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "忠霊塔",
+          "reading": "ちゅうれいとう"
+        },
+        {
+          "surface": "行",
+          "reading": "い"
+        },
+        {
+          "surface": "方",
+          "reading": "かた"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "記事",
+          "reading": "きじ",
+          "start_offset": 2,
+          "end_offset": 4,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 0,
+      "total": 3
+    },
+    {
+      "text": "乗り物行き方値段電車新宿駅からJR中央線「特急かいじ」に乗って、大月駅で富士急行線に乗り換えて、下吉田駅で おります3,930円高速(highway)バスバスタ新宿から新宿ー富士五湖線に乗って、下吉田バス停で おります。",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "乗",
+          "reading": "の"
+        },
+        {
+          "surface": "物",
+          "reading": "もの"
+        },
+        {
+          "surface": "行",
+          "reading": "い"
+        },
+        {
+          "surface": "方",
+          "reading": "かた"
+        },
+        {
+          "surface": "値段",
+          "reading": "ねだん"
+        },
+        {
+          "surface": "電車",
+          "reading": "でんしゃ"
+        },
+        {
+          "surface": "新宿駅",
+          "reading": "しんじゅくえき"
+        },
+        {
+          "surface": "JR",
+          "reading": "ジェイアール"
+        },
+        {
+          "surface": "中央線",
+          "reading": "ちゅうおうせん"
+        },
+        {
+          "surface": "特急",
+          "reading": "とっきゅう"
+        },
+        {
+          "surface": "乗",
+          "reading": "の"
+        },
+        {
+          "surface": "大月駅",
+          "reading": "おおつきえき"
+        },
+        {
+          "surface": "富士急行線",
+          "reading": "ふじきゅうこうせん"
+        },
+        {
+          "surface": "乗",
+          "reading": "の"
+        },
+        {
+          "surface": "換",
+          "reading": "か"
+        },
+        {
+          "surface": "下吉田駅",
+          "reading": "しもよしだえき"
+        },
+        {
+          "surface": "円",
+          "reading": "えん"
+        },
+        {
+          "surface": "高速",
+          "reading": "こうそく"
+        },
+        {
+          "surface": "新宿",
+          "reading": "しんじゅく"
+        },
+        {
+          "surface": "新宿",
+          "reading": "しんじゅく"
+        },
+        {
+          "surface": "富士五湖",
+          "reading": "ふじごこ"
+        },
+        {
+          "surface": "線",
+          "reading": "せん"
+        },
+        {
+          "surface": "乗",
+          "reading": "の"
+        },
+        {
+          "surface": "下吉田",
+          "reading": "しもよしだ"
+        },
+        {
+          "surface": "停",
+          "reading": "てい"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "乗",
+          "reading": "の",
+          "start_offset": 0,
+          "end_offset": 1,
+          "confidence": 0.95
+        },
+        {
+          "surface": "方",
+          "reading": "かた",
+          "start_offset": 5,
+          "end_offset": 6,
+          "confidence": 0.95
+        },
+        {
+          "surface": "値段",
+          "reading": "ねだん",
+          "start_offset": 6,
+          "end_offset": 8,
+          "confidence": 0.95
+        },
+        {
+          "surface": "電車新宿駅",
+          "reading": "しんじゅくえき",
+          "start_offset": 8,
+          "end_offset": 13,
+          "confidence": 0.95
+        },
+        {
+          "surface": "中央線",
+          "reading": "ちゅうおうせん",
+          "start_offset": 17,
+          "end_offset": 20,
+          "confidence": 0.95
+        },
+        {
+          "surface": "特急",
+          "reading": "とっきゅう",
+          "start_offset": 21,
+          "end_offset": 23,
+          "confidence": 0.95
+        },
+        {
+          "surface": "乗",
+          "reading": "の",
+          "start_offset": 28,
+          "end_offset": 29,
+          "confidence": 0.95
+        },
+        {
+          "surface": "大月駅",
+          "reading": "おおつきえき",
+          "start_offset": 32,
+          "end_offset": 35,
+          "confidence": 0.95
+        },
+        {
+          "surface": "富士急行線",
+          "reading": "ふじきゅうこうせん",
+          "start_offset": 36,
+          "end_offset": 41,
+          "confidence": 0.95
+        },
+        {
+          "surface": "乗",
+          "reading": "の",
+          "start_offset": 42,
+          "end_offset": 43,
+          "confidence": 0.95
+        },
+        {
+          "surface": "換",
+          "reading": "か",
+          "start_offset": 44,
+          "end_offset": 45,
+          "confidence": 0.95
+        },
+        {
+          "surface": "下吉田駅",
+          "reading": "したよしだえき",
+          "start_offset": 48,
+          "end_offset": 52,
+          "confidence": 0.95
+        },
+        {
+          "surface": "930円高速",
+          "reading": "こうそく",
+          "start_offset": 60,
+          "end_offset": 66,
+          "confidence": 0.95
+        },
+        {
+          "surface": "新宿",
+          "reading": "しんじゅく",
+          "start_offset": 10,
+          "end_offset": 12,
+          "confidence": 0.95
+        },
+        {
+          "surface": "新宿",
+          "reading": "しんじゅく",
+          "start_offset": 80,
+          "end_offset": 82,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 13,
+      "total": 25
+    },
+    {
+      "text": "1,700円ここからは、富士急行()線()「下吉田()駅()」からの行()き方()を説明()します。",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "円",
+          "reading": "えん"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "700円",
+          "reading": "えん",
+          "start_offset": 2,
+          "end_offset": 6,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 0,
+      "total": 1
+    },
+    {
+      "text": "参道()(神社()へ行()くための道())を進()んでいくと赤()い鳥居が あって、神社()が ある広場()(広()い場所())に出()ます。",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "鳥居",
+          "reading": "とりい"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "鳥居",
+          "reading": "とりい",
+          "start_offset": 34,
+          "end_offset": 36,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 1,
+      "total": 1
+    },
+    {
+      "text": "4月()中旬()ごろには桜()の花()、そして11月()ごろには すばらしい紅葉(autumn leaves)を見ることが できます。",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "紅葉",
+          "reading": "こうよう"
+        },
+        {
+          "surface": "見",
+          "reading": "み"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "紅葉",
+          "reading": "こうよう",
+          "start_offset": 38,
+          "end_offset": 40,
+          "confidence": 0.95
+        },
+        {
+          "surface": "見",
+          "reading": "み",
+          "start_offset": 56,
+          "end_offset": 57,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 2,
+      "total": 2
+    },
+    {
+      "text": "また、毎年4月中旬には「新倉山浅間公園桜まつり」が あります。",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "毎年",
+          "reading": "まいとし"
+        },
+        {
+          "surface": "月",
+          "reading": "がつ"
+        },
+        {
+          "surface": "中旬",
+          "reading": "ちゅうじゅん"
+        },
+        {
+          "surface": "新倉山",
+          "reading": "あらくらやま"
+        },
+        {
+          "surface": "浅間公園",
+          "reading": "せんげんこうえん"
+        },
+        {
+          "surface": "桜",
+          "reading": "さくら"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "毎年",
+          "reading": "まいとし",
+          "start_offset": 3,
+          "end_offset": 5,
+          "confidence": 0.95
+        },
+        {
+          "surface": "4月",
+          "reading": "がつ",
+          "start_offset": 5,
+          "end_offset": 7,
+          "confidence": 0.95
+        },
+        {
+          "surface": "中旬",
+          "reading": "ちゅうじゅん",
+          "start_offset": 7,
+          "end_offset": 9,
+          "confidence": 0.95
+        },
+        {
+          "surface": "新倉山",
+          "reading": "しんくらやま",
+          "start_offset": 12,
+          "end_offset": 15,
+          "confidence": 0.95
+        },
+        {
+          "surface": "浅間公園",
+          "reading": "せんげんこうえん",
+          "start_offset": 15,
+          "end_offset": 19,
+          "confidence": 0.95
+        },
+        {
+          "surface": "桜",
+          "reading": "さくら",
+          "start_offset": 19,
+          "end_offset": 20,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 4,
+      "total": 6
+    },
+    {
+      "text": "祭りには多()くの人()が訪()れますから、忠霊()塔()まで車()で行()くことが できません。",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "祭",
+          "reading": "まつ"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "祭",
+          "reading": "まつ",
+          "start_offset": 0,
+          "end_offset": 1,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 1,
+      "total": 1
+    },
+    {
+      "text": "行()くときはwebsiteを見て ください。",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "見",
+          "reading": "み"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "見",
+          "reading": "み",
+          "start_offset": 15,
+          "end_offset": 16,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 1,
+      "total": 1
+    },
+    {
+      "text": "富士吉田()市()に 3年間()住()んでいた私()がオススメするのは、朝です。",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "オススメする",
+          "reading": "recommend"
+        },
+        {
+          "surface": "朝",
+          "reading": "あさ"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "朝",
+          "reading": "あさ",
+          "start_offset": 36,
+          "end_offset": 37,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 1,
+      "total": 2
+    },
+    {
+      "text": "次()に オススメの時間()は夕方。",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "夕方",
+          "reading": "ゆうがた"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "夕方",
+          "reading": "ゆうがた",
+          "start_offset": 15,
+          "end_offset": 17,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 1,
+      "total": 1
+    },
+    {
+      "text": "どんどん変()わっていく夕焼()け空()(夕方の空)と一緒()に、一瞬()(for a moment)しかない富士山()の表情()(顔())を写真()に撮()ってみて ください。",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "夕方",
+          "reading": "ゆうがた"
+        },
+        {
+          "surface": "空",
+          "reading": "そら"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "夕方",
+          "reading": "ゆうがた",
+          "start_offset": 21,
+          "end_offset": 23,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 1,
+      "total": 2
+    },
+    {
+      "text": "撮()った場所()は富士吉田()市()下吉田()2丁目()の近()く特()に、湿度()(humid)が低()い冬は すっきりと きれいな富士山()を見()ることが できます。",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "冬",
+          "reading": "ふゆ"
+        }
+      ],
+      "predicted": [],
+      "matches": 0,
+      "total": 1
+    },
+    {
+      "text": "頑張って歩いた後はカフェで ちょっと休みましょう最後()に、オススメの休憩()スポット(休()むことが できる場所())を紹介()します。",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "頑張",
+          "reading": "がんば"
+        },
+        {
+          "surface": "歩",
+          "reading": "ある"
+        },
+        {
+          "surface": "後",
+          "reading": "あと"
+        },
+        {
+          "surface": "カフェ",
+          "reading": "cafe"
+        },
+        {
+          "surface": "休",
+          "reading": "やす"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "頑張",
+          "reading": "がんば",
+          "start_offset": 0,
+          "end_offset": 2,
+          "confidence": 0.95
+        },
+        {
+          "surface": "歩",
+          "reading": "ある",
+          "start_offset": 4,
+          "end_offset": 5,
+          "confidence": 0.95
+        },
+        {
+          "surface": "後",
+          "reading": "あと",
+          "start_offset": 7,
+          "end_offset": 8,
+          "confidence": 0.95
+        },
+        {
+          "surface": "休",
+          "reading": "やす",
+          "start_offset": 18,
+          "end_offset": 19,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 4,
+      "total": 5
+    },
+    {
+      "text": "下吉田()駅()には カフェ「下吉田倶楽部」が あります。",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "下吉田",
+          "reading": "しもよしだ"
+        },
+        {
+          "surface": "倶楽部",
+          "reading": "くらぶ"
+        }
+      ],
+      "predicted": [],
+      "matches": 0,
+      "total": 2
+    },
+    {
+      "text": "location_onShimoyoshida Club8-12 Arakura, Fujiyoshida City, Yamanashi Prefecture 403-0011忠霊塔で すばらしい景色の写真を撮ろう！",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "忠霊塔",
+          "reading": "ちゅうれいとう"
+        },
+        {
+          "surface": "景色",
+          "reading": "けしき"
+        },
+        {
+          "surface": "写真",
+          "reading": "しゃしん"
+        },
+        {
+          "surface": "撮",
+          "reading": "と"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "0011忠霊塔",
+          "reading": "ちゅうれいとう",
+          "start_offset": 85,
+          "end_offset": 92,
+          "confidence": 0.95
+        },
+        {
+          "surface": "景色",
+          "reading": "けしき",
+          "start_offset": 99,
+          "end_offset": 101,
+          "confidence": 0.95
+        },
+        {
+          "surface": "写真",
+          "reading": "しゃしん",
+          "start_offset": 102,
+          "end_offset": 104,
+          "confidence": 0.95
+        },
+        {
+          "surface": "撮",
+          "reading": "と",
+          "start_offset": 105,
+          "end_offset": 106,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 3,
+      "total": 4
+    },
+    {
+      "text": "また、下吉田()駅()の まわりには飲み歩きが できる場所()も あります。",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "飲",
+          "reading": "の"
+        },
+        {
+          "surface": "歩",
+          "reading": "ある"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "飲",
+          "reading": "の",
+          "start_offset": 18,
+          "end_offset": 19,
+          "confidence": 0.95
+        },
+        {
+          "surface": "歩",
+          "reading": "ある",
+          "start_offset": 20,
+          "end_offset": 21,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 2,
+      "total": 2
+    },
+    {
+      "text": "moredocument.addEventListener(\"DOMContentLoaded\", function () { const descriptions = document.querySelectorAll(\".description-wrapper__details\") const moreLinks = document.querySelectorAll(\".read-more-link\") function updateDescriptions() { descriptions.forEach((description, index) => { const moreLink = moreLinks[index] const lineHeight = parseInt(getComputedStyle(description).lineHeight) const maxHeight = lineHeight * 3 if (description.scrollHeight > maxHeight) { moreLink.style.display = \"inline\" } else { moreLink.style.display = \"none\" } moreLink.addEventListener(\"click\", function () { moreLink.style.display = \"none\" }) }) } updateDescriptions() window.addEventListener(\"resize\", updateDescriptions) })この記事に書いてあることは記事を書いたときの情報(information)です。",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "記事",
+          "reading": "きじ"
+        },
+        {
+          "surface": "書",
+          "reading": "か"
+        },
+        {
+          "surface": "記事",
+          "reading": "きじ"
+        },
+        {
+          "surface": "書",
+          "reading": "か"
+        },
+        {
+          "surface": "情報",
+          "reading": "じょうほう"
+        }
+      ],
+      "predicted": [],
+      "matches": 0,
+      "total": 5
+    },
+    {
+      "text": "あなたが この記事を 読んでいるときには商品(売っている もの)やサービスが変わっているかもしれません。",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "記事",
+          "reading": "きじ"
+        },
+        {
+          "surface": "商品",
+          "reading": "しょうひん"
+        },
+        {
+          "surface": "売",
+          "reading": "う"
+        },
+        {
+          "surface": "サービス",
+          "reading": "service"
+        },
+        {
+          "surface": "変",
+          "reading": "か"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "記事",
+          "reading": "きじ",
+          "start_offset": 7,
+          "end_offset": 9,
+          "confidence": 0.95
+        },
+        {
+          "surface": "商品",
+          "reading": "しょうひん",
+          "start_offset": 20,
+          "end_offset": 22,
+          "confidence": 0.95
+        },
+        {
+          "surface": "売",
+          "reading": "う",
+          "start_offset": 23,
+          "end_offset": 24,
+          "confidence": 0.95
+        },
+        {
+          "surface": "変",
+          "reading": "か",
+          "start_offset": 38,
+          "end_offset": 39,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 4,
+      "total": 5
+    },
+    {
+      "text": "行く前に もう一度確認して ください。",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "行",
+          "reading": "い"
+        },
+        {
+          "surface": "前",
+          "reading": "まえ"
+        },
+        {
+          "surface": "一度",
+          "reading": "いちど"
+        },
+        {
+          "surface": "確認",
+          "reading": "かくにん"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "行",
+          "reading": "い",
+          "start_offset": 0,
+          "end_offset": 1,
+          "confidence": 0.95
+        },
+        {
+          "surface": "前",
+          "reading": "まえ",
+          "start_offset": 2,
+          "end_offset": 3,
+          "confidence": 0.95
+        },
+        {
+          "surface": "一度",
+          "reading": "いちど",
+          "start_offset": 7,
+          "end_offset": 9,
+          "confidence": 0.95
+        },
+        {
+          "surface": "確認",
+          "reading": "かくにん",
+          "start_offset": 9,
+          "end_offset": 11,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 4,
+      "total": 4
+    },
+    {
+      "text": "関連トピック山梨県自然・四季富士山桜ランキングThere are no articles in this section.関連記事ピンク色の芝生!? 「富士芝桜まつり」の富士山と芝桜の すばらしい景色（2020）山梨県東京から日帰り(one day trip)で行く「筑波山」で すばらしい景色を見ましょう茨城県特集MATCHA山梨県観光ガイド富士山・桜・五重塔ぜんぶ一緒に見ることが できる“The Japan”な場所「忠霊塔」人気のキーワードきょうとtokyoこども茶ねこさくらとうきょうふくおかコンビニタクシーインタレスト食（FOOD）宿泊（STAY）観光（THINGS TO DO）文化・カルチャーLatest NewsMore.やさしい日本語の音声(voice)がダウンロードできる「聴く MATCHA やさしい日本語」が始まりました！",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "色",
+          "reading": "いろ"
+        },
+        {
+          "surface": "芝生",
+          "reading": "しばふ"
+        },
+        {
+          "surface": "富士",
+          "reading": "ふじ"
+        },
+        {
+          "surface": "芝桜",
+          "reading": "しばざくら"
+        },
+        {
+          "surface": "富士山",
+          "reading": "ふじさん"
+        },
+        {
+          "surface": "芝桜",
+          "reading": "しばざくら"
+        },
+        {
+          "surface": "景色",
+          "reading": "けしき"
+        },
+        {
+          "surface": "東京",
+          "reading": "とうきょう"
+        },
+        {
+          "surface": "日帰",
+          "reading": "ひがえ"
+        },
+        {
+          "surface": "行",
+          "reading": "い"
+        },
+        {
+          "surface": "筑波山",
+          "reading": "つくばさん"
+        },
+        {
+          "surface": "景色",
+          "reading": "けしき"
+        },
+        {
+          "surface": "見",
+          "reading": "み"
+        },
+        {
+          "surface": "富士山",
+          "reading": "ふじさん"
+        },
+        {
+          "surface": "桜",
+          "reading": "さくら"
+        },
+        {
+          "surface": "五重塔",
+          "reading": "ごじゅうのとう"
+        },
+        {
+          "surface": "一緒",
+          "reading": "いっしょ"
+        },
+        {
+          "surface": "見",
+          "reading": "み"
+        },
+        {
+          "surface": "場所",
+          "reading": "ばしょ"
+        },
+        {
+          "surface": "忠霊塔",
+          "reading": "ちゅうれいとう"
+        },
+        {
+          "surface": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "surface": "音声",
+          "reading": "おんせい"
+        },
+        {
+          "surface": "ダウンロード",
+          "reading": "download"
+        },
+        {
+          "surface": "聴",
+          "reading": "き"
+        },
+        {
+          "surface": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "surface": "始",
+          "reading": "はじ"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "四季富士山",
+          "reading": "ふじさん",
+          "start_offset": 12,
+          "end_offset": 17,
+          "confidence": 0.95
+        },
+        {
+          "surface": "桜",
+          "reading": "さくら",
+          "start_offset": 17,
+          "end_offset": 18,
+          "confidence": 0.95
+        },
+        {
+          "surface": "色",
+          "reading": "いろ",
+          "start_offset": 68,
+          "end_offset": 69,
+          "confidence": 0.95
+        },
+        {
+          "surface": "芝生",
+          "reading": "しばふ",
+          "start_offset": 70,
+          "end_offset": 72,
+          "confidence": 0.95
+        },
+        {
+          "surface": "富士",
+          "reading": "ふじ",
+          "start_offset": 14,
+          "end_offset": 16,
+          "confidence": 0.95
+        },
+        {
+          "surface": "芝桜",
+          "reading": "しばざくら",
+          "start_offset": 78,
+          "end_offset": 80,
+          "confidence": 0.95
+        },
+        {
+          "surface": "富士山",
+          "reading": "ふじさん",
+          "start_offset": 85,
+          "end_offset": 88,
+          "confidence": 0.95
+        },
+        {
+          "surface": "芝桜",
+          "reading": "しばざくら",
+          "start_offset": 89,
+          "end_offset": 91,
+          "confidence": 0.95
+        },
+        {
+          "surface": "景色",
+          "reading": "けしき",
+          "start_offset": 98,
+          "end_offset": 100,
+          "confidence": 0.95
+        },
+        {
+          "surface": "山梨県東京",
+          "reading": "とうきょう",
+          "start_offset": 106,
+          "end_offset": 111,
+          "confidence": 0.95
+        },
+        {
+          "surface": "日帰",
+          "reading": "ひがえ",
+          "start_offset": 113,
+          "end_offset": 115,
+          "confidence": 0.95
+        },
+        {
+          "surface": "行",
+          "reading": "い",
+          "start_offset": 131,
+          "end_offset": 132,
+          "confidence": 0.95
+        },
+        {
+          "surface": "筑波山",
+          "reading": "つくばさん",
+          "start_offset": 134,
+          "end_offset": 137,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 13,
+      "total": 26
+    },
+    {
+      "text": "2020.07.17ランキングMore.日本へ来る前に知っておきたい日本の食事のマナー7つ食（FOOD）東京から大阪まで時間・お金は どのぐらい かかる？",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "日本",
+          "reading": "にほん"
+        },
+        {
+          "surface": "来",
+          "reading": "く"
+        },
+        {
+          "surface": "前",
+          "reading": "まえ"
+        },
+        {
+          "surface": "知",
+          "reading": "し"
+        },
+        {
+          "surface": "日本",
+          "reading": "にほん"
+        },
+        {
+          "surface": "食事",
+          "reading": "しょくじ"
+        },
+        {
+          "surface": "マナー",
+          "reading": "manner"
+        },
+        {
+          "surface": "東京",
+          "reading": "とうきょう"
+        },
+        {
+          "surface": "大阪",
+          "reading": "おおさか"
+        },
+        {
+          "surface": "時間",
+          "reading": "じかん"
+        },
+        {
+          "surface": "金",
+          "reading": "かね"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "日本",
+          "reading": "にほん",
+          "start_offset": 20,
+          "end_offset": 22,
+          "confidence": 0.95
+        },
+        {
+          "surface": "来",
+          "reading": "く",
+          "start_offset": 23,
+          "end_offset": 24,
+          "confidence": 0.95
+        },
+        {
+          "surface": "前",
+          "reading": "まえ",
+          "start_offset": 25,
+          "end_offset": 26,
+          "confidence": 0.95
+        },
+        {
+          "surface": "知",
+          "reading": "し",
+          "start_offset": 27,
+          "end_offset": 28,
+          "confidence": 0.95
+        },
+        {
+          "surface": "日本",
+          "reading": "にほん",
+          "start_offset": 34,
+          "end_offset": 36,
+          "confidence": 0.95
+        },
+        {
+          "surface": "食事",
+          "reading": "しょくじ",
+          "start_offset": 37,
+          "end_offset": 39,
+          "confidence": 0.95
+        },
+        {
+          "surface": "東京",
+          "reading": "とうきょう",
+          "start_offset": 52,
+          "end_offset": 54,
+          "confidence": 0.95
+        },
+        {
+          "surface": "大阪",
+          "reading": "おおさか",
+          "start_offset": 56,
+          "end_offset": 58,
+          "confidence": 0.95
+        },
+        {
+          "surface": "時間",
+          "reading": "じかん",
+          "start_offset": 60,
+          "end_offset": 62,
+          "confidence": 0.95
+        },
+        {
+          "surface": "金",
+          "reading": "かね",
+          "start_offset": 64,
+          "end_offset": 65,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 10,
+      "total": 11
+    },
+    {
+      "text": "比べました！",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "比",
+          "reading": "くら"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "比",
+          "reading": "くら",
+          "start_offset": 0,
+          "end_offset": 1,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 1,
+      "total": 1
+    },
+    {
+      "text": "大阪府お正月の おせち料理は どんな食べ物ですか食（FOOD）こんなときどうする？",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "正月",
+          "reading": "しょうがつ"
+        },
+        {
+          "surface": "料理",
+          "reading": "りょうり"
+        },
+        {
+          "surface": "食",
+          "reading": "た"
+        },
+        {
+          "surface": "物",
+          "reading": "もの"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "正月",
+          "reading": "しょうがつ",
+          "start_offset": 4,
+          "end_offset": 6,
+          "confidence": 0.95
+        },
+        {
+          "surface": "料理",
+          "reading": "りょうり",
+          "start_offset": 11,
+          "end_offset": 13,
+          "confidence": 0.95
+        },
+        {
+          "surface": "食",
+          "reading": "た",
+          "start_offset": 18,
+          "end_offset": 19,
+          "confidence": 0.95
+        },
+        {
+          "surface": "物",
+          "reading": "もの",
+          "start_offset": 20,
+          "end_offset": 21,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 4,
+      "total": 4
+    },
+    {
+      "text": "「たたみの へやに はいるとき」ことばJR渋谷駅のホームから改札(ハチ公・中央・南・新南)へのアクセス東京都新着More.JR渋谷駅のホームから改札(ハチ公・中央・南・新南)へのアクセス東京都3日間で 300万人が訪れる人気の お寺・神奈川「川崎大師」神奈川県太宰府天満宮・博多ラーメンなど福岡を2日で楽しむルート福岡県富士山や北海道の紅葉も！",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "渋谷駅",
+          "reading": "しぶやえき"
+        },
+        {
+          "surface": "改札",
+          "reading": "かいさつ"
+        },
+        {
+          "surface": "公",
+          "reading": "こう"
+        },
+        {
+          "surface": "中央",
+          "reading": "ちゅうおう"
+        },
+        {
+          "surface": "南",
+          "reading": "みなみ"
+        },
+        {
+          "surface": "新南",
+          "reading": "しんみなみ"
+        },
+        {
+          "surface": "アクセス",
+          "reading": "access"
+        },
+        {
+          "surface": "渋谷駅",
+          "reading": "しぶやえき"
+        },
+        {
+          "surface": "改札",
+          "reading": "かいさつ"
+        },
+        {
+          "surface": "公",
+          "reading": "こう"
+        },
+        {
+          "surface": "中央",
+          "reading": "ちゅうおう"
+        },
+        {
+          "surface": "南",
+          "reading": "みなみ"
+        },
+        {
+          "surface": "新南",
+          "reading": "しんみなみ"
+        },
+        {
+          "surface": "アクセス",
+          "reading": "access"
+        },
+        {
+          "surface": "3日間",
+          "reading": "みっかかん"
+        },
+        {
+          "surface": "万人",
+          "reading": "まんにん"
+        },
+        {
+          "surface": "訪",
+          "reading": "おとず"
+        },
+        {
+          "surface": "人気",
+          "reading": "にんき"
+        },
+        {
+          "surface": "寺",
+          "reading": "てら"
+        },
+        {
+          "surface": "神奈川",
+          "reading": "かながわ"
+        },
+        {
+          "surface": "川崎",
+          "reading": "かわさき"
+        },
+        {
+          "surface": "大師",
+          "reading": "だいし"
+        },
+        {
+          "surface": "太宰府天満宮",
+          "reading": "だざいふてんまんぐう"
+        },
+        {
+          "surface": "博多",
+          "reading": "はかた"
+        },
+        {
+          "surface": "福岡",
+          "reading": "ふくおか"
+        },
+        {
+          "surface": "2日",
+          "reading": "ふつか"
+        },
+        {
+          "surface": "楽",
+          "reading": "たの"
+        },
+        {
+          "surface": "ルート",
+          "reading": "route"
+        },
+        {
+          "surface": "富士山",
+          "reading": "ふじさん"
+        },
+        {
+          "surface": "北海道",
+          "reading": "ほっかいどう"
+        },
+        {
+          "surface": "紅葉",
+          "reading": "こうよう"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "渋谷駅",
+          "reading": "しぶやえき",
+          "start_offset": 21,
+          "end_offset": 24,
+          "confidence": 0.95
+        },
+        {
+          "surface": "改札",
+          "reading": "かいさつ",
+          "start_offset": 30,
+          "end_offset": 32,
+          "confidence": 0.95
+        },
+        {
+          "surface": "公",
+          "reading": "こう",
+          "start_offset": 35,
+          "end_offset": 36,
+          "confidence": 0.95
+        },
+        {
+          "surface": "中央",
+          "reading": "ちゅうおう",
+          "start_offset": 37,
+          "end_offset": 39,
+          "confidence": 0.95
+        },
+        {
+          "surface": "南",
+          "reading": "みなみ",
+          "start_offset": 40,
+          "end_offset": 41,
+          "confidence": 0.95
+        },
+        {
+          "surface": "新南",
+          "reading": "しんみなみ",
+          "start_offset": 42,
+          "end_offset": 44,
+          "confidence": 0.95
+        },
+        {
+          "surface": "渋谷駅",
+          "reading": "しぶやえき",
+          "start_offset": 63,
+          "end_offset": 66,
+          "confidence": 0.95
+        },
+        {
+          "surface": "改札",
+          "reading": "かいさつ",
+          "start_offset": 72,
+          "end_offset": 74,
+          "confidence": 0.95
+        },
+        {
+          "surface": "公",
+          "reading": "こう",
+          "start_offset": 77,
+          "end_offset": 78,
+          "confidence": 0.95
+        },
+        {
+          "surface": "中央",
+          "reading": "ちゅうおう",
+          "start_offset": 79,
+          "end_offset": 81,
+          "confidence": 0.95
+        },
+        {
+          "surface": "南",
+          "reading": "みなみ",
+          "start_offset": 43,
+          "end_offset": 44,
+          "confidence": 0.95
+        },
+        {
+          "surface": "新南",
+          "reading": "しんみなみ",
+          "start_offset": 84,
+          "end_offset": 86,
+          "confidence": 0.95
+        },
+        {
+          "surface": "東京都3日間",
+          "reading": "みっかかん",
+          "start_offset": 93,
+          "end_offset": 99,
+          "confidence": 0.95
+        },
+        {
+          "surface": "300万人",
+          "reading": "まんにん",
+          "start_offset": 101,
+          "end_offset": 106,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 12,
+      "total": 31
+    },
+    {
+      "text": "日本の 8つの紅葉ツアー観光（THINGS TO DO）福岡に近い温泉「別府」と「由布院」いきかた・オススメの温泉旅館大分県",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "日本",
+          "reading": "にほん"
+        },
+        {
+          "surface": "紅葉",
+          "reading": "こうよう"
+        },
+        {
+          "surface": "ツアー",
+          "reading": "tour"
+        },
+        {
+          "surface": "福岡",
+          "reading": "ふくおか"
+        },
+        {
+          "surface": "近",
+          "reading": "ちか"
+        },
+        {
+          "surface": "温泉",
+          "reading": "おんせん"
+        },
+        {
+          "surface": "別府",
+          "reading": "べっぷ"
+        },
+        {
+          "surface": "由布院",
+          "reading": "ゆふいん"
+        },
+        {
+          "surface": "オススメ",
+          "reading": "recommended"
+        },
+        {
+          "surface": "温泉旅館",
+          "reading": "おんせんりょかん"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "日本",
+          "reading": "にほん",
+          "start_offset": 0,
+          "end_offset": 2,
+          "confidence": 0.95
+        },
+        {
+          "surface": "紅葉",
+          "reading": "こうよう",
+          "start_offset": 7,
+          "end_offset": 9,
+          "confidence": 0.95
+        },
+        {
+          "surface": "福岡",
+          "reading": "ふくおか",
+          "start_offset": 28,
+          "end_offset": 30,
+          "confidence": 0.95
+        },
+        {
+          "surface": "近",
+          "reading": "ちか",
+          "start_offset": 31,
+          "end_offset": 32,
+          "confidence": 0.95
+        },
+        {
+          "surface": "温泉",
+          "reading": "おんせん",
+          "start_offset": 33,
+          "end_offset": 35,
+          "confidence": 0.95
+        },
+        {
+          "surface": "別府",
+          "reading": "べっぷ",
+          "start_offset": 36,
+          "end_offset": 38,
+          "confidence": 0.95
+        },
+        {
+          "surface": "由布院",
+          "reading": "ゆふいん",
+          "start_offset": 41,
+          "end_offset": 44,
+          "confidence": 0.95
+        },
+        {
+          "surface": "温泉旅館",
+          "reading": "おんせんりょかん",
+          "start_offset": 55,
+          "end_offset": 59,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 8,
+      "total": 10
+    },
+    {
+      "text": "富士山・桜・五重塔ぜんぶ一緒に見ることが できる“The Japan”な場所「忠霊塔」",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "富士山",
+          "reading": "ふじさん"
+        },
+        {
+          "surface": "桜",
+          "reading": "さくら"
+        },
+        {
+          "surface": "五重塔",
+          "reading": "ごじゅうのとう"
+        },
+        {
+          "surface": "一緒",
+          "reading": "いっしょ"
+        },
+        {
+          "surface": "見",
+          "reading": "み"
+        },
+        {
+          "surface": "場所",
+          "reading": "ばしょ"
+        },
+        {
+          "surface": "忠霊塔",
+          "reading": "ちゅうれいとう"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "富士山",
+          "reading": "ふじさん",
+          "start_offset": 0,
+          "end_offset": 3,
+          "confidence": 0.95
+        },
+        {
+          "surface": "桜",
+          "reading": "さくら",
+          "start_offset": 4,
+          "end_offset": 5,
+          "confidence": 0.95
+        },
+        {
+          "surface": "五重塔",
+          "reading": "ごじゅうのとう",
+          "start_offset": 6,
+          "end_offset": 9,
+          "confidence": 0.95
+        },
+        {
+          "surface": "一緒",
+          "reading": "いっしょ",
+          "start_offset": 12,
+          "end_offset": 14,
+          "confidence": 0.95
+        },
+        {
+          "surface": "見",
+          "reading": "み",
+          "start_offset": 15,
+          "end_offset": 16,
+          "confidence": 0.95
+        },
+        {
+          "surface": "場所",
+          "reading": "ばしょ",
+          "start_offset": 36,
+          "end_offset": 38,
+          "confidence": 0.95
+        },
+        {
+          "surface": "忠霊塔",
+          "reading": "ちゅうれいとう",
+          "start_offset": 39,
+          "end_offset": 42,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 7,
+      "total": 7
+    },
+    {
+      "text": "Googleで 「日本」を調べる……あなたは日本()へ来()たら、どんな景色()を見()たいですか？",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "日本",
+          "reading": "にほん"
+        },
+        {
+          "surface": "調",
+          "reading": "しら"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "日本",
+          "reading": "にほん",
+          "start_offset": 9,
+          "end_offset": 11,
+          "confidence": 0.95
+        },
+        {
+          "surface": "調",
+          "reading": "しら",
+          "start_offset": 13,
+          "end_offset": 14,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 2,
+      "total": 2
+    },
+    {
+      "text": "「富士山」、「木で できた建物」、「桜」を考()える人()が多()いかもしれません。",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "富士山",
+          "reading": "ふじさん"
+        },
+        {
+          "surface": "木",
+          "reading": "き"
+        },
+        {
+          "surface": "建物",
+          "reading": "たてもの"
+        },
+        {
+          "surface": "桜",
+          "reading": "さくら"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "富士山",
+          "reading": "ふじさん",
+          "start_offset": 1,
+          "end_offset": 4,
+          "confidence": 0.95
+        },
+        {
+          "surface": "木",
+          "reading": "き",
+          "start_offset": 7,
+          "end_offset": 8,
+          "confidence": 0.95
+        },
+        {
+          "surface": "建物",
+          "reading": "たてもの",
+          "start_offset": 13,
+          "end_offset": 15,
+          "confidence": 0.95
+        },
+        {
+          "surface": "桜",
+          "reading": "さくら",
+          "start_offset": 18,
+          "end_offset": 19,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 4,
+      "total": 4
+    },
+    {
+      "text": "Picture courtesy of ふじよしだ観光振興サービスすると、このような写真()が出()てきます。",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "観光振興",
+          "reading": "かんこうしんこう"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "観光振興",
+          "reading": "かんこうしんこう",
+          "start_offset": 25,
+          "end_offset": 29,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 1,
+      "total": 1
+    },
+    {
+      "text": "実()は この写真()を撮()った場所()は山梨県の富士吉田市。",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "山梨県",
+          "reading": "やまなしけん"
+        },
+        {
+          "surface": "富士",
+          "reading": "ふじ"
+        },
+        {
+          "surface": "吉田市",
+          "reading": "よしだし"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "山梨県",
+          "reading": "やまなしけん",
+          "start_offset": 22,
+          "end_offset": 25,
+          "confidence": 0.95
+        },
+        {
+          "surface": "富士吉田市",
+          "reading": "ふじよしだし",
+          "start_offset": 26,
+          "end_offset": 31,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 1,
+      "total": 3
+    },
+    {
+      "text": "東京から 2時間ぐらい、リゾートの河口湖や山中湖()から少()し遠()い「新倉山()浅間()公園()」の中()に ある「忠霊()塔()」という場所()です。",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "東京",
+          "reading": "とうきょう"
+        },
+        {
+          "surface": "時間",
+          "reading": "じかん"
+        },
+        {
+          "surface": "リゾート",
+          "reading": "resort"
+        },
+        {
+          "surface": "河口湖",
+          "reading": "かわぐちこ"
+        },
+        {
+          "surface": "忠霊",
+          "reading": "ちゅうれい"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "東京",
+          "reading": "とうきょう",
+          "start_offset": 0,
+          "end_offset": 2,
+          "confidence": 0.95
+        },
+        {
+          "surface": "2時間",
+          "reading": "じかん",
+          "start_offset": 5,
+          "end_offset": 8,
+          "confidence": 0.95
+        },
+        {
+          "surface": "河口湖",
+          "reading": "かわぐちこ",
+          "start_offset": 17,
+          "end_offset": 20,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 2,
+      "total": 5
+    },
+    {
+      "text": "この記事()では、今()、日本()・外国()いろいろな場所()から多()くの人()が訪()れる忠霊塔()への行()き方()や撮影()スポット(写真()を撮()るのに いい場所())、そして きれいな写真()の撮()り方()を紹介()します。",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "忠霊塔",
+          "reading": "ちゅうれいとう"
+        },
+        {
+          "surface": "行",
+          "reading": "い"
+        },
+        {
+          "surface": "方",
+          "reading": "かた"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "記事",
+          "reading": "きじ",
+          "start_offset": 2,
+          "end_offset": 4,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 0,
+      "total": 3
+    },
+    {
+      "text": "乗り物行き方値段電車新宿駅からJR中央線「特急かいじ」に乗って、大月駅で富士急行線に乗り換えて、下吉田駅で おります3,930円高速(highway)バスバスタ新宿から新宿ー富士五湖線に乗って、下吉田バス停で おります。",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "乗",
+          "reading": "の"
+        },
+        {
+          "surface": "物",
+          "reading": "もの"
+        },
+        {
+          "surface": "行",
+          "reading": "い"
+        },
+        {
+          "surface": "方",
+          "reading": "かた"
+        },
+        {
+          "surface": "値段",
+          "reading": "ねだん"
+        },
+        {
+          "surface": "電車",
+          "reading": "でんしゃ"
+        },
+        {
+          "surface": "新宿駅",
+          "reading": "しんじゅくえき"
+        },
+        {
+          "surface": "JR",
+          "reading": "ジェイアール"
+        },
+        {
+          "surface": "中央線",
+          "reading": "ちゅうおうせん"
+        },
+        {
+          "surface": "特急",
+          "reading": "とっきゅう"
+        },
+        {
+          "surface": "乗",
+          "reading": "の"
+        },
+        {
+          "surface": "大月駅",
+          "reading": "おおつきえき"
+        },
+        {
+          "surface": "富士急行線",
+          "reading": "ふじきゅうこうせん"
+        },
+        {
+          "surface": "乗",
+          "reading": "の"
+        },
+        {
+          "surface": "換",
+          "reading": "か"
+        },
+        {
+          "surface": "下吉田駅",
+          "reading": "しもよしだえき"
+        },
+        {
+          "surface": "円",
+          "reading": "えん"
+        },
+        {
+          "surface": "高速",
+          "reading": "こうそく"
+        },
+        {
+          "surface": "新宿",
+          "reading": "しんじゅく"
+        },
+        {
+          "surface": "新宿",
+          "reading": "しんじゅく"
+        },
+        {
+          "surface": "富士五湖",
+          "reading": "ふじごこ"
+        },
+        {
+          "surface": "線",
+          "reading": "せん"
+        },
+        {
+          "surface": "乗",
+          "reading": "の"
+        },
+        {
+          "surface": "下吉田",
+          "reading": "しもよしだ"
+        },
+        {
+          "surface": "停",
+          "reading": "てい"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "乗",
+          "reading": "の",
+          "start_offset": 0,
+          "end_offset": 1,
+          "confidence": 0.95
+        },
+        {
+          "surface": "方",
+          "reading": "かた",
+          "start_offset": 5,
+          "end_offset": 6,
+          "confidence": 0.95
+        },
+        {
+          "surface": "値段",
+          "reading": "ねだん",
+          "start_offset": 6,
+          "end_offset": 8,
+          "confidence": 0.95
+        },
+        {
+          "surface": "電車新宿駅",
+          "reading": "しんじゅくえき",
+          "start_offset": 8,
+          "end_offset": 13,
+          "confidence": 0.95
+        },
+        {
+          "surface": "中央線",
+          "reading": "ちゅうおうせん",
+          "start_offset": 17,
+          "end_offset": 20,
+          "confidence": 0.95
+        },
+        {
+          "surface": "特急",
+          "reading": "とっきゅう",
+          "start_offset": 21,
+          "end_offset": 23,
+          "confidence": 0.95
+        },
+        {
+          "surface": "乗",
+          "reading": "の",
+          "start_offset": 28,
+          "end_offset": 29,
+          "confidence": 0.95
+        },
+        {
+          "surface": "大月駅",
+          "reading": "おおつきえき",
+          "start_offset": 32,
+          "end_offset": 35,
+          "confidence": 0.95
+        },
+        {
+          "surface": "富士急行線",
+          "reading": "ふじきゅうこうせん",
+          "start_offset": 36,
+          "end_offset": 41,
+          "confidence": 0.95
+        },
+        {
+          "surface": "乗",
+          "reading": "の",
+          "start_offset": 42,
+          "end_offset": 43,
+          "confidence": 0.95
+        },
+        {
+          "surface": "換",
+          "reading": "か",
+          "start_offset": 44,
+          "end_offset": 45,
+          "confidence": 0.95
+        },
+        {
+          "surface": "下吉田駅",
+          "reading": "したよしだえき",
+          "start_offset": 48,
+          "end_offset": 52,
+          "confidence": 0.95
+        },
+        {
+          "surface": "930円高速",
+          "reading": "こうそく",
+          "start_offset": 60,
+          "end_offset": 66,
+          "confidence": 0.95
+        },
+        {
+          "surface": "新宿",
+          "reading": "しんじゅく",
+          "start_offset": 10,
+          "end_offset": 12,
+          "confidence": 0.95
+        },
+        {
+          "surface": "新宿",
+          "reading": "しんじゅく",
+          "start_offset": 80,
+          "end_offset": 82,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 13,
+      "total": 25
+    },
+    {
+      "text": "1,700円ここからは、富士急行()線()「下吉田()駅()」からの行()き方()を説明()します。",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "円",
+          "reading": "えん"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "700円",
+          "reading": "えん",
+          "start_offset": 2,
+          "end_offset": 6,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 0,
+      "total": 1
+    },
+    {
+      "text": "参道()(神社()へ行()くための道())を進()んでいくと赤()い鳥居が あって、神社()が ある広場()(広()い場所())に出()ます。",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "鳥居",
+          "reading": "とりい"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "鳥居",
+          "reading": "とりい",
+          "start_offset": 34,
+          "end_offset": 36,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 1,
+      "total": 1
+    },
+    {
+      "text": "4月()中旬()ごろには桜()の花()、そして11月()ごろには すばらしい紅葉(autumn leaves)を見ることが できます。",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "紅葉",
+          "reading": "こうよう"
+        },
+        {
+          "surface": "見",
+          "reading": "み"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "紅葉",
+          "reading": "こうよう",
+          "start_offset": 38,
+          "end_offset": 40,
+          "confidence": 0.95
+        },
+        {
+          "surface": "見",
+          "reading": "み",
+          "start_offset": 56,
+          "end_offset": 57,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 2,
+      "total": 2
+    },
+    {
+      "text": "また、毎年4月中旬には「新倉山浅間公園桜まつり」が あります。",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "毎年",
+          "reading": "まいとし"
+        },
+        {
+          "surface": "月",
+          "reading": "がつ"
+        },
+        {
+          "surface": "中旬",
+          "reading": "ちゅうじゅん"
+        },
+        {
+          "surface": "新倉山",
+          "reading": "あらくらやま"
+        },
+        {
+          "surface": "浅間公園",
+          "reading": "せんげんこうえん"
+        },
+        {
+          "surface": "桜",
+          "reading": "さくら"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "毎年",
+          "reading": "まいとし",
+          "start_offset": 3,
+          "end_offset": 5,
+          "confidence": 0.95
+        },
+        {
+          "surface": "4月",
+          "reading": "がつ",
+          "start_offset": 5,
+          "end_offset": 7,
+          "confidence": 0.95
+        },
+        {
+          "surface": "中旬",
+          "reading": "ちゅうじゅん",
+          "start_offset": 7,
+          "end_offset": 9,
+          "confidence": 0.95
+        },
+        {
+          "surface": "新倉山",
+          "reading": "しんくらやま",
+          "start_offset": 12,
+          "end_offset": 15,
+          "confidence": 0.95
+        },
+        {
+          "surface": "浅間公園",
+          "reading": "せんげんこうえん",
+          "start_offset": 15,
+          "end_offset": 19,
+          "confidence": 0.95
+        },
+        {
+          "surface": "桜",
+          "reading": "さくら",
+          "start_offset": 19,
+          "end_offset": 20,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 4,
+      "total": 6
+    },
+    {
+      "text": "祭りには多()くの人()が訪()れますから、忠霊()塔()まで車()で行()くことが できません。",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "祭",
+          "reading": "まつ"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "祭",
+          "reading": "まつ",
+          "start_offset": 0,
+          "end_offset": 1,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 1,
+      "total": 1
+    },
+    {
+      "text": "行()くときはwebsiteを見て ください。",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "見",
+          "reading": "み"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "見",
+          "reading": "み",
+          "start_offset": 15,
+          "end_offset": 16,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 1,
+      "total": 1
+    },
+    {
+      "text": "富士吉田()市()に 3年間()住()んでいた私()がオススメするのは、朝です。",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "オススメする",
+          "reading": "recommend"
+        },
+        {
+          "surface": "朝",
+          "reading": "あさ"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "朝",
+          "reading": "あさ",
+          "start_offset": 36,
+          "end_offset": 37,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 1,
+      "total": 2
+    },
+    {
+      "text": "次()に オススメの時間()は夕方。",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "夕方",
+          "reading": "ゆうがた"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "夕方",
+          "reading": "ゆうがた",
+          "start_offset": 15,
+          "end_offset": 17,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 1,
+      "total": 1
+    },
+    {
+      "text": "どんどん変()わっていく夕焼()け空()(夕方の空)と一緒()に、一瞬()(for a moment)しかない富士山()の表情()(顔())を写真()に撮()ってみて ください。",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "夕方",
+          "reading": "ゆうがた"
+        },
+        {
+          "surface": "空",
+          "reading": "そら"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "夕方",
+          "reading": "ゆうがた",
+          "start_offset": 21,
+          "end_offset": 23,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 1,
+      "total": 2
+    },
+    {
+      "text": "撮()った場所()は富士吉田()市()下吉田()2丁目()の近()く特()に、湿度()(humid)が低()い冬は すっきりと きれいな富士山()を見()ることが できます。",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "冬",
+          "reading": "ふゆ"
+        }
+      ],
+      "predicted": [],
+      "matches": 0,
+      "total": 1
+    },
+    {
+      "text": "頑張って歩いた後はカフェで ちょっと休みましょう最後()に、オススメの休憩()スポット(休()むことが できる場所())を紹介()します。",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "頑張",
+          "reading": "がんば"
+        },
+        {
+          "surface": "歩",
+          "reading": "ある"
+        },
+        {
+          "surface": "後",
+          "reading": "あと"
+        },
+        {
+          "surface": "カフェ",
+          "reading": "cafe"
+        },
+        {
+          "surface": "休",
+          "reading": "やす"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "頑張",
+          "reading": "がんば",
+          "start_offset": 0,
+          "end_offset": 2,
+          "confidence": 0.95
+        },
+        {
+          "surface": "歩",
+          "reading": "ある",
+          "start_offset": 4,
+          "end_offset": 5,
+          "confidence": 0.95
+        },
+        {
+          "surface": "後",
+          "reading": "あと",
+          "start_offset": 7,
+          "end_offset": 8,
+          "confidence": 0.95
+        },
+        {
+          "surface": "休",
+          "reading": "やす",
+          "start_offset": 18,
+          "end_offset": 19,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 4,
+      "total": 5
+    },
+    {
+      "text": "下吉田()駅()には カフェ「下吉田倶楽部」が あります。",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "下吉田",
+          "reading": "しもよしだ"
+        },
+        {
+          "surface": "倶楽部",
+          "reading": "くらぶ"
+        }
+      ],
+      "predicted": [],
+      "matches": 0,
+      "total": 2
+    },
+    {
+      "text": "location_onShimoyoshida Club8-12 Arakura, Fujiyoshida City, Yamanashi Prefecture 403-0011忠霊塔で すばらしい景色の写真を撮ろう！",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "忠霊塔",
+          "reading": "ちゅうれいとう"
+        },
+        {
+          "surface": "景色",
+          "reading": "けしき"
+        },
+        {
+          "surface": "写真",
+          "reading": "しゃしん"
+        },
+        {
+          "surface": "撮",
+          "reading": "と"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "0011忠霊塔",
+          "reading": "ちゅうれいとう",
+          "start_offset": 85,
+          "end_offset": 92,
+          "confidence": 0.95
+        },
+        {
+          "surface": "景色",
+          "reading": "けしき",
+          "start_offset": 99,
+          "end_offset": 101,
+          "confidence": 0.95
+        },
+        {
+          "surface": "写真",
+          "reading": "しゃしん",
+          "start_offset": 102,
+          "end_offset": 104,
+          "confidence": 0.95
+        },
+        {
+          "surface": "撮",
+          "reading": "と",
+          "start_offset": 105,
+          "end_offset": 106,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 3,
+      "total": 4
+    },
+    {
+      "text": "また、下吉田()駅()の まわりには飲み歩きが できる場所()も あります。",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "飲",
+          "reading": "の"
+        },
+        {
+          "surface": "歩",
+          "reading": "ある"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "飲",
+          "reading": "の",
+          "start_offset": 18,
+          "end_offset": 19,
+          "confidence": 0.95
+        },
+        {
+          "surface": "歩",
+          "reading": "ある",
+          "start_offset": 20,
+          "end_offset": 21,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 2,
+      "total": 2
+    },
+    {
+      "text": "下吉田駅で おります",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "下吉田駅",
+          "reading": "しもよしだえき"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "下吉田駅",
+          "reading": "したよしだえき",
+          "start_offset": 0,
+          "end_offset": 4,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 0,
+      "total": 1
+    },
+    {
+      "text": "関連記事ピンク色の芝生!? 「富士芝桜まつり」の富士山と芝桜の すばらしい景色（2020）山梨県東京から日帰り(one day trip)で行く「筑波山」で すばらしい景色を見ましょう茨城県",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "色",
+          "reading": "いろ"
+        },
+        {
+          "surface": "芝生",
+          "reading": "しばふ"
+        },
+        {
+          "surface": "富士",
+          "reading": "ふじ"
+        },
+        {
+          "surface": "芝桜",
+          "reading": "しばざくら"
+        },
+        {
+          "surface": "富士山",
+          "reading": "ふじさん"
+        },
+        {
+          "surface": "芝桜",
+          "reading": "しばざくら"
+        },
+        {
+          "surface": "景色",
+          "reading": "けしき"
+        },
+        {
+          "surface": "東京",
+          "reading": "とうきょう"
+        },
+        {
+          "surface": "日帰",
+          "reading": "ひがえ"
+        },
+        {
+          "surface": "行",
+          "reading": "い"
+        },
+        {
+          "surface": "筑波山",
+          "reading": "つくばさん"
+        },
+        {
+          "surface": "景色",
+          "reading": "けしき"
+        },
+        {
+          "surface": "見",
+          "reading": "み"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "色",
+          "reading": "いろ",
+          "start_offset": 7,
+          "end_offset": 8,
+          "confidence": 0.95
+        },
+        {
+          "surface": "芝生",
+          "reading": "しばふ",
+          "start_offset": 9,
+          "end_offset": 11,
+          "confidence": 0.95
+        },
+        {
+          "surface": "富士",
+          "reading": "ふじ",
+          "start_offset": 15,
+          "end_offset": 17,
+          "confidence": 0.95
+        },
+        {
+          "surface": "芝桜",
+          "reading": "しばざくら",
+          "start_offset": 17,
+          "end_offset": 19,
+          "confidence": 0.95
+        },
+        {
+          "surface": "富士山",
+          "reading": "ふじさん",
+          "start_offset": 24,
+          "end_offset": 27,
+          "confidence": 0.95
+        },
+        {
+          "surface": "芝桜",
+          "reading": "しばざくら",
+          "start_offset": 28,
+          "end_offset": 30,
+          "confidence": 0.95
+        },
+        {
+          "surface": "景色",
+          "reading": "けしき",
+          "start_offset": 37,
+          "end_offset": 39,
+          "confidence": 0.95
+        },
+        {
+          "surface": "山梨県東京",
+          "reading": "とうきょう",
+          "start_offset": 45,
+          "end_offset": 50,
+          "confidence": 0.95
+        },
+        {
+          "surface": "日帰",
+          "reading": "ひがえ",
+          "start_offset": 52,
+          "end_offset": 54,
+          "confidence": 0.95
+        },
+        {
+          "surface": "行",
+          "reading": "い",
+          "start_offset": 70,
+          "end_offset": 71,
+          "confidence": 0.95
+        },
+        {
+          "surface": "筑波山",
+          "reading": "つくばさん",
+          "start_offset": 73,
+          "end_offset": 76,
+          "confidence": 0.95
+        },
+        {
+          "surface": "景色",
+          "reading": "けしき",
+          "start_offset": 84,
+          "end_offset": 86,
+          "confidence": 0.95
+        },
+        {
+          "surface": "見",
+          "reading": "み",
+          "start_offset": 87,
+          "end_offset": 88,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 12,
+      "total": 13
+    },
+    {
+      "text": "ピンク色の芝生!? 「富士芝桜まつり」の富士山と芝桜の すばらしい景色（2020）山梨県",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "色",
+          "reading": "いろ"
+        },
+        {
+          "surface": "芝生",
+          "reading": "しばふ"
+        },
+        {
+          "surface": "富士",
+          "reading": "ふじ"
+        },
+        {
+          "surface": "芝桜",
+          "reading": "しばざくら"
+        },
+        {
+          "surface": "富士山",
+          "reading": "ふじさん"
+        },
+        {
+          "surface": "芝桜",
+          "reading": "しばざくら"
+        },
+        {
+          "surface": "景色",
+          "reading": "けしき"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "色",
+          "reading": "いろ",
+          "start_offset": 3,
+          "end_offset": 4,
+          "confidence": 0.95
+        },
+        {
+          "surface": "芝生",
+          "reading": "しばふ",
+          "start_offset": 5,
+          "end_offset": 7,
+          "confidence": 0.95
+        },
+        {
+          "surface": "富士",
+          "reading": "ふじ",
+          "start_offset": 11,
+          "end_offset": 13,
+          "confidence": 0.95
+        },
+        {
+          "surface": "芝桜",
+          "reading": "しばざくら",
+          "start_offset": 13,
+          "end_offset": 15,
+          "confidence": 0.95
+        },
+        {
+          "surface": "富士山",
+          "reading": "ふじさん",
+          "start_offset": 20,
+          "end_offset": 23,
+          "confidence": 0.95
+        },
+        {
+          "surface": "景色",
+          "reading": "けしき",
+          "start_offset": 33,
+          "end_offset": 35,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 7,
+      "total": 7
+    },
+    {
+      "text": "東京から日帰り(one day trip)で行く「筑波山」で すばらしい景色を見ましょう茨城県",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "東京",
+          "reading": "とうきょう"
+        },
+        {
+          "surface": "日帰",
+          "reading": "ひがえ"
+        },
+        {
+          "surface": "行",
+          "reading": "い"
+        },
+        {
+          "surface": "筑波山",
+          "reading": "つくばさん"
+        },
+        {
+          "surface": "景色",
+          "reading": "けしき"
+        },
+        {
+          "surface": "見",
+          "reading": "み"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "東京",
+          "reading": "とうきょう",
+          "start_offset": 0,
+          "end_offset": 2,
+          "confidence": 0.95
+        },
+        {
+          "surface": "日帰",
+          "reading": "ひがえ",
+          "start_offset": 4,
+          "end_offset": 6,
+          "confidence": 0.95
+        },
+        {
+          "surface": "行",
+          "reading": "い",
+          "start_offset": 22,
+          "end_offset": 23,
+          "confidence": 0.95
+        },
+        {
+          "surface": "筑波山",
+          "reading": "つくばさん",
+          "start_offset": 25,
+          "end_offset": 28,
+          "confidence": 0.95
+        },
+        {
+          "surface": "景色",
+          "reading": "けしき",
+          "start_offset": 36,
+          "end_offset": 38,
+          "confidence": 0.95
+        },
+        {
+          "surface": "見",
+          "reading": "み",
+          "start_offset": 39,
+          "end_offset": 40,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 6,
+      "total": 6
+    },
+    {
+      "text": "MATCHA山梨県観光ガイド富士山・桜・五重塔ぜんぶ一緒に見ることが できる“The Japan”な場所「忠霊塔」",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "富士山",
+          "reading": "ふじさん"
+        },
+        {
+          "surface": "桜",
+          "reading": "さくら"
+        },
+        {
+          "surface": "五重塔",
+          "reading": "ごじゅうのとう"
+        },
+        {
+          "surface": "一緒",
+          "reading": "いっしょ"
+        },
+        {
+          "surface": "見",
+          "reading": "み"
+        },
+        {
+          "surface": "場所",
+          "reading": "ばしょ"
+        },
+        {
+          "surface": "忠霊塔",
+          "reading": "ちゅうれいとう"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "富士山",
+          "reading": "ふじさん",
+          "start_offset": 14,
+          "end_offset": 17,
+          "confidence": 0.95
+        },
+        {
+          "surface": "桜",
+          "reading": "さくら",
+          "start_offset": 18,
+          "end_offset": 19,
+          "confidence": 0.95
+        },
+        {
+          "surface": "五重塔",
+          "reading": "ごじゅうのとう",
+          "start_offset": 20,
+          "end_offset": 23,
+          "confidence": 0.95
+        },
+        {
+          "surface": "一緒",
+          "reading": "いっしょ",
+          "start_offset": 26,
+          "end_offset": 28,
+          "confidence": 0.95
+        },
+        {
+          "surface": "見",
+          "reading": "み",
+          "start_offset": 29,
+          "end_offset": 30,
+          "confidence": 0.95
+        },
+        {
+          "surface": "場所",
+          "reading": "ばしょ",
+          "start_offset": 50,
+          "end_offset": 52,
+          "confidence": 0.95
+        },
+        {
+          "surface": "忠霊塔",
+          "reading": "ちゅうれいとう",
+          "start_offset": 53,
+          "end_offset": 56,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 7,
+      "total": 7
+    },
+    {
+      "text": "やさしい日本語の音声(voice)がダウンロードできる「聴く MATCHA やさしい日本語」が始まりました！2020.07.17",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "surface": "音声",
+          "reading": "おんせい"
+        },
+        {
+          "surface": "ダウンロード",
+          "reading": "download"
+        },
+        {
+          "surface": "聴",
+          "reading": "き"
+        },
+        {
+          "surface": "日本語",
+          "reading": "にほんご"
+        },
+        {
+          "surface": "始",
+          "reading": "はじ"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "日本語",
+          "reading": "にほんご",
+          "start_offset": 4,
+          "end_offset": 7,
+          "confidence": 0.95
+        },
+        {
+          "surface": "音声",
+          "reading": "おんせい",
+          "start_offset": 8,
+          "end_offset": 10,
+          "confidence": 0.95
+        },
+        {
+          "surface": "聴",
+          "reading": "き",
+          "start_offset": 28,
+          "end_offset": 29,
+          "confidence": 0.95
+        },
+        {
+          "surface": "始",
+          "reading": "はじ",
+          "start_offset": 47,
+          "end_offset": 48,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 5,
+      "total": 6
+    },
+    {
+      "text": "ランキングMore.日本へ来る前に知っておきたい日本の食事のマナー7つ食（FOOD）東京から大阪まで時間・お金は どのぐらい かかる？",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "日本",
+          "reading": "にほん"
+        },
+        {
+          "surface": "来",
+          "reading": "く"
+        },
+        {
+          "surface": "前",
+          "reading": "まえ"
+        },
+        {
+          "surface": "知",
+          "reading": "し"
+        },
+        {
+          "surface": "日本",
+          "reading": "にほん"
+        },
+        {
+          "surface": "食事",
+          "reading": "しょくじ"
+        },
+        {
+          "surface": "マナー",
+          "reading": "manner"
+        },
+        {
+          "surface": "東京",
+          "reading": "とうきょう"
+        },
+        {
+          "surface": "大阪",
+          "reading": "おおさか"
+        },
+        {
+          "surface": "時間",
+          "reading": "じかん"
+        },
+        {
+          "surface": "金",
+          "reading": "かね"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "日本",
+          "reading": "にほん",
+          "start_offset": 10,
+          "end_offset": 12,
+          "confidence": 0.95
+        },
+        {
+          "surface": "来",
+          "reading": "く",
+          "start_offset": 13,
+          "end_offset": 14,
+          "confidence": 0.95
+        },
+        {
+          "surface": "前",
+          "reading": "まえ",
+          "start_offset": 15,
+          "end_offset": 16,
+          "confidence": 0.95
+        },
+        {
+          "surface": "知",
+          "reading": "し",
+          "start_offset": 17,
+          "end_offset": 18,
+          "confidence": 0.95
+        },
+        {
+          "surface": "日本",
+          "reading": "にほん",
+          "start_offset": 24,
+          "end_offset": 26,
+          "confidence": 0.95
+        },
+        {
+          "surface": "食事",
+          "reading": "しょくじ",
+          "start_offset": 27,
+          "end_offset": 29,
+          "confidence": 0.95
+        },
+        {
+          "surface": "東京",
+          "reading": "とうきょう",
+          "start_offset": 42,
+          "end_offset": 44,
+          "confidence": 0.95
+        },
+        {
+          "surface": "大阪",
+          "reading": "おおさか",
+          "start_offset": 46,
+          "end_offset": 48,
+          "confidence": 0.95
+        },
+        {
+          "surface": "時間",
+          "reading": "じかん",
+          "start_offset": 50,
+          "end_offset": 52,
+          "confidence": 0.95
+        },
+        {
+          "surface": "金",
+          "reading": "かね",
+          "start_offset": 54,
+          "end_offset": 55,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 10,
+      "total": 11
+    },
+    {
+      "text": "比べました！",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "比",
+          "reading": "くら"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "比",
+          "reading": "くら",
+          "start_offset": 0,
+          "end_offset": 1,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 1,
+      "total": 1
+    },
+    {
+      "text": "大阪府お正月の おせち料理は どんな食べ物ですか食（FOOD）こんなときどうする？",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "正月",
+          "reading": "しょうがつ"
+        },
+        {
+          "surface": "料理",
+          "reading": "りょうり"
+        },
+        {
+          "surface": "食",
+          "reading": "た"
+        },
+        {
+          "surface": "物",
+          "reading": "もの"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "正月",
+          "reading": "しょうがつ",
+          "start_offset": 4,
+          "end_offset": 6,
+          "confidence": 0.95
+        },
+        {
+          "surface": "料理",
+          "reading": "りょうり",
+          "start_offset": 11,
+          "end_offset": 13,
+          "confidence": 0.95
+        },
+        {
+          "surface": "食",
+          "reading": "た",
+          "start_offset": 18,
+          "end_offset": 19,
+          "confidence": 0.95
+        },
+        {
+          "surface": "物",
+          "reading": "もの",
+          "start_offset": 20,
+          "end_offset": 21,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 4,
+      "total": 4
+    },
+    {
+      "text": "「たたみの へやに はいるとき」ことばJR渋谷駅のホームから改札(ハチ公・中央・南・新南)へのアクセス東京都",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "渋谷駅",
+          "reading": "しぶやえき"
+        },
+        {
+          "surface": "改札",
+          "reading": "かいさつ"
+        },
+        {
+          "surface": "公",
+          "reading": "こう"
+        },
+        {
+          "surface": "中央",
+          "reading": "ちゅうおう"
+        },
+        {
+          "surface": "南",
+          "reading": "みなみ"
+        },
+        {
+          "surface": "新南",
+          "reading": "しんみなみ"
+        },
+        {
+          "surface": "アクセス",
+          "reading": "access"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "渋谷駅",
+          "reading": "しぶやえき",
+          "start_offset": 21,
+          "end_offset": 24,
+          "confidence": 0.95
+        },
+        {
+          "surface": "改札",
+          "reading": "かいさつ",
+          "start_offset": 30,
+          "end_offset": 32,
+          "confidence": 0.95
+        },
+        {
+          "surface": "公",
+          "reading": "こう",
+          "start_offset": 35,
+          "end_offset": 36,
+          "confidence": 0.95
+        },
+        {
+          "surface": "中央",
+          "reading": "ちゅうおう",
+          "start_offset": 37,
+          "end_offset": 39,
+          "confidence": 0.95
+        },
+        {
+          "surface": "南",
+          "reading": "みなみ",
+          "start_offset": 40,
+          "end_offset": 41,
+          "confidence": 0.95
+        },
+        {
+          "surface": "新南",
+          "reading": "しんみなみ",
+          "start_offset": 42,
+          "end_offset": 44,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 6,
+      "total": 7
+    },
+    {
+      "text": "日本へ来る前に知っておきたい日本の食事のマナー7つ食（FOOD）",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "日本",
+          "reading": "にほん"
+        },
+        {
+          "surface": "来",
+          "reading": "く"
+        },
+        {
+          "surface": "前",
+          "reading": "まえ"
+        },
+        {
+          "surface": "知",
+          "reading": "し"
+        },
+        {
+          "surface": "日本",
+          "reading": "にほん"
+        },
+        {
+          "surface": "食事",
+          "reading": "しょくじ"
+        },
+        {
+          "surface": "マナー",
+          "reading": "manner"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "日本",
+          "reading": "にほん",
+          "start_offset": 0,
+          "end_offset": 2,
+          "confidence": 0.95
+        },
+        {
+          "surface": "来",
+          "reading": "く",
+          "start_offset": 3,
+          "end_offset": 4,
+          "confidence": 0.95
+        },
+        {
+          "surface": "前",
+          "reading": "まえ",
+          "start_offset": 5,
+          "end_offset": 6,
+          "confidence": 0.95
+        },
+        {
+          "surface": "知",
+          "reading": "し",
+          "start_offset": 7,
+          "end_offset": 8,
+          "confidence": 0.95
+        },
+        {
+          "surface": "日本",
+          "reading": "にほん",
+          "start_offset": 14,
+          "end_offset": 16,
+          "confidence": 0.95
+        },
+        {
+          "surface": "食事",
+          "reading": "しょくじ",
+          "start_offset": 17,
+          "end_offset": 19,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 6,
+      "total": 7
+    },
+    {
+      "text": "東京から大阪まで時間・お金は どのぐらい かかる？比べました！大阪府",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "東京",
+          "reading": "とうきょう"
+        },
+        {
+          "surface": "大阪",
+          "reading": "おおさか"
+        },
+        {
+          "surface": "時間",
+          "reading": "じかん"
+        },
+        {
+          "surface": "金",
+          "reading": "かね"
+        },
+        {
+          "surface": "比",
+          "reading": "くら"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "東京",
+          "reading": "とうきょう",
+          "start_offset": 0,
+          "end_offset": 2,
+          "confidence": 0.95
+        },
+        {
+          "surface": "大阪",
+          "reading": "おおさか",
+          "start_offset": 4,
+          "end_offset": 6,
+          "confidence": 0.95
+        },
+        {
+          "surface": "時間",
+          "reading": "じかん",
+          "start_offset": 8,
+          "end_offset": 10,
+          "confidence": 0.95
+        },
+        {
+          "surface": "金",
+          "reading": "かね",
+          "start_offset": 12,
+          "end_offset": 13,
+          "confidence": 0.95
+        },
+        {
+          "surface": "比",
+          "reading": "くら",
+          "start_offset": 25,
+          "end_offset": 26,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 5,
+      "total": 5
+    },
+    {
+      "text": "お正月の おせち料理は どんな食べ物ですか食（FOOD）",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "正月",
+          "reading": "しょうがつ"
+        },
+        {
+          "surface": "料理",
+          "reading": "りょうり"
+        },
+        {
+          "surface": "食",
+          "reading": "た"
+        },
+        {
+          "surface": "物",
+          "reading": "もの"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "正月",
+          "reading": "しょうがつ",
+          "start_offset": 1,
+          "end_offset": 3,
+          "confidence": 0.95
+        },
+        {
+          "surface": "料理",
+          "reading": "りょうり",
+          "start_offset": 8,
+          "end_offset": 10,
+          "confidence": 0.95
+        },
+        {
+          "surface": "食",
+          "reading": "た",
+          "start_offset": 15,
+          "end_offset": 16,
+          "confidence": 0.95
+        },
+        {
+          "surface": "物",
+          "reading": "もの",
+          "start_offset": 17,
+          "end_offset": 18,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 4,
+      "total": 4
+    },
+    {
+      "text": "JR渋谷駅のホームから改札(ハチ公・中央・南・新南)へのアクセス東京都",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "渋谷駅",
+          "reading": "しぶやえき"
+        },
+        {
+          "surface": "改札",
+          "reading": "かいさつ"
+        },
+        {
+          "surface": "公",
+          "reading": "こう"
+        },
+        {
+          "surface": "中央",
+          "reading": "ちゅうおう"
+        },
+        {
+          "surface": "南",
+          "reading": "みなみ"
+        },
+        {
+          "surface": "新南",
+          "reading": "しんみなみ"
+        },
+        {
+          "surface": "アクセス",
+          "reading": "access"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "渋谷駅",
+          "reading": "しぶやえき",
+          "start_offset": 2,
+          "end_offset": 5,
+          "confidence": 0.95
+        },
+        {
+          "surface": "改札",
+          "reading": "かいさつ",
+          "start_offset": 11,
+          "end_offset": 13,
+          "confidence": 0.95
+        },
+        {
+          "surface": "公",
+          "reading": "こう",
+          "start_offset": 16,
+          "end_offset": 17,
+          "confidence": 0.95
+        },
+        {
+          "surface": "中央",
+          "reading": "ちゅうおう",
+          "start_offset": 18,
+          "end_offset": 20,
+          "confidence": 0.95
+        },
+        {
+          "surface": "南",
+          "reading": "みなみ",
+          "start_offset": 21,
+          "end_offset": 22,
+          "confidence": 0.95
+        },
+        {
+          "surface": "新南",
+          "reading": "しんみなみ",
+          "start_offset": 23,
+          "end_offset": 25,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 6,
+      "total": 7
+    },
+    {
+      "text": "新着More.JR渋谷駅のホームから改札(ハチ公・中央・南・新南)へのアクセス東京都3日間で 300万人が訪れる人気の お寺・神奈川「川崎大師」神奈川県太宰府天満宮・博多ラーメンなど福岡を2日で楽しむルート福岡県富士山や北海道の紅葉も！",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "渋谷駅",
+          "reading": "しぶやえき"
+        },
+        {
+          "surface": "改札",
+          "reading": "かいさつ"
+        },
+        {
+          "surface": "公",
+          "reading": "こう"
+        },
+        {
+          "surface": "中央",
+          "reading": "ちゅうおう"
+        },
+        {
+          "surface": "南",
+          "reading": "みなみ"
+        },
+        {
+          "surface": "新南",
+          "reading": "しんみなみ"
+        },
+        {
+          "surface": "アクセス",
+          "reading": "access"
+        },
+        {
+          "surface": "3日間",
+          "reading": "みっかかん"
+        },
+        {
+          "surface": "万人",
+          "reading": "まんにん"
+        },
+        {
+          "surface": "訪",
+          "reading": "おとず"
+        },
+        {
+          "surface": "人気",
+          "reading": "にんき"
+        },
+        {
+          "surface": "寺",
+          "reading": "てら"
+        },
+        {
+          "surface": "神奈川",
+          "reading": "かながわ"
+        },
+        {
+          "surface": "川崎",
+          "reading": "かわさき"
+        },
+        {
+          "surface": "大師",
+          "reading": "だいし"
+        },
+        {
+          "surface": "太宰府天満宮",
+          "reading": "だざいふてんまんぐう"
+        },
+        {
+          "surface": "博多",
+          "reading": "はかた"
+        },
+        {
+          "surface": "福岡",
+          "reading": "ふくおか"
+        },
+        {
+          "surface": "2日",
+          "reading": "ふつか"
+        },
+        {
+          "surface": "楽",
+          "reading": "たの"
+        },
+        {
+          "surface": "ルート",
+          "reading": "route"
+        },
+        {
+          "surface": "富士山",
+          "reading": "ふじさん"
+        },
+        {
+          "surface": "北海道",
+          "reading": "ほっかいどう"
+        },
+        {
+          "surface": "紅葉",
+          "reading": "こうよう"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "渋谷駅",
+          "reading": "しぶやえき",
+          "start_offset": 9,
+          "end_offset": 12,
+          "confidence": 0.95
+        },
+        {
+          "surface": "改札",
+          "reading": "かいさつ",
+          "start_offset": 18,
+          "end_offset": 20,
+          "confidence": 0.95
+        },
+        {
+          "surface": "公",
+          "reading": "こう",
+          "start_offset": 23,
+          "end_offset": 24,
+          "confidence": 0.95
+        },
+        {
+          "surface": "中央",
+          "reading": "ちゅうおう",
+          "start_offset": 25,
+          "end_offset": 27,
+          "confidence": 0.95
+        },
+        {
+          "surface": "南",
+          "reading": "みなみ",
+          "start_offset": 28,
+          "end_offset": 29,
+          "confidence": 0.95
+        },
+        {
+          "surface": "新南",
+          "reading": "しんみなみ",
+          "start_offset": 30,
+          "end_offset": 32,
+          "confidence": 0.95
+        },
+        {
+          "surface": "東京都3日間",
+          "reading": "みっかかん",
+          "start_offset": 39,
+          "end_offset": 45,
+          "confidence": 0.95
+        },
+        {
+          "surface": "300万人",
+          "reading": "まんにん",
+          "start_offset": 47,
+          "end_offset": 52,
+          "confidence": 0.95
+        },
+        {
+          "surface": "訪",
+          "reading": "おとず",
+          "start_offset": 53,
+          "end_offset": 54,
+          "confidence": 0.95
+        },
+        {
+          "surface": "人気",
+          "reading": "にんき",
+          "start_offset": 56,
+          "end_offset": 58,
+          "confidence": 0.95
+        },
+        {
+          "surface": "寺",
+          "reading": "てら",
+          "start_offset": 61,
+          "end_offset": 62,
+          "confidence": 0.95
+        },
+        {
+          "surface": "川崎",
+          "reading": "かわさき",
+          "start_offset": 67,
+          "end_offset": 69,
+          "confidence": 0.95
+        },
+        {
+          "surface": "大師",
+          "reading": "だいし",
+          "start_offset": 69,
+          "end_offset": 71,
+          "confidence": 0.95
+        },
+        {
+          "surface": "神奈川県太宰府天満宮",
+          "reading": "だざいふてんまんぐう",
+          "start_offset": 72,
+          "end_offset": 82,
+          "confidence": 0.95
+        },
+        {
+          "surface": "博多",
+          "reading": "はかた",
+          "start_offset": 83,
+          "end_offset": 85,
+          "confidence": 0.95
+        },
+        {
+          "surface": "福岡",
+          "reading": "ふくおか",
+          "start_offset": 91,
+          "end_offset": 93,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 13,
+      "total": 24
+    },
+    {
+      "text": "日本の 8つの紅葉ツアー観光（THINGS TO DO）福岡に近い温泉「別府」と「由布院」いきかた・オススメの温泉旅館大分県",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "日本",
+          "reading": "にほん"
+        },
+        {
+          "surface": "紅葉",
+          "reading": "こうよう"
+        },
+        {
+          "surface": "ツアー",
+          "reading": "tour"
+        },
+        {
+          "surface": "福岡",
+          "reading": "ふくおか"
+        },
+        {
+          "surface": "近",
+          "reading": "ちか"
+        },
+        {
+          "surface": "温泉",
+          "reading": "おんせん"
+        },
+        {
+          "surface": "別府",
+          "reading": "べっぷ"
+        },
+        {
+          "surface": "由布院",
+          "reading": "ゆふいん"
+        },
+        {
+          "surface": "オススメ",
+          "reading": "recommended"
+        },
+        {
+          "surface": "温泉旅館",
+          "reading": "おんせんりょかん"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "日本",
+          "reading": "にほん",
+          "start_offset": 0,
+          "end_offset": 2,
+          "confidence": 0.95
+        },
+        {
+          "surface": "紅葉",
+          "reading": "こうよう",
+          "start_offset": 7,
+          "end_offset": 9,
+          "confidence": 0.95
+        },
+        {
+          "surface": "福岡",
+          "reading": "ふくおか",
+          "start_offset": 28,
+          "end_offset": 30,
+          "confidence": 0.95
+        },
+        {
+          "surface": "近",
+          "reading": "ちか",
+          "start_offset": 31,
+          "end_offset": 32,
+          "confidence": 0.95
+        },
+        {
+          "surface": "温泉",
+          "reading": "おんせん",
+          "start_offset": 33,
+          "end_offset": 35,
+          "confidence": 0.95
+        },
+        {
+          "surface": "別府",
+          "reading": "べっぷ",
+          "start_offset": 36,
+          "end_offset": 38,
+          "confidence": 0.95
+        },
+        {
+          "surface": "由布院",
+          "reading": "ゆふいん",
+          "start_offset": 41,
+          "end_offset": 44,
+          "confidence": 0.95
+        },
+        {
+          "surface": "温泉旅館",
+          "reading": "おんせんりょかん",
+          "start_offset": 55,
+          "end_offset": 59,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 8,
+      "total": 10
+    },
+    {
+      "text": "3日間で 300万人が訪れる人気の お寺・神奈川「川崎大師」神奈川県",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "3日間",
+          "reading": "みっかかん"
+        },
+        {
+          "surface": "万人",
+          "reading": "まんにん"
+        },
+        {
+          "surface": "訪",
+          "reading": "おとず"
+        },
+        {
+          "surface": "人気",
+          "reading": "にんき"
+        },
+        {
+          "surface": "寺",
+          "reading": "てら"
+        },
+        {
+          "surface": "神奈川",
+          "reading": "かながわ"
+        },
+        {
+          "surface": "川崎",
+          "reading": "かわさき"
+        },
+        {
+          "surface": "大師",
+          "reading": "だいし"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "3日間",
+          "reading": "みっかかん",
+          "start_offset": 0,
+          "end_offset": 3,
+          "confidence": 0.95
+        },
+        {
+          "surface": "300万人",
+          "reading": "まんにん",
+          "start_offset": 5,
+          "end_offset": 10,
+          "confidence": 0.95
+        },
+        {
+          "surface": "訪",
+          "reading": "おとず",
+          "start_offset": 11,
+          "end_offset": 12,
+          "confidence": 0.95
+        },
+        {
+          "surface": "人気",
+          "reading": "にんき",
+          "start_offset": 14,
+          "end_offset": 16,
+          "confidence": 0.95
+        },
+        {
+          "surface": "寺",
+          "reading": "てら",
+          "start_offset": 19,
+          "end_offset": 20,
+          "confidence": 0.95
+        },
+        {
+          "surface": "神奈川",
+          "reading": "かながわ",
+          "start_offset": 21,
+          "end_offset": 24,
+          "confidence": 0.95
+        },
+        {
+          "surface": "川崎",
+          "reading": "かわさき",
+          "start_offset": 25,
+          "end_offset": 27,
+          "confidence": 0.95
+        },
+        {
+          "surface": "大師",
+          "reading": "だいし",
+          "start_offset": 27,
+          "end_offset": 29,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 7,
+      "total": 8
+    },
+    {
+      "text": "太宰府天満宮・博多ラーメンなど福岡を2日で楽しむルート福岡県",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "太宰府天満宮",
+          "reading": "だざいふてんまんぐう"
+        },
+        {
+          "surface": "博多",
+          "reading": "はかた"
+        },
+        {
+          "surface": "福岡",
+          "reading": "ふくおか"
+        },
+        {
+          "surface": "2日",
+          "reading": "ふつか"
+        },
+        {
+          "surface": "楽",
+          "reading": "たの"
+        },
+        {
+          "surface": "ルート",
+          "reading": "route"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "太宰府天満宮",
+          "reading": "だざいふてんまんぐう",
+          "start_offset": 0,
+          "end_offset": 6,
+          "confidence": 0.95
+        },
+        {
+          "surface": "博多",
+          "reading": "はかた",
+          "start_offset": 7,
+          "end_offset": 9,
+          "confidence": 0.95
+        },
+        {
+          "surface": "福岡",
+          "reading": "ふくおか",
+          "start_offset": 15,
+          "end_offset": 17,
+          "confidence": 0.95
+        },
+        {
+          "surface": "2日",
+          "reading": "ふつか",
+          "start_offset": 18,
+          "end_offset": 20,
+          "confidence": 0.95
+        },
+        {
+          "surface": "楽",
+          "reading": "たの",
+          "start_offset": 21,
+          "end_offset": 22,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 5,
+      "total": 6
+    },
+    {
+      "text": "富士山や北海道の紅葉も！日本の 8つの紅葉ツアー観光（THINGS TO DO）",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "富士山",
+          "reading": "ふじさん"
+        },
+        {
+          "surface": "北海道",
+          "reading": "ほっかいどう"
+        },
+        {
+          "surface": "紅葉",
+          "reading": "こうよう"
+        },
+        {
+          "surface": "日本",
+          "reading": "にほん"
+        },
+        {
+          "surface": "紅葉",
+          "reading": "こうよう"
+        },
+        {
+          "surface": "ツアー",
+          "reading": "tour"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "富士山",
+          "reading": "ふじさん",
+          "start_offset": 0,
+          "end_offset": 3,
+          "confidence": 0.95
+        },
+        {
+          "surface": "北海道",
+          "reading": "ほっかいどう",
+          "start_offset": 4,
+          "end_offset": 7,
+          "confidence": 0.95
+        },
+        {
+          "surface": "紅葉",
+          "reading": "こうよう",
+          "start_offset": 8,
+          "end_offset": 10,
+          "confidence": 0.95
+        },
+        {
+          "surface": "日本",
+          "reading": "にほん",
+          "start_offset": 12,
+          "end_offset": 14,
+          "confidence": 0.95
+        },
+        {
+          "surface": "紅葉",
+          "reading": "こうよう",
+          "start_offset": 19,
+          "end_offset": 21,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 5,
+      "total": 6
+    },
+    {
+      "text": "福岡に近い温泉「別府」と「由布院」いきかた・オススメの温泉旅館大分県",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "福岡",
+          "reading": "ふくおか"
+        },
+        {
+          "surface": "近",
+          "reading": "ちか"
+        },
+        {
+          "surface": "温泉",
+          "reading": "おんせん"
+        },
+        {
+          "surface": "別府",
+          "reading": "べっぷ"
+        },
+        {
+          "surface": "由布院",
+          "reading": "ゆふいん"
+        },
+        {
+          "surface": "オススメ",
+          "reading": "recommended"
+        },
+        {
+          "surface": "温泉旅館",
+          "reading": "おんせんりょかん"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "福岡",
+          "reading": "ふくおか",
+          "start_offset": 0,
+          "end_offset": 2,
+          "confidence": 0.95
+        },
+        {
+          "surface": "近",
+          "reading": "ちか",
+          "start_offset": 3,
+          "end_offset": 4,
+          "confidence": 0.95
+        },
+        {
+          "surface": "温泉",
+          "reading": "おんせん",
+          "start_offset": 5,
+          "end_offset": 7,
+          "confidence": 0.95
+        },
+        {
+          "surface": "別府",
+          "reading": "べっぷ",
+          "start_offset": 8,
+          "end_offset": 10,
+          "confidence": 0.95
+        },
+        {
+          "surface": "温泉旅館",
+          "reading": "おんせんりょかん",
+          "start_offset": 27,
+          "end_offset": 31,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 5,
+      "total": 7
+    },
+    {
+      "text": "人が住んでいる所に熊が来て大きい被害が出ています。",
+      "source": "nhk",
+      "ground_truth": [
+        {
+          "surface": "人",
+          "reading": "ひと"
+        },
+        {
+          "surface": "住",
+          "reading": "す"
+        },
+        {
+          "surface": "所",
+          "reading": "ところ"
+        },
+        {
+          "surface": "熊",
+          "reading": "くま"
+        },
+        {
+          "surface": "来",
+          "reading": "き"
+        },
+        {
+          "surface": "大",
+          "reading": "おお"
+        },
+        {
+          "surface": "被害",
+          "reading": "ひがい"
+        },
+        {
+          "surface": "出",
+          "reading": "で"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "人",
+          "reading": "ひと",
+          "start_offset": 0,
+          "end_offset": 1,
+          "confidence": 0.95
+        },
+        {
+          "surface": "住",
+          "reading": "す",
+          "start_offset": 2,
+          "end_offset": 3,
+          "confidence": 0.95
+        },
+        {
+          "surface": "所",
+          "reading": "ところ",
+          "start_offset": 7,
+          "end_offset": 8,
+          "confidence": 0.95
+        },
+        {
+          "surface": "熊",
+          "reading": "くま",
+          "start_offset": 9,
+          "end_offset": 10,
+          "confidence": 0.95
+        },
+        {
+          "surface": "来",
+          "reading": "き",
+          "start_offset": 11,
+          "end_offset": 12,
+          "confidence": 0.95
+        },
+        {
+          "surface": "大",
+          "reading": "おお",
+          "start_offset": 13,
+          "end_offset": 14,
+          "confidence": 0.95
+        },
+        {
+          "surface": "被害",
+          "reading": "ひがい",
+          "start_offset": 16,
+          "end_offset": 18,
+          "confidence": 0.95
+        },
+        {
+          "surface": "出",
+          "reading": "で",
+          "start_offset": 19,
+          "end_offset": 20,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 8,
+      "total": 8
+    },
+    {
+      "text": "国は、被害をなくすためにお金を使う予定です。",
+      "source": "nhk",
+      "ground_truth": [
+        {
+          "surface": "国",
+          "reading": "くに"
+        },
+        {
+          "surface": "被害",
+          "reading": "ひがい"
+        },
+        {
+          "surface": "金",
+          "reading": "かね"
+        },
+        {
+          "surface": "使",
+          "reading": "つか"
+        },
+        {
+          "surface": "予定",
+          "reading": "よてい"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "国",
+          "reading": "くに",
+          "start_offset": 0,
+          "end_offset": 1,
+          "confidence": 0.95
+        },
+        {
+          "surface": "被害",
+          "reading": "ひがい",
+          "start_offset": 3,
+          "end_offset": 5,
+          "confidence": 0.95
+        },
+        {
+          "surface": "金",
+          "reading": "かね",
+          "start_offset": 13,
+          "end_offset": 14,
+          "confidence": 0.95
+        },
+        {
+          "surface": "使",
+          "reading": "つか",
+          "start_offset": 15,
+          "end_offset": 16,
+          "confidence": 0.95
+        },
+        {
+          "surface": "予定",
+          "reading": "よてい",
+          "start_offset": 17,
+          "end_offset": 19,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 5,
+      "total": 5
+    },
+    {
+      "text": "今は、熊を銃で撃つ人が足りません。このため、前に警察や自衛隊にいた人などに銃を撃つ仕事を手伝ってもらおうと考えています。",
+      "source": "nhk",
+      "ground_truth": [
+        {
+          "surface": "今",
+          "reading": "いま"
+        },
+        {
+          "surface": "熊",
+          "reading": "くま"
+        },
+        {
+          "surface": "銃",
+          "reading": "じゅう"
+        },
+        {
+          "surface": "撃",
+          "reading": "う"
+        },
+        {
+          "surface": "人",
+          "reading": "ひと"
+        },
+        {
+          "surface": "足",
+          "reading": "た"
+        },
+        {
+          "surface": "前",
+          "reading": "まえ"
+        },
+        {
+          "surface": "警察",
+          "reading": "けいさつ"
+        },
+        {
+          "surface": "自衛隊",
+          "reading": "じえいたい"
+        },
+        {
+          "surface": "人",
+          "reading": "ひと"
+        },
+        {
+          "surface": "銃",
+          "reading": "じゅう"
+        },
+        {
+          "surface": "撃",
+          "reading": "う"
+        },
+        {
+          "surface": "仕事",
+          "reading": "しごと"
+        },
+        {
+          "surface": "手伝",
+          "reading": "てつだ"
+        },
+        {
+          "surface": "考",
+          "reading": "かんが"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "今",
+          "reading": "いま",
+          "start_offset": 0,
+          "end_offset": 1,
+          "confidence": 0.95
+        },
+        {
+          "surface": "熊",
+          "reading": "くま",
+          "start_offset": 3,
+          "end_offset": 4,
+          "confidence": 0.95
+        },
+        {
+          "surface": "銃",
+          "reading": "じゅう",
+          "start_offset": 5,
+          "end_offset": 6,
+          "confidence": 0.95
+        },
+        {
+          "surface": "撃",
+          "reading": "う",
+          "start_offset": 7,
+          "end_offset": 8,
+          "confidence": 0.95
+        },
+        {
+          "surface": "人",
+          "reading": "ひと",
+          "start_offset": 9,
+          "end_offset": 10,
+          "confidence": 0.95
+        },
+        {
+          "surface": "足",
+          "reading": "た",
+          "start_offset": 11,
+          "end_offset": 12,
+          "confidence": 0.95
+        },
+        {
+          "surface": "前",
+          "reading": "まえ",
+          "start_offset": 22,
+          "end_offset": 23,
+          "confidence": 0.95
+        },
+        {
+          "surface": "警察",
+          "reading": "けいさつ",
+          "start_offset": 24,
+          "end_offset": 26,
+          "confidence": 0.95
+        },
+        {
+          "surface": "自衛隊",
+          "reading": "じえいたい",
+          "start_offset": 27,
+          "end_offset": 30,
+          "confidence": 0.95
+        },
+        {
+          "surface": "人",
+          "reading": "ひと",
+          "start_offset": 33,
+          "end_offset": 34,
+          "confidence": 0.95
+        },
+        {
+          "surface": "銃",
+          "reading": "じゅう",
+          "start_offset": 37,
+          "end_offset": 38,
+          "confidence": 0.95
+        },
+        {
+          "surface": "撃",
+          "reading": "う",
+          "start_offset": 39,
+          "end_offset": 40,
+          "confidence": 0.95
+        },
+        {
+          "surface": "手伝",
+          "reading": "てつだ",
+          "start_offset": 44,
+          "end_offset": 46,
+          "confidence": 0.95
+        },
+        {
+          "surface": "考",
+          "reading": "かんが",
+          "start_offset": 53,
+          "end_offset": 54,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 14,
+      "total": 15
+    },
+    {
+      "text": "銃がもっと必要になります。撃つ人が着る服や道具も必要です。",
+      "source": "nhk",
+      "ground_truth": [
+        {
+          "surface": "銃",
+          "reading": "じゅう"
+        },
+        {
+          "surface": "必要",
+          "reading": "ひつよう"
+        },
+        {
+          "surface": "撃",
+          "reading": "う"
+        },
+        {
+          "surface": "人",
+          "reading": "ひと"
+        },
+        {
+          "surface": "着",
+          "reading": "き"
+        },
+        {
+          "surface": "服",
+          "reading": "ふく"
+        },
+        {
+          "surface": "道具",
+          "reading": "どうぐ"
+        },
+        {
+          "surface": "必要",
+          "reading": "ひつよう"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "銃",
+          "reading": "じゅう",
+          "start_offset": 0,
+          "end_offset": 1,
+          "confidence": 0.95
+        },
+        {
+          "surface": "必要",
+          "reading": "ひつよう",
+          "start_offset": 5,
+          "end_offset": 7,
+          "confidence": 0.95
+        },
+        {
+          "surface": "撃",
+          "reading": "う",
+          "start_offset": 13,
+          "end_offset": 14,
+          "confidence": 0.95
+        },
+        {
+          "surface": "人",
+          "reading": "ひと",
+          "start_offset": 15,
+          "end_offset": 16,
+          "confidence": 0.95
+        },
+        {
+          "surface": "着",
+          "reading": "き",
+          "start_offset": 17,
+          "end_offset": 18,
+          "confidence": 0.95
+        },
+        {
+          "surface": "服",
+          "reading": "ふく",
+          "start_offset": 19,
+          "end_offset": 20,
+          "confidence": 0.95
+        },
+        {
+          "surface": "道具",
+          "reading": "どうぐ",
+          "start_offset": 21,
+          "end_offset": 23,
+          "confidence": 0.95
+        },
+        {
+          "surface": "必要",
+          "reading": "ひつよう",
+          "start_offset": 24,
+          "end_offset": 26,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 8,
+      "total": 8
+    },
+    {
+      "text": "熊を捕まえる箱や、熊がこないように電気が流れる柵も準備します。",
+      "source": "nhk",
+      "ground_truth": [
+        {
+          "surface": "熊",
+          "reading": "くま"
+        },
+        {
+          "surface": "捕",
+          "reading": "つか"
+        },
+        {
+          "surface": "箱",
+          "reading": "はこ"
+        },
+        {
+          "surface": "熊",
+          "reading": "くま"
+        },
+        {
+          "surface": "電気",
+          "reading": "でんき"
+        },
+        {
+          "surface": "流",
+          "reading": "なが"
+        },
+        {
+          "surface": "柵",
+          "reading": "さく"
+        },
+        {
+          "surface": "準備",
+          "reading": "じゅんび"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "熊",
+          "reading": "くま",
+          "start_offset": 0,
+          "end_offset": 1,
+          "confidence": 0.95
+        },
+        {
+          "surface": "捕",
+          "reading": "つか",
+          "start_offset": 2,
+          "end_offset": 3,
+          "confidence": 0.95
+        },
+        {
+          "surface": "箱",
+          "reading": "はこ",
+          "start_offset": 6,
+          "end_offset": 7,
+          "confidence": 0.95
+        },
+        {
+          "surface": "熊",
+          "reading": "くま",
+          "start_offset": 9,
+          "end_offset": 10,
+          "confidence": 0.95
+        },
+        {
+          "surface": "電気",
+          "reading": "でんき",
+          "start_offset": 17,
+          "end_offset": 19,
+          "confidence": 0.95
+        },
+        {
+          "surface": "流",
+          "reading": "なが",
+          "start_offset": 20,
+          "end_offset": 21,
+          "confidence": 0.95
+        },
+        {
+          "surface": "柵",
+          "reading": "いせ",
+          "start_offset": 23,
+          "end_offset": 24,
+          "confidence": 0.95
+        },
+        {
+          "surface": "準備",
+          "reading": "じゅんび",
+          "start_offset": 25,
+          "end_offset": 27,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 7,
+      "total": 8
+    },
+    {
+      "text": "国は、熊と人が住む所を別々に分けたいと考えています。",
+      "source": "nhk",
+      "ground_truth": [
+        {
+          "surface": "国",
+          "reading": "くに"
+        },
+        {
+          "surface": "熊",
+          "reading": "くま"
+        },
+        {
+          "surface": "人",
+          "reading": "ひと"
+        },
+        {
+          "surface": "住",
+          "reading": "す"
+        },
+        {
+          "surface": "所",
+          "reading": "ところ"
+        },
+        {
+          "surface": "別々",
+          "reading": "べつべつ"
+        },
+        {
+          "surface": "分",
+          "reading": "わ"
+        },
+        {
+          "surface": "考",
+          "reading": "かんが"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "国",
+          "reading": "くに",
+          "start_offset": 0,
+          "end_offset": 1,
+          "confidence": 0.95
+        },
+        {
+          "surface": "熊",
+          "reading": "くま",
+          "start_offset": 3,
+          "end_offset": 4,
+          "confidence": 0.95
+        },
+        {
+          "surface": "人",
+          "reading": "ひと",
+          "start_offset": 5,
+          "end_offset": 6,
+          "confidence": 0.95
+        },
+        {
+          "surface": "住",
+          "reading": "す",
+          "start_offset": 7,
+          "end_offset": 8,
+          "confidence": 0.95
+        },
+        {
+          "surface": "所",
+          "reading": "ところ",
+          "start_offset": 9,
+          "end_offset": 10,
+          "confidence": 0.95
+        },
+        {
+          "surface": "一緒",
+          "reading": "いっしょ",
+          "start_offset": -1,
+          "end_offset": -1
+        },
+        {
+          "surface": "分",
+          "reading": "わ",
+          "start_offset": 14,
+          "end_offset": 15,
+          "confidence": 0.95
+        },
+        {
+          "surface": "考",
+          "reading": "かんが",
+          "start_offset": 19,
+          "end_offset": 20,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 7,
+      "total": 8
+    },
+    {
+      "text": "ポルトガルのリスボンで、ケーブルカーの事故がありました。この事故で15人が亡くなりました。",
+      "source": "nhk",
+      "ground_truth": [
+        {
+          "surface": "事故",
+          "reading": "じこ"
+        },
+        {
+          "surface": "事故",
+          "reading": "じこ"
+        },
+        {
+          "surface": "人",
+          "reading": "にん"
+        },
+        {
+          "surface": "亡",
+          "reading": "な"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "事故",
+          "reading": "じこ",
+          "start_offset": 19,
+          "end_offset": 21,
+          "confidence": 0.95
+        },
+        {
+          "surface": "事故",
+          "reading": "じこ",
+          "start_offset": 30,
+          "end_offset": 32,
+          "confidence": 0.95
+        },
+        {
+          "surface": "15人",
+          "reading": "にん",
+          "start_offset": 33,
+          "end_offset": 36,
+          "confidence": 0.95
+        },
+        {
+          "surface": "亡",
+          "reading": "な",
+          "start_offset": 37,
+          "end_offset": 38,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 3,
+      "total": 4
+    },
+    {
+      "text": "ケーブルカーは、急な坂の途中の建物の近くで大きく壊れています。",
+      "source": "nhk",
+      "ground_truth": [
+        {
+          "surface": "急",
+          "reading": "きゅう"
+        },
+        {
+          "surface": "坂",
+          "reading": "さか"
+        },
+        {
+          "surface": "途中",
+          "reading": "とちゅう"
+        },
+        {
+          "surface": "建物",
+          "reading": "たてもの"
+        },
+        {
+          "surface": "近",
+          "reading": "ちか"
+        },
+        {
+          "surface": "大",
+          "reading": "おお"
+        },
+        {
+          "surface": "壊",
+          "reading": "こわ"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "急",
+          "reading": "きゅう",
+          "start_offset": 8,
+          "end_offset": 9,
+          "confidence": 0.95
+        },
+        {
+          "surface": "坂",
+          "reading": "さか",
+          "start_offset": 10,
+          "end_offset": 11,
+          "confidence": 0.95
+        },
+        {
+          "surface": "途中",
+          "reading": "とちゅう",
+          "start_offset": 12,
+          "end_offset": 14,
+          "confidence": 0.95
+        },
+        {
+          "surface": "建物",
+          "reading": "たてもの",
+          "start_offset": 15,
+          "end_offset": 17,
+          "confidence": 0.95
+        },
+        {
+          "surface": "近",
+          "reading": "ちか",
+          "start_offset": 18,
+          "end_offset": 19,
+          "confidence": 0.95
+        },
+        {
+          "surface": "大",
+          "reading": "おお",
+          "start_offset": 21,
+          "end_offset": 22,
+          "confidence": 0.95
+        },
+        {
+          "surface": "壊",
+          "reading": "こわ",
+          "start_offset": 24,
+          "end_offset": 25,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 7,
+      "total": 7
+    },
+    {
+      "text": "ポルトガルのメディアによると、事故を見た人は「坂の上にあったケーブルカーが止まらなくなって、建物にぶつかった」と話しています。",
+      "source": "nhk",
+      "ground_truth": [
+        {
+          "surface": "事故",
+          "reading": "じこ"
+        },
+        {
+          "surface": "見",
+          "reading": "み"
+        },
+        {
+          "surface": "人",
+          "reading": "ひと"
+        },
+        {
+          "surface": "坂",
+          "reading": "さか"
+        },
+        {
+          "surface": "上",
+          "reading": "うえ"
+        },
+        {
+          "surface": "止",
+          "reading": "と"
+        },
+        {
+          "surface": "建物",
+          "reading": "たてもの"
+        },
+        {
+          "surface": "話",
+          "reading": "はな"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "事故",
+          "reading": "じこ",
+          "start_offset": 15,
+          "end_offset": 17,
+          "confidence": 0.95
+        },
+        {
+          "surface": "見",
+          "reading": "み",
+          "start_offset": 18,
+          "end_offset": 19,
+          "confidence": 0.95
+        },
+        {
+          "surface": "人",
+          "reading": "ひと",
+          "start_offset": 20,
+          "end_offset": 21,
+          "confidence": 0.95
+        },
+        {
+          "surface": "坂",
+          "reading": "さか",
+          "start_offset": 23,
+          "end_offset": 24,
+          "confidence": 0.95
+        },
+        {
+          "surface": "上",
+          "reading": "うえ",
+          "start_offset": 25,
+          "end_offset": 26,
+          "confidence": 0.95
+        },
+        {
+          "surface": "止",
+          "reading": "と",
+          "start_offset": 37,
+          "end_offset": 38,
+          "confidence": 0.95
+        },
+        {
+          "surface": "建物",
+          "reading": "たてもの",
+          "start_offset": 46,
+          "end_offset": 48,
+          "confidence": 0.95
+        },
+        {
+          "surface": "話",
+          "reading": "はな",
+          "start_offset": 56,
+          "end_offset": 57,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 8,
+      "total": 8
+    },
+    {
+      "text": "このケーブルカーは、1年に300万人が利用します。観光に来た人たちにも人気があると言われています。",
+      "source": "nhk",
+      "ground_truth": [
+        {
+          "surface": "年",
+          "reading": "ねん"
+        },
+        {
+          "surface": "万",
+          "reading": "まん"
+        },
+        {
+          "surface": "人",
+          "reading": "にん"
+        },
+        {
+          "surface": "利用",
+          "reading": "りよう"
+        },
+        {
+          "surface": "観光",
+          "reading": "かんこう"
+        },
+        {
+          "surface": "来",
+          "reading": "き"
+        },
+        {
+          "surface": "人",
+          "reading": "ひと"
+        },
+        {
+          "surface": "人気",
+          "reading": "にんき"
+        },
+        {
+          "surface": "言",
+          "reading": "い"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "1年",
+          "reading": "ねん",
+          "start_offset": 10,
+          "end_offset": 12,
+          "confidence": 0.95
+        },
+        {
+          "surface": "300万",
+          "reading": "まん",
+          "start_offset": 13,
+          "end_offset": 17,
+          "confidence": 0.95
+        },
+        {
+          "surface": "人",
+          "reading": "にん",
+          "start_offset": 17,
+          "end_offset": 18,
+          "confidence": 0.95
+        },
+        {
+          "surface": "利用",
+          "reading": "りよう",
+          "start_offset": 19,
+          "end_offset": 21,
+          "confidence": 0.95
+        },
+        {
+          "surface": "観光",
+          "reading": "かんこう",
+          "start_offset": 25,
+          "end_offset": 27,
+          "confidence": 0.95
+        },
+        {
+          "surface": "来",
+          "reading": "き",
+          "start_offset": 28,
+          "end_offset": 29,
+          "confidence": 0.95
+        },
+        {
+          "surface": "人",
+          "reading": "ひと",
+          "start_offset": 30,
+          "end_offset": 31,
+          "confidence": 0.95
+        },
+        {
+          "surface": "人気",
+          "reading": "にんき",
+          "start_offset": 35,
+          "end_offset": 37,
+          "confidence": 0.95
+        },
+        {
+          "surface": "言",
+          "reading": "い",
+          "start_offset": 41,
+          "end_offset": 42,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 7,
+      "total": 9
+    },
+    {
+      "text": "図書館では、いろいろな展示をしています。",
+      "source": "hirogaru",
+      "ground_truth": [
+        {
+          "surface": "図書館",
+          "reading": "としょかん"
+        },
+        {
+          "surface": "展示",
+          "reading": "てんじ"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "図書館",
+          "reading": "としょかん",
+          "start_offset": 0,
+          "end_offset": 3,
+          "confidence": 0.95
+        },
+        {
+          "surface": "展示",
+          "reading": "てんじ",
+          "start_offset": 11,
+          "end_offset": 13,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 2,
+      "total": 2
+    },
+    {
+      "text": "棚にある本は表紙が見えませんが、展示したら表紙が見えます。図書館に来る人は展示を見て、新しい情報を知ったり、興味を持ったりします。ですから、展示はとても大切です。",
+      "source": "hirogaru",
+      "ground_truth": [
+        {
+          "surface": "棚",
+          "reading": "たな"
+        },
+        {
+          "surface": "本",
+          "reading": "ほん"
+        },
+        {
+          "surface": "表紙",
+          "reading": "ひょうし"
+        },
+        {
+          "surface": "見",
+          "reading": "み"
+        },
+        {
+          "surface": "展示",
+          "reading": "てんじ"
+        },
+        {
+          "surface": "表紙",
+          "reading": "ひょうし"
+        },
+        {
+          "surface": "見",
+          "reading": "み"
+        },
+        {
+          "surface": "図書館",
+          "reading": "としょかん"
+        },
+        {
+          "surface": "来",
+          "reading": "く"
+        },
+        {
+          "surface": "人",
+          "reading": "ひと"
+        },
+        {
+          "surface": "展示",
+          "reading": "てんじ"
+        },
+        {
+          "surface": "見",
+          "reading": "み"
+        },
+        {
+          "surface": "新",
+          "reading": "あたら"
+        },
+        {
+          "surface": "情報",
+          "reading": "じょうほう"
+        },
+        {
+          "surface": "知",
+          "reading": "し"
+        },
+        {
+          "surface": "興味",
+          "reading": "きょうみ"
+        },
+        {
+          "surface": "持",
+          "reading": "も"
+        },
+        {
+          "surface": "展示",
+          "reading": "てんじ"
+        },
+        {
+          "surface": "大切",
+          "reading": "たいせつ"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "棚",
+          "reading": "たな",
+          "start_offset": 0,
+          "end_offset": 1,
+          "confidence": 0.95
+        },
+        {
+          "surface": "本",
+          "reading": "ほん",
+          "start_offset": 4,
+          "end_offset": 5,
+          "confidence": 0.95
+        },
+        {
+          "surface": "表紙",
+          "reading": "はんちょう",
+          "start_offset": 6,
+          "end_offset": 8,
+          "confidence": 0.95
+        },
+        {
+          "surface": "見",
+          "reading": "み",
+          "start_offset": 9,
+          "end_offset": 10,
+          "confidence": 0.95
+        },
+        {
+          "surface": "展示",
+          "reading": "てんじ",
+          "start_offset": 16,
+          "end_offset": 18,
+          "confidence": 0.95
+        },
+        {
+          "surface": "表紙",
+          "reading": "はんちょう",
+          "start_offset": 21,
+          "end_offset": 23,
+          "confidence": 0.95
+        },
+        {
+          "surface": "見",
+          "reading": "み",
+          "start_offset": 24,
+          "end_offset": 25,
+          "confidence": 0.95
+        },
+        {
+          "surface": "図書館",
+          "reading": "としょかん",
+          "start_offset": 29,
+          "end_offset": 32,
+          "confidence": 0.95
+        },
+        {
+          "surface": "来",
+          "reading": "く",
+          "start_offset": 33,
+          "end_offset": 34,
+          "confidence": 0.95
+        },
+        {
+          "surface": "人",
+          "reading": "ひと",
+          "start_offset": 35,
+          "end_offset": 36,
+          "confidence": 0.95
+        },
+        {
+          "surface": "展示",
+          "reading": "てんじ",
+          "start_offset": 37,
+          "end_offset": 39,
+          "confidence": 0.95
+        },
+        {
+          "surface": "見",
+          "reading": "み",
+          "start_offset": 40,
+          "end_offset": 41,
+          "confidence": 0.95
+        },
+        {
+          "surface": "新",
+          "reading": "あたら",
+          "start_offset": 43,
+          "end_offset": 44,
+          "confidence": 0.95
+        },
+        {
+          "surface": "情報",
+          "reading": "じょうほう",
+          "start_offset": 46,
+          "end_offset": 48,
+          "confidence": 0.95
+        },
+        {
+          "surface": "知",
+          "reading": "し",
+          "start_offset": 49,
+          "end_offset": 50,
+          "confidence": 0.95
+        },
+        {
+          "surface": "興味",
+          "reading": "きょうみ",
+          "start_offset": 54,
+          "end_offset": 56,
+          "confidence": 0.95
+        },
+        {
+          "surface": "持",
+          "reading": "も",
+          "start_offset": 57,
+          "end_offset": 58,
+          "confidence": 0.95
+        },
+        {
+          "surface": "展示",
+          "reading": "てんじ",
+          "start_offset": 70,
+          "end_offset": 72,
+          "confidence": 0.95
+        },
+        {
+          "surface": "大切",
+          "reading": "たいせつ",
+          "start_offset": 76,
+          "end_offset": 78,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 17,
+      "total": 19
+    },
+    {
+      "text": "節分の展示と子どもの日の展示です。節分の展示では、豆まきのときに使うお面を飾っています。おにが出てくる話の本や節分の日の料理の本もあります。子どもの日の展示では、かぶとやよろいもいっしょに飾っています。",
+      "source": "hirogaru",
+      "ground_truth": [
+        {
+          "surface": "節分",
+          "reading": "せつぶん"
+        },
+        {
+          "surface": "展示",
+          "reading": "てんじ"
+        },
+        {
+          "surface": "子",
+          "reading": "こ"
+        },
+        {
+          "surface": "日",
+          "reading": "ひ"
+        },
+        {
+          "surface": "展示",
+          "reading": "てんじ"
+        },
+        {
+          "surface": "節分",
+          "reading": "せつぶん"
+        },
+        {
+          "surface": "展示",
+          "reading": "てんじ"
+        },
+        {
+          "surface": "豆",
+          "reading": "まめ"
+        },
+        {
+          "surface": "使",
+          "reading": "つか"
+        },
+        {
+          "surface": "面",
+          "reading": "めん"
+        },
+        {
+          "surface": "飾",
+          "reading": "かざ"
+        },
+        {
+          "surface": "出",
+          "reading": "で"
+        },
+        {
+          "surface": "話",
+          "reading": "はなし"
+        },
+        {
+          "surface": "本",
+          "reading": "ほん"
+        },
+        {
+          "surface": "節分",
+          "reading": "せつぶん"
+        },
+        {
+          "surface": "日",
+          "reading": "ひ"
+        },
+        {
+          "surface": "料理",
+          "reading": "りょうり"
+        },
+        {
+          "surface": "本",
+          "reading": "ほん"
+        },
+        {
+          "surface": "子",
+          "reading": "こ"
+        },
+        {
+          "surface": "日",
+          "reading": "ひ"
+        },
+        {
+          "surface": "展示",
+          "reading": "てんじ"
+        },
+        {
+          "surface": "飾",
+          "reading": "かざ"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "節分",
+          "reading": "せつぶん",
+          "start_offset": 0,
+          "end_offset": 2,
+          "confidence": 0.95
+        },
+        {
+          "surface": "展示",
+          "reading": "てんじ",
+          "start_offset": 3,
+          "end_offset": 5,
+          "confidence": 0.95
+        },
+        {
+          "surface": "子",
+          "reading": "こ",
+          "start_offset": 6,
+          "end_offset": 7,
+          "confidence": 0.95
+        },
+        {
+          "surface": "日",
+          "reading": "ひ",
+          "start_offset": 10,
+          "end_offset": 11,
+          "confidence": 0.95
+        },
+        {
+          "surface": "展示",
+          "reading": "てんじ",
+          "start_offset": 12,
+          "end_offset": 14,
+          "confidence": 0.95
+        },
+        {
+          "surface": "節分",
+          "reading": "せつぶん",
+          "start_offset": 17,
+          "end_offset": 19,
+          "confidence": 0.95
+        },
+        {
+          "surface": "展示",
+          "reading": "てんじ",
+          "start_offset": 20,
+          "end_offset": 22,
+          "confidence": 0.95
+        },
+        {
+          "surface": "豆",
+          "reading": "まめ",
+          "start_offset": 25,
+          "end_offset": 26,
+          "confidence": 0.95
+        },
+        {
+          "surface": "使",
+          "reading": "つか",
+          "start_offset": 32,
+          "end_offset": 33,
+          "confidence": 0.95
+        },
+        {
+          "surface": "面",
+          "reading": "めん",
+          "start_offset": 35,
+          "end_offset": 36,
+          "confidence": 0.95
+        },
+        {
+          "surface": "飾",
+          "reading": "かざ",
+          "start_offset": 37,
+          "end_offset": 38,
+          "confidence": 0.95
+        },
+        {
+          "surface": "出",
+          "reading": "で",
+          "start_offset": 47,
+          "end_offset": 48,
+          "confidence": 0.95
+        },
+        {
+          "surface": "話",
+          "reading": "はなし",
+          "start_offset": 51,
+          "end_offset": 52,
+          "confidence": 0.95
+        },
+        {
+          "surface": "本",
+          "reading": "ほん",
+          "start_offset": 53,
+          "end_offset": 54,
+          "confidence": 0.95
+        },
+        {
+          "surface": "節分",
+          "reading": "せつぶん",
+          "start_offset": 55,
+          "end_offset": 57,
+          "confidence": 0.95
+        },
+        {
+          "surface": "日",
+          "reading": "ひ",
+          "start_offset": 58,
+          "end_offset": 59,
+          "confidence": 0.95
+        },
+        {
+          "surface": "料理",
+          "reading": "りょうり",
+          "start_offset": 60,
+          "end_offset": 62,
+          "confidence": 0.95
+        },
+        {
+          "surface": "本",
+          "reading": "ほん",
+          "start_offset": 63,
+          "end_offset": 64,
+          "confidence": 0.95
+        },
+        {
+          "surface": "子",
+          "reading": "ち",
+          "start_offset": 70,
+          "end_offset": 71,
+          "confidence": 0.95
+        },
+        {
+          "surface": "日",
+          "reading": "ひ",
+          "start_offset": 74,
+          "end_offset": 75,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 22,
+      "total": 22
+    },
+    {
+      "text": "季節の展示もあります。例えば「夏」の展示では、うちわや蚊取り線香など夏の道具やおばけ、滝などの本を紹介しています。「秋」の展示では、もみじや稲刈りなど秋の行事の本を紹介しています。",
+      "source": "hirogaru",
+      "ground_truth": [
+        {
+          "surface": "季節",
+          "reading": "きせつ"
+        },
+        {
+          "surface": "展示",
+          "reading": "てんじ"
+        },
+        {
+          "surface": "例",
+          "reading": "たと"
+        },
+        {
+          "surface": "夏",
+          "reading": "なつ"
+        },
+        {
+          "surface": "展示",
+          "reading": "てんじ"
+        },
+        {
+          "surface": "蚊",
+          "reading": "か"
+        },
+        {
+          "surface": "取",
+          "reading": "と"
+        },
+        {
+          "surface": "線香",
+          "reading": "せんこう"
+        },
+        {
+          "surface": "夏",
+          "reading": "なつ"
+        },
+        {
+          "surface": "道具",
+          "reading": "どうぐ"
+        },
+        {
+          "surface": "滝",
+          "reading": "たき"
+        },
+        {
+          "surface": "本",
+          "reading": "ほん"
+        },
+        {
+          "surface": "紹介",
+          "reading": "しょうかい"
+        },
+        {
+          "surface": "秋",
+          "reading": "あき"
+        },
+        {
+          "surface": "展示",
+          "reading": "てんじ"
+        },
+        {
+          "surface": "稲",
+          "reading": "いね"
+        },
+        {
+          "surface": "刈",
+          "reading": "か"
+        },
+        {
+          "surface": "秋",
+          "reading": "あき"
+        },
+        {
+          "surface": "行事",
+          "reading": "ぎょうじ"
+        },
+        {
+          "surface": "本",
+          "reading": "ほん"
+        },
+        {
+          "surface": "紹介",
+          "reading": "しょうかい"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "季節",
+          "reading": "きせつ",
+          "start_offset": 0,
+          "end_offset": 2,
+          "confidence": 0.95
+        },
+        {
+          "surface": "展示",
+          "reading": "てんじ",
+          "start_offset": 3,
+          "end_offset": 5,
+          "confidence": 0.95
+        },
+        {
+          "surface": "例",
+          "reading": "たと",
+          "start_offset": 11,
+          "end_offset": 12,
+          "confidence": 0.95
+        },
+        {
+          "surface": "夏",
+          "reading": "なつ",
+          "start_offset": 15,
+          "end_offset": 16,
+          "confidence": 0.95
+        },
+        {
+          "surface": "展示",
+          "reading": "てんじ",
+          "start_offset": 18,
+          "end_offset": 20,
+          "confidence": 0.95
+        },
+        {
+          "surface": "蚊取",
+          "reading": "あしがり",
+          "start_offset": 27,
+          "end_offset": 29,
+          "confidence": 0.95
+        },
+        {
+          "surface": "線香",
+          "reading": "せんか",
+          "start_offset": 30,
+          "end_offset": 32,
+          "confidence": 0.95
+        },
+        {
+          "surface": "夏",
+          "reading": "なつ",
+          "start_offset": 34,
+          "end_offset": 35,
+          "confidence": 0.95
+        },
+        {
+          "surface": "道具",
+          "reading": "どうぐ",
+          "start_offset": 36,
+          "end_offset": 38,
+          "confidence": 0.95
+        },
+        {
+          "surface": "滝",
+          "reading": "たき",
+          "start_offset": 43,
+          "end_offset": 44,
+          "confidence": 0.95
+        },
+        {
+          "surface": "本",
+          "reading": "ほん",
+          "start_offset": 47,
+          "end_offset": 48,
+          "confidence": 0.95
+        },
+        {
+          "surface": "紹介",
+          "reading": "しょうかい",
+          "start_offset": 49,
+          "end_offset": 51,
+          "confidence": 0.95
+        },
+        {
+          "surface": "秋",
+          "reading": "あき",
+          "start_offset": 58,
+          "end_offset": 59,
+          "confidence": 0.95
+        },
+        {
+          "surface": "展示",
+          "reading": "てんじ",
+          "start_offset": 61,
+          "end_offset": 63,
+          "confidence": 0.95
+        },
+        {
+          "surface": "稲刈",
+          "reading": "いねか",
+          "start_offset": 70,
+          "end_offset": 72,
+          "confidence": 0.95
+        },
+        {
+          "surface": "秋",
+          "reading": "あき",
+          "start_offset": 75,
+          "end_offset": 76,
+          "confidence": 0.95
+        },
+        {
+          "surface": "行事",
+          "reading": "しき",
+          "start_offset": 77,
+          "end_offset": 79,
+          "confidence": 0.95
+        },
+        {
+          "surface": "本",
+          "reading": "ほん",
+          "start_offset": 80,
+          "end_offset": 81,
+          "confidence": 0.95
+        },
+        {
+          "surface": "紹介",
+          "reading": "しょうかい",
+          "start_offset": 82,
+          "end_offset": 84,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 15,
+      "total": 21
+    },
+    {
+      "text": "この図書館は外国人がたくさん来ますから、日本の文化もよく紹介しています。「お祭り」「日本のあそび」などの伝統的なものを紹介したり、「京都」や「奈良」など有名な観光地を紹介したりします。マンガなどを展示することもあります。",
+      "source": "hirogaru",
+      "ground_truth": [
+        {
+          "surface": "図書館",
+          "reading": "としょかん"
+        },
+        {
+          "surface": "外国人",
+          "reading": "がいこくじん"
+        },
+        {
+          "surface": "来",
+          "reading": "き"
+        },
+        {
+          "surface": "日本",
+          "reading": "にほん"
+        },
+        {
+          "surface": "文化",
+          "reading": "ぶんか"
+        },
+        {
+          "surface": "紹介",
+          "reading": "しょうかい"
+        },
+        {
+          "surface": "祭",
+          "reading": "まつ"
+        },
+        {
+          "surface": "日本",
+          "reading": "にほん"
+        },
+        {
+          "surface": "伝統的",
+          "reading": "でんとうてき"
+        },
+        {
+          "surface": "紹介",
+          "reading": "しょうかい"
+        },
+        {
+          "surface": "京都",
+          "reading": "きょうと"
+        },
+        {
+          "surface": "奈良",
+          "reading": "なら"
+        },
+        {
+          "surface": "有名",
+          "reading": "ゆうめい"
+        },
+        {
+          "surface": "観光地",
+          "reading": "かんこうち"
+        },
+        {
+          "surface": "紹介",
+          "reading": "しょうかい"
+        },
+        {
+          "surface": "展示",
+          "reading": "てんじ"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "図書館",
+          "reading": "としょかん",
+          "start_offset": 2,
+          "end_offset": 5,
+          "confidence": 0.95
+        },
+        {
+          "surface": "外国人",
+          "reading": "がいこくじん",
+          "start_offset": 6,
+          "end_offset": 9,
+          "confidence": 0.95
+        },
+        {
+          "surface": "来",
+          "reading": "き",
+          "start_offset": 14,
+          "end_offset": 15,
+          "confidence": 0.95
+        },
+        {
+          "surface": "日本",
+          "reading": "にほん",
+          "start_offset": 20,
+          "end_offset": 22,
+          "confidence": 0.95
+        },
+        {
+          "surface": "文化",
+          "reading": "ぶんか",
+          "start_offset": 23,
+          "end_offset": 25,
+          "confidence": 0.95
+        },
+        {
+          "surface": "紹介",
+          "reading": "しょうかい",
+          "start_offset": 28,
+          "end_offset": 30,
+          "confidence": 0.95
+        },
+        {
+          "surface": "祭",
+          "reading": "まつ",
+          "start_offset": 38,
+          "end_offset": 39,
+          "confidence": 0.95
+        },
+        {
+          "surface": "日本",
+          "reading": "にほん",
+          "start_offset": 42,
+          "end_offset": 44,
+          "confidence": 0.95
+        },
+        {
+          "surface": "伝統的",
+          "reading": "でんとうてき",
+          "start_offset": 52,
+          "end_offset": 55,
+          "confidence": 0.95
+        },
+        {
+          "surface": "紹介",
+          "reading": "しょうかい",
+          "start_offset": 59,
+          "end_offset": 61,
+          "confidence": 0.95
+        },
+        {
+          "surface": "京都",
+          "reading": "きょうと",
+          "start_offset": 66,
+          "end_offset": 68,
+          "confidence": 0.95
+        },
+        {
+          "surface": "奈良",
+          "reading": "なら",
+          "start_offset": 71,
+          "end_offset": 73,
+          "confidence": 0.95
+        },
+        {
+          "surface": "有名",
+          "reading": "ゆうめい",
+          "start_offset": 76,
+          "end_offset": 78,
+          "confidence": 0.95
+        },
+        {
+          "surface": "観光地",
+          "reading": "かんこうち",
+          "start_offset": 79,
+          "end_offset": 82,
+          "confidence": 0.95
+        },
+        {
+          "surface": "紹介",
+          "reading": "しょうかい",
+          "start_offset": 83,
+          "end_offset": 85,
+          "confidence": 0.95
+        },
+        {
+          "surface": "展示",
+          "reading": "てんじ",
+          "start_offset": 98,
+          "end_offset": 100,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 16,
+      "total": 16
+    },
+    {
+      "text": "おなかに良いだけでは ない！日本の乳酸菌飲料(probiotic lactic acid bacteria drink)「ヤクルト」の秘密(secret)を教えます",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "良",
+          "reading": "よ"
+        },
+        {
+          "surface": "日本",
+          "reading": "にほん"
+        },
+        {
+          "surface": "乳酸菌",
+          "reading": "にゅうさんきん"
+        },
+        {
+          "surface": "飲料",
+          "reading": "いんりょう"
+        },
+        {
+          "surface": "秘密",
+          "reading": "ひみつ"
+        },
+        {
+          "surface": "教",
+          "reading": "おし"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "良",
+          "reading": "よ",
+          "start_offset": 4,
+          "end_offset": 5,
+          "confidence": 0.95
+        },
+        {
+          "surface": "日本",
+          "reading": "にほん",
+          "start_offset": 14,
+          "end_offset": 16,
+          "confidence": 0.95
+        },
+        {
+          "surface": "乳酸菌",
+          "reading": "にゅうさんきん",
+          "start_offset": 17,
+          "end_offset": 20,
+          "confidence": 0.95
+        },
+        {
+          "surface": "飲料",
+          "reading": "いんりょう",
+          "start_offset": 20,
+          "end_offset": 22,
+          "confidence": 0.95
+        },
+        {
+          "surface": "秘密",
+          "reading": "ひみつ",
+          "start_offset": 67,
+          "end_offset": 69,
+          "confidence": 0.95
+        },
+        {
+          "surface": "教",
+          "reading": "おし",
+          "start_offset": 78,
+          "end_offset": 79,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 6,
+      "total": 6
+    },
+    {
+      "text": "東京都赤坂・六本木アート・デザインInterest観光（THINGS TO DO）夜(よる)遅(おそ)くまで 遊(あそ)ぶことが できます。",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "東京",
+          "reading": "とうきょう"
+        }
+      ],
+      "predicted": [],
+      "matches": 0,
+      "total": 1
+    },
+    {
+      "text": "東京(とうきょう)の 夜(よる)は 六本木(ろっぽんぎ)ヒルズ(hills)へ 行(い)きましょう東京(とうきょう)は 眠ねむりません。",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "眠",
+          "reading": "ねむ"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "眠",
+          "reading": "ねむ",
+          "start_offset": 60,
+          "end_offset": 61,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 1,
+      "total": 1
+    },
+    {
+      "text": "六本木(ろっぽんぎ)には 夜(よる)になっても 人(ひと)が おおぜい 集(あつ)まります。",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "六本木",
+          "reading": "ろっぽんぎ"
+        },
+        {
+          "surface": "夜",
+          "reading": "よる"
+        },
+        {
+          "surface": "人",
+          "reading": "ひと"
+        },
+        {
+          "surface": "集",
+          "reading": "あつ"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "六本木",
+          "reading": "ろっぽんぎ",
+          "start_offset": 0,
+          "end_offset": 3,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 1,
+      "total": 4
+    },
+    {
+      "text": "そんな 六本木(ろっぽんぎ)の 有名(ゆうめい)な 場所(ばしょ)は 「六本木(ろっぽんぎ)ヒルズ(hills)」です。",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "六本木",
+          "reading": "ろっぽんぎ"
+        },
+        {
+          "surface": "有名",
+          "reading": "ゆうめい"
+        },
+        {
+          "surface": "場所",
+          "reading": "ばしょ"
+        },
+        {
+          "surface": "六本木",
+          "reading": "ろっぽんぎ"
+        },
+        {
+          "surface": "ヒルズ",
+          "reading": "hills"
+        }
+      ],
+      "predicted": [],
+      "matches": 0,
+      "total": 5
+    },
+    {
+      "text": "六本木()には夜()になっても人()が おおぜい集()まります。",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "六本木",
+          "reading": "ろっぽんぎ"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "六本木",
+          "reading": "ろっぽん",
+          "start_offset": 0,
+          "end_offset": 3,
+          "confidence": 0.95
+        },
+        {
+          "surface": "夜",
+          "reading": "よる",
+          "start_offset": 7,
+          "end_offset": 8,
+          "confidence": 0.95
+        },
+        {
+          "surface": "人",
+          "reading": "ひと",
+          "start_offset": 15,
+          "end_offset": 16,
+          "confidence": 0.95
+        },
+        {
+          "surface": "集",
+          "reading": "あつ",
+          "start_offset": 24,
+          "end_offset": 25,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 0,
+      "total": 1
+    },
+    {
+      "text": "そんな六本木()の有名()な場所()は 「六本木()ヒルズ」です。",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "ヒルズ",
+          "reading": "hills"
+        }
+      ],
+      "predicted": [],
+      "matches": 0,
+      "total": 1
+    },
+    {
+      "text": "六本木()ヒルズとは六本木()ヒルズは とても大()きな ビルです。",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "六本木",
+          "reading": "ろっぽんぎ"
+        },
+        {
+          "surface": "ヒルズ",
+          "reading": "hills"
+        },
+        {
+          "surface": "大",
+          "reading": "おお"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "六本木",
+          "reading": "くわな",
+          "start_offset": 0,
+          "end_offset": 3,
+          "confidence": 0.95
+        },
+        {
+          "surface": "六本木",
+          "reading": "くわな",
+          "start_offset": 10,
+          "end_offset": 13,
+          "confidence": 0.95
+        },
+        {
+          "surface": "大",
+          "reading": "おお",
+          "start_offset": 23,
+          "end_offset": 24,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 1,
+      "total": 3
+    },
+    {
+      "text": "「森()ビル」という会社()が作()りました。",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "森",
+          "reading": "もり"
+        },
+        {
+          "surface": "会社",
+          "reading": "かいしゃ"
+        },
+        {
+          "surface": "作",
+          "reading": "つく"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "森",
+          "reading": "もり",
+          "start_offset": 1,
+          "end_offset": 2,
+          "confidence": 0.95
+        },
+        {
+          "surface": "会社",
+          "reading": "かいしゃ",
+          "start_offset": 10,
+          "end_offset": 12,
+          "confidence": 0.95
+        },
+        {
+          "surface": "作",
+          "reading": "つく",
+          "start_offset": 15,
+          "end_offset": 16,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 3,
+      "total": 3
+    },
+    {
+      "text": "この会社()は ほかに上海()の有名()な ビルも作()りました。",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "会社",
+          "reading": "かいしゃ"
+        },
+        {
+          "surface": "上海",
+          "reading": "しゃんはい"
+        },
+        {
+          "surface": "有名",
+          "reading": "ゆうめい"
+        },
+        {
+          "surface": "作",
+          "reading": "つく"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "会社",
+          "reading": "かいしゃ",
+          "start_offset": 2,
+          "end_offset": 4,
+          "confidence": 0.95
+        },
+        {
+          "surface": "上海",
+          "reading": "シャンハイ",
+          "start_offset": 11,
+          "end_offset": 13,
+          "confidence": 0.95
+        },
+        {
+          "surface": "有名",
+          "reading": "ゆうめい",
+          "start_offset": 16,
+          "end_offset": 18,
+          "confidence": 0.95
+        },
+        {
+          "surface": "作",
+          "reading": "つく",
+          "start_offset": 25,
+          "end_offset": 26,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 3,
+      "total": 4
+    },
+    {
+      "text": "六本木()ヒルズの中()には会社()や美術館()や テレビ局()や映画館()などが あります。",
+      "source": "matcha",
+      "ground_truth": [
+        {
+          "surface": "六本木",
+          "reading": "ろっぽんぎ"
+        },
+        {
+          "surface": "ヒルズ",
+          "reading": "hills"
+        },
+        {
+          "surface": "中",
+          "reading": "なか"
+        },
+        {
+          "surface": "会社",
+          "reading": "かいしゃ"
+        },
+        {
+          "surface": "美術館",
+          "reading": "びじゅつかん"
+        },
+        {
+          "surface": "局",
+          "reading": "きょく"
+        },
+        {
+          "surface": "映画館",
+          "reading": "えいがかん"
+        }
+      ],
+      "predicted": [
+        {
+          "surface": "六本木",
+          "reading": "ぎおん",
+          "start_offset": 0,
+          "end_offset": 3,
+          "confidence": 0.95
+        },
+        {
+          "surface": "中",
+          "reading": "なか",
+          "start_offset": 9,
+          "end_offset": 10,
+          "confidence": 0.95
+        },
+        {
+          "surface": "会社",
+          "reading": "かいしゃ",
+          "start_offset": 14,
+          "end_offset": 16,
+          "confidence": 0.95
+        },
+        {
+          "surface": "美術館",
+          "reading": "びじゅつかん",
+          "start_offset": 19,
+          "end_offset": 22,
+          "confidence": 0.95
+        },
+        {
+          "surface": "局",
+          "reading": "きょく",
+          "start_offset": 29,
+          "end_offset": 30,
+          "confidence": 0.95
+        },
+        {
+          "surface": "映画館",
+          "reading": "かんこうかん",
+          "start_offset": 33,
+          "end_offset": 36,
+          "confidence": 0.95
+        }
+      ],
+      "matches": 4,
+      "total": 7
+    }
+  ]
+}
