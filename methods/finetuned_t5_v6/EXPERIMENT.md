@@ -89,11 +89,22 @@ collisions were introducing significant noise that hurt model generalization.
 - MATCHA's 256 bracket collisions (`[index]` JS artifacts) and 33.8% unannotated kanji
   were teaching the model to skip annotations and produce malformed bracket output
 
-### Recommendation
-**Exclude MATCHA from production training data.** If MATCHA data is desired in the future:
-1. Re-scrape with better annotation extraction (target >95% coverage)
-2. Strip JavaScript artifacts before processing
-3. Validate bracket format conversion has zero collision rate
+### Recommendations
+
+1. **Never re-add MATCHA** without fixing:
+   - Annotation coverage must be >95%
+   - All `[...]` patterns must be validated as furigana (content is pure hiragana)
+
+2. **For new data sources**, always check:
+   - Annotation coverage (reject if <95%)
+   - Delimiter collisions (search for `[` in raw text)
+   - Domain diversity (avoid over-representing one style)
+
+3. **Next experiments** to run on clean v6 data:
+   - ByT5 v2: Retrain byte-level model without MATCHA noise
+   - BERT token classification: Alternative architecture comparison
+   - Delimiter change: Switch from `[]` to a delimiter not found in Japanese text
+   - Expand with more high-quality sources meeting data quality checklist
 
 ### Model accuracy history
 
