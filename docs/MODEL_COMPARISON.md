@@ -33,6 +33,28 @@ All models evaluated on comparable test set: 1,498 sentences, 12,558 tokens,
 | BERT v1 | 10,413 (no MATCHA) | 66.3% | Token classification approach |
 | ByT5 v2 | 10,413 (no MATCHA) | 89.1% | Byte-level, clean data |
 
+### Delimiter Migration: [] → 《》
+
+| Model | Delimiter | Accuracy | Delta | Inference (ms/sent) |
+|-------|-----------|----------|-------|---------------------|
+| T5 v7 | 《》 | 86.6% | +0.2pp | 669 |
+| T5 v6 | [] | 86.4% | baseline | ~50 |
+| ByT5 v3 | 《》 | 84.4% | **-4.7pp** | 1,520 |
+| ByT5 v2 | [] | 89.1% | baseline | 1,232 |
+
+**Result**: 《》 is neutral for T5 (word-piece) but harmful for ByT5 (byte-level).
+See "Finding #5" below.
+
+#### Per-Source: Delimiter Impact
+
+| Source | T5 v7 (《》) | T5 v6 ([]) | ByT5 v3 (《》) | ByT5 v2 ([]) |
+|--------|-------------|-----------|---------------|-------------|
+| hirogaru | 89.0% | 89.6% | 83.9% | 91.8% |
+| kahoku | 87.8% | 86.1% | 84.1% | 87.8% |
+| nhk | 89.3% | 89.3% | 85.7% | 89.7% |
+| ud_gsd | 84.5% | 84.1% | 83.6% | 88.3% |
+| ud_pud | 90.1% | 85.4% | 87.1% | 91.3% |
+
 ### Dictionary Baselines (no training)
 
 | Method | Accuracy (NHK test) | Notes |
@@ -79,13 +101,31 @@ Splitting articles to sentences improved MATCHA accuracy by +28% (v3 to v4).
 | **Strength** | Best accuracy, handles compounds | Fast, good accuracy | Fastest inference |
 | **Weakness** | Very slow inference | Lower on UD data | Poor boundary detection |
 
+### 5. 《》 delimiter hurts byte-level models
+
+Changing delimiters from `[]` to `《》` had opposite effects on different architectures:
+
+- **T5 v7**: 86.6% (+0.2pp) — neutral. Word-piece tokenizer handles 《》 as single tokens.
+- **ByT5 v3**: 84.4% (-4.7pp) — significant regression. Each 《》 is 3 bytes in UTF-8
+  (vs 1 byte for `[]`), making the delimiter pattern harder for byte-level models to learn.
+  All sources dropped uniformly (3.7-7.9pp), indicating a systematic issue rather than
+  source-specific noise.
+
+Despite ByT5 v3 having a lower eval_loss (0.0244 vs 0.0272), accuracy dropped —
+suggesting the loss metric doesn't fully capture delimiter generation quality at byte-level.
+
+**Conclusion**: Keep `[]` delimiters for ByT5. If avoiding bracket collisions is needed,
+use `[]` for ByT5 and `《》` for T5, or use `[]` universally with collision escaping.
+
 ## Recommendations
 
-1. **For production (Poneglyph)**: T5 v6 offers the best accuracy/speed trade-off.
+1. **For production (Poneglyph)**: T5 v6/v7 offers the best accuracy/speed trade-off.
    ByT5 v2 is 24x slower at inference, which may be prohibitive for real-time use.
-2. **For offline batch processing**: ByT5 v2 achieves the highest accuracy.
+2. **For offline batch processing**: ByT5 v2 (with `[]`) achieves the highest accuracy at 89.1%.
 3. **Do not use BERT token classification** for furigana — the architecture is a poor fit.
-4. **Next experiments**:
-   - Delimiter change from `[]` to avoid collisions with Japanese text
+4. **Keep `[]` delimiters for ByT5**: The 《》 migration costs -4.7pp for byte-level models.
+   T5 is unaffected, so delimiter choice only matters for ByT5.
+5. **Next experiments**:
    - More high-quality training sources to push past 90%
    - Distillation: Train a smaller/faster model using ByT5 v2 predictions
+   - Longer ByT5 training with 《》 to see if accuracy gap closes with more epochs
