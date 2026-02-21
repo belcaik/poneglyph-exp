@@ -1,0 +1,341 @@
+{
+  "version": "bert_v2",
+  "base_model": "tohoku-nlp/bert-base-japanese-v3",
+  "config": {
+    "epochs_requested": 10,
+    "epochs_completed": 10,
+    "batch_size": 16,
+    "learning_rate": 2e-05,
+    "max_length": 256,
+    "early_stopping_patience": 3,
+    "gradient_clip": 1.0,
+    "reading_vocab_size": 10961
+  },
+  "data": {
+    "train_samples": 86002,
+    "val_samples": 10772
+  },
+  "model_info": {
+    "parameters": 120816593,
+    "bert_parameters": 111207168,
+    "head_parameters": 9609425
+  },
+  "results": {
+    "training_time_seconds": 9470.21,
+    "training_time_minutes": 157.84,
+    "best_val_accuracy": 98.6,
+    "best_epoch": 10
+  },
+  "log_history": [
+    {
+      "epoch": 1,
+      "train_loss": 0.1757,
+      "train_accuracy": 92.6,
+      "eval_loss": 0.0754,
+      "eval_accuracy": 97.4,
+      "ambiguity_stats": {
+        "1": {
+          "accuracy": 100.0,
+          "correct": 7179,
+          "total": 7179
+        },
+        "2": {
+          "accuracy": 92.8,
+          "correct": 1806,
+          "total": 1947
+        },
+        "3": {
+          "accuracy": 93.3,
+          "correct": 1163,
+          "total": 1247
+        },
+        "4+": {
+          "accuracy": 86.2,
+          "correct": 344,
+          "total": 399
+        }
+      },
+      "epoch_time_seconds": 901.0,
+      "learning_rate": 2e-05
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.0572,
+      "train_accuracy": 98.1,
+      "eval_loss": 0.0594,
+      "eval_accuracy": 98.2,
+      "ambiguity_stats": {
+        "1": {
+          "accuracy": 100.0,
+          "correct": 7179,
+          "total": 7179
+        },
+        "2": {
+          "accuracy": 95.3,
+          "correct": 1855,
+          "total": 1947
+        },
+        "3": {
+          "accuracy": 94.7,
+          "correct": 1181,
+          "total": 1247
+        },
+        "4+": {
+          "accuracy": 92.0,
+          "correct": 367,
+          "total": 399
+        }
+      },
+      "epoch_time_seconds": 958.6,
+      "learning_rate": 1.7777777777777777e-05
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.0327,
+      "train_accuracy": 99.0,
+      "eval_loss": 0.0571,
+      "eval_accuracy": 98.4,
+      "ambiguity_stats": {
+        "1": {
+          "accuracy": 100.0,
+          "correct": 7179,
+          "total": 7179
+        },
+        "2": {
+          "accuracy": 96.0,
+          "correct": 1869,
+          "total": 1947
+        },
+        "3": {
+          "accuracy": 95.1,
+          "correct": 1186,
+          "total": 1247
+        },
+        "4+": {
+          "accuracy": 93.0,
+          "correct": 371,
+          "total": 399
+        }
+      },
+      "epoch_time_seconds": 1017.7,
+      "learning_rate": 1.555555555555556e-05
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.0228,
+      "train_accuracy": 99.3,
+      "eval_loss": 0.0695,
+      "eval_accuracy": 98.5,
+      "ambiguity_stats": {
+        "1": {
+          "accuracy": 100.0,
+          "correct": 7179,
+          "total": 7179
+        },
+        "2": {
+          "accuracy": 96.1,
+          "correct": 1872,
+          "total": 1947
+        },
+        "3": {
+          "accuracy": 95.3,
+          "correct": 1189,
+          "total": 1247
+        },
+        "4+": {
+          "accuracy": 92.7,
+          "correct": 370,
+          "total": 399
+        }
+      },
+      "epoch_time_seconds": 896.0,
+      "learning_rate": 1.3333333333333333e-05
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.0173,
+      "train_accuracy": 99.5,
+      "eval_loss": 0.0664,
+      "eval_accuracy": 98.4,
+      "ambiguity_stats": {
+        "1": {
+          "accuracy": 100.0,
+          "correct": 7179,
+          "total": 7179
+        },
+        "2": {
+          "accuracy": 95.9,
+          "correct": 1867,
+          "total": 1947
+        },
+        "3": {
+          "accuracy": 95.4,
+          "correct": 1190,
+          "total": 1247
+        },
+        "4+": {
+          "accuracy": 92.5,
+          "correct": 369,
+          "total": 399
+        }
+      },
+      "epoch_time_seconds": 902.7,
+      "learning_rate": 1.1111111111111113e-05
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.0133,
+      "train_accuracy": 99.6,
+      "eval_loss": 0.0737,
+      "eval_accuracy": 98.5,
+      "ambiguity_stats": {
+        "1": {
+          "accuracy": 100.0,
+          "correct": 7179,
+          "total": 7179
+        },
+        "2": {
+          "accuracy": 96.0,
+          "correct": 1870,
+          "total": 1947
+        },
+        "3": {
+          "accuracy": 95.3,
+          "correct": 1189,
+          "total": 1247
+        },
+        "4+": {
+          "accuracy": 93.5,
+          "correct": 373,
+          "total": 399
+        }
+      },
+      "epoch_time_seconds": 893.9,
+      "learning_rate": 8.888888888888888e-06
+    },
+    {
+      "epoch": 7,
+      "train_loss": 0.0111,
+      "train_accuracy": 99.6,
+      "eval_loss": 0.0791,
+      "eval_accuracy": 98.5,
+      "ambiguity_stats": {
+        "1": {
+          "accuracy": 100.0,
+          "correct": 7179,
+          "total": 7179
+        },
+        "2": {
+          "accuracy": 95.8,
+          "correct": 1865,
+          "total": 1947
+        },
+        "3": {
+          "accuracy": 95.7,
+          "correct": 1194,
+          "total": 1247
+        },
+        "4+": {
+          "accuracy": 93.2,
+          "correct": 372,
+          "total": 399
+        }
+      },
+      "epoch_time_seconds": 893.8,
+      "learning_rate": 6.666666666666667e-06
+    },
+    {
+      "epoch": 8,
+      "train_loss": 0.0089,
+      "train_accuracy": 99.6,
+      "eval_loss": 0.082,
+      "eval_accuracy": 98.5,
+      "ambiguity_stats": {
+        "1": {
+          "accuracy": 100.0,
+          "correct": 7179,
+          "total": 7179
+        },
+        "2": {
+          "accuracy": 95.9,
+          "correct": 1867,
+          "total": 1947
+        },
+        "3": {
+          "accuracy": 95.7,
+          "correct": 1193,
+          "total": 1247
+        },
+        "4+": {
+          "accuracy": 93.7,
+          "correct": 374,
+          "total": 399
+        }
+      },
+      "epoch_time_seconds": 892.4,
+      "learning_rate": 4.444444444444444e-06
+    },
+    {
+      "epoch": 9,
+      "train_loss": 0.0079,
+      "train_accuracy": 99.6,
+      "eval_loss": 0.0834,
+      "eval_accuracy": 98.6,
+      "ambiguity_stats": {
+        "1": {
+          "accuracy": 100.0,
+          "correct": 7179,
+          "total": 7179
+        },
+        "2": {
+          "accuracy": 96.0,
+          "correct": 1870,
+          "total": 1947
+        },
+        "3": {
+          "accuracy": 95.7,
+          "correct": 1193,
+          "total": 1247
+        },
+        "4+": {
+          "accuracy": 93.7,
+          "correct": 374,
+          "total": 399
+        }
+      },
+      "epoch_time_seconds": 962.3,
+      "learning_rate": 2.222222222222222e-06
+    },
+    {
+      "epoch": 10,
+      "train_loss": 0.0067,
+      "train_accuracy": 99.7,
+      "eval_loss": 0.0866,
+      "eval_accuracy": 98.5,
+      "ambiguity_stats": {
+        "1": {
+          "accuracy": 100.0,
+          "correct": 7179,
+          "total": 7179
+        },
+        "2": {
+          "accuracy": 95.9,
+          "correct": 1867,
+          "total": 1947
+        },
+        "3": {
+          "accuracy": 95.7,
+          "correct": 1193,
+          "total": 1247
+        },
+        "4+": {
+          "accuracy": 93.7,
+          "correct": 374,
+          "total": 399
+        }
+      },
+      "epoch_time_seconds": 916.5,
+      "learning_rate": 0.0
+    }
+  ]
+}
