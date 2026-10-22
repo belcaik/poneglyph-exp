@@ -1,5 +1,7 @@
 # CLAUDE.md - Furigana Lab
 
+@AGENTS.md
+
 ## Project Purpose
 Isolated benchmark repository to compare different furigana (Japanese reading annotation) methods.
 Goal: Determine the best approach for the Poneglyph project before integration.
