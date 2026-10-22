@@ -1,0 +1,2322 @@
+sent_id	source	surface	claude_v2	gemini	qwen7b	v7_gt	disagreement_type
+1	hirogaru	お祭り	おまつり	おまつり	おまつり	—	model_extra
+1	hirogaru	が	—	—	ga, ga, ga, ga	—	model_extra
+1	hirogaru	ことがあります	—	—	ことがあります	—	model_extra
+1	hirogaru	こども	—	—	こども	—	model_extra
+1	hirogaru	しています	—	—	していいます, していいます	—	model_extra
+1	hirogaru	それから	—	—	それから	—	model_extra
+1	hirogaru	で	—	—	de	—	model_extra
+1	hirogaru	といい	—	—	といい	—	model_extra
+1	hirogaru	ときどき	—	—	ときどき	—	model_extra
+1	hirogaru	と思いました	—	—	thought	—	model_extra
+1	hirogaru	と思います	—	—	とおもいます	—	model_extra
+1	hirogaru	に	—	—	ni, ni, ni	—	model_extra
+1	hirogaru	の	—	—	no, no	—	model_extra
+1	hirogaru	も	—	—	mo	—	model_extra
+1	hirogaru	ように	—	—	ように	—	model_extra
+1	hirogaru	を	—	—	wo, wo, wo, wo, wo	—	model_extra
+1	hirogaru	を使う	—	—	つかう	—	model_extra
+1	hirogaru	を持つ	—	—	もつ	—	model_extra
+1	hirogaru	コンサート	—	—	こんさーと	—	model_extra
+1	hirogaru	テープ	—	—	ていぱ	—	model_extra
+1	hirogaru	人が	—	—	ひとが	—	model_extra
+1	hirogaru	使う	つかう	つかう	—	つかう	coverage_diff
+1	hirogaru	吹く	ふく, ふく	ふく, ふく	ふく, ふく	ふくく, ふく	reading_diff
+1	hirogaru	女	—	—	—	おんな, おんな, おんな	model_missing
+1	hirogaru	女の子	おんなのこ, おんなのこ, おんなのこ	おんなのこ, おんなのこ, おんなのこ	おんなのこ, おんなのこ, おんなのこ	—	model_extra
+1	hirogaru	子	—	—	—	こ, こ, こ	model_missing
+1	hirogaru	少ない	すくない	すくない	—	すくない	coverage_diff
+1	hirogaru	少ないので	—	—	すくなので	—	model_extra
+1	hirogaru	思いました	おもいました	おもいました	—	おもいました	coverage_diff
+1	hirogaru	思います	おもいます	おもいます	—	おもいます	coverage_diff
+1	hirogaru	持つ	もつ	もつ	—	もつ	coverage_diff
+1	hirogaru	活動	—	—	かつどう	—	model_extra
+1	hirogaru	活動して	—	—	—	かつどうして	model_missing
+1	hirogaru	活動しています	かつどうしています	かつどうしています	—	—	model_extra
+1	hirogaru	祭り	—	—	—	まつり	model_missing
+1	hirogaru	笛	ふえ, ふえ, ふえ, ふえ, ふえ, ふえ	ふえ, ふえ, ふえ, ふえ, ふえ, ふえ	ぶえ, ぶえ, ぶえ, ぶえ, ぶえ, ぶえ	ふえ, ふえ, ふえ, ふえ, ふえ, ふえ	reading_diff
+1	hirogaru	習って	ならって	ならって	ならめて	ならって	reading_diff
+1	hirogaru	自分	じぶん	じぶん	—	—	model_extra
+1	hirogaru	自分の	—	—	じぶんの	—	model_extra
+1	hirogaru	自分のこど	—	—	—	じぶんのこど	model_missing
+1	hirogaru	開いて	—	—	—	ひらいて	model_missing
+1	hirogaru	開いています	ひらいています	ひらいています	あいています	—	model_extra
+2	hirogaru	1日	いちにち	いちにち	ついたち	—	model_extra
+2	hirogaru	4時	よじ	—	よじ	—	model_extra
+2	hirogaru	8回	—	—	はっかい	—	model_extra
+2	hirogaru	くらい	—	—	くらい	—	model_extra
+2	hirogaru	この日	—	—	こんにち	—	model_extra
+2	hirogaru	たくさん	—	—	たんかん	—	model_extra
+2	hirogaru	ために	—	—	のぞみに	—	model_extra
+2	hirogaru	で	—	—	で	—	model_extra
+2	hirogaru	に	—	—	に, に, に	—	model_extra
+2	hirogaru	に行く	—	—	いきに	—	model_extra
+2	hirogaru	へ	—	—	に	—	model_extra
+2	hirogaru	をする	—	—	する	—	model_extra
+2	hirogaru	一番	—	いちばん	—	—	model_extra
+2	hirogaru	一番最初	いちばんさいしょ	—	—	いちばんさいしょ	coverage_diff
+2	hirogaru	一番最初の	—	—	いちばんさいしだの	—	model_extra
+2	hirogaru	乗りました	のりました	のりました	の乘りました	のりました	reading_diff
+2	hirogaru	何回	なんかい	なんかい	—	なんかい	coverage_diff
+2	hirogaru	何回も	—	—	なんかいも	—	model_extra
+2	hirogaru	午前	ごぜん	—	ごぜん	—	model_extra
+2	hirogaru	午前4時	—	ごぜんよじ	—	ごぜんよじ	coverage_diff
+2	hirogaru	回くらい	—	—	—	かいくらい	model_missing
+2	hirogaru	日	ひ	ひ	—	にち, ひ	reading_diff
+2	hirogaru	最初	—	さいしょ	—	—	model_extra
+2	hirogaru	船	ふね, ふね	ふね, ふね	ふな	ふね, ふね	reading_diff
+2	hirogaru	船は	—	—	ふなは	—	model_extra
+2	hirogaru	行く	いく	いく	—	いく	coverage_diff
+2	hirogaru	集まって	—	—	—	あつまって	model_missing
+2	hirogaru	集まっています	あつまっています	あつまっています	しゅうまっています	—	model_extra
+2	hirogaru	８回	はちかい	はちかい	—	—	model_extra
+3	hirogaru	、	—	—	、, 、, 、, 、, 、, 、	—	model_extra
+3	hirogaru	。	—	—	。, 。	—	model_extra
+3	hirogaru	おもしろい	—	—	おもしろい	—	model_extra
+3	hirogaru	が	—	—	が, が, が, が	—	model_extra
+3	hirogaru	があるか	—	—	があるか	—	model_extra
+3	hirogaru	します	—	—	しめす	—	model_extra
+3	hirogaru	することもあります	—	—	することもあります	—	model_extra
+3	hirogaru	そして	—	—	そして	—	model_extra
+3	hirogaru	で	—	—	で	—	model_extra
+3	hirogaru	ですね	—	—	ですね	—	model_extra
+3	hirogaru	でも	—	—	でも	—	model_extra
+3	hirogaru	と	—	—	と, と, と, と	—	model_extra
+3	hirogaru	とった	—	—	とっていた	—	model_extra
+3	hirogaru	どちら	—	—	どなた	—	model_extra
+3	hirogaru	は	—	—	は, は	—	model_extra
+3	hirogaru	ほかの	—	—	ほかの	—	model_extra
+3	hirogaru	を	—	—	を	—	model_extra
+3	hirogaru	大きい	おおきい	おおきい	おおい	おおきい	reading_diff
+3	hirogaru	女性	じょせい	じょせい	じょし	じょせい	reading_diff
+3	hirogaru	年	とし	とし	—	とし	coverage_diff
+3	hirogaru	年を	—	—	としを	—	model_extra
+3	hirogaru	戦いません	たたかいません	たたかいません	たべません	たたかいません	reading_diff
+3	hirogaru	美しい	うつくしい	うつくしい	—	うつくしい	coverage_diff
+3	hirogaru	美しいか	—	—	うつくしいか	—	model_extra
+3	hirogaru	若い	わかい	わかい	おさな	わかい	reading_diff
+3	hirogaru	試合を	—	—	しあいを	—	model_extra
+3	hirogaru	違っていて	ちがっていて	ちがっていて	ちがっていいて	ちがっていて	reading_diff
+4	hirogaru	、	—	—	、, 、, 、, 、, 、, 、, 、	—	model_extra
+4	hirogaru	。	—	—	。, 。, 。, 。, 。	—	model_extra
+4	hirogaru	「	—	—	「	—	model_extra
+4	hirogaru	かかります	—	—	かかるいます	—	model_extra
+4	hirogaru	から	—	—	から	—	model_extra
+4	hirogaru	が	—	—	が, が, が	—	model_extra
+4	hirogaru	ことは	—	—	ことは	—	model_extra
+4	hirogaru	して	—	—	して	—	model_extra
+4	hirogaru	すると	—	—	すると	—	model_extra
+4	hirogaru	ために	—	—	のぞみに	—	model_extra
+4	hirogaru	できます	—	—	できます	—	model_extra
+4	hirogaru	です	—	—	です, です	—	model_extra
+4	hirogaru	でも	—	—	でも	—	model_extra
+4	hirogaru	という	—	—	という	—	model_extra
+4	hirogaru	とき	—	—	とき, とき	—	model_extra
+4	hirogaru	とても	—	—	とても, とても	—	model_extra
+4	hirogaru	に	—	—	に	—	model_extra
+4	hirogaru	になります	—	—	なります	—	model_extra
+4	hirogaru	の	—	—	の, の	—	model_extra
+4	hirogaru	は	—	—	は, は	—	model_extra
+4	hirogaru	も	—	—	も	—	model_extra
+4	hirogaru	を	—	—	を, を, を, を, を, を	—	model_extra
+4	hirogaru	使いますが	つかいますが	—	—	—	model_extra
+4	hirogaru	墨汁	ぼくじゅう	ぼくじゅう	ぼくじ	ぼくじゅう	reading_diff
+4	hirogaru	書きたい	かきたい	かきたい	かいたい	かきたい	reading_diff
+4	hirogaru	書きます	—	—	かきます	—	model_extra
+4	hirogaru	着きます	—	—	—	つきます	model_missing
+4	hirogaru	落ち	—	—	—	おち	model_missing
+4	hirogaru	落ち着きます	おちつきます	おちつきます	のろいきます	—	model_extra
+4	hirogaru	話	はなし	はなし	はな	はなし	reading_diff
+4	hirogaru	集中	しゅうちゅう	しゅうちゅう	しゅうしん, しゅうしん	しゅうちゅう	reading_diff
+4	hirogaru	集中して	しゅうちゅうして	しゅうちゅうして	—	しゅうちゅうして	coverage_diff
+5	hirogaru	、	—	—	、	—	model_extra
+5	hirogaru	。	—	—	。, 。, 。, 。	—	model_extra
+5	hirogaru	が	—	—	が	—	model_extra
+5	hirogaru	ここ	—	—	ここ	—	model_extra
+5	hirogaru	している	—	—	している	—	model_extra
+5	hirogaru	それが	—	—	それがあ	—	model_extra
+5	hirogaru	で	—	—	で, で	—	model_extra
+5	hirogaru	になります	—	—	なります	—	model_extra
+5	hirogaru	の	—	—	の, の	—	model_extra
+5	hirogaru	は	—	—	は, は	—	model_extra
+5	hirogaru	を	—	—	を	—	model_extra
+5	hirogaru	値段	ねだん, ねだん	ねだん, ねだん	ねんじだん	ねだん, ねだん	reading_diff
+5	hirogaru	値段を決めます	—	—	ねんじをきめます	—	model_extra
+5	hirogaru	売れなかった	—	—	—	うれなかった	model_missing
+5	hirogaru	売れなかったら	うれなかったら	うれなかったら	うれなかったら	—	model_extra
+5	hirogaru	安くします	やすくします	やすくします	—	やすくします	coverage_diff
+5	hirogaru	安くなります	—	—	やすくなります	—	model_extra
+5	hirogaru	決まって	—	—	—	きまって	model_missing
+5	hirogaru	決まっています	—	きまっています	きまっています	—	model_extra
+5	hirogaru	決まっていますが	きまっていますが	—	—	—	model_extra
+5	hirogaru	決めます	きめます	きめます	—	きめます	coverage_diff
+5	hirogaru	自分	じぶん, じぶん	じぶん, じぶん	—	じぶん, じぶん	coverage_diff
+5	hirogaru	自分で	—	—	じぶんで, じぶんで	—	model_extra
+5	hirogaru	面白い	おもしろい	おもしろい	—	おもしろい	coverage_diff
+5	hirogaru	面白いです	—	—	おもしろいです	—	model_extra
+6	hirogaru	SNS	—	—	えぬえすえぬ	—	model_extra
+6	hirogaru	SNSに	—	—	えぬえすえぬに	—	model_extra
+6	hirogaru	、	—	—	、, 、	—	model_extra
+6	hirogaru	「祝う」	—	—	「たもう」	—	model_extra
+6	hirogaru	いろいろな	—	—	いろいろな	—	model_extra
+6	hirogaru	この日は	—	—	このひは	—	model_extra
+6	hirogaru	そのことばを	—	—	そのことばを	—	model_extra
+6	hirogaru	という字を	—	—	というじを	—	model_extra
+6	hirogaru	どの書が	—	—	どのしょが	—	model_extra
+6	hirogaru	に	—	—	に	—	model_extra
+6	hirogaru	の	—	—	の	—	model_extra
+6	hirogaru	ひとりが	—	—	ひとりが	—	model_extra
+6	hirogaru	みんなは	—	—	みなさんは	—	model_extra
+6	hirogaru	アップします	—	—	あっぷします	—	model_extra
+6	hirogaru	グループ	—	—	ぐるーぐる	—	model_extra
+6	hirogaru	写真	しゃしん	しゃしん	—	しゃしん	coverage_diff
+6	hirogaru	写真を	—	—	しゃしんを	—	model_extra
+6	hirogaru	参加して	—	—	—	さんかして	model_missing
+6	hirogaru	参加しています	さんかしています	さんかしています	さんかしていいます	—	model_extra
+6	hirogaru	好き	すき	すき	—	すき	coverage_diff
+6	hirogaru	字	じ	じ	—	じ	coverage_diff
+6	hirogaru	日	ひ	ひ	—	ひ	coverage_diff
+6	hirogaru	書	しょ, しょ	しょ, しょ	—	しょ, しょ	coverage_diff
+6	hirogaru	書が	—	—	しょが	—	model_extra
+6	hirogaru	書く	かく	かく	—	かく	coverage_diff
+6	hirogaru	書くことばを	—	—	かくことばを	—	model_extra
+6	hirogaru	祝う	いわう	いわう	—	いわう	coverage_diff
+6	hirogaru	集まりました	あつまりました	あつまりました	しみらえました	あつまりました	reading_diff
+7	hirogaru	あまり	—	—	あまり	—	model_extra
+7	hirogaru	ある	—	—	あある	—	model_extra
+7	hirogaru	から	—	—	から	—	model_extra
+7	hirogaru	ため	—	—	の	—	model_extra
+7	hirogaru	に	—	—	ni, ni, ni	—	model_extra
+7	hirogaru	の	—	—	no, no, の	—	model_extra
+7	hirogaru	は	—	—	wa	—	model_extra
+7	hirogaru	住んで	—	—	—	すんで	model_missing
+7	hirogaru	住んでいる	すんでいる	すんでいる	すんでいる	—	model_extra
+7	hirogaru	来ません	きません	きません	こまない	きません	reading_diff
+8	hirogaru	あり	—	—	あり	—	model_extra
+8	hirogaru	から	—	—	から	—	model_extra
+8	hirogaru	が	—	—	が	—	model_extra
+8	hirogaru	と	—	—	と	—	model_extra
+8	hirogaru	には	—	—	には	—	model_extra
+8	hirogaru	の	—	—	の, の	—	model_extra
+8	hirogaru	ました	—	—	ました	—	model_extra
+8	hirogaru	も	—	—	も	—	model_extra
+8	hirogaru	や	—	—	や	—	model_extra
+8	hirogaru	を	—	—	を	—	model_extra
+8	hirogaru	木星	もくせい	もくせい	きせい	もくせい	reading_diff
+8	hirogaru	表して	—	—	—	あらわして	model_missing
+8	hirogaru	表しています	あらわしています	あらわしています	ひょうしている	—	model_extra
+9	hirogaru	中古	ちゅうこ	ちゅうこ	—	ちゅうこ	coverage_diff
+9	hirogaru	人	ひと	ひと	—	ひと	coverage_diff
+9	hirogaru	売って	—	—	—	うって	model_missing
+9	hirogaru	売っている	うっている	うっている	—	—	model_extra
+9	hirogaru	売ります	うります, うります	うります, うります	—	うります, うります	coverage_diff
+9	hirogaru	店	みせ, みせ	みせ, みせ	—	みせ, みせ	coverage_diff
+9	hirogaru	本	ほん, ほん, ほん	ほん, ほん, ほん	—	ほん, ほん, ほん	coverage_diff
+9	hirogaru	来て	きて	きて	—	きて	coverage_diff
+9	hirogaru	終わった	—	—	—	おわった	model_missing
+9	hirogaru	読み	—	—	—	よみ	model_missing
+9	hirogaru	読み終わった	よみおわった	よみおわった	—	—	model_extra
+10	hirogaru	13	—	—	じゅうさん	—	model_extra
+10	hirogaru	13年前	じゅうさんねんまえ	じゅうさんねんまえ	—	—	model_extra
+10	hirogaru	から	—	—	から	—	model_extra
+10	hirogaru	この	—	—	ここの	—	model_extra
+10	hirogaru	しています	—	—	していいます	—	model_extra
+10	hirogaru	に	—	—	ni	—	model_extra
+10	hirogaru	の	—	—	no	—	model_extra
+10	hirogaru	は	—	—	wa	—	model_extra
+10	hirogaru	を	—	—	wo	—	model_extra
+10	hirogaru	グループ	—	—	ぐるпп	—	model_extra
+10	hirogaru	前	—	—	—	まえ	model_missing
+10	hirogaru	和	—	—	わ	—	model_extra
+10	hirogaru	和太鼓	わだいこ	わだいこ	—	わだいこ	coverage_diff
+10	hirogaru	太鼓	—	—	たいこ	—	model_extra
+10	hirogaru	年	—	—	—	ねん	model_missing
+10	hirogaru	年前	—	—	ねんまえ	—	model_extra
+10	hirogaru	活動	—	—	かつがく	—	model_extra
+10	hirogaru	活動して	—	—	—	かつどうして	model_missing
+10	hirogaru	活動しています	かつどうしています	かつどうしています	—	—	model_extra
+11	hirogaru	、	—	—	、	—	model_extra
+11	hirogaru	。	—	—	。, 。	—	model_extra
+11	hirogaru	あって	—	—	あって	—	model_extra
+11	hirogaru	かもしれません	—	—	かのうするかもしれません	—	model_extra
+11	hirogaru	それ	—	—	それ	—	model_extra
+11	hirogaru	で	—	—	で, で	—	model_extra
+11	hirogaru	に	—	—	に	—	model_extra
+11	hirogaru	の	—	—	の, の, の	—	model_extra
+11	hirogaru	は	—	—	は	—	model_extra
+11	hirogaru	を	—	—	を, を	—	model_extra
+11	hirogaru	大きい	おおきい	おおきい	おおい	おおきい	reading_diff
+11	hirogaru	砂浜	すなはま	すなはま	さはま	すなはま	reading_diff
+12	hirogaru	200	—	—	にひゃく	—	model_extra
+12	hirogaru	あります	—	—	あります	—	model_extra
+12	hirogaru	いい	—	—	いい	—	model_extra
+12	hirogaru	から	—	—	kara	—	model_extra
+12	hirogaru	で	—	—	de	—	model_extra
+12	hirogaru	です	—	—	desu	—	model_extra
+12	hirogaru	は	—	—	wa	—	model_extra
+12	hirogaru	ほうが	—	—	方が	—	model_extra
+12	hirogaru	ると	—	—	ると	—	model_extra
+12	hirogaru	を	—	—	o	—	model_extra
+12	hirogaru	メートル	—	—	めーとる	—	model_extra
+12	hirogaru	下は	—	—	したは	—	model_extra
+12	hirogaru	以上	いじょう	いじょう	いじょう	—	model_extra
+12	hirogaru	以上あります	—	—	—	いじょうあります	model_missing
+12	hirogaru	怖くなります	こわくなります	こわくなります	ふるrepidimasu	こわくなります	reading_diff
+12	hirogaru	見	—	—	み	—	model_extra
+12	hirogaru	見る	—	みる	—	みる	coverage_diff
+12	hirogaru	見ると	みると	—	—	—	model_extra
+12	hirogaru	鎖	くさり	くさり	さく	くさり	reading_diff
+13	hirogaru	ある	—	—	あり	—	model_extra
+13	hirogaru	お弁当	おべんとう, おべんとう	おべんとう, おべんとう	おべんとう, おべんとう	—	model_extra
+13	hirogaru	が	—	—	ga	—	model_extra
+13	hirogaru	たくさんの	—	—	たっかんさない	—	model_extra
+13	hirogaru	で	—	—	de	—	model_extra
+13	hirogaru	ときどき	—	—	ときどき	—	model_extra
+13	hirogaru	に	—	—	ni, ni, ni	—	model_extra
+13	hirogaru	の	—	—	no	—	model_extra
+13	hirogaru	ので	—	—	で	—	model_extra
+13	hirogaru	は	—	—	wa	—	model_extra
+13	hirogaru	を	—	—	o, o	—	model_extra
+13	hirogaru	スーパー	—	—	すぱー, すぱー	—	model_extra
+13	hirogaru	売って	—	—	—	うって	model_missing
+13	hirogaru	売っています	うっています	うっています	うつろっています	—	model_extra
+13	hirogaru	弁当	—	—	—	べんとう, べんとう	model_missing
+13	hirogaru	昼休み	ひるやすみ	ひるやすみ	ちゅうやすみ	ひるやすみ	reading_diff
+13	hirogaru	行きます	いきます	—	いきます	いきます	coverage_diff
+13	hirogaru	買い	—	—	かisex	かい	reading_diff
+13	hirogaru	買いに	かいに	—	—	—	model_extra
+13	hirogaru	買いに行きます	—	かいにいきます	—	—	model_extra
+14	hirogaru	あります	—	—	あります	—	model_extra
+14	hirogaru	ある	—	—	ある	—	model_extra
+14	hirogaru	お城	おしろ, おしろ	おしろ, おしろ	じょうじ, じょうじ	—	model_extra
+14	hirogaru	が	—	—	が, が	—	model_extra
+14	hirogaru	ここは	—	—	ここは	—	model_extra
+14	hirogaru	で	—	—	で	—	model_extra
+14	hirogaru	です	—	—	です	—	model_extra
+14	hirogaru	でも	—	—	でも	—	model_extra
+14	hirogaru	に	—	—	に	—	model_extra
+14	hirogaru	の中	—	—	なか	—	model_extra
+14	hirogaru	も	—	—	も	—	model_extra
+14	hirogaru	中	なか	なか	—	なか	coverage_diff
+14	hirogaru	古い	ふるい	ふるい	ふるい	—	model_extra
+14	hirogaru	右	みぎ	みぎ	—	みぎ	coverage_diff
+14	hirogaru	右に	—	—	みぎに	—	model_extra
+14	hirogaru	城	—	—	—	しろ, しろ	model_missing
+14	hirogaru	左	ひだり	ひだり	—	ひだり	coverage_diff
+14	hirogaru	左の	—	—	ひだりの	—	model_extra
+15	hirogaru	11月	じゅういちがつ	じゅういちがつ	じゅういちがつ	—	model_extra
+15	hirogaru	いい	—	—	いい	—	model_extra
+15	hirogaru	います	—	—	いります	—	model_extra
+15	hirogaru	ことが多い	—	—	多いです	—	model_extra
+15	hirogaru	この	—	—	この	—	model_extra
+15	hirogaru	たくさん	—	—	たんかん	—	model_extra
+15	hirogaru	でした	—	—	でいました	—	model_extra
+15	hirogaru	です	—	—	です	—	model_extra
+15	hirogaru	に行く	—	—	いきに	—	model_extra
+15	hirogaru	は	—	—	は, は	—	model_extra
+15	hirogaru	も	—	—	も	—	model_extra
+15	hirogaru	を	—	—	を	—	model_extra
+15	hirogaru	七五三	しちごさん	しちごさん	ななご三四	しちごさん	reading_diff
+15	hirogaru	多い	おおい	おおい	—	おおい	coverage_diff
+15	hirogaru	月	—	—	—	がつ	model_missing
+15	hirogaru	行く	いく	いく	—	いく	coverage_diff
+16	hirogaru	Q	—	—	Q	—	model_extra
+16	hirogaru	か	—	—	か	—	model_extra
+16	hirogaru	きっかけを	—	—	きっぱしあいを	—	model_extra
+16	hirogaru	どこで	—	—	どこで	—	model_extra
+16	hirogaru	を	—	—	を	—	model_extra
+16	hirogaru	教えて	おしえて	—	—	おしえて	coverage_diff
+16	hirogaru	教えてください	—	おしえてください	教えてください	—	model_extra
+16	hirogaru	知りました	—	しりました	しりました	—	model_extra
+16	hirogaru	知りましたか	しりましたか	—	—	しりましたか	coverage_diff
+16	hirogaru	笛	ふえ	ふえ	ぶえ	ふえ	reading_diff
+17	hirogaru	あげたり	—	—	あげたり	—	model_extra
+17	hirogaru	いますが	—	—	がいますが	—	model_extra
+17	hirogaru	が	—	—	が	—	model_extra
+17	hirogaru	で	—	—	で	—	model_extra
+17	hirogaru	に	—	—	に	—	model_extra
+17	hirogaru	の	—	—	の, の	—	model_extra
+17	hirogaru	は	—	—	は, は	—	model_extra
+17	hirogaru	も	—	—	も	—	model_extra
+17	hirogaru	インターネット	—	—	いんTERNET	—	model_extra
+17	hirogaru	友達	ともだち	ともだち	ゆうだち	ともだち	reading_diff
+17	hirogaru	売った	—	—	—	うった	model_missing
+17	hirogaru	売ったり	うったり	—	うりたり	—	model_extra
+17	hirogaru	売ったりします	—	うったりします	—	—	model_extra
+17	hirogaru	店	みせ	みせ	てん	みせ	reading_diff
+17	hirogaru	着	—	—	—	き	model_missing
+17	hirogaru	着なくなった	きなくなった	きなくなった	きなくなった	—	model_extra
+17	hirogaru	買って	—	—	—	かって	model_missing
+17	hirogaru	買っています	かっています	かっています	かっています	—	model_extra
+18	hirogaru	、	—	—	、, 、	—	model_extra
+18	hirogaru	この後	—	—	このご	—	model_extra
+18	hirogaru	です	—	—	desu	—	model_extra
+18	hirogaru	になりました	—	—	なりました	—	model_extra
+18	hirogaru	の	—	—	no, no	—	model_extra
+18	hirogaru	夕方	ゆうがた	ゆうがた	ゆうがつ	ゆうがた	reading_diff
+18	hirogaru	後	あと	あと	—	あと	coverage_diff
+18	hirogaru	暗くなって	くらくなって	くらくなって	あんになって	くらくなって	reading_diff
+19	hirogaru	こと	—	—	こと	—	model_extra
+19	hirogaru	して	—	—	して	—	model_extra
+19	hirogaru	です	—	—	です, です	—	model_extra
+19	hirogaru	でも	—	—	でも	—	model_extra
+19	hirogaru	とき	—	—	とき	—	model_extra
+19	hirogaru	とても	—	—	とても	—	model_extra
+19	hirogaru	な	—	—	な	—	model_extra
+19	hirogaru	になれる	—	—	になりえる	—	model_extra
+19	hirogaru	は	—	—	は	—	model_extra
+19	hirogaru	を	—	—	を, を	—	model_extra
+19	hirogaru	キャラクター	—	—	きゃらくたー	—	model_extra
+19	hirogaru	コスプレ	—	—	こすぷれ	—	model_extra
+19	hirogaru	好き	—	—	すき	—	model_extra
+19	hirogaru	好きな	すきな	すきな	—	すきな	coverage_diff
+19	hirogaru	幸せ	しあわせ	しあわせ	しずかい	しあわせ	reading_diff
+19	hirogaru	見て	—	—	—	みて	model_missing
+19	hirogaru	見ている	みている	みている	みている	—	model_extra
+20	hirogaru	Q	—	—	Q	—	model_extra
+20	hirogaru	か	—	—	か	—	model_extra
+20	hirogaru	どうして	—	—	どうして	—	model_extra
+20	hirogaru	の	—	—	の	—	model_extra
+20	hirogaru	を	—	—	を	—	model_extra
+20	hirogaru	ウクレレ	—	—	うくれれ	—	model_extra
+20	hirogaru	作りました	—	つくりました	つくりました	—	model_extra
+20	hirogaru	作りましたか	つくりましたか	—	—	つくりましたか	coverage_diff
+20	hirogaru	店	みせ	みせ	てん	みせ	reading_diff
+21	kahoku	、	—	—	、	—	model_extra
+21	kahoku	「	—	—	「	—	model_extra
+21	kahoku	」	—	—	」	—	model_extra
+21	kahoku	が	—	—	が	—	model_extra
+21	kahoku	ことも	—	—	ことも	—	model_extra
+21	kahoku	さん	—	—	さん	—	model_extra
+21	kahoku	できます	—	—	できる	—	model_extra
+21	kahoku	の	—	—	の	—	model_extra
+21	kahoku	ので	—	—	ので	—	model_extra
+21	kahoku	は	—	—	は	—	model_extra
+21	kahoku	カモシカ	—	—	かもし 'か', 'し', 'か'	—	model_extra
+21	kahoku	中	なか	なか	—	なか	coverage_diff
+21	kahoku	保護	—	—	—	ほご	model_missing
+21	kahoku	公園	—	—	—	こうえん	model_missing
+21	kahoku	動物	どうぶつ	どうぶつ	—	どうぶつ, どうぶつ	coverage_diff
+21	kahoku	台原森林	—	—	—	だいのはらしんりん	model_missing
+21	kahoku	台原森林公園	だいのはらしんりんこうえん	だいのはらしんりんこうえん	だいげんじしんこうえん	—	model_extra
+21	kahoku	小野田	—	—	おのだ	おのだ	coverage_diff
+21	kahoku	小野田泰士	おのだたいじ	おのだやすし	—	—	model_extra
+21	kahoku	所	ところ	ところ	—	ところ	coverage_diff
+21	kahoku	東北	—	—	とうほく	とうほく	coverage_diff
+21	kahoku	東北野生動物保護管理	とうほくやせいどうぶつほごかんり	—	—	—	model_extra
+21	kahoku	東北野生動物保護管理センター	—	とうほくやせいどうぶつほごかんりせんたー	—	—	model_extra
+21	kahoku	泰士	—	—	やすし	たいじ	reading_diff
+21	kahoku	生きる	いきる	いきる	—	いきる	coverage_diff
+21	kahoku	研究して	—	—	—	けんきゅうして	model_missing
+21	kahoku	研究している	けんきゅうしている	けんきゅうしている	—	—	model_extra
+21	kahoku	管理	—	—	—	かんり	model_missing
+21	kahoku	自然	しぜん	しぜん	—	しぜん	coverage_diff
+21	kahoku	野生	—	—	—	やせい	model_missing
+21	kahoku	野生動物保護管理センター	—	—	しんせいぶどうぼうごうかん	—	model_extra
+21	kahoku	（自然の中で生きる動物を研究している所）	—	—	（しぜんの中でいきるどうぶつをけんきゅうしているところ）	—	model_extra
+22	kahoku	13	—	—	じゅうさん	—	model_extra
+22	kahoku	2年生	—	—	にねんせい	—	model_extra
+22	kahoku	、	—	—	、	—	model_extra
+22	kahoku	「	—	—	「	—	model_extra
+22	kahoku	から	—	—	から	—	model_extra
+22	kahoku	さん	—	—	さん	—	model_extra
+22	kahoku	た	—	—	た	—	model_extra
+22	kahoku	と	—	—	と	—	model_extra
+22	kahoku	に	—	—	に	—	model_extra
+22	kahoku	の	—	—	no	—	model_extra
+22	kahoku	ので	—	—	ので	—	model_extra
+22	kahoku	は	—	—	は	—	model_extra
+22	kahoku	ま	—	—	ま	—	model_extra
+22	kahoku	も	—	—	も	—	model_extra
+22	kahoku	中学校	—	—	ちゅうがっこう	—	model_extra
+22	kahoku	優愛	—	ゆあ	ゆあい	ゆあ	reading_diff
+22	kahoku	古川	—	—	ふるかわ	—	model_extra
+22	kahoku	古川黎明中学校	ふるかわれいめいちゅうがっこう	ふるかわれいめいちゅうがっこう	—	ふるかわれいめいちゅうがっこう	coverage_diff
+22	kahoku	富樫	—	とがし	としだ	とがし	reading_diff
+22	kahoku	富樫優愛	とがしゆあ	—	—	—	model_extra
+22	kahoku	年生	—	—	—	ねんせい	model_missing
+22	kahoku	来	—	—	きた, きた	—	model_extra
+22	kahoku	来た	きた	きた	—	きた	coverage_diff
+22	kahoku	来ました	きました	きました	—	きました	coverage_diff
+22	kahoku	歳	—	—	さい	さい	coverage_diff
+22	kahoku	涌谷町	わくやちょう	わくやちょう	ゆきやちょう	わくやちょう	reading_diff
+22	kahoku	親	おや	おや	しん	おや	reading_diff
+22	kahoku	言って	—	—	—	いって	model_missing
+22	kahoku	言っていた	いっていた	いっていた	いっていた	—	model_extra
+22	kahoku	買	—	—	か	—	model_extra
+22	kahoku	買い	—	かい	—	かい	coverage_diff
+22	kahoku	買いに	かいに	—	—	—	model_extra
+22	kahoku	黎明	—	—	れいめい	—	model_extra
+22	kahoku	（	—	—	（	—	model_extra
+22	kahoku	）	—	—	）	—	model_extra
+22	kahoku	１３歳	じゅうさんさい	じゅうさんさい	—	—	model_extra
+22	kahoku	２年生	にねんせい	にねんせい	—	—	model_extra
+23	kahoku	、	—	—	、	—	model_extra
+23	kahoku	が	—	—	が, が, が	—	model_extra
+23	kahoku	ここ	—	—	ここ	—	model_extra
+23	kahoku	で	—	—	で	—	model_extra
+23	kahoku	の	—	—	の, の	—	model_extra
+23	kahoku	もの	—	—	もの	—	model_extra
+23	kahoku	ニホンカモシカ	—	—	にほんかもしが	—	model_extra
+23	kahoku	何度	なんど	なんど	—	なんど	coverage_diff
+23	kahoku	何度も	—	—	おおいに	—	model_extra
+23	kahoku	大切	—	—	—	たいせつ	model_missing
+23	kahoku	大切に	たいせつに	たいせつに	たいせつな	—	model_extra
+23	kahoku	天然	—	—	—	てんねん	model_missing
+23	kahoku	天然記念物	—	—	てんねんきねんぶつ	—	model_extra
+23	kahoku	守って	—	—	—	まもって	model_missing
+23	kahoku	守っている	まもっている	まもっている	まもっている	—	model_extra
+23	kahoku	月	—	—	—	がつ	model_missing
+23	kahoku	特	—	—	—	とく	model_missing
+23	kahoku	特に	とくに	とくに	とくべつ	—	model_extra
+23	kahoku	特別	—	—	とくべつ	とくべつ	coverage_diff
+23	kahoku	特別天然記念物	とくべつてんねんきねんぶつ	とくべつてんねんきねんぶつ	—	—	model_extra
+23	kahoku	見られて	—	—	—	みられて	model_missing
+23	kahoku	見られています	みられています	みられています	みられています	—	model_extra
+23	kahoku	記念物	—	—	—	きねんぶつ	model_missing
+23	kahoku	（	—	—	（	—	model_extra
+23	kahoku	）	—	—	）	—	model_extra
+23	kahoku	４月	しがつ	しがつ	よんがつ	—	model_extra
+24	kahoku	たちは	—	—	たち	—	model_extra
+24	kahoku	で	—	—	で	—	model_extra
+24	kahoku	また	—	—	また	—	model_extra
+24	kahoku	も	—	—	も	—	model_extra
+24	kahoku	もしもピアノが弾けたなら	—	—	もしもぴあのがひかれたなら	—	model_extra
+24	kahoku	実習	—	—	—	じっしゅう	model_missing
+24	kahoku	実習生	じっしゅうせい	じっしゅうせい	じっしゅうせい	—	model_extra
+24	kahoku	弾けたなら	ひけたなら	ひけたなら	—	ひけたなら	coverage_diff
+24	kahoku	教室	—	—	きょうしつ	きょうしつ	coverage_diff
+24	kahoku	日本語	—	—	にほんご	にほんご	coverage_diff
+24	kahoku	日本語教室	にほんごきょうしつ	にほんごきょうしつ	—	—	model_extra
+24	kahoku	生	—	—	—	せい	model_missing
+24	kahoku	練習した	れんしゅうした	れんしゅうした	ねんしゅうした	れんしゅうした	reading_diff
+25	kahoku	10年間	—	—	じゅうねんかん	—	model_extra
+25	kahoku	、	—	—	、	—	model_extra
+25	kahoku	に	—	—	に	—	model_extra
+25	kahoku	の	—	—	の	—	model_extra
+25	kahoku	コミュニティ・センター	—	—	こみゅうらいと・せんたー	—	model_extra
+25	kahoku	マージャン	—	—	まじｬﾝ	—	model_extra
+25	kahoku	区	—	—	く	—	model_extra
+25	kahoku	太白	—	—	たいはく	—	model_extra
+25	kahoku	太白区	たいはくく	たいはくく	—	たいはくく	coverage_diff
+25	kahoku	年	—	—	—	ねん	model_missing
+25	kahoku	沢	—	—	さわ	—	model_extra
+25	kahoku	通いました	かよいました	かよいました	とりました	かよいました	reading_diff
+25	kahoku	金刚	—	—	ごうかん	—	model_extra
+25	kahoku	金剛沢	こんごうざわ	こんごうざわ	—	こんごうざわ	coverage_diff
+25	kahoku	間	—	—	—	かん	model_missing
+25	kahoku	１０年間	じゅうねんかん	じゅうねんかん	—	—	model_extra
+26	kahoku	、	—	—	、	—	model_extra
+26	kahoku	「	—	—	「	—	model_extra
+26	kahoku	が	—	—	が, が	—	model_extra
+26	kahoku	さん	—	—	さん	—	model_extra
+26	kahoku	ため	—	—	ため	—	model_extra
+26	kahoku	とても	—	—	とても	—	model_extra
+26	kahoku	なので	—	—	ので	—	model_extra
+26	kahoku	に	—	—	に	—	model_extra
+26	kahoku	の	—	—	の	—	model_extra
+26	kahoku	は	—	—	は	—	model_extra
+26	kahoku	へ	—	—	へ	—	model_extra
+26	kahoku	佐藤	—	さとう	さとう	さとう	coverage_diff
+26	kahoku	佐藤実織	さとうみおり	—	—	—	model_extra
+26	kahoku	好き	—	—	すき	—	model_extra
+26	kahoku	好きな	すきな	すきな	—	すきな	coverage_diff
+26	kahoku	実	—	—	—	み	model_missing
+26	kahoku	実織	—	みおり	みおり	—	model_extra
+26	kahoku	年生	—	—	—	ねんせい	model_missing
+26	kahoku	来る	くる	くる	—	くる	coverage_diff
+26	kahoku	来ると	—	—	きると	—	model_extra
+26	kahoku	様	—	—	さま	—	model_extra
+26	kahoku	歳	—	—	—	さい	model_missing
+26	kahoku	気持ち	きもち	きもち	気持	きもち	reading_diff
+26	kahoku	神	—	—	かみ	—	model_extra
+26	kahoku	神様	かみさま	かみさま	—	かみさま	coverage_diff
+26	kahoku	織	—	—	—	おり	model_missing
+26	kahoku	良くなります	よくなります	よくなります	よろこびになります	よくなります	reading_diff
+26	kahoku	（	—	—	（	—	model_extra
+26	kahoku	）	—	—	）	—	model_extra
+26	kahoku	１１歳	じゅういっさい	じゅういっさい	じゅういちさい	—	model_extra
+26	kahoku	６年生	ろくねんせい	ろくねんせい	ろくねんせい	—	model_extra
+27	kahoku	です	—	—	です	—	model_extra
+27	kahoku	の	—	—	の	—	model_extra
+27	kahoku	は	—	—	は	—	model_extra
+27	kahoku	仙台	—	—	せんだい	—	model_extra
+27	kahoku	仙台市	せんだいし	せんだいし	—	せんだいし	coverage_diff
+27	kahoku	公園	こうえん	こうえん	—	こうえん, こうえん	coverage_diff
+27	kahoku	公園です	—	—	こうえんです	—	model_extra
+27	kahoku	区	—	—	く	—	model_extra
+27	kahoku	台原	—	—	だいげん	—	model_extra
+27	kahoku	台原森林	—	—	—	だいのはらしんりん	model_missing
+27	kahoku	台原森林公園	だいのはらしんりんこうえん	だいのはらしんりんこうえん	—	—	model_extra
+27	kahoku	多い	おおい	おおい	—	おおい	coverage_diff
+27	kahoku	市	—	—	し	—	model_extra
+27	kahoku	森林公園	—	—	しんりんこうえん	—	model_extra
+27	kahoku	緑	みどり	みどり	—	みどり	coverage_diff
+27	kahoku	緑が多い	—	—	みどりがおおい	—	model_extra
+27	kahoku	青葉	—	—	あおば	—	model_extra
+27	kahoku	青葉区	あおばく	あおばく	—	あおばく	coverage_diff
+28	kahoku	2年生	—	—	にねんせい	—	model_extra
+28	kahoku	「	—	—	「	—	model_extra
+28	kahoku	」	—	—	」	—	model_extra
+28	kahoku	こと	—	—	こと	—	model_extra
+28	kahoku	さん	—	—	さん	—	model_extra
+28	kahoku	で	—	—	で	—	model_extra
+28	kahoku	です	—	—	です	—	model_extra
+28	kahoku	の	—	—	の, の	—	model_extra
+28	kahoku	は	—	—	は	—	model_extra
+28	kahoku	ほしい	—	—	ほしがった	—	model_extra
+28	kahoku	を	—	—	を	—	model_extra
+28	kahoku	ブルーベリー	—	—	ぶるべりー	—	model_extra
+28	kahoku	富谷市	とみやし	とみやし	とあしつ	—	model_extra
+28	kahoku	富谷市のこ	—	—	—	とみやしのこ	model_missing
+28	kahoku	年生	—	—	—	ねんせい	model_missing
+28	kahoku	日夏	—	—	ひか	—	model_extra
+28	kahoku	知って	しって	—	—	しって	coverage_diff
+28	kahoku	知っている	—	—	しっている	—	model_extra
+28	kahoku	知ってほしかったです	—	しってほしかったです	—	—	model_extra
+28	kahoku	阿部	—	—	あべ	—	model_extra
+28	kahoku	阿部日夏	あべひなつ	あべひなつ	—	あべひなつ	coverage_diff
+28	kahoku	高校	こうこう	—	こうか	こうこう	reading_diff
+28	kahoku	高校２年生	—	こうこうにねんせい	—	—	model_extra
+28	kahoku	２年生	にねんせい	—	—	—	model_extra
+29	kahoku	、	—	—	、, 、	—	model_extra
+29	kahoku	して	—	—	して	—	model_extra
+29	kahoku	しました	—	—	しました	—	model_extra
+29	kahoku	それ	—	—	それ	—	model_extra
+29	kahoku	で	—	—	で	—	model_extra
+29	kahoku	と	—	—	と	—	model_extra
+29	kahoku	に	—	—	に	—	model_extra
+29	kahoku	は	—	—	は	—	model_extra
+29	kahoku	み	—	—	み	—	model_extra
+29	kahoku	ること	—	—	こと	—	model_extra
+29	kahoku	を	—	—	を, を	—	model_extra
+29	kahoku	アフリカゾウ	—	—	あふりかぞう	—	model_extra
+29	kahoku	八木山	—	—	はぎやま	やぎやま	reading_diff
+29	kahoku	八木山動物公園	やぎやまどうぶつこうえん	やぎやまどうぶつこうえん	—	—	model_extra
+29	kahoku	動物	—	—	—	どうぶつ	model_missing
+29	kahoku	動物公園	—	—	どうぶつこうえん	どうぶつこうえん	coverage_diff
+29	kahoku	動物園	—	—	どうぶつえん	—	model_extra
+29	kahoku	取り	—	—	—	とり	model_missing
+29	kahoku	取り換えて	とりかえて	—	とりかえて	—	model_extra
+29	kahoku	取り換えてみる	—	とりかえてみる	—	—	model_extra
+29	kahoku	園	—	—	—	えん	model_missing
+29	kahoku	大森山	—	—	おおもりやま	おおもりやま	coverage_diff
+29	kahoku	大森山動物園	おおもりやまどうぶつえん	おおもりやまどうぶつえん	—	—	model_extra
+29	kahoku	換えて	—	—	—	かえて	model_missing
+29	kahoku	話	はなし	はなし	わ	はなし	reading_diff
+29	kahoku	雌	めす	めす	—	めす	coverage_diff
+29	kahoku	雌の	—	—	めの	—	model_extra
+30	kahoku	ぐらい	—	—	くらい	—	model_extra
+30	kahoku	の	—	—	の	—	model_extra
+30	kahoku	は	—	—	は	—	model_extra
+30	kahoku	人	ひと	ひと	—	ひと	coverage_diff
+30	kahoku	人が	—	—	ひとが	—	model_extra
+30	kahoku	人ぐらい	—	—	—	にんぐらい	model_missing
+30	kahoku	売った	うった	うった	いた	うった	reading_diff
+30	kahoku	日	ひ	ひ	ひ	にち, ひ	reading_diff
+30	kahoku	月	—	—	—	がつ	model_missing
+30	kahoku	１２日	じゅうににち	じゅうににち	じゅうにひ	—	model_extra
+30	kahoku	２０人	にじゅうにん	にじゅうにん	にん	—	model_extra
+30	kahoku	７月	しちがつ	しちがつ	なながつ	—	model_extra
+31	kahoku	あげること	—	—	あげること	—	model_extra
+31	kahoku	それ	—	—	それ	—	model_extra
+31	kahoku	で	—	—	で	—	model_extra
+31	kahoku	に	—	—	に	—	model_extra
+31	kahoku	の	—	—	の	—	model_extra
+31	kahoku	を	—	—	を	—	model_extra
+31	kahoku	宮城野	—	—	みやぎの	みやぎの	coverage_diff
+31	kahoku	宮城野高校	みやぎのこうこう	みやぎのこうこう	—	—	model_extra
+31	kahoku	高校	—	—	こうこう	こうこう	coverage_diff
+32	kahoku	たち	—	—	たち	—	model_extra
+32	kahoku	の	—	—	の	—	model_extra
+32	kahoku	のような	—	—	にごうの	—	model_extra
+32	kahoku	は	—	—	は	—	model_extra
+32	kahoku	を	—	—	を	—	model_extra
+32	kahoku	を作りました	—	—	をつくりました	—	model_extra
+32	kahoku	ブルーベリー	—	—	ぶるーべりー	—	model_extra
+32	kahoku	作りました	つくりました	つくりました	—	つくりました	coverage_diff
+32	kahoku	高校生	こうこうせい	こうこうせい	こうがせい	こうこうせい	reading_diff
+32	kahoku	（	—	—	（	—	model_extra
+32	kahoku	）	—	—	）	—	model_extra
+33	kahoku	、	—	—	、, 、	—	model_extra
+33	kahoku	「	—	—	「	—	model_extra
+33	kahoku	」	—	—	」	—	model_extra
+33	kahoku	あいさつ	—	—	あいさつ	—	model_extra
+33	kahoku	しました	—	—	しました	—	model_extra
+33	kahoku	です	—	—	です	—	model_extra
+33	kahoku	と	—	—	と	—	model_extra
+33	kahoku	とても	—	—	とても	—	model_extra
+33	kahoku	にする	—	—	にします	—	model_extra
+33	kahoku	の	—	—	の	—	model_extra
+33	kahoku	は	—	—	は, は	—	model_extra
+33	kahoku	を	—	—	を, を	—	model_extra
+33	kahoku	元気	げんき	—	げんき	げんき	coverage_diff
+33	kahoku	元気にする	—	げんきにする	—	—	model_extra
+33	kahoku	大人	おとな	おとな	だいじん	おとな	reading_diff
+33	kahoku	市	—	—	し	—	model_extra
+33	kahoku	斎藤	—	—	さいとう	さいとう	coverage_diff
+33	kahoku	斎藤正美	さいとうまさみ	さいとうまさみ	—	—	model_extra
+33	kahoku	正美	—	—	まさみ	まさみ	coverage_diff
+33	kahoku	皆	みな	みな	—	みな	coverage_diff
+33	kahoku	皆さん	—	—	みなさん	—	model_extra
+33	kahoku	石巻	—	—	いわさき	—	model_extra
+33	kahoku	石巻市	いしのまきし	いしのまきし	—	いしのまきし	coverage_diff
+34	kahoku	大きく	—	—	—	おおきく	model_missing
+34	kahoku	大きくなって	おおきくなって	おおきくなって	—	—	model_extra
+34	kahoku	育ちました	そだちました	そだちました	—	そだちました	coverage_diff
+34	kahoku	花	はな	はな	—	はな	coverage_diff
+34	kahoku	話しました	はなしました	はなしました	—	はなしました	coverage_diff
+35	kahoku	が	—	—	が	—	model_extra
+35	kahoku	に	—	—	に	—	model_extra
+35	kahoku	の	—	—	の	—	model_extra
+35	kahoku	は	—	—	は	—	model_extra
+35	kahoku	人	—	—	—	にん	model_missing
+35	kahoku	富谷	—	—	とごう	とみや	reading_diff
+35	kahoku	富谷小学校	とみやしょうがっこう	とみやしょうがっこう	—	—	model_extra
+35	kahoku	小学校	—	—	しょうがっこう	しょうがっこう	coverage_diff
+35	kahoku	年生	—	—	—	ねんせい	model_missing
+35	kahoku	３年生	さんねんせい	さんねんせい	さんねんせい	—	model_extra
+35	kahoku	５８人	ごじゅうはちにん	ごじゅうはちにん	ごじゅうはちにん	—	model_extra
+36	kahoku	、	—	—	、	—	model_extra
+36	kahoku	が	—	—	が	—	model_extra
+36	kahoku	くらい	—	—	くらい	—	model_extra
+36	kahoku	と	—	—	と	—	model_extra
+36	kahoku	には	—	—	には	—	model_extra
+36	kahoku	の人たち	—	—	のひとたち	—	model_extra
+36	kahoku	を	—	—	を	—	model_extra
+36	kahoku	を使った	—	—	はいた	—	model_extra
+36	kahoku	アメリカザリガニ	—	—	あめりかざりがに	—	model_extra
+36	kahoku	ウシガエル	—	—	うしがえる	—	model_extra
+36	kahoku	人	ひと	ひと	—	ひと	coverage_diff
+36	kahoku	人くらい	—	—	—	にんくらい	model_missing
+36	kahoku	使った	つかった	つかった	—	つかった	coverage_diff
+36	kahoku	日	—	—	—	か	model_missing
+36	kahoku	月	—	—	—	がつ	model_missing
+36	kahoku	１０日	とおか	とおか	とおか	—	model_extra
+36	kahoku	１１月	じゅういちがつ	じゅういちがつ	じゅうにがつ	—	model_extra
+36	kahoku	２０人	にじゅうにん	にじゅうにん	にん	—	model_extra
+37	kahoku	前	—	—	—	まえ	model_missing
+37	kahoku	名古屋	なごや	なごや	—	なごや	coverage_diff
+37	kahoku	名古屋市	なごやし	なごやし	—	なごやし	coverage_diff
+37	kahoku	大学	だいがく	だいがく	—	だいがく	coverage_diff
+37	kahoku	年	—	—	—	ねん	model_missing
+37	kahoku	引っ	—	—	—	ひっ	model_missing
+37	kahoku	引っ越しし	ひっこしし	—	—	—	model_extra
+37	kahoku	引っ越ししました	—	ひっこししました	—	—	model_extra
+37	kahoku	木村	きむら	きむら	—	きむら	coverage_diff
+37	kahoku	越	—	—	—	こ	model_missing
+37	kahoku	通う	かよう	かよう	—	かよう	coverage_diff
+37	kahoku	１８年前	じゅうはちねんまえ	じゅうはちねんまえ	—	—	model_extra
+38	kahoku	しよう	—	—	しよう	—	model_extra
+38	kahoku	する	—	—	す	—	model_extra
+38	kahoku	たちは	—	—	たちは	—	model_extra
+38	kahoku	ために	—	—	のぞみに	—	model_extra
+38	kahoku	と	—	—	to	—	model_extra
+38	kahoku	の	—	—	no, no	—	model_extra
+38	kahoku	を	—	—	o	—	model_extra
+38	kahoku	プレゼント	—	—	ぷれすてん	—	model_extra
+38	kahoku	卒業	—	—	そつぎょう	—	model_extra
+38	kahoku	卒業する	そつぎょうする	そつぎょうする	—	そつぎょうする	coverage_diff
+38	kahoku	年生	—	—	—	ねんせい	model_missing
+38	kahoku	親	おや	おや	しん	おや	reading_diff
+38	kahoku	３年生	さんねんせい	さんねんせい	さんねんせい	—	model_extra
+39	kahoku	、	—	—	、	—	model_extra
+39	kahoku	「	—	—	「	—	model_extra
+39	kahoku	」	—	—	」	—	model_extra
+39	kahoku	あります	—	—	あります	—	model_extra
+39	kahoku	が	—	—	が	—	model_extra
+39	kahoku	した	—	—	した	—	model_extra
+39	kahoku	に	—	—	に	—	model_extra
+39	kahoku	には	—	—	には	—	model_extra
+39	kahoku	を	—	—	を	—	model_extra
+39	kahoku	山形	—	—	やまがた	—	model_extra
+39	kahoku	山形県	やまがたけん	やまがたけん	—	やまがたけん	coverage_diff
+39	kahoku	朝日	—	—	あさひ	—	model_extra
+39	kahoku	朝日町	あさひまち	あさひまち	—	あさひまち	coverage_diff
+39	kahoku	町	—	—	ちょう	—	model_extra
+39	kahoku	県	—	—	けん	—	model_extra
+39	kahoku	神社	—	—	—	じんじゃ	model_missing
+39	kahoku	空気神社	くうきじんじゃ	くうきじんじゃ	くうきじんじゃ	—	model_extra
+40	kahoku	が	—	—	が	—	model_extra
+40	kahoku	くらいの	—	—	くらいの	—	model_extra
+40	kahoku	には	—	—	には	—	model_extra
+40	kahoku	人くらい	—	—	—	にんくらい	model_missing
+40	kahoku	月	—	—	—	がつ	model_missing
+40	kahoku	２４日	にじゅうよっか	—	にじゅうよっか	にじゅうよっか	coverage_diff
+40	kahoku	３月	さんがつ	—	さんがつ	—	model_extra
+40	kahoku	３月２４日	—	さんがつにじゅうよっか	—	—	model_extra
+40	kahoku	９０人	きゅうじゅうにん	きゅうじゅうにん	きゅうじゅうにん	—	model_extra
+41	nhk	1人	ひとり	ひとり	いちにん	ひとり	reading_diff
+41	nhk	、	—	—	、	—	model_extra
+41	nhk	「	—	—	「	—	model_extra
+41	nhk	」	—	—	」	—	model_extra
+41	nhk	あと	—	—	あと	—	model_extra
+41	nhk	が	—	—	が	—	model_extra
+41	nhk	こと	—	—	こと	—	model_extra
+41	nhk	この	—	—	こ	—	model_extra
+41	nhk	さん	—	—	さん	—	model_extra
+41	nhk	です	—	—	です	—	model_extra
+41	nhk	と	—	—	と, と	—	model_extra
+41	nhk	に	—	—	に, に	—	model_extra
+41	nhk	の	—	—	の, の, の, の	—	model_extra
+41	nhk	は	—	—	は, は	—	model_extra
+41	nhk	ほしい	—	—	ほしが	—	model_extra
+41	nhk	よく	—	—	よく	—	model_extra
+41	nhk	を	—	—	を, を	—	model_extra
+41	nhk	トップ	—	—	ちょう	—	model_extra
+41	nhk	トランプ	—	—	とらむぷ	—	model_extra
+41	nhk	会ったら	あったら	あったら	あったら	—	model_extra
+41	nhk	問題のこ	—	—	—	もんだいのこ	model_missing
+41	nhk	必ず	かならず	かならず	ぜったい	かならず	reading_diff
+41	nhk	早紀江	さきえ	—	はやきえ	さきえ	reading_diff
+41	nhk	横田	よこた	—	よこた	よこた	coverage_diff
+41	nhk	横田早紀江	—	よこたさきえ	—	—	model_extra
+41	nhk	考えて	—	—	—	かんがえて	model_missing
+41	nhk	考えている	—	かんがえている	かんがえている	—	model_extra
+41	nhk	考えていると	かんがえていると	—	—	—	model_extra
+41	nhk	話して	はなして	—	はなして	はなして	coverage_diff
+41	nhk	話してほしい	—	はなしてほしい	—	—	model_extra
+42	nhk	1億2300万円	いちおくにせんさんびゃくまんえん	いちおくにせんさんびゃくまんえん	いちおくにせんさんびゃくまんえん	—	model_extra
+42	nhk	200人	—	にひゃくにん	にひゃくじん	—	model_extra
+42	nhk	200人以上	にひゃくにんいじょう	—	—	—	model_extra
+42	nhk	4月	しがつ	しがつ	よんがつ	—	model_extra
+42	nhk	あった	—	—	あっただ	—	model_extra
+42	nhk	が	—	—	が	—	model_extra
+42	nhk	ことし	—	—	ことし	—	model_extra
+42	nhk	この	—	—	ここの	—	model_extra
+42	nhk	さん	—	—	さん, さん	—	model_extra
+42	nhk	たち	—	—	たち	—	model_extra
+42	nhk	て	—	—	て	—	model_extra
+42	nhk	で	—	—	で, で, で, で	—	model_extra
+42	nhk	です	—	—	です	—	model_extra
+42	nhk	と	—	—	と	—	model_extra
+42	nhk	に	—	—	に	—	model_extra
+42	nhk	の	—	—	の, の, の	—	model_extra
+42	nhk	も	—	—	も	—	model_extra
+42	nhk	を	—	—	を, を, を	—	model_extra
+42	nhk	オークション	—	—	おーくせんと, おーくせんと	—	model_extra
+42	nhk	マジンガー	—	—	まじngr	—	model_extra
+42	nhk	一緒	いっしょ	—	—	いっしょ	coverage_diff
+42	nhk	一緒に	—	いっしょに	いっしょに	—	model_extra
+42	nhk	万	—	—	—	まん	model_missing
+42	nhk	人	ひと	ひと	じん	ひと, にん	reading_diff
+42	nhk	以上	—	いじょう	いじょう	いじょう	coverage_diff
+42	nhk	億	—	—	—	おく	model_missing
+42	nhk	円	—	—	—	えん	model_missing
+42	nhk	出しました	だしました, だしました	だしました, だしました	だいしました, だいしました	だしました, だしました	reading_diff
+42	nhk	出身	しゅっしん	しゅっしん	しゅっせん	しゅっしん	reading_diff
+42	nhk	月	—	—	—	がつ	model_missing
+42	nhk	石川県	いしかわけん	いしかわけん	せいかんけん	いしかわけん	reading_diff
+42	nhk	考え	—	—	かんがえ	—	model_extra
+42	nhk	考えて	かんがえて	かんがえて	—	かんがえて	coverage_diff
+42	nhk	被害	ひがい	ひがい	はいば	ひがい	reading_diff
+42	nhk	集まりました	あつまりました	あつまりました	しみらめいまし	あつまりました	reading_diff
+42	nhk	Ｚ	—	—	Ｚ	—	model_extra
+43	nhk	182の市や町などに	—	—	ひゃくはちにんのいちばやまちなどに	—	model_extra
+43	nhk	1週間	いっしゅうかん	いっしゅうかん	—	—	model_extra
+43	nhk	これから1週間	—	—	こんじゅういちしゅっかん	—	model_extra
+43	nhk	は	—	—	は, は	—	model_extra
+43	nhk	や	—	—	や	—	model_extra
+43	nhk	チェックしてほしいと言いました	—	—	けっかしてほしみていました	—	model_extra
+43	nhk	一度	いちど	いちど	—	—	model_extra
+43	nhk	一度みてく	—	—	—	いちどみてく	model_missing
+43	nhk	人	ひと	ひと	—	ひと	coverage_diff
+43	nhk	住んで	—	—	—	すんで	model_missing
+43	nhk	住んでいる	すんでいる	すんでいる	—	—	model_extra
+43	nhk	住んでいる人	—	—	すみんでいるひと	—	model_extra
+43	nhk	地震	じしん	じしん	—	じしん	coverage_diff
+43	nhk	地震があったときの準備を	—	—	じしんがあったときのじゅんびを	—	model_extra
+43	nhk	場所	—	—	—	ばしょ	model_missing
+43	nhk	市	し	し	—	し	coverage_diff
+43	nhk	準備	じゅんび	じゅんび	—	じゅんび	coverage_diff
+43	nhk	町	まち	まち	—	まち	coverage_diff
+43	nhk	茨城県	いばらきけん	いばらきけん	ちばけん	いばらきけん	reading_diff
+43	nhk	荷物	にもつ	にもつ	—	にもつ	coverage_diff
+43	nhk	言いました	いいました	いいました	—	いいました	coverage_diff
+43	nhk	逃げる	にげる	にげる	—	にげる	coverage_diff
+43	nhk	逃げるときの荷物を	—	—	にげるときのたもとを	—	model_extra
+43	nhk	週間	—	—	—	しゅうかん	model_missing
+43	nhk	避難	—	—	—	ひなん	model_missing
+43	nhk	避難場所	ひなんばしょ	ひなんばしょ	ひなんばしょ	—	model_extra
+44	nhk	1950円	せんきゅうひゃくごじゅうえん	せんきゅうひゃくごじゅうえん	せんきゅうひゃくえん	—	model_extra
+44	nhk	25日	にじゅうごにち, にじゅうごにち	にじゅうごにち, にじゅうごにち	にちじ	—	model_extra
+44	nhk	25日の	—	—	にちの	—	model_extra
+44	nhk	、	—	—	、, 、, 、, 、, 、, 、	—	model_extra
+44	nhk	。	—	—	。, 。	—	model_extra
+44	nhk	「オリオンビール」	—	—	「おりょんびえる」	—	model_extra
+44	nhk	が	—	—	が, が	—	model_extra
+44	nhk	することができます	—	—	できることができます	—	model_extra
+44	nhk	つくっている	—	—	つくりつている	—	model_extra
+44	nhk	で	—	—	で, で	—	model_extra
+44	nhk	でした	—	—	でいました	—	model_extra
+44	nhk	の	—	—	の, の	—	model_extra
+44	nhk	は	—	—	は	—	model_extra
+44	nhk	を	—	—	を, を	—	model_extra
+44	nhk	ビール	—	—	びえる	—	model_extra
+44	nhk	上場しました	じょうじょうしました	じょうじょうしました	じょうじました	じょうじょうしました	reading_diff
+44	nhk	上場する	じょうじょうする	じょうじょうする	—	じょうじょうする	coverage_diff
+44	nhk	上場すると	—	—	じょうじると	—	model_extra
+44	nhk	人	ひと	ひと	—	ひと	coverage_diff
+44	nhk	人が	—	—	ひとが	—	model_extra
+44	nhk	円	—	—	—	えん	model_missing
+44	nhk	午前	ごぜん	ごぜん	—	ごぜん	coverage_diff
+44	nhk	午前は	—	—	ごぜんは	—	model_extra
+44	nhk	午後	ごご	ごご	—	ごご	coverage_diff
+44	nhk	午後になって	—	—	ごごになって	—	model_extra
+44	nhk	売った	—	—	—	うった	model_missing
+44	nhk	売ったり	うったり	うったり	うりたり	—	model_extra
+44	nhk	多くて	おおくて	おおくて	おおいて	おおくて	reading_diff
+44	nhk	日	—	—	—	にち, にち	model_missing
+44	nhk	東京証券取引所	とうきょうしょうけんとりひきじょ	とうきょうしょうけんとりひきじょ	とうきょうしょうけんとひんしょく	とうきょうしょうけんとりひきじょ	reading_diff
+44	nhk	株を	—	—	かぶを	—	model_extra
+44	nhk	決まって	きまって	きまって	きめられて	きまって	reading_diff
+44	nhk	決まりませんで	—	—	—	きまりませんで	model_missing
+44	nhk	決まりませんでした	きまりませんでした	きまりませんでした	きまりませんでした	—	model_extra
+44	nhk	買った	—	—	—	かった	model_missing
+44	nhk	買ったり	かったり	かったり	かいたり	—	model_extra
+45	nhk	1億6600万円	いちおくろくせんろっぴゃくまんえん	いちおくろくせんろっぴゃくまんえん	いちおくろっぴゃくなもん	—	model_extra
+45	nhk	5月	ごがつ	ごがつ	ごがつ	—	model_extra
+45	nhk	、	—	—	、	—	model_extra
+45	nhk	が	—	—	が	—	model_extra
+45	nhk	された	—	—	された	—	model_extra
+45	nhk	していた	—	—	ていた	—	model_extra
+45	nhk	そして	—	—	そして	—	model_extra
+45	nhk	と	—	—	と, と, と, と, と	—	model_extra
+45	nhk	など	—	—	など	—	model_extra
+45	nhk	などに	—	—	などに	—	model_extra
+45	nhk	に	—	—	に	—	model_extra
+45	nhk	は	—	—	は, は, は	—	model_extra
+45	nhk	を	—	—	を, を, を	—	model_extra
+45	nhk	万	—	—	—	まん	model_missing
+45	nhk	億	—	—	—	おく	model_missing
+45	nhk	円	—	—	—	えん	model_missing
+45	nhk	国	くに, くに	くに, くに	こく, こく	くに, くに	reading_diff
+45	nhk	払う	はらう	はらう	—	はらう	coverage_diff
+45	nhk	払うように	—	—	はらうように	—	model_extra
+45	nhk	方	—	—	—	かた	model_missing
+45	nhk	月	—	—	—	がつ	model_missing
+45	nhk	正しく	—	—	—	ただしく	model_missing
+45	nhk	正しくない	ただしくない	ただしくない	ただしくない	—	model_extra
+45	nhk	訴えました	うったえました	うったえました	potrà	うったえました	reading_diff
+45	nhk	調べ	—	—	—	しらべ	model_missing
+45	nhk	調べ方	しらべかた	しらべかた	しじかた	—	model_extra
+45	nhk	違反	—	—	いんがい	—	model_extra
+45	nhk	違反して	—	—	—	いはんして	model_missing
+45	nhk	違反していた	いはんしていた	いはんしていた	—	—	model_extra
+46	nhk	2.5km	—	—	にっかいご	—	model_extra
+46	nhk	が	—	—	が, が	—	model_extra
+46	nhk	ぐらい	—	—	ぐあい	—	model_extra
+46	nhk	さん	—	—	さん, さん	—	model_extra
+46	nhk	して	—	—	して	—	model_extra
+46	nhk	そして	—	—	それとて	—	model_extra
+46	nhk	たくさんの	—	—	たっかんさの	—	model_extra
+46	nhk	で	—	—	で	—	model_extra
+46	nhk	と	—	—	と	—	model_extra
+46	nhk	に	—	—	に, に	—	model_extra
+46	nhk	の	—	—	の, の, の	—	model_extra
+46	nhk	の中	—	—	なか	—	model_extra
+46	nhk	まち	—	—	まち	—	model_extra
+46	nhk	や	—	—	や	—	model_extra
+46	nhk	を	—	—	を, を	—	model_extra
+46	nhk	中	なか	なか	—	なか	coverage_diff
+46	nhk	乗りました	のりました	のりました	の乘りました	のりました	reading_diff
+46	nhk	仁左衛門	にざえもん	—	じざえもん	にざえもん	reading_diff
+46	nhk	大阪	おおさか	おおさか	おおさか	—	model_extra
+46	nhk	大阪のまち	—	—	—	おおさかのまち	model_missing
+46	nhk	尾上	おのえ	—	おのうえ	おのえ	reading_diff
+46	nhk	尾上菊五郎	—	おのえきくごろう	—	—	model_extra
+46	nhk	旗	はた	はた	ひるがえり	はた	reading_diff
+46	nhk	片岡	かたおか	—	かたおか	かたおか	coverage_diff
+46	nhk	片岡仁左衛門	—	かたおかにざえもん	—	—	model_extra
+46	nhk	着く	—	つく	つくる	つく	reading_diff
+46	nhk	着くと	つくと	—	—	—	model_extra
+46	nhk	船	ふね	ふね	ふな	ふね	reading_diff
+46	nhk	菊五郎	きくごろう	—	きくごろう	きくごろう	coverage_diff
+47	nhk	4月	しがつ	しがつ	よんがつ	—	model_extra
+47	nhk	。	—	—	。	—	model_extra
+47	nhk	から	—	—	から	—	model_extra
+47	nhk	が	—	—	が, が	—	model_extra
+47	nhk	に	—	—	に	—	model_extra
+47	nhk	の	—	—	の, の	—	model_extra
+47	nhk	ので	—	—	ので	—	model_extra
+47	nhk	も	—	—	も	—	model_extra
+47	nhk	を	—	—	を	—	model_extra
+47	nhk	アメリカ	—	—	あめりか	—	model_extra
+47	nhk	大いに	—	—	だいに	—	model_extra
+47	nhk	大きく	おおきく	おおきく	—	おおきく	coverage_diff
+47	nhk	月	—	—	—	がつ	model_missing
+47	nhk	減りました	へりました, へりました	へりました, へりました	へんだりました, へんだりました	へりました, へりました	reading_diff
+48	nhk	9月	くがつ	くがつ	くがつ	—	model_extra
+48	nhk	、	—	—	、, 、	—	model_extra
+48	nhk	「	—	—	「	—	model_extra
+48	nhk	」	—	—	」	—	model_extra
+48	nhk	あり	—	—	あった	—	model_extra
+48	nhk	い	—	—	い	—	model_extra
+48	nhk	が	—	—	が, が	—	model_extra
+48	nhk	ことし	—	—	このし	—	model_extra
+48	nhk	さん	—	—	さん	—	model_extra
+48	nhk	た	—	—	た	—	model_extra
+48	nhk	だった	—	—	ではった	—	model_extra
+48	nhk	で	—	—	で	—	model_extra
+48	nhk	な	—	—	な	—	model_extra
+48	nhk	に	—	—	に	—	model_extra
+48	nhk	の	—	—	の	—	model_extra
+48	nhk	を	—	—	を	—	model_extra
+48	nhk	地方	—	—	ちほう	—	model_extra
+48	nhk	大	—	—	おお	—	model_extra
+48	nhk	大きい	おおきい	おおきい	—	おおきい	coverage_diff
+48	nhk	教室	—	—	きょうしつ	きょうしつ	coverage_diff
+48	nhk	月	—	—	—	がつ	model_missing
+48	nhk	有名	—	—	ゆうめい	—	model_extra
+48	nhk	有名な	ゆうめいな	ゆうめいな	—	ゆうめいな	coverage_diff
+48	nhk	松井	まつい	—	まつい	まつい	coverage_diff
+48	nhk	松井秀喜	—	まついひでき	—	—	model_extra
+48	nhk	秀喜	ひでき	—	ひでき	ひでき	coverage_diff
+48	nhk	能登	—	—	のと	—	model_extra
+48	nhk	能登地方	のとちほう	のとちほう	—	のとちほう	coverage_diff
+48	nhk	選手	—	—	せんしゅ	—	model_extra
+48	nhk	選手だった	—	—	—	せんしゅだった	model_missing
+48	nhk	野球	—	—	やきゅう, やきゅう	やきゅう, やきゅう	coverage_diff
+48	nhk	野球教室	やきゅうきょうしつ	やきゅうきょうしつ	—	—	model_extra
+48	nhk	野球選手	やきゅうせんしゅ	やきゅうせんしゅ	—	—	model_extra
+49	nhk	20歳	はたち	にじゅっさい	にんぱい	—	model_extra
+49	nhk	4月	しがつ	しがつ	よんがつ	—	model_extra
+49	nhk	、	—	—	、, 、	—	model_extra
+49	nhk	。	—	—	。, 。	—	model_extra
+49	nhk	が	—	—	が	—	model_extra
+49	nhk	つき合っていた	—	つきあっていた	つきあっていた	—	model_extra
+49	nhk	で	—	—	で, で	—	model_extra
+49	nhk	に	—	—	に	—	model_extra
+49	nhk	の	—	—	の, の	—	model_extra
+49	nhk	のが	—	—	が	—	model_extra
+49	nhk	合って	—	—	—	あって	model_missing
+49	nhk	合っていた	あっていた	—	—	—	model_extra
+49	nhk	女性	じょせい	じょせい	じょし	じょせい	reading_diff
+49	nhk	川崎市	かわさきし	—	かわさきし	—	model_extra
+49	nhk	月	—	—	—	がつ	model_missing
+49	nhk	殺されて	—	—	—	ころされて	model_missing
+49	nhk	殺されている	ころされている	ころされている	さつされている	—	model_extra
+49	nhk	男	おとこ	おとこ	—	おとこ	coverage_diff
+49	nhk	男の	—	—	おとこの	—	model_extra
+49	nhk	神奈川県	かながわけん	—	かながわけん	—	model_extra
+49	nhk	神奈川県川崎市	—	かながわけんかわさきし	—	かながわけんかわさきし	coverage_diff
+50	nhk	19日	じゅうくにち	じゅうくにち	—	—	model_extra
+50	nhk	2階	にかい	にかい	—	—	model_extra
+50	nhk	入りました	はいりました	はいりました	—	はいりました	coverage_diff
+50	nhk	午前	ごぜん	ごぜん	—	ごぜん	coverage_diff
+50	nhk	宝石	ほうせき	ほうせき	—	ほうせき	coverage_diff
+50	nhk	政府	せいふ	せいふ	—	せいふ	coverage_diff
+50	nhk	日	—	—	—	にち	model_missing
+50	nhk	犯人	はんにん	はんにん	—	はんにん	coverage_diff
+50	nhk	盗んで	ぬすんで	ぬすんで	—	ぬすんで	coverage_diff
+50	nhk	窓	まど	まど	—	まど	coverage_diff
+50	nhk	美術館	びじゅつかん	びじゅつかん	—	びじゅつかん	coverage_diff
+50	nhk	逃げました	にげました	にげました	—	にげました	coverage_diff
+50	nhk	階	—	—	—	かい	model_missing
+51	nhk	22号	にじゅうにごう	—	にじゅうにごう	—	model_extra
+51	nhk	9日	ここのか	ここのか	くっか	ここのか	reading_diff
+51	nhk	、	—	—	、	—	model_extra
+51	nhk	。	—	—	。	—	model_extra
+51	nhk	から	—	—	から	—	model_extra
+51	nhk	だんだん	—	—	だんだん	—	model_extra
+51	nhk	とても	—	—	とても	—	model_extra
+51	nhk	の	—	—	の, の	—	model_extra
+51	nhk	は	—	—	は	—	model_extra
+51	nhk	を	—	—	を	—	model_extra
+51	nhk	台風	たいふう	—	たいふう	たいふう	coverage_diff
+51	nhk	台風22号	—	たいふうにじゅうにごう	—	—	model_extra
+51	nhk	号	—	—	—	ごう	model_missing
+51	nhk	離れて	—	—	—	はなれて	model_missing
+51	nhk	離れています	はなれています	はなれています	はなれています	—	model_extra
+52	nhk	8以上	—	はちいじょう	はちいじょう	—	model_extra
+52	nhk	8日	ようか	ようか	はちにち	ようか	reading_diff
+52	nhk	、	—	—	、	—	model_extra
+52	nhk	あとは	—	—	あとは	—	model_extra
+52	nhk	ある	—	—	ある	—	model_extra
+52	nhk	が	—	—	が	—	model_extra
+52	nhk	ことが	—	—	ことがある	—	model_extra
+52	nhk	と言いました	—	—	と言いました	—	model_extra
+52	nhk	の	—	—	の, の	—	model_extra
+52	nhk	のような	—	—	ような	—	model_extra
+52	nhk	は	—	—	は	—	model_extra
+52	nhk	もっと	—	—	もっと	—	model_extra
+52	nhk	マグニチュード	—	—	まくにちとせ	—	model_extra
+52	nhk	以上	いじょう	—	—	いじょう	coverage_diff
+52	nhk	庁	—	—	ちょう	—	model_extra
+52	nhk	気象	—	—	きしょう	—	model_extra
+52	nhk	気象庁	きしょうちょう	きしょうちょう	—	きしょうちょう	coverage_diff
+52	nhk	言いました	いいました	いいました	—	いいました	coverage_diff
+53	nhk	2月	にがつ	—	—	—	model_extra
+53	nhk	2月8日	—	にがつようか	にっがつはちにち	—	model_extra
+53	nhk	8日	ようか	—	—	ようか	coverage_diff
+53	nhk	、	—	—	、	—	model_extra
+53	nhk	あります	—	—	あります	—	model_extra
+53	nhk	が	—	—	が	—	model_extra
+53	nhk	する	—	—	する	—	model_extra
+53	nhk	すると	—	—	としたら	—	model_extra
+53	nhk	と	—	—	と	—	model_extra
+53	nhk	の	—	—	の	—	model_extra
+53	nhk	は	—	—	は	—	model_extra
+53	nhk	を	—	—	を, を	—	model_extra
+53	nhk	投票	—	—	ひょうとう	—	model_extra
+53	nhk	投票する	とうひょうする	とうひょうする	—	とうひょうする	coverage_diff
+53	nhk	日	ひ	ひ	び	ひ	reading_diff
+53	nhk	月	—	—	—	がつ	model_missing
+53	nhk	考えて	—	—	—	かんがえて	model_missing
+53	nhk	考えています	かんがえています	かんがえています	かんがえています	—	model_extra
+53	nhk	衆議院	しゅうぎいん	しゅうぎいん	しゅぎいん	しゅうぎいん	reading_diff
+53	nhk	解散	—	—	かいさん	—	model_extra
+53	nhk	解散する	かいさんする	かいさんする	—	かいさんする	coverage_diff
+53	nhk	選挙	せんきょ	せんきょう	せんきょ	せんきょ	reading_diff
+54	nhk	20人	にじゅうにん	にじゅうにん	—	—	model_extra
+54	nhk	一緒	いっしょ	—	—	いっしょ	coverage_diff
+54	nhk	一緒に	—	いっしょに	—	—	model_extra
+54	nhk	人ぐらい	—	—	—	にんぐらい	model_missing
+54	nhk	会	かい	かい	—	かい	coverage_diff
+54	nhk	住む	すむ	すむ	—	すむ	coverage_diff
+54	nhk	勉強する	べんきょうする	べんきょうする	—	べんきょうする	coverage_diff
+54	nhk	北区	きたく	きたく	—	きたく	coverage_diff
+54	nhk	方法	ほうほう	ほうほう	—	ほうほう	coverage_diff
+54	nhk	東京	とうきょう	とうきょう	—	とうきょう	coverage_diff
+54	nhk	近く	ちかく	ちかく	—	ちかく	coverage_diff
+54	nhk	避難する	ひなんする	ひなんする	—	ひなんする	coverage_diff
+54	nhk	集まりました	あつまりました	あつまりました	—	あつまりました	coverage_diff
+55	nhk	しっかり	—	—	しっかり	—	model_extra
+55	nhk	する	—	—	する	—	model_extra
+55	nhk	と	—	—	と	—	model_extra
+55	nhk	に、	—	—	に、	—	model_extra
+55	nhk	の	—	—	の	—	model_extra
+55	nhk	は、	—	—	は、	—	model_extra
+55	nhk	ように	—	—	ように	—	model_extra
+55	nhk	を	—	—	を	—	model_extra
+55	nhk	タイプ	—	—	たいげつ	—	model_extra
+55	nhk	チェック	—	—	けっか	—	model_extra
+55	nhk	交通	—	—	つうきん	—	model_extra
+55	nhk	全	—	—	ぜん	—	model_extra
+55	nhk	全日空	ぜんにっくう	ぜんにっくう	—	ぜんにっくう	coverage_diff
+55	nhk	国土	—	—	こくど	—	model_extra
+55	nhk	国土交通省	こくどこうつうしょう	こくどこうつうしょう	—	こくどこうつうしょう	coverage_diff
+55	nhk	日本	—	—	にほん	—	model_extra
+55	nhk	日本航空	にほんこうくう	にほんこうくう	—	にほんこうくう	coverage_diff
+55	nhk	日空	—	—	にっかく	—	model_extra
+55	nhk	省	—	—	しょう	—	model_extra
+55	nhk	航空	—	—	こうこう	—	model_extra
+56	nhk	11日	じゅういちにち	じゅういちにち	じゅういちにち	—	model_extra
+56	nhk	1億2300万円	いちおくにせんさんびゃくまんえん	いちおくにせんさんびゃくまんえん	いちおくにせんぜんえん	—	model_extra
+56	nhk	、	—	—	、	—	model_extra
+56	nhk	あった	—	—	あっただ	—	model_extra
+56	nhk	が	—	—	が	—	model_extra
+56	nhk	さんたち	—	—	さんたち	—	model_extra
+56	nhk	で	—	—	で	—	model_extra
+56	nhk	に	—	—	に	—	model_extra
+56	nhk	の	—	—	の, の	—	model_extra
+56	nhk	を	—	—	を	—	model_extra
+56	nhk	万	—	—	—	まん	model_missing
+56	nhk	億	—	—	—	おく	model_missing
+56	nhk	円	—	—	—	えん	model_missing
+56	nhk	日	—	—	—	にち	model_missing
+56	nhk	永井	—	—	—	ながい	model_missing
+56	nhk	永井豪	ながいごう	ながいごう	ながい やすし	—	model_extra
+56	nhk	石川県	いしかわけん	いしかわけん	せいかんけん	いしかわけん	reading_diff
+56	nhk	豪	—	—	—	ごう	model_missing
+56	nhk	贈りました	おくりました	おくりました	さしあげました	おくりました	reading_diff
+57	nhk	3	—	—	さん	—	model_extra
+57	nhk	3日	みっか	みっか	—	みっか	coverage_diff
+57	nhk	、	—	—	、	—	model_extra
+57	nhk	と	—	—	と	—	model_extra
+57	nhk	の	—	—	の, の, の, の	—	model_extra
+57	nhk	は	—	—	は	—	model_extra
+57	nhk	を	—	—	を	—	model_extra
+57	nhk	アメリカ	—	—	あめりか	—	model_extra
+57	nhk	ベネズエラ	—	—	べねずえら	—	model_extra
+57	nhk	マドゥーロ	—	—	まどーる	—	model_extra
+57	nhk	日	—	—	ひ	—	model_extra
+58	nhk	が	—	—	ga	—	model_extra
+58	nhk	くじ	—	—	くじ	—	model_extra
+58	nhk	くじの	—	—	くじの	—	model_extra
+58	nhk	これは	—	—	これは	—	model_extra
+58	nhk	で	—	—	de	—	model_extra
+58	nhk	に	—	—	ni	—	model_extra
+58	nhk	になった	—	—	になっただけ	—	model_extra
+58	nhk	に出た	—	—	でいた	—	model_extra
+58	nhk	の	—	—	no	—	model_extra
+58	nhk	は	—	—	wa	—	model_extra
+58	nhk	を	—	—	o	—	model_extra
+58	nhk	人	ひと	ひと	—	ひと	coverage_diff
+58	nhk	人に	—	—	にんに	—	model_extra
+58	nhk	出た	でた	でた	—	でた	coverage_diff
+58	nhk	同じ	おなじ	—	おなじ	おなじ	coverage_diff
+58	nhk	同じになった	—	おなじになった	—	—	model_extra
+58	nhk	場合	ばあい	ばあい	ばいがい	ばあい	reading_diff
+58	nhk	引きます	ひきます	ひきます	ひくめます	ひきます	reading_diff
+58	nhk	数	かず	かず	すう	かず	reading_diff
+58	nhk	新しく	あたらしく	あたらしく	しんしきに	あたらしく	reading_diff
+58	nhk	決まって	—	—	—	きまって	model_missing
+58	nhk	決まっています	きまっています	きまっています	きまりています	—	model_extra
+59	nhk	「	—	—	「	—	model_extra
+59	nhk	」	—	—	」	—	model_extra
+59	nhk	が	—	—	が, が	—	model_extra
+59	nhk	さん	—	—	さん	—	model_extra
+59	nhk	と	—	—	と, と	—	model_extra
+59	nhk	まで	—	—	まで	—	model_extra
+59	nhk	みんな	—	—	みな	—	model_extra
+59	nhk	を	—	—	を	—	model_extra
+59	nhk	ジャンボ	—	—	じゃんぼ	—	model_extra
+59	nhk	ボール	—	—	ぼうら	—	model_extra
+59	nhk	呼びました	よびました	よびました	よみました	よびました	reading_diff
+59	nhk	打つ	うつ	うつ	うちつ	うつ	reading_diff
+59	nhk	遠く	とおく	とおく	えんく	とおく	reading_diff
+60	nhk	1.7倍	いってんななばい	いってんななばい	いっかりばい	—	model_extra
+60	nhk	1年	いちねん	いちねん	いねん	—	model_extra
+60	nhk	90万円	きゅうじゅうまんえん	きゅうじゅうまんえん	くじゅうまんえん	—	model_extra
+60	nhk	が	—	—	が	—	model_extra
+60	nhk	です	—	—	です	—	model_extra
+60	nhk	と	—	—	と	—	model_extra
+60	nhk	になります	—	—	なります	—	model_extra
+60	nhk	の	—	—	の, の, の, の, の	—	model_extra
+60	nhk	は	—	—	は	—	model_extra
+60	nhk	万	—	—	—	まん	model_missing
+60	nhk	修士課程	しゅうしかてい	しゅうしかてい	しゅくかくげい	しゅうしかてい	reading_diff
+60	nhk	倍	—	—	—	ばい	model_missing
+60	nhk	円	—	—	—	えん	model_missing
+60	nhk	大学院	だいがくいん	だいがくいん	だいがいん	だいがくいん	reading_diff
+60	nhk	年	—	—	—	ねん	model_missing
+60	nhk	授業	—	—	—	じゅぎょう	model_missing
+60	nhk	授業料	じゅぎょうりょう	じゅぎょうりょう	じゅぎょうりょう	—	model_extra
+60	nhk	料	—	—	—	りょう	model_missing
+60	nhk	日本	にほん	にほん	—	にっぽん	reading_diff
+60	nhk	日本の	—	—	にほんの	—	model_extra
+61	ud_gsd	1995年	せんきゅうひゃくきゅうじゅうごねん	せんきゅうひゃくきゅうじゅうごねん	せんきゅうきゅうねん	—	model_extra
+61	ud_gsd	2人	ふたり	ふたり	—	ふたり	coverage_diff
+61	ud_gsd	、	—	—	、, 、, 、, 、, 、	—	model_extra
+61	ud_gsd	が	—	—	が	—	model_extra
+61	ud_gsd	しかし	—	—	しかるべく	—	model_extra
+61	ud_gsd	その恋人	—	—	そのれんとう	—	model_extra
+61	ud_gsd	ため	—	—	ため	—	model_extra
+61	ud_gsd	だった	—	—	だった	—	model_extra
+61	ud_gsd	で	—	—	で, で	—	model_extra
+61	ud_gsd	での	—	—	での	—	model_extra
+61	ud_gsd	と	—	—	と	—	model_extra
+61	ud_gsd	という	—	—	という	—	model_extra
+61	ud_gsd	に	—	—	に	—	model_extra
+61	ud_gsd	の	—	—	の, の, の, の	—	model_extra
+61	ud_gsd	の2人	—	—	ふじん	—	model_extra
+61	ud_gsd	は	—	—	は, は	—	model_extra
+61	ud_gsd	まだ	—	—	まだ	—	model_extra
+61	ud_gsd	を	—	—	を, を	—	model_extra
+61	ud_gsd	中心	ちゅうしん	ちゅうしん	—	ちゅうしん	coverage_diff
+61	ud_gsd	中心となって	—	—	ちゅうしんとなって	—	model_extra
+61	ud_gsd	主人	—	—	—	しゅじん	model_missing
+61	ud_gsd	主人公	しゅじんこう	しゅじんこう	しゅじんぶつ	—	model_extra
+61	ud_gsd	体験	—	—	—	たいけん	model_missing
+61	ud_gsd	体験した	たいけんした	たいけんした	—	たいけんした	coverage_diff
+61	ud_gsd	体験談	たいけんだん	たいけんだん	—	—	model_extra
+61	ud_gsd	体験談を語る	—	—	たいけんだんをわる	—	model_extra
+61	ud_gsd	作中	さくちゅう	さくちゅう	さっちゅう	さくちゅう	reading_diff
+61	ud_gsd	公	—	—	—	こう	model_missing
+61	ud_gsd	和歌子	—	わかこ	—	わかこ	coverage_diff
+61	ud_gsd	大	—	—	—	だい	model_missing
+61	ud_gsd	大震災	—	だいしんさい	—	—	model_extra
+61	ud_gsd	年	—	—	—	ねん	model_missing
+61	ud_gsd	形	かたち	かたち	—	かたち	coverage_diff
+61	ud_gsd	形で	—	—	かたで	—	model_extra
+61	ud_gsd	恋人	こいびと	こいびと	—	こいびと	coverage_diff
+61	ud_gsd	描	—	—	—	えが	model_missing
+61	ud_gsd	描かれている	えがかれている	えがかれている	えがかれている	—	model_extra
+61	ud_gsd	時点	じてん	じてん	—	じてん	coverage_diff
+61	ud_gsd	林	—	はやし	—	—	model_extra
+61	ud_gsd	林浩	はやしひろし	—	はやしこう	りんはお	reading_diff
+61	ud_gsd	桂	かつら, かつら	けい, けい, けい	かつら	かつら, かつら, かつら	reading_diff
+61	ud_gsd	桂が	—	—	かつらが	—	model_extra
+61	ud_gsd	桂の	—	—	かつらの	—	model_extra
+61	ud_gsd	浩	—	ひろし	—	—	model_extra
+61	ud_gsd	淡路	—	あわじ	—	あわじ	coverage_diff
+61	ud_gsd	爪痕	つめあと	つめあと	そうこん	つめあと	reading_diff
+61	ud_gsd	生だった	—	—	—	せいだった	model_missing
+61	ud_gsd	直接	ちょくせつ, ちょくせつ	ちょくせつ, ちょくせつ	—	ちょくせつ, ちょくせつ	coverage_diff
+61	ud_gsd	直接体験した	—	—	ちょくせつたいけんだ	—	model_extra
+61	ud_gsd	直接経験していない	—	—	ちょくせつけいけいていない	—	model_extra
+61	ud_gsd	神戸	こうべ	こうべ	かんべ	こうべ	reading_diff
+61	ud_gsd	経験して	—	—	—	けいけんして	model_missing
+61	ud_gsd	経験していない	けいけんしていない	けいけんしていない	—	—	model_extra
+61	ud_gsd	見る	みる	みる	—	みる	coverage_diff
+61	ud_gsd	見ることか	—	—	みることか	—	model_extra
+61	ud_gsd	語る	かたる	かたる	—	かたる	coverage_diff
+61	ud_gsd	談	—	—	—	だん	model_missing
+61	ud_gsd	辰木	—	たつき	たぎ	たつき	reading_diff
+61	ud_gsd	辰木桂	たつきかつら	—	—	—	model_extra
+61	ud_gsd	金城	—	きんじょう	—	かなぎ	reading_diff
+61	ud_gsd	金城和歌子	かなしろわかこ	—	きんせいかこ	—	model_extra
+61	ud_gsd	阪神	—	はんしん	—	はんしん	coverage_diff
+61	ud_gsd	阪神・淡路大震災	はんしん・あわじだいしんさい	—	はんじん・たじゅうだいしんさい	—	model_extra
+61	ud_gsd	高校	—	—	—	こうこう	model_missing
+61	ud_gsd	高校生	こうこうせい	こうこうせい	こうがせい	—	model_extra
+62	ud_gsd	、	—	—	、, 、	—	model_extra
+62	ud_gsd	あって	—	—	あって	—	model_extra
+62	ud_gsd	から	—	—	から	—	model_extra
+62	ud_gsd	が	—	—	が, が, が	—	model_extra
+62	ud_gsd	こと	—	—	こと	—	model_extra
+62	ud_gsd	ことから	—	—	ことから	—	model_extra
+62	ud_gsd	ことが	—	—	ことが	—	model_extra
+62	ud_gsd	で	—	—	で	—	model_extra
+62	ud_gsd	では	—	—	でわ	—	model_extra
+62	ud_gsd	となった	—	—	ことになった, ことになった	—	model_extra
+62	ud_gsd	になすりつけられた	—	—	になすりつけられた	—	model_extra
+62	ud_gsd	の	—	—	の, の, の, の, の	—	model_extra
+62	ud_gsd	は	—	—	は	—	model_extra
+62	ud_gsd	また	—	—	また	—	model_extra
+62	ud_gsd	も	—	—	も, も	—	model_extra
+62	ud_gsd	ように	—	—	ように	—	model_extra
+62	ud_gsd	・	—	—	・	—	model_extra
+62	ud_gsd	任務	にんむ	—	—	にんむ	coverage_diff
+62	ud_gsd	元柳斎	げんりゅうさい	げんりゅうさい	もとやなぎさ	げんりゅうさい	reading_diff
+62	ud_gsd	共々	ともども	—	ともに	ともども	reading_diff
+62	ud_gsd	取り消	—	—	—	とりけ	model_missing
+62	ud_gsd	取り消し	とりけし	とりけし	とりしょう	—	model_extra
+62	ud_gsd	同	どう	—	—	どう	coverage_diff
+62	ud_gsd	同小説	—	どうしょうせつ	どうしょうせつ	—	model_extra
+62	ud_gsd	喜助	きすけ	きすけ	よしげ	きすけ	reading_diff
+62	ud_gsd	多数	たすう	たすう	すうた	たすう	reading_diff
+62	ud_gsd	夜一	よるいち	よるいち	よつち	よるいち	reading_diff
+62	ud_gsd	小説	しょうせつ	—	—	しょうせつ	coverage_diff
+62	ud_gsd	尸魂	—	—	—	そうる	model_missing
+62	ud_gsd	尸魂界	そうるそさえてぃ	しこんかい	しかいんかい	—	model_extra
+62	ud_gsd	尽力	じんりょく	じんりょく	げんりき	じんりょく	reading_diff
+62	ud_gsd	忙しく	—	—	—	いそがしく	model_missing
+62	ud_gsd	忙しくなっている	いそがしくなっている	いそがしくなっている	いそがしくなっている	—	model_extra
+62	ud_gsd	手	て	て	—	て	coverage_diff
+62	ud_gsd	手が足りなくなりつつある	—	—	てがたたりなくなりつつある	—	model_extra
+62	ud_gsd	死神	しにがみ	しにがみ	ししん	しにがみ	reading_diff
+62	ud_gsd	渡った	—	—	—	わたった	model_missing
+62	ud_gsd	現世	げんせい	—	—	げんせ	reading_diff
+62	ud_gsd	現世駐在任務	—	げんせちゅうざいにんむ	げんせいちざいむんじ	—	model_extra
+62	ud_gsd	界	—	—	—	そさえてぃ	model_missing
+62	ud_gsd	知れ	—	—	—	しれ	model_missing
+62	ud_gsd	知れ渡った	しれわたった	しれわたった	しれわたった	—	model_extra
+62	ud_gsd	破面	—	—	—	はめん	model_missing
+62	ud_gsd	破面篇	はめんへん	はめんへん	はめんへん	—	model_extra
+62	ud_gsd	篇	—	—	—	へん	model_missing
+62	ud_gsd	罪	つみ	つみ	ざい	つみ	reading_diff
+62	ud_gsd	罪状	ざいじょう	—	ざいじょう	ざいじょう	coverage_diff
+62	ud_gsd	罪状共々	—	ざいじょうともども	—	—	model_extra
+62	ud_gsd	訪れる	おとずれる	おとずれる	ほうれる	おとずれる	reading_diff
+62	ud_gsd	認められた	みとめられた	みとめられた	ことわかった	みとめられた	reading_diff
+62	ud_gsd	語られて	—	—	—	かたられて	model_missing
+62	ud_gsd	語られている	かたられている	かたられている	はかれられている	—	model_extra
+62	ud_gsd	謀略	ぼうりゃく	ぼうりゃく	ぼうろく	ぼうりゃく	reading_diff
+62	ud_gsd	足り	—	—	—	たり	model_missing
+62	ud_gsd	足りなくなりつつある	たりなくなりつつある	たりなくなりつつある	—	—	model_extra
+62	ud_gsd	駐在	ちゅうざい	—	—	ちゅうざい	coverage_diff
+63	ud_gsd	1970年代	せんきゅうひゃくななじゅうねんだい	せんきゅうひゃくななじゅうねんだい	じゅうきゅうなinen	—	model_extra
+63	ud_gsd	、	—	—	、, 、, 、, 、, 、, 、, 、	—	model_extra
+63	ud_gsd	が	—	—	が, が	—	model_extra
+63	ud_gsd	された	—	—	された, された	—	model_extra
+63	ud_gsd	されている	—	—	されている	—	model_extra
+63	ud_gsd	した	—	—	した	—	model_extra
+63	ud_gsd	で	—	—	で	—	model_extra
+63	ud_gsd	である	—	—	である, である	—	model_extra
+63	ud_gsd	では	—	—	では	—	model_extra
+63	ud_gsd	と	—	—	と	—	model_extra
+63	ud_gsd	となり	—	—	となり	—	model_extra
+63	ud_gsd	に	—	—	に, に, に	—	model_extra
+63	ud_gsd	による	—	—	による	—	model_extra
+63	ud_gsd	の	—	—	の, の, の, の, の, の	—	model_extra
+63	ud_gsd	は	—	—	は, は, は	—	model_extra
+63	ud_gsd	を	—	—	を, を	—	model_extra
+63	ud_gsd	サーボブレーキ	—	—	さーぼぶれき	—	model_extra
+63	ud_gsd	シマノ	—	—	しまの	—	model_extra
+63	ud_gsd	バンドブレーキ	—	—	ばんどぶれき	—	model_extra
+63	ud_gsd	メーカー	—	—	めーかー	—	model_extra
+63	ud_gsd	ローラーブレーキ	—	—	ろーらぶれき, ろーらぶれき	—	model_extra
+63	ud_gsd	他	ほか	ほか	—	ほか	coverage_diff
+63	ud_gsd	他の	—	—	その他の	—	model_extra
+63	ud_gsd	代	—	—	—	だい	model_missing
+63	ud_gsd	低	—	—	—	てい	model_missing
+63	ud_gsd	低価格化	ていかかくか	—	ていかっか	—	model_extra
+63	ud_gsd	低価格化圧力	—	ていかかくかあつりょく	—	—	model_extra
+63	ud_gsd	価格	—	—	—	かかく	model_missing
+63	ud_gsd	傾向	—	—	けいこう	けいこう	coverage_diff
+63	ud_gsd	化	—	—	—	か	model_missing
+63	ud_gsd	品質な	—	—	—	ひんしつな	model_missing
+63	ud_gsd	国産	こくさん	こくさん	こっせん	こくさん	reading_diff
+63	ud_gsd	圧力	あつりょく	—	あつりょく	あつりょく	coverage_diff
+63	ud_gsd	多く	おおく	おおく	—	おおく	coverage_diff
+63	ud_gsd	多くの	—	—	おおくの	—	model_extra
+63	ud_gsd	大手	おおて	おおて	だて	おおて	reading_diff
+63	ud_gsd	安売り	—	—	やすせり	—	model_extra
+63	ud_gsd	安売りされて	—	—	—	やすうりされて	model_missing
+63	ud_gsd	安売りされている	やすうりされている	やすうりされている	—	—	model_extra
+63	ud_gsd	市場	しじょう	しじょう	じょうひか	しじょう	reading_diff
+63	ud_gsd	年	—	—	—	ねん	model_missing
+63	ud_gsd	形	かたち	かたち	かた	かたち	reading_diff
+63	ud_gsd	形式	けいしき	—	—	けいしき	coverage_diff
+63	ud_gsd	後発	—	—	—	こうはつ	model_missing
+63	ud_gsd	後発製品	こうはつせいひん	こうはつせいひん	こうはっせいひん	—	model_extra
+63	ud_gsd	挟撃	きょうげき	きょうげき	けっげき	きょうげき	reading_diff
+63	ud_gsd	採用	—	—	さいよう	—	model_extra
+63	ud_gsd	採用された	さいようされた	さいようされた	—	さいようされた	coverage_diff
+63	ud_gsd	普及	ふきゅう	ふきゅう	ふしゅう	ふきゅう	reading_diff
+63	ud_gsd	末	すえ	すえ	まつ	すえ	reading_diff
+63	ud_gsd	本	ほん	—	—	ほん	coverage_diff
+63	ud_gsd	本形式	—	ほんけいしき	ほんしき	—	model_extra
+63	ud_gsd	減少	—	—	げんしょう	げんしょう	coverage_diff
+63	ud_gsd	減少傾向	げんしょうけいこう	げんしょうけいこう	—	—	model_extra
+63	ud_gsd	自転	—	—	—	じてん, じてん, じてん, じてん	model_missing
+63	ud_gsd	自転車	じてんしゃ, じてんしゃ, じてんしゃ	じてんしゃ, じてんしゃ, じてんしゃ	じてんしゃ, じてんしゃ, じてんしゃ	—	model_extra
+63	ud_gsd	自転車部品	じてんしゃぶひん	じてんしゃぶひん	じてんしゃぶひん	—	model_extra
+63	ud_gsd	製品	—	—	—	せいひん	model_missing
+63	ud_gsd	車	—	—	—	しゃ, しゃ, しゃ, しゃ, しゃ, しゃ	model_missing
+63	ud_gsd	軽快	—	—	—	けいかい, けいかい	model_missing
+63	ud_gsd	軽快車	けいかいしゃ, けいかいしゃ	けいかいしゃ, けいかいしゃ	かるかしゃ, かるかしゃ	—	model_extra
+63	ud_gsd	部品	—	—	—	ぶひん	model_missing
+63	ud_gsd	開発	—	—	かいはつ, かいはつ	—	model_extra
+63	ud_gsd	開発された	かいはつされた	かいはつされた	—	かいはつされた	coverage_diff
+63	ud_gsd	開発した	かいはつした	かいはつした	—	かいはつした	coverage_diff
+63	ud_gsd	高	—	—	—	こう	model_missing
+63	ud_gsd	高品質な	こうひんしつな	こうひんしつな	こうひけいな	—	model_extra
+64	ud_gsd	100万円	ひゃくまんえん	ひゃくまんえん	—	—	model_extra
+64	ud_gsd	“本件に果たした役割は主導的で積極的”とし	—	—	“ほんけんにかたしたやくわりはしゅどうてきでせっきょくてき”とし	—	model_extra
+64	ud_gsd	“犯行の情状も悪い”としながらも	—	—	“はんこうのじょうじょうもわるい”とはながらにも	—	model_extra
+64	ud_gsd	として	—	—	として	—	model_extra
+64	ud_gsd	に100万円を寄付したことなどを総合考慮し	—	—	にひゃくまんえんをよふつしたことなどをそうごうかんこうし	—	model_extra
+64	ud_gsd	について	—	—	おわせについて	—	model_extra
+64	ud_gsd	は	—	—	は	—	model_extra
+64	ud_gsd	万	—	—	—	まん	model_missing
+64	ud_gsd	主導	—	—	—	しゅどう	model_missing
+64	ud_gsd	主導的	しゅどうてき	—	—	—	model_extra
+64	ud_gsd	主導的で	—	しゅどうてきで	—	—	model_extra
+64	ud_gsd	二	—	—	—	に	model_missing
+64	ud_gsd	二度	にど	にど	—	—	model_extra
+64	ud_gsd	付き	—	—	—	つき	model_missing
+64	ud_gsd	会	—	—	—	かい	model_missing
+64	ud_gsd	佐脇	—	—	さわき	さわき	coverage_diff
+64	ud_gsd	佐脇有紀	さわきゆき	さわきゆき	—	—	model_extra
+64	ud_gsd	元	もと	—	—	もと	coverage_diff
+64	ud_gsd	元警察官	—	もとけいさつかん	もとさしこかん	—	model_extra
+64	ud_gsd	円	—	—	—	えん	model_missing
+64	ud_gsd	判決	はんけつ	はんけつ	—	はんけつ	coverage_diff
+64	ud_gsd	反省して	—	—	—	はんせいして	model_missing
+64	ud_gsd	反省している	はんせいしている	はんせいしている	—	—	model_extra
+64	ud_gsd	執行	—	—	—	しっこう	model_missing
+64	ud_gsd	執行猶予付き	しっこうゆうよつき	しっこうゆうよつき	—	—	model_extra
+64	ud_gsd	執行猶予付きの判決となったと述べた。	—	—	せいこうゆよつきのはんけきとなったとしこんだ。	—	model_extra
+64	ud_gsd	士	—	—	—	し	model_missing
+64	ud_gsd	官として	—	—	—	かんとして	model_missing
+64	ud_gsd	寄付	—	—	—	きふ	model_missing
+64	ud_gsd	寄付した	きふした	きふした	—	—	model_extra
+64	ud_gsd	度	—	—	—	ど	model_missing
+64	ud_gsd	弁護	—	—	—	べんご	model_missing
+64	ud_gsd	弁護士会	べんごしかい	べんごしかい	べんごし	—	model_extra
+64	ud_gsd	役割	やくわり	やくわり	—	やくわり	coverage_diff
+64	ud_gsd	悪い	わるい	わるい	—	わるい	coverage_diff
+64	ud_gsd	情状	じょうじょう	じょうじょう	—	じょうじょう	coverage_diff
+64	ud_gsd	有紀	—	—	ゆき	ゆき	coverage_diff
+64	ud_gsd	本件	ほんけん	ほんけん	—	ほんけん	coverage_diff
+64	ud_gsd	果たした	はたした	はたした	—	はたした	coverage_diff
+64	ud_gsd	犯罪	はんざい	はんざい	—	はんざい	coverage_diff
+64	ud_gsd	犯行	はんこう, はんこう	はんこう, はんこう	—	はんこう, はんこう	coverage_diff
+64	ud_gsd	猶予	—	—	—	ゆうよ	model_missing
+64	ud_gsd	的	—	—	—	てき, てき	model_missing
+64	ud_gsd	積極	—	—	—	せっきょく	model_missing
+64	ud_gsd	積極的	せっきょくてき	せっきょくてき	—	—	model_extra
+64	ud_gsd	素直	すなお	—	—	すなお	coverage_diff
+64	ud_gsd	素直に	—	すなおに	—	—	model_extra
+64	ud_gsd	総合	そうごう	—	—	そうごう	coverage_diff
+64	ud_gsd	総合考慮し	—	そうごうこうりょし	—	—	model_extra
+64	ud_gsd	考慮し	こうりょし	—	—	こうりょし	coverage_diff
+64	ud_gsd	被告	ひこく, ひこく	ひこく, ひこく	ぼうぎょう	ひこく, ひこく	reading_diff
+64	ud_gsd	被告が素直に犯行を認め二度と犯罪を起こさないと反省していることや	—	—	ぼうぎょうかすなおにはんこうをきんじてにどとうくざんをおこさないとしめていることや	—	model_extra
+64	ud_gsd	裁判	—	—	—	さいばん	model_missing
+64	ud_gsd	裁判長	さいばんちょう	さいばんちょう	せんばいちょう	—	model_extra
+64	ud_gsd	認め	みとめ	みとめ	—	みとめ	coverage_diff
+64	ud_gsd	警察	—	—	—	けいさつ	model_missing
+64	ud_gsd	警察官	けいさつかん	—	—	—	model_extra
+64	ud_gsd	起こさな	—	—	—	おこさな	model_missing
+64	ud_gsd	起こさない	おこさない	おこさない	—	—	model_extra
+64	ud_gsd	述べた	のべた	のべた	—	のべた	coverage_diff
+64	ud_gsd	長	—	—	—	ちょう	model_missing
+65	ud_gsd	、	—	—	、, 、, 、, 、	—	model_extra
+65	ud_gsd	「引き分けも試合結果のひとつ」と	—	—	ひきわけもしじかくのひとつと	—	model_extra
+65	ud_gsd	から	—	—	から	—	model_extra
+65	ud_gsd	が	—	—	が	—	model_extra
+65	ud_gsd	こと	—	—	こと	—	model_extra
+65	ud_gsd	この	—	—	この	—	model_extra
+65	ud_gsd	では	—	—	でわ	—	model_extra
+65	ud_gsd	とらえる	—	—	とらえる	—	model_extra
+65	ud_gsd	なるべく	—	—	なるべく	—	model_extra
+65	ud_gsd	のが	—	—	のが	—	model_extra
+65	ud_gsd	のように	—	—	にようかん	—	model_extra
+65	ud_gsd	も	—	—	も	—	model_extra
+65	ud_gsd	サッカーの	—	—	さっかーの	—	model_extra
+65	ud_gsd	ステイルメイト	—	—	すているめいと	—	model_extra
+65	ud_gsd	チェスの	—	—	ちぇすの	—	model_extra
+65	ud_gsd	リーグ戦	—	りーぐせん	—	—	model_extra
+65	ud_gsd	リーグ戦における	—	—	りーぐせんにおける	—	model_extra
+65	ud_gsd	一般	—	—	—	いっぱん	model_missing
+65	ud_gsd	一般的	いっぱんてき	いっぱんてき	—	—	model_extra
+65	ud_gsd	一般的である	—	—	いっぱんせきである	—	model_extra
+65	ud_gsd	事	—	—	—	こと	model_missing
+65	ud_gsd	勝ち点	かちてん	かちてん	しょうちてん	かちてん	reading_diff
+65	ud_gsd	勝負	—	—	—	しょうぶ	model_missing
+65	ud_gsd	勝負事	しょうぶごと	しょうぶごと	しょうぶじ	—	model_extra
+65	ud_gsd	千日手	せんにちて	せんにちて	—	せんにちて	coverage_diff
+65	ud_gsd	千日手狙いの	—	—	せんにちてねらいの	—	model_extra
+65	ud_gsd	将棋	しょうぎ	しょうぎ	—	しょうぎ	coverage_diff
+65	ud_gsd	将棋の	—	—	しょうぎの	—	model_extra
+65	ud_gsd	少数	しょうすう	しょうすう	—	—	model_extra
+65	ud_gsd	少数な	—	—	—	しょうすうな	model_missing
+65	ud_gsd	少数ながら	—	—	しょうすうながら	—	model_extra
+65	ud_gsd	引き分け	ひきわけ, ひきわけ, ひきわけ	ひきわけ, ひきわけ, ひきわけ	—	ひきわけ, ひきわけ, ひきわけ	coverage_diff
+65	ud_gsd	引き分けの	—	—	ひきわけの	—	model_extra
+65	ud_gsd	引き分けを	—	—	ひきわけを	—	model_extra
+65	ud_gsd	戦	せん	—	—	せん	coverage_diff
+65	ud_gsd	戦術	せんじゅつ	せんじゅつ	せんじつ	せんじゅつ	reading_diff
+65	ud_gsd	狙い	ねらい	ねらい	—	ねらい	coverage_diff
+65	ud_gsd	的	—	—	—	てき	model_missing
+65	ud_gsd	結果	—	—	—	けっか	model_missing
+65	ud_gsd	試合	—	—	—	しあい	model_missing
+65	ud_gsd	試合結果	しあいけっか	しあいけっか	—	—	model_extra
+65	ud_gsd	避けよう	さけよう	—	—	さける	reading_diff
+65	ud_gsd	避けようとする	—	さけようとする	さけようとする	—	model_extra
+66	ud_gsd	6日	むいか	むいか	—	—	model_extra
+66	ud_gsd	了承する	りょうしょうする	りょうしょうする	—	りょうしょうする	coverage_diff
+66	ud_gsd	会	—	—	—	かい	model_missing
+66	ud_gsd	再生	さいせい	—	—	さいせい	coverage_diff
+66	ud_gsd	労働	—	—	—	ろうどう	model_missing
+66	ud_gsd	医学	—	—	—	いがく	model_missing
+66	ud_gsd	医学部	いがくぶ	いがくぶ	—	—	model_extra
+66	ud_gsd	厚生	—	—	—	こうせい, こうせい	model_missing
+66	ud_gsd	厚生労働省	こうせいろうどうしょう	こうせいろうどうしょう	—	—	model_extra
+66	ud_gsd	厚生科学審議会	こうせいかがくしんぎかい	こうせいかがくしんぎかい	—	—	model_extra
+66	ud_gsd	大学	—	—	—	だいがく	model_missing
+66	ud_gsd	実施	—	—	—	じっし	model_missing
+66	ud_gsd	実施計画	じっしけいかく	じっしけいかく	—	—	model_extra
+66	ud_gsd	審議	—	—	—	しんぎ	model_missing
+66	ud_gsd	引け	ひけ	—	—	ひけ	coverage_diff
+66	ud_gsd	引け後	—	ひけご	—	—	model_extra
+66	ud_gsd	当該	とうがい	とうがい	—	とうがい	coverage_diff
+66	ud_gsd	後	ご	—	—	ご	coverage_diff
+66	ud_gsd	性	—	—	—	せい	model_missing
+66	ud_gsd	技術	—	—	—	ぎじゅつ	model_missing
+66	ud_gsd	方向	—	—	—	ほうこう	model_missing
+66	ud_gsd	方向性	ほうこうせい	ほうこうせい	—	—	model_extra
+66	ud_gsd	日	—	—	—	か	model_missing
+66	ud_gsd	東海	—	—	—	とうかい	model_missing
+66	ud_gsd	東海大学	とうかいだいがく	とうかいだいがく	—	—	model_extra
+66	ud_gsd	発表	はっぴょう	はっぴょう	—	はっぴょう	coverage_diff
+66	ud_gsd	省	—	—	—	しょう	model_missing
+66	ud_gsd	研究	—	—	—	けんきゅう, けんきゅう	model_missing
+66	ud_gsd	示され	しめされ	しめされ	—	しめされ	coverage_diff
+66	ud_gsd	科学	—	—	—	かがく, かがく	model_missing
+66	ud_gsd	科学技術部会	かがくぎじゅつぶかい	かがくぎじゅつぶかい	—	—	model_extra
+66	ud_gsd	臨床	—	—	—	りんしょう, りんしょう	model_missing
+66	ud_gsd	臨床研究	りんしょうけんきゅう, りんしょうけんきゅう	りんしょうけんきゅう, りんしょうけんきゅう	—	—	model_extra
+66	ud_gsd	見通	—	—	—	みとお	model_missing
+66	ud_gsd	見通し	みとおし	みとおし	—	—	model_extra
+66	ud_gsd	計画	—	—	—	けいかく	model_missing
+66	ud_gsd	認められる	みとめられる	みとめられる	—	みとめられる	coverage_diff
+66	ud_gsd	軟骨	なんこつ	—	—	なんこつ	coverage_diff
+66	ud_gsd	軟骨再生	—	なんこつさいせい	—	—	model_extra
+66	ud_gsd	部	—	—	—	ぶ	model_missing
+66	ud_gsd	部会	—	—	—	ぶかい	model_missing
+66	ud_gsd	開始	かいし	かいし	—	かいし	coverage_diff
+66	ud_gsd	関する	かんする	かんする	—	かんする	coverage_diff
+67	ud_gsd	、	—	—	、, 、	—	model_extra
+67	ud_gsd	いた	—	—	いた	—	model_extra
+67	ud_gsd	から	—	—	から	—	model_extra
+67	ud_gsd	が	—	—	が, が	—	model_extra
+67	ud_gsd	こと	—	—	こと	—	model_extra
+67	ud_gsd	された	—	—	された	—	model_extra
+67	ud_gsd	した	—	—	した	—	model_extra
+67	ud_gsd	する	—	—	す	—	model_extra
+67	ud_gsd	ため	—	—	の	—	model_extra
+67	ud_gsd	に	—	—	に, に, に	—	model_extra
+67	ud_gsd	の	—	—	の, の	—	model_extra
+67	ud_gsd	は、	—	—	は、	—	model_extra
+67	ud_gsd	を	—	—	を, を	—	model_extra
+67	ud_gsd	寺	—	—	じ	じ	coverage_diff
+67	ud_gsd	少林	—	—	しょうりん	しょうりん	coverage_diff
+67	ud_gsd	少林寺	しょうりんじ	しょうりんじ	—	—	model_extra
+67	ud_gsd	帰って	かえって	かえって	かって	かえって	reading_diff
+67	ud_gsd	庫	—	—	—	こ	model_missing
+67	ud_gsd	書物	—	—	—	しょもつ	model_missing
+67	ud_gsd	書物庫	しょもつこ	しょもつこ	しょぶっく	—	model_extra
+67	ud_gsd	気付	—	—	きづ	—	model_extra
+67	ud_gsd	気付き	きづき	きづき	—	きずき	reading_diff
+67	ud_gsd	派	—	—	—	は	model_missing
+67	ud_gsd	派遣	—	—	はんさい	—	model_extra
+67	ud_gsd	派遣した	はけんした	はけんした	—	はけんした	coverage_diff
+67	ud_gsd	渡元	とげん	とげん	ともと	とげん	reading_diff
+67	ud_gsd	盗み見	—	—	ぬかみみ	—	model_extra
+67	ud_gsd	盗み見された	ぬすみみされた	ぬすみみされた	—	ぬすみみされた	coverage_diff
+67	ud_gsd	華山	—	—	—	かざん	model_missing
+67	ud_gsd	華山派	かざんは	かざんぱ	かざんぱい	—	model_extra
+67	ud_gsd	調べる	しらべる	しらべる	—	しらべる	coverage_diff
+67	ud_gsd	調査	—	—	ちょうさ	—	model_extra
+68	ud_gsd	“経済舞台”	—	—	けいざいだいがわ	—	model_extra
+68	ud_gsd	が組まれ	—	—	がくみまrekareba	—	model_extra
+68	ud_gsd	できない	—	—	できないうち	—	model_extra
+68	ud_gsd	や	—	—	や	—	model_extra
+68	ud_gsd	を販売し	—	—	をはんばいし	—	model_extra
+68	ud_gsd	信者	しんじゃ	しんじゃ	しんしゃ	しんじゃ	reading_diff
+68	ud_gsd	器	—	—	—	き	model_missing
+68	ud_gsd	教会	きょうかい	きょうかい	—	きょうかい	coverage_diff
+68	ud_gsd	求められて	—	—	—	もとめられて	model_missing
+68	ud_gsd	求められていた	もとめられていた	もとめられていた	—	—	model_extra
+68	ud_gsd	浄水	—	—	—	じょうすい	model_missing
+68	ud_gsd	浄水器	じょうすいき	—	じょうすいき	—	model_extra
+68	ud_gsd	浄水器等	—	じょうすいきとう	—	—	model_extra
+68	ud_gsd	用意	—	—	ようい	—	model_extra
+68	ud_gsd	用意できない	よういできない	よういできない	—	よういできない	coverage_diff
+68	ud_gsd	等	とう	—	など	とう	reading_diff
+68	ud_gsd	組まれ	くまれ	くまれ	—	くまれ	coverage_diff
+68	ud_gsd	経済	—	—	—	けいざい	model_missing
+68	ud_gsd	経済舞台	けいざいぶたい	けいざいぶたい	—	—	model_extra
+68	ud_gsd	舞台	—	—	—	ぶたい	model_missing
+68	ud_gsd	貢献する	こうけんする	こうけんする	—	こうけんする	coverage_diff
+68	ud_gsd	貢献することが求められていた	—	—	くせいせきすがもとめられていた	—	model_extra
+68	ud_gsd	販売し	はんばいし	はんばいし	—	はんばいし	coverage_diff
+69	ud_gsd	、	—	—	、	—	model_extra
+69	ud_gsd	。	—	—	。	—	model_extra
+69	ud_gsd	が	—	—	が, が	—	model_extra
+69	ud_gsd	する	—	—	する, する	—	model_extra
+69	ud_gsd	すると	—	—	としたら	—	model_extra
+69	ud_gsd	で	—	—	で	—	model_extra
+69	ud_gsd	と	—	—	と	—	model_extra
+69	ud_gsd	に	—	—	に, に	—	model_extra
+69	ud_gsd	の	—	—	の, の	—	model_extra
+69	ud_gsd	エネルギー	—	—	ねんりょか	—	model_extra
+69	ud_gsd	全て	すべて	すべて	ぜんぶ	すべて	reading_diff
+69	ud_gsd	分布	—	—	ふしゅつ	—	model_extra
+69	ud_gsd	分布する	ぶんぷする	ぶんぷする	—	ぶんぷする	coverage_diff
+69	ud_gsd	到達	—	—	とうたつ	—	model_extra
+69	ud_gsd	到達する	とうたつする	とうたつする	—	とうたつする	coverage_diff
+69	ud_gsd	均等	きんとう	—	きんとう	きんとう	coverage_diff
+69	ud_gsd	均等に	—	きんとうに	—	—	model_extra
+69	ud_gsd	漸近	—	—	—	ぜんきん	model_missing
+69	ud_gsd	漸近的	ぜんきんてき	—	—	—	model_extra
+69	ud_gsd	漸近的に	—	ぜんきんてきに	せんきんてきに	—	model_extra
+69	ud_gsd	的	—	—	—	てき	model_missing
+69	ud_gsd	経過	—	—	けいかい	—	model_extra
+69	ud_gsd	経過する	けいかする	けいかする	—	けいかする	coverage_diff
+70	ud_gsd	、	—	—	、, 、	—	model_extra
+70	ud_gsd	された	—	—	された	—	model_extra
+70	ud_gsd	ため	—	—	ため	—	model_extra
+70	ud_gsd	で	—	—	で	—	model_extra
+70	ud_gsd	ではなく	—	—	ではなく	—	model_extra
+70	ud_gsd	ない	—	—	ない	—	model_extra
+70	ud_gsd	の	—	—	の, の	—	model_extra
+70	ud_gsd	は	—	—	は	—	model_extra
+70	ud_gsd	ること	—	—	こと	—	model_extra
+70	ud_gsd	を	—	—	を	—	model_extra
+70	ud_gsd	を持つ	—	—	をもつ	—	model_extra
+70	ud_gsd	付けられる	—	—	—	ずけられる	model_missing
+70	ud_gsd	力	—	—	—	りょく	model_missing
+70	ud_gsd	国際	—	—	—	こくさい	model_missing
+70	ud_gsd	国際的	こくさいてき	—	—	—	model_extra
+70	ud_gsd	国際的に	—	こくさいてきに	こくさいてきに	—	model_extra
+70	ud_gsd	形式	けいしき	けいしき	しき	けいしき	reading_diff
+70	ud_gsd	拘束	—	—	—	こうそく	model_missing
+70	ud_gsd	拘束力	こうそくりょく	こうそくりょく	きそつりょく	—	model_extra
+70	ud_gsd	持つ	もつ	もつ	—	もつ	coverage_diff
+70	ud_gsd	採択	—	—	さいせつ	—	model_extra
+70	ud_gsd	採択された	さいたくされた	さいたくされた	—	さいたくされた	coverage_diff
+70	ud_gsd	的	—	—	—	てき	model_missing
+70	ud_gsd	盛り込まれた	もりこまれた	もりこまれた	まじりこまれた	もりこまれた	reading_diff
+70	ud_gsd	義務	—	—	—	ぎむ	model_missing
+70	ud_gsd	義務付けられ	—	—	ぎむつけられ	—	model_extra
+70	ud_gsd	義務付けられる	ぎむづけられる	ぎむづけられる	—	—	model_extra
+71	ud_gsd	から	—	—	から, から	—	model_extra
+71	ud_gsd	が	—	—	が	—	model_extra
+71	ud_gsd	こと	—	—	こと, こと	—	model_extra
+71	ud_gsd	その	—	—	その, その	—	model_extra
+71	ud_gsd	ため	—	—	のめい	—	model_extra
+71	ud_gsd	てしまう	—	—	てしまう	—	model_extra
+71	ud_gsd	です	—	—	です	—	model_extra
+71	ud_gsd	と	—	—	と, と	—	model_extra
+71	ud_gsd	なぜ	—	—	なにゆえ	—	model_extra
+71	ud_gsd	なら	—	—	なら	—	model_extra
+71	ud_gsd	なる	—	—	なる	—	model_extra
+71	ud_gsd	に	—	—	に, に	—	model_extra
+71	ud_gsd	になる	—	—	なる, なる	—	model_extra
+71	ud_gsd	の	—	—	の, の, の, の	—	model_extra
+71	ud_gsd	は	—	—	は, は	—	model_extra
+71	ud_gsd	られ	—	—	られる	—	model_extra
+71	ud_gsd	ること	—	—	こと, こと	—	model_extra
+71	ud_gsd	を	—	—	を, を	—	model_extra
+71	ud_gsd	倉渕	—	—	くらぶち, くらぶち	くらぶち	coverage_diff
+71	ud_gsd	倉渕透	くらぶちとおる	くらぶちとおる	—	—	model_extra
+71	ud_gsd	収入	—	—	—	しゅうにゅう	model_missing
+71	ud_gsd	収入源	しゅうにゅうげん	しゅうにゅうげん	しゅうにょんげん	—	model_extra
+71	ud_gsd	守谷	—	—	まもや, まもや	もりや	reading_diff
+71	ud_gsd	守谷香	もりやかおり	もりやかおり	—	—	model_extra
+71	ud_gsd	断たれ	—	—	だんたれ	—	model_extra
+71	ud_gsd	断たれて	—	—	—	たたれて	model_missing
+71	ud_gsd	断たれてしまう	たたれてしまう	たたれてしまう	—	—	model_extra
+71	ud_gsd	源	—	—	—	げん	model_missing
+71	ud_gsd	知られ	—	—	しれ, しれ	—	model_extra
+71	ud_gsd	知られる	しられる	しられる	—	しられる	coverage_diff
+71	ud_gsd	透	—	—	と, と	とおる	reading_diff
+71	ud_gsd	香	—	—	か, か	かおり	reading_diff
+72	ud_gsd	一人	ひとり	ひとり	—	—	model_extra
+72	ud_gsd	一人だけいた	—	—	—	ひとりだけいた	model_missing
+72	ud_gsd	付いた	ついた	ついた	—	ついた	coverage_diff
+72	ud_gsd	代表	だいひょう	だいひょう	—	だいひょう	coverage_diff
+72	ud_gsd	信者	しんじゃ	しんじゃ	—	しんじゃ	coverage_diff
+72	ud_gsd	出し	だし	だし	—	だし	coverage_diff
+72	ud_gsd	女性	じょせい	じょせい	—	じょせい	coverage_diff
+72	ud_gsd	手作り	てづくり	てづくり	—	てづくり	coverage_diff
+72	ud_gsd	海老澤	えびさわ	えびさわ	—	えびさわ	coverage_diff
+72	ud_gsd	紅茶	こうちゃ	こうちゃ	—	こうちゃ	coverage_diff
+72	ud_gsd	若い	わかい	わかい	—	わかい	coverage_diff
+72	ud_gsd	記者	きしゃ	きしゃ	—	きしゃ	coverage_diff
+73	ud_gsd	「	—	—	「	—	model_extra
+73	ud_gsd	」	—	—	」	—	model_extra
+73	ud_gsd	と	—	—	と	—	model_extra
+73	ud_gsd	の	—	—	の	—	model_extra
+73	ud_gsd	の大久保寿夫市長	—	—	のおおくぼひさおしみちょう	—	model_extra
+73	ud_gsd	は	—	—	は	—	model_extra
+73	ud_gsd	コメントを発表した	—	—	こめんとをはっぴょうした	—	model_extra
+73	ud_gsd	別途	べっと	べっと	—	べっと	coverage_diff
+73	ud_gsd	別途補助金を確保してくれるものと	—	—	べっとほじきんをかくしゃするものと	—	model_extra
+73	ud_gsd	大久保	—	—	—	おおくぼ	model_missing
+73	ud_gsd	大久保寿夫	おおくぼとしお	おおくぼとしお	—	—	model_extra
+73	ud_gsd	寿夫	—	—	—	としお	model_missing
+73	ud_gsd	市長	しちょう	しちょう	—	しちょう	coverage_diff
+73	ud_gsd	発表した	はっぴょうした	はっぴょうした	—	はっぴょうした	coverage_diff
+73	ud_gsd	県	けん	けん	—	けん	coverage_diff
+73	ud_gsd	県の責任で	—	—	けんのせきにんで	—	model_extra
+73	ud_gsd	確保して	—	—	—	かくほして	model_missing
+73	ud_gsd	確保してくれる	かくほしてくれる	かくほしてくれる	—	—	model_extra
+73	ud_gsd	確信して	—	—	—	かくしんして	model_missing
+73	ud_gsd	確信している	かくしんしている	かくしんしている	かくしんでいる	—	model_extra
+73	ud_gsd	補助	—	—	—	ほじょ	model_missing
+73	ud_gsd	補助金	ほじょきん	ほじょきん	—	—	model_extra
+73	ud_gsd	責任	せきにん	せきにん	—	せきにん	coverage_diff
+73	ud_gsd	金	—	—	—	きん	model_missing
+74	ud_gsd	1日	ついたち	ついたち	ついたち	—	model_extra
+74	ud_gsd	2005	—	—	にせんごおつ	—	model_extra
+74	ud_gsd	2005年	にせんごねん	にせんごねん	—	—	model_extra
+74	ud_gsd	7月	しちがつ	しちがつ	しちがつ	—	model_extra
+74	ud_gsd	。	—	—	。	—	model_extra
+74	ud_gsd	された	—	—	された	—	model_extra
+74	ud_gsd	した	—	—	した	—	model_extra
+74	ud_gsd	て	—	—	て	—	model_extra
+74	ud_gsd	として	—	—	とおして	—	model_extra
+74	ud_gsd	に	—	—	に, に	—	model_extra
+74	ud_gsd	の	—	—	の	—	model_extra
+74	ud_gsd	を	—	—	を	—	model_extra
+74	ud_gsd	三ケ日	—	—	—	みっかび	model_missing
+74	ud_gsd	三ケ日町	みっかびちょう	みっかびちょう	—	—	model_extra
+74	ud_gsd	三ヶ日	—	—	—	みっかび	model_missing
+74	ud_gsd	三ヶ日総合事務所	みっかびそうごうじむしょ	みっかびそうごうじむしょ	みかじまそうごうじむしょ	—	model_extra
+74	ud_gsd	事務	—	—	—	じむ	model_missing
+74	ud_gsd	利用	—	—	りよう	—	model_extra
+74	ud_gsd	利用して	りようして	りようして	—	りようして	coverage_diff
+74	ud_gsd	合併した	—	—	—	がっぺいした	model_missing
+74	ud_gsd	市	—	—	—	し	model_missing
+74	ud_gsd	年	—	—	ねん	ねん	coverage_diff
+74	ud_gsd	庁舎	ちょうしゃ	—	—	ちょうしゃ	coverage_diff
+74	ud_gsd	役場	—	—	—	やくば	model_missing
+74	ud_gsd	所として	—	—	—	しょとして	model_missing
+74	ud_gsd	日	—	—	—	にち	model_missing
+74	ud_gsd	旧	きゅう	きゅう	—	きゅう	coverage_diff
+74	ud_gsd	旧三ケ日町	—	—	きゅうみかじちょう	—	model_extra
+74	ud_gsd	月	—	—	—	がつ	model_missing
+74	ud_gsd	浜松	—	—	—	はままつ	model_missing
+74	ud_gsd	浜松市	はままつし	はままつし	はまなかしせん	—	model_extra
+74	ud_gsd	町	—	—	—	ちょう, まち	model_missing
+74	ud_gsd	町役場	まちやくば	—	—	—	model_extra
+74	ud_gsd	町役場庁舎	—	まちやくばちょうしゃ	ちょうやばちょうしゃ	—	model_extra
+74	ud_gsd	総合	—	—	—	そうごう	model_missing
+74	ud_gsd	編入	—	—	—	へんにゅう	model_missing
+74	ud_gsd	編入合併	—	—	へんにゅうごうべん	—	model_extra
+74	ud_gsd	編入合併した	へんにゅうがっぺいした	へんにゅうがっぺいした	—	—	model_extra
+74	ud_gsd	開設	—	—	かいせつ	—	model_extra
+74	ud_gsd	開設された	かいせつされた	かいせつされた	—	かいせつされた	coverage_diff
+75	ud_gsd	,	—	—	,	—	model_extra
+75	ud_gsd	。	—	—	.	—	model_extra
+75	ud_gsd	させ	—	—	さし	—	model_extra
+75	ud_gsd	た	—	—	た	—	model_extra
+75	ud_gsd	ている	—	—	ていて	—	model_extra
+75	ud_gsd	に	—	—	に, に	—	model_extra
+75	ud_gsd	の	—	—	の	—	model_extra
+75	ud_gsd	も	—	—	も	—	model_extra
+75	ud_gsd	を	—	—	を	—	model_extra
+75	ud_gsd	伝	—	—	—	でん	model_missing
+75	ud_gsd	信者	しんじゃ	しんじゃ	しんしゃ	しんじゃ	reading_diff
+75	ud_gsd	大量	たいりょう	—	だいりょう	たいりょう	reading_diff
+75	ud_gsd	大量購入させ	—	たいりょうこうにゅうさせ	—	—	model_extra
+75	ud_gsd	教会	—	—	—	きょうかい	model_missing
+75	ud_gsd	教祖	きょうそ	きょうそ	きょうしゅ	きょうそ	reading_diff
+75	ud_gsd	歩かせ	—	—	あるせ	—	model_extra
+75	ud_gsd	現	げん	—	げん	げん	coverage_diff
+75	ud_gsd	現に	—	げんに	—	—	model_extra
+75	ud_gsd	統一	—	—	—	とういつ	model_missing
+75	ud_gsd	統一教会	とういつきょうかい	とういつきょうかい	とういつきょうかい	—	model_extra
+75	ud_gsd	自叙	—	—	—	じじょ	model_missing
+75	ud_gsd	自叙伝	じじょでん	じじょでん	じそでん	—	model_extra
+75	ud_gsd	購入	—	—	こうにゅう	—	model_extra
+75	ud_gsd	購入させ	こうにゅうさせ	—	—	こうにゅうさせ	coverage_diff
+75	ud_gsd	配り	—	—	はり	—	model_extra
+75	ud_gsd	配り歩かせている	くばりあるかせている	くばりあるかせている	—	くばりあるかせている	coverage_diff
+76	ud_gsd	、	—	—	、	—	model_extra
+76	ud_gsd	「ファミリーホーム制度」	—	—	「ふみりえほむせいどじど」	—	model_extra
+76	ud_gsd	える	—	—	える	—	model_extra
+76	ud_gsd	した	—	—	した	—	model_extra
+76	ud_gsd	する	—	—	する, する	—	model_extra
+76	ud_gsd	と	—	—	と	—	model_extra
+76	ud_gsd	の	—	—	の, の	—	model_extra
+76	ud_gsd	も	—	—	も	—	model_extra
+76	ud_gsd	よう	—	—	ように	—	model_extra
+76	ud_gsd	らを	—	—	らを	—	model_extra
+76	ud_gsd	を	—	—	を, を	—	model_extra
+76	ud_gsd	ファミリーホーム制度	—	ふぁみりーほーむせいど	—	—	model_extra
+76	ud_gsd	世話	—	—	せわ	—	model_extra
+76	ud_gsd	世話する	せわする	せわする	—	せわする	coverage_diff
+76	ud_gsd	制度	せいど	—	—	せいど	coverage_diff
+76	ud_gsd	子ど	—	—	—	こど	model_missing
+76	ud_gsd	子ども	こども	こども	こども	—	model_extra
+76	ud_gsd	支援	—	—	しえん	—	model_extra
+76	ud_gsd	支援する	しえんする	—	—	しえんする	coverage_diff
+76	ud_gsd	用意	—	—	ようい	—	model_extra
+76	ud_gsd	用意した	よういした	よういした	—	よういした	coverage_diff
+76	ud_gsd	移り住める	うつりすめる	うつりすめる	いれすみえる	うつりすめる	reading_diff
+76	ud_gsd	空き家	あきや	あきや	くぎや	あきや	reading_diff
+76	ud_gsd	考	—	—	かんが	—	model_extra
+76	ud_gsd	者	—	—	—	しゃ	model_missing
+76	ud_gsd	資金	しきん	—	かしん	しきん	reading_diff
+76	ud_gsd	資金支援する	—	しきんしえんする	—	—	model_extra
+76	ud_gsd	養育	—	—	—	よういく	model_missing
+76	ud_gsd	養育者	よういくしゃ	よういくしゃ	よういくしゃ	—	model_extra
+77	ud_gsd	が	—	—	が, が	—	model_extra
+77	ud_gsd	これ	—	—	これ	—	model_extra
+77	ud_gsd	これだけ	—	—	これだけ	—	model_extra
+77	ud_gsd	ではありませんでした	—	—	ありませんでした	—	model_extra
+77	ud_gsd	に対して	—	—	たいして	—	model_extra
+77	ud_gsd	の	—	—	の, の	—	model_extra
+77	ud_gsd	は	—	—	は	—	model_extra
+77	ud_gsd	や	—	—	や	—	model_extra
+77	ud_gsd	を	—	—	を, を	—	model_extra
+77	ud_gsd	デモ	—	—	でも	—	model_extra
+77	ud_gsd	信者	しんじゃ	しんじゃ	しんしゃ	しんじゃ	reading_diff
+77	ud_gsd	対して	たいして	たいして	—	たいして	coverage_diff
+77	ud_gsd	幸福	こうふく	—	ふっこう	こうふく	reading_diff
+77	ud_gsd	幸福の科学	—	こうふくのかがく	—	—	model_extra
+77	ud_gsd	抗議	—	—	こうぎ	こうぎ	coverage_diff
+77	ud_gsd	抗議活動	こうぎかつどう	こうぎかつどう	—	—	model_extra
+77	ud_gsd	活動	かつどう	—	かつどう, かつどう	かつどう, かつどう	coverage_diff
+77	ud_gsd	社	—	—	—	しゃ	model_missing
+77	ud_gsd	科学	かがく	—	かがく	かがく	coverage_diff
+77	ud_gsd	署名	しょめい	—	しょめい	しょめい	coverage_diff
+77	ud_gsd	署名活動	—	しょめいかつどう	—	—	model_extra
+77	ud_gsd	行いました	—	おこないました	おこないました	—	model_extra
+77	ud_gsd	行いましたが	おこないましたが	—	—	おこないましたが	coverage_diff
+77	ud_gsd	講談	—	—	—	こうだん	model_missing
+77	ud_gsd	講談社	こうだんしゃ	こうだんしゃ	こうたんしゃ	—	model_extra
+78	ud_gsd	として	—	—	とおして	—	model_extra
+78	ud_gsd	に	—	—	に	—	model_extra
+78	ud_gsd	の	—	—	の, の	—	model_extra
+78	ud_gsd	は	—	—	は	—	model_extra
+78	ud_gsd	を	—	—	を, を	—	model_extra
+78	ud_gsd	ゼフォン	—	—	ぜふぉん	—	model_extra
+78	ud_gsd	員として	—	—	—	いんとして	model_missing
+78	ud_gsd	地上	ちじょう	ちじょう	じち	ちじょう	reading_diff
+78	ud_gsd	探って	—	—	—	さぐって	model_missing
+78	ud_gsd	探っている	さぐっている	さぐっている	さがっている	—	model_extra
+78	ud_gsd	派遣されて	—	—	—	はけんされて	model_missing
+78	ud_gsd	派遣されており	はけんされており	はけんされており	はいしゅうちょうされており	—	model_extra
+78	ud_gsd	物質	—	—	ぶしつ	ぶっしつ	reading_diff
+78	ud_gsd	物質界	ぶっしつかい	—	—	—	model_extra
+78	ud_gsd	物質界監視員	—	ぶっしつかいかんしいん	—	—	model_extra
+78	ud_gsd	界	—	—	かい	かい	coverage_diff
+78	ud_gsd	監視	—	—	—	かんし	model_missing
+78	ud_gsd	監視員	かんしいん	—	かんしいん	—	model_extra
+78	ud_gsd	神貫	かんぬき	かみぬき	かみがね	かんぬき	reading_diff
+78	ud_gsd	長年	ながねん	ながねん	ちょうねん	ながねん	reading_diff
+79	ud_gsd	、	—	—	、	—	model_extra
+79	ud_gsd	。	—	—	。	—	model_extra
+79	ud_gsd	が	—	—	が	—	model_extra
+79	ud_gsd	この	—	—	この	—	model_extra
+79	ud_gsd	によって	—	—	でよって	—	model_extra
+79	ud_gsd	の	—	—	の	—	model_extra
+79	ud_gsd	は	—	—	は	—	model_extra
+79	ud_gsd	を	—	—	を, を	—	model_extra
+79	ud_gsd	マウリキウス	—	—	まおきうす	—	model_extra
+79	ud_gsd	上	うえ	うえ	—	うえ	coverage_diff
+79	ud_gsd	上で	—	—	かで	—	model_extra
+79	ud_gsd	処刑されて	—	—	—	しょけいされて	model_missing
+79	ud_gsd	処刑されてしまった	しょけいされてしまった	しょけいされてしまった	しょけいされてしまった	—	model_extra
+79	ud_gsd	息子	むすこ	むすこ	—	むすこ	coverage_diff
+79	ud_gsd	息子たち	—	—	きしたち	—	model_extra
+79	ud_gsd	殺される	ころされる	ころされる	ころされ	ころされる	reading_diff
+79	ud_gsd	追われ	おわれ	おわれ	おいわ	おわれ	reading_diff
+80	ud_gsd	2007年	にせんななねん	にせんななねん	にせんひゃくしちねん	—	model_extra
+80	ud_gsd	、	—	—	、, 、	—	model_extra
+80	ud_gsd	として	—	—	とおして	—	model_extra
+80	ud_gsd	に	—	—	に, に, に	—	model_extra
+80	ud_gsd	の	—	—	の, の	—	model_extra
+80	ud_gsd	を	—	—	を	—	model_extra
+80	ud_gsd	仏堂	ぶつどう, ぶつどう	—	ぶどう, ぶどう	ぶつどう, ぶつどう	reading_diff
+80	ud_gsd	仏堂建築	—	ぶつどうけんちく	—	—	model_extra
+80	ud_gsd	代表	—	—	—	だいひょう	model_missing
+80	ud_gsd	代表作	だいひょうさく	だいひょうさく	だいひょうさく	—	model_extra
+80	ud_gsd	伝統	—	—	—	でんとう	model_missing
+80	ud_gsd	伝統的	でんとうてき	でんとうてき	でんとうてき	—	model_extra
+80	ud_gsd	作として	—	—	—	さくとして	model_missing
+80	ud_gsd	国	くに	くに	こく	くに	reading_diff
+80	ud_gsd	年	—	—	—	ねん	model_missing
+80	ud_gsd	建築	けんちく	—	けっちゅう	けんちく	reading_diff
+80	ud_gsd	指定された	していされた	していされた	しごいてられた	していされた	reading_diff
+80	ud_gsd	文化	—	—	—	ぶんか	model_missing
+80	ud_gsd	文化財	—	—	ぶんかざい	—	model_extra
+80	ud_gsd	新	—	—	しん	しん	coverage_diff
+80	ud_gsd	新様式	しんようしき	しんようしき	—	—	model_extra
+80	ud_gsd	様式	—	—	ようしき	ようしき	coverage_diff
+80	ud_gsd	的	—	—	—	てき	model_missing
+80	ud_gsd	財	—	—	—	ざい	model_missing
+80	ud_gsd	近代	きんだい	—	きんじだい	きんだい	reading_diff
+80	ud_gsd	近代仏堂	—	きんだいぶつどう	—	—	model_extra
+80	ud_gsd	重要	—	—	じゅうよう	じゅうよう	coverage_diff
+80	ud_gsd	重要文化財	じゅうようぶんかざい	じゅうようぶんかざい	—	—	model_extra
+81	ud_pud	、	—	—	、, 、	—	model_extra
+81	ud_pud	さらに	—	—	さらにお	—	model_extra
+81	ud_pud	し	—	—	し	—	model_extra
+81	ud_pud	で	—	—	で	—	model_extra
+81	ud_pud	と	—	—	と	—	model_extra
+81	ud_pud	に	—	—	に, に	—	model_extra
+81	ud_pud	について	—	—	おわせについて	—	model_extra
+81	ud_pud	は	—	—	は	—	model_extra
+81	ud_pud	ように	—	—	ように	—	model_extra
+81	ud_pud	を	—	—	を, を	—	model_extra
+81	ud_pud	コウィ	—	—	こうぃ	—	model_extra
+81	ud_pud	ジョ	—	—	じょ	—	model_extra
+81	ud_pud	ユドヨノ	—	—	ゆどよの	—	model_extra
+81	ud_pud	上昇させる	じょうしょうさせる	じょうしょうさせる	じょうしょうさす	じょうしょうさせる	reading_diff
+81	ud_pud	価格	かかく	—	かがい	かかく	reading_diff
+81	ud_pud	前	まえ	まえ	—	まえ	coverage_diff
+81	ud_pud	前に	—	—	まえに	—	model_extra
+81	ud_pud	求めた	もとめた	もとめた	もくした	もとめた	reading_diff
+81	ud_pud	減額	—	—	げんにゃく	—	model_extra
+81	ud_pud	減額する	げんがくする	げんがくする	—	げんがくする	coverage_diff
+81	ud_pud	燃料	ねんりょう	—	りょうりえん	ねんりょう	reading_diff
+81	ud_pud	燃料価格	—	ねんりょうかかく	—	—	model_extra
+81	ud_pud	補助	—	—	—	ほじょ	model_missing
+81	ud_pud	補助金	ほじょきん	ほじょきん	ほじきん	—	model_extra
+81	ud_pud	責任	せきにん	せきにん	—	せきにん	coverage_diff
+81	ud_pud	責任を	—	—	せんせいを	—	model_extra
+81	ud_pud	退任する	たいにんする	たいにんする	たいんする	たいにんする	reading_diff
+81	ud_pud	金	—	—	—	きん	model_missing
+82	ud_pud	か	—	—	か	—	model_extra
+82	ud_pud	が	—	—	が	—	model_extra
+82	ud_pud	こう	—	—	こう	—	model_extra
+82	ud_pud	させる	—	—	さす	—	model_extra
+82	ud_pud	した	—	—	した	—	model_extra
+82	ud_pud	している	—	—	していいる	—	model_extra
+82	ud_pud	します	—	—	すます	—	model_extra
+82	ud_pud	それが	—	—	それが	—	model_extra
+82	ud_pud	できない	—	—	できな	—	model_extra
+82	ud_pud	でも	—	—	でも	—	model_extra
+82	ud_pud	の	—	—	の, の, の	—	model_extra
+82	ud_pud	は	—	—	は	—	model_extra
+82	ud_pud	を	—	—	を, を	—	model_extra
+82	ud_pud	場合	ばあい	ばあい	ばいがい	ばあい	reading_diff
+82	ud_pud	影響	—	—	—	えいきょう	model_missing
+82	ud_pud	悪	—	—	—	あく	model_missing
+82	ud_pud	悪影響	あくえいきょう	あくえいきょう	あくえいきょう	—	model_extra
+82	ud_pud	慣行	かんこう	—	かんこう	かんこう	coverage_diff
+82	ud_pud	最良	さいりょう	さいりょう	すばらしい	さいりょう	reading_diff
+82	ud_pud	機会	きかい	—	きかい	きかい	coverage_diff
+82	ud_pud	機能	—	—	き能	—	model_extra
+82	ud_pud	機能して	—	—	—	きのうして	model_missing
+82	ud_pud	機能している	きのうしている	きのうしている	—	—	model_extra
+82	ud_pud	減少	—	—	かげん	—	model_extra
+82	ud_pud	減少させる	げんしょうさせる	げんしょうさせる	—	げんしょうさせる	coverage_diff
+82	ud_pud	生態	—	—	—	せいたい	model_missing
+82	ud_pud	生態系	せいたいけい	せいたいけい	たいせきけい	—	model_extra
+82	ud_pud	発生	はっせい	—	はっせい	はっせい	coverage_diff
+82	ud_pud	発生機会	—	はっせいきかい	—	—	model_extra
+82	ud_pud	管理	かんり	—	かんり	かんり	coverage_diff
+82	ud_pud	管理慣行	—	かんりかんこう	—	—	model_extra
+82	ud_pud	系	—	—	—	けい	model_missing
+82	ud_pud	良好な	りょうこうな	りょうこうな	こうりょうな	りょうこうな	reading_diff
+82	ud_pud	軽減	—	—	けいげん	—	model_extra
+82	ud_pud	軽減します	けいげんします	けいげんします	—	けいげんします	coverage_diff
+83	ud_pud	こと	—	—	こと	—	model_extra
+83	ud_pud	この	—	—	この	—	model_extra
+83	ud_pud	それら	—	—	それら	—	model_extra
+83	ud_pud	で	—	—	で	—	model_extra
+83	ud_pud	と	—	—	と	—	model_extra
+83	ud_pud	として	—	—	として	—	model_extra
+83	ud_pud	な	—	—	な	—	model_extra
+83	ud_pud	に	—	—	に, に	—	model_extra
+83	ud_pud	の	—	—	の, の, の	—	model_extra
+83	ud_pud	は	—	—	は	—	model_extra
+83	ud_pud	を	—	—	を, を	—	model_extra
+83	ud_pud	スキル	—	—	しきる	—	model_extra
+83	ud_pud	ポロニウム	—	—	ぽろにうむ	—	model_extra
+83	ud_pud	ラジウム	—	—	らじうむ	—	model_extra
+83	ud_pud	了	—	—	りょう	—	model_extra
+83	ud_pud	円盤	—	—	—	えんばん	model_missing
+83	ud_pud	円盤状	えんばんじょう	えんばんじょう	えんばんじょう	—	model_extra
+83	ud_pud	家として	—	—	—	かとして	model_missing
+83	ud_pud	専門	—	—	—	せんもん	model_missing
+83	ud_pud	専門家	せんもんか	せんもんか	せんもんか	—	model_extra
+83	ud_pud	所	—	—	—	しょ	model_missing
+83	ud_pud	持ち帰った	もちかえった	もちかえった	もぎかえた	もちかえった	reading_diff
+83	ud_pud	状	—	—	—	じょう	model_missing
+83	ud_pud	知られる	しられる	—	しられ	しられる	reading_diff
+83	ud_pud	知られるようになった	—	しられるようになった	—	—	model_extra
+83	ud_pud	研究	—	—	—	けんきゅう	model_missing
+83	ud_pud	研究所	けんきゅうしょ	けんきゅうじょ	けんきゅうじょ	—	model_extra
+84	ud_pud	、	—	—	、	—	model_extra
+84	ud_pud	が	—	—	が	—	model_extra
+84	ud_pud	こと	—	—	こと	—	model_extra
+84	ud_pud	となった	—	—	なった	—	model_extra
+84	ud_pud	に	—	—	に	—	model_extra
+84	ud_pud	について	—	—	について	—	model_extra
+84	ud_pud	の	—	—	の, の, の, の	—	model_extra
+84	ud_pud	は	—	—	は	—	model_extra
+84	ud_pud	を	—	—	を, を	—	model_extra
+84	ud_pud	一つ	ひとつ	ひとつ	いちとう	ひとつ	reading_diff
+84	ud_pud	以後	いご	いご	—	いご	coverage_diff
+84	ud_pud	以降	—	—	いこう	—	model_extra
+84	ud_pud	使って	—	—	—	つかって	model_missing
+84	ud_pud	使っていた	つかっていた	つかっていた	つかっていた	—	model_extra
+84	ud_pud	改める	あらためる	あらためる	かいめる	あらためる	reading_diff
+84	ud_pud	明治	—	—	めいじ	めいじ	coverage_diff
+84	ud_pud	明治天皇	めいじてんのう	めいじてんのう	—	—	model_extra
+84	ud_pud	統治	とうち	とうち	とうじ	とうち	reading_diff
+85	ud_pud	、	—	—	、, 、, 、	—	model_extra
+85	ud_pud	あるいは	—	—	もしくは	—	model_extra
+85	ud_pud	か	—	—	か	—	model_extra
+85	ud_pud	が	—	—	が	—	model_extra
+85	ud_pud	ことが	—	—	ことが	—	model_extra
+85	ud_pud	して	—	—	して	—	model_extra
+85	ud_pud	そこ	—	—	そこ	—	model_extra
+85	ud_pud	で	—	—	で, で, で	—	model_extra
+85	ud_pud	な	—	—	な	—	model_extra
+85	ud_pud	に	—	—	に	—	model_extra
+85	ud_pud	の	—	—	の	—	model_extra
+85	ud_pud	を通じて	—	—	つうじて	—	model_extra
+85	ud_pud	不死	ふし	ふし	—	ふし	coverage_diff
+85	ud_pud	不死を得る	—	—	ふしをとる	—	model_extra
+85	ud_pud	予言されて	—	—	—	よげんされて	model_missing
+85	ud_pud	予言されていました	よげんされていました	よげんされていました	よげんされていました	—	model_extra
+85	ud_pud	亡くなる	なくなる	なくなる	むかっていく	なくなる	reading_diff
+85	ud_pud	命	いのち	いのち	—	いのち	coverage_diff
+85	ud_pud	命を落とす	—	—	いのちをおとす	—	model_extra
+85	ud_pud	平凡	—	—	へいぼん	—	model_extra
+85	ud_pud	平凡な	へいぼんな	へいぼんな	—	へいぼんな	coverage_diff
+85	ud_pud	後	あと	あと	ご	あと	reading_diff
+85	ud_pud	得る	える	える	—	える	coverage_diff
+85	ud_pud	若く	—	—	わかく	—	model_extra
+85	ud_pud	若くして	わかくして	わかくして	—	わかくして	coverage_diff
+85	ud_pud	落とし	おとし	おとし	—	おとし	coverage_diff
+85	ud_pud	通じ	—	—	—	つうずる	model_missing
+85	ud_pud	通じて	つうじて	つうじて	—	—	model_extra
+86	ud_pud	Z.Amin	—	—	ぜ・あみん	—	model_extra
+86	ud_pud	。	—	—	。	—	model_extra
+86	ud_pud	「	—	—	「	—	model_extra
+86	ud_pud	と	—	—	と	—	model_extra
+86	ud_pud	となりうる	—	—	となれる	—	model_extra
+86	ud_pud	に	—	—	に	—	model_extra
+86	ud_pud	において	—	—	にいてい	—	model_extra
+86	ud_pud	は	—	—	は, は	—	model_extra
+86	ud_pud	世界	—	—	—	せかい	model_missing
+86	ud_pud	世界経済	せかいけいざい	せかいけいざい	せかいけいざい	—	model_extra
+86	ud_pud	依存	—	—	—	いぞん	model_missing
+86	ud_pud	依存しない	いぞんしない	いぞんしない	いしゅんしない	—	model_extra
+86	ud_pud	再生	さいせい	—	—	さいせい	coverage_diff
+86	ud_pud	再生可能エネルギー	—	—	せいせいか능에너지	—	model_extra
+86	ud_pud	可能	かのう	—	—	かのう	coverage_diff
+86	ud_pud	国際	こくさい	—	こくさい	こくさい	coverage_diff
+86	ud_pud	国際再生可能エネルギー機関	—	こくさいさいせいかのうえねるぎーきかん	—	—	model_extra
+86	ud_pud	手段	しゅだん	—	—	しゅだん	coverage_diff
+86	ud_pud	最大	さいだい	さいだい	—	さいだい	coverage_diff
+86	ud_pud	最大の	—	—	さいだいの	—	model_extra
+86	ud_pud	機関	きかん	—	きかん	きかん	coverage_diff
+86	ud_pud	洋上	ようじょう	—	—	ようじょう	coverage_diff
+86	ud_pud	洋上風力発電	—	ようじょうふうりょくはつでん	ようじょうふうりょくはつでん	—	model_extra
+86	ud_pud	発電	はつでん	—	—	はつでん, はつでん	coverage_diff
+86	ud_pud	発電手段	—	はつでんしゅだん	はつでんだん	—	model_extra
+86	ud_pud	石炭	せきたん	—	—	せきたん	coverage_diff
+86	ud_pud	石炭エネルギー	—	せきたんえねるぎー	せっとうねんりょく	—	model_extra
+86	ud_pud	確信して	—	—	—	かくしんして	model_missing
+86	ud_pud	確信している	かくしんしている	かくしんしている	かくしんしている	—	model_extra
+86	ud_pud	経済	—	—	—	けいざい	model_missing
+86	ud_pud	総裁	そうさい	そうさい	そうざい	そうさい	reading_diff
+86	ud_pud	風力	—	—	—	ふうりょく	model_missing
+86	ud_pud	風力発電	ふうりょくはつでん	—	—	—	model_extra
+86	ud_pud	（IRENA）	—	—	（あいれな）	—	model_extra
+87	ud_pud	、	—	—	、, 、	—	model_extra
+87	ud_pud	ある	—	—	ある	—	model_extra
+87	ud_pud	しかし	—	—	しかるべく	—	model_extra
+87	ud_pud	と	—	—	と	—	model_extra
+87	ud_pud	に	—	—	に, に	—	model_extra
+87	ud_pud	の	—	—	の, の, の	—	model_extra
+87	ud_pud	は	—	—	は, は, は	—	model_extra
+87	ud_pud	を	—	—	を	—	model_extra
+87	ud_pud	インターネット	—	—	いんたーねっと	—	model_extra
+87	ud_pud	会社	—	—	—	かいしゃ	model_missing
+87	ud_pud	信頼	—	—	—	しんらい	model_missing
+87	ud_pud	信頼性	しんらいせい	しんらいせい	しんらいせい	—	model_extra
+87	ud_pud	及ぼす	およぼす	およぼす	およぶ	およぼす	reading_diff
+87	ud_pud	可能	—	—	—	かのう	model_missing
+87	ud_pud	可能性	かのうせい	かのうせい	かのうせい	—	model_extra
+87	ud_pud	多く	おおく	おおく	—	おおく	coverage_diff
+87	ud_pud	多くの	—	—	おおくの	—	model_extra
+87	ud_pud	家	—	—	—	か	model_missing
+87	ud_pud	専門	—	—	—	せんもん	model_missing
+87	ud_pud	専門家	せんもんか	せんもんか	せんもんか	—	model_extra
+87	ud_pud	性	—	—	—	せい, せい	model_missing
+87	ud_pud	旅行	りょこう	—	—	りょこう, りょこう	coverage_diff
+87	ud_pud	旅行者	りょこうしゃ	りょこうしゃ	りょこうしゃ	—	model_extra
+87	ud_pud	機内	きない	—	きない	きない	coverage_diff
+87	ud_pud	機内インターネット	—	きないいんたーねっと	—	—	model_extra
+87	ud_pud	欠け	かけ	かけ	けがなき	かけ	reading_diff
+87	ud_pud	海外	かいがい	—	—	かいがい	coverage_diff
+87	ud_pud	海外旅行	—	かいがいりょこう	かいがいりょこう	—	model_extra
+87	ud_pud	者	—	—	—	しゃ	model_missing
+87	ud_pud	航空	—	—	—	こうくう	model_missing
+87	ud_pud	航空会社	こうくうがいしゃ	こうくうがいしゃ	こうくうかいしゃ	—	model_extra
+87	ud_pud	警告した	けいこくした	けいこくした	きょうごうした	けいこくした	reading_diff
+88	ud_pud	、	—	—	、	—	model_extra
+88	ud_pud	さらに	—	—	さらにお	—	model_extra
+88	ud_pud	と	—	—	と	—	model_extra
+88	ud_pud	の	—	—	の	—	model_extra
+88	ud_pud	は	—	—	は	—	model_extra
+88	ud_pud	を	—	—	を, を	—	model_extra
+88	ud_pud	情報	—	—	じょうほう	じょうほう	coverage_diff
+88	ud_pud	政府	—	—	—	せいふ	model_missing
+88	ud_pud	政府系	せいふけい	—	せいふけい	—	model_extra
+88	ud_pud	政府系科学者	—	せいふけいかがくしゃ	—	—	model_extra
+88	ud_pud	数々	かずかず	かずかず	—	かずかず	coverage_diff
+88	ud_pud	数々の	—	—	すうしゅうの	—	model_extra
+88	ud_pud	機密	—	—	きひつ	きみつ	reading_diff
+88	ud_pud	機密情報	きみつじょうほう	きみつじょうほう	—	—	model_extra
+88	ud_pud	科学	—	—	—	かがく	model_missing
+88	ud_pud	科学者	かがくしゃ	—	かがくしゃ	—	model_extra
+88	ud_pud	系	—	—	—	けい	model_missing
+88	ud_pud	者	—	—	—	しゃ	model_missing
+89	ud_pud	、	—	—	、	—	model_extra
+89	ud_pud	「	—	—	「	—	model_extra
+89	ud_pud	」	—	—	」	—	model_extra
+89	ud_pud	が	—	—	が	—	model_extra
+89	ud_pud	した	—	—	した	—	model_extra
+89	ud_pud	することで	—	—	でこと	—	model_extra
+89	ud_pud	それまで	—	—	それまでは	—	model_extra
+89	ud_pud	である	—	—	である	—	model_extra
+89	ud_pud	の	—	—	の	—	model_extra
+89	ud_pud	を	—	—	を	—	model_extra
+89	ud_pud	使用されて	—	—	—	しようされて	model_missing
+89	ud_pud	使用されていなかった	しようされていなかった	しようされていなかった	しようされていなかった	—	model_extra
+89	ud_pud	全域	ぜんいき	ぜんいき	ぜいきょ	ぜんいき	reading_diff
+89	ud_pud	前哨	—	—	ぜんしゅう	ぜんしょう	reading_diff
+89	ud_pud	前哨基地	ぜんしょうきち	ぜんしょうきち	—	—	model_extra
+89	ud_pud	商業	—	—	—	しょうぎょう	model_missing
+89	ud_pud	商業的な	しょうぎょうてきな	しょうぎょうてきな	しょうぎょうてんの	—	model_extra
+89	ud_pud	地中	—	—	ちじ	ちちゅう	reading_diff
+89	ud_pud	地中海	ちちゅうかい	ちちゅうかい	—	—	model_extra
+89	ud_pud	基地	—	—	きじ	きち	reading_diff
+89	ud_pud	海	—	—	かい	かい	coverage_diff
+89	ud_pud	発展	—	—	はてん	—	model_extra
+89	ud_pud	発展した	はってんした	はってんした	—	はってんした	coverage_diff
+89	ud_pud	的な	—	—	—	てきな	model_missing
+89	ud_pud	設立	—	—	せつりつ	—	model_extra
+89	ud_pud	設立する	せつりつする	せつりつする	—	せつりつする	coverage_diff
+89	ud_pud	貿易	ぼうえき	ぼうえき	まひつ	ぼうえき	reading_diff
+90	ud_pud	が	—	—	ga	—	model_extra
+90	ud_pud	その他	—	そのた	—	—	model_extra
+90	ud_pud	その他の	—	—	その他の	—	model_extra
+90	ud_pud	どちらも	—	—	どちらも	—	model_extra
+90	ud_pud	による	—	—	にゅうりょう	—	model_extra
+90	ud_pud	に基づいて	—	—	にじたいて	—	model_extra
+90	ud_pud	の	—	—	no, no	—	model_extra
+90	ud_pud	ので	—	—	node	—	model_extra
+90	ud_pud	は	—	—	wa	—	model_extra
+90	ud_pud	や	—	—	ya	—	model_extra
+90	ud_pud	タイ	—	—	たい	—	model_extra
+90	ud_pud	他	た	—	—	ほか	reading_diff
+90	ud_pud	基づ	—	—	—	もとず	model_missing
+90	ud_pud	基づいて	もとづいて	もとづいて	—	—	model_extra
+90	ud_pud	日付	ひづけ	ひづけ	にっぷ	ひずけ	reading_diff
+90	ud_pud	旧	—	—	—	きゅう	model_missing
+90	ud_pud	旧暦	きゅうれき	きゅうれき	こよみ	—	model_extra
+90	ud_pud	旧暦こよみ	—	—	—	きゅうれきこよみ	model_missing
+90	ud_pud	旧正月	きゅうしょうがつ	きゅうしょうがつ	きゅうせいげつ	—	model_extra
+90	ud_pud	正月	—	—	—	しょうがつ	model_missing
+90	ud_pud	毎年	まいとし	まいとし	まいねん	まいとし	reading_diff
+90	ud_pud	計算される	けいさんされる	けいさんされる	けいさんされ	けいさんされる	reading_diff
+91	ud_pud	与えられた	あたえられた	あたえられた	—	あたえられた	coverage_diff
+91	ud_pud	今年	ことし	ことし	—	ことし	coverage_diff
+91	ud_pud	初め	はじめ	はじめ	—	はじめ	coverage_diff
+91	ud_pud	国籍	こくせき	こくせき	—	こくせき	coverage_diff
+91	ud_pud	学校	—	—	—	がっこう	model_missing
+91	ud_pud	後	あと	あと	—	あと	coverage_diff
+91	ud_pud	武術	—	—	—	ぶじゅつ	model_missing
+91	ud_pud	武術学校	ぶじゅつがっこう	ぶじゅつがっこう	—	—	model_extra
+91	ud_pud	申し出た	もうしでた	もうしでた	—	もうしでるた	reading_diff
+91	ud_pud	設立	せつりつ	せつりつ	—	せつりつ	coverage_diff
+91	ud_pud	首都	しゅと	しゅと	—	しゅと	coverage_diff
+92	ud_pud	保護	—	—	—	ほご	model_missing
+92	ud_pud	保護者	ほごしゃ	ほごしゃ	—	—	model_extra
+92	ud_pud	受けた	うけた	うけた	—	うけた	coverage_diff
+92	ud_pud	委ねる	ゆだねる	ゆだねる	—	ゆだねる	coverage_diff
+92	ud_pud	安全	—	あんぜん	—	—	model_extra
+92	ud_pud	安全だろう	あんぜんだろう	—	—	あんぜんだろう	coverage_diff
+92	ud_pud	教育	きょういく	きょういく	—	きょういく	coverage_diff
+92	ud_pud	方	ほう	ほう	—	ほう	coverage_diff
+92	ud_pud	権力	けんりょく	けんりょく	—	けんりょく	coverage_diff
+92	ud_pud	注意して	ちゅういして	ちゅういして	—	ちゅういして	coverage_diff
+92	ud_pud	考えた	かんがえた	かんがえた	—	かんがえた	coverage_diff
+92	ud_pud	者	—	—	—	しゃ	model_missing
+93	ud_pud	、	—	—	、	—	model_extra
+93	ud_pud	が	—	—	が	—	model_extra
+93	ud_pud	に	—	—	に	—	model_extra
+93	ud_pud	の	—	—	の	—	model_extra
+93	ud_pud	は	—	—	は	—	model_extra
+93	ud_pud	や	—	—	や	—	model_extra
+93	ud_pud	ゴミ捨て	—	—	—	ごみすて	model_missing
+93	ud_pud	ゴミ捨て場	—	ごみすてば	ごみすてじょう	—	model_extra
+93	ud_pud	ブリスベン	—	—	ぶりすべん	—	model_extra
+93	ud_pud	下水	—	—	—	げすい	model_missing
+93	ud_pud	下水道	げすいどう	げすいどう	かすいどう	—	model_extra
+93	ud_pud	並	なみ	—	—	なみ	coverage_diff
+93	ud_pud	並に	—	なみに	なりに	—	model_extra
+93	ud_pud	場	—	—	—	ば	model_missing
+93	ud_pud	悪化した	あっかした	あっかした	あかわした	あっかした	reading_diff
+93	ud_pud	捨て場	すてば	—	—	—	model_extra
+93	ud_pud	連れて	つれて	つれて	れんれて	つれて	reading_diff
+93	ud_pud	道	—	—	—	どう	model_missing
+94	ud_pud	および	—	—	および	—	model_extra
+94	ud_pud	で、	—	—	で、	—	model_extra
+94	ud_pud	と	—	—	と	—	model_extra
+94	ud_pud	としての	—	—	としての	—	model_extra
+94	ud_pud	は、	—	—	は、	—	model_extra
+94	ud_pud	を	—	—	を	—	model_extra
+94	ud_pud	スキル	—	—	すきる	—	model_extra
+94	ud_pud	安石	—	—	あんせき	あんせき	coverage_diff
+94	ud_pud	官	—	—	—	かん	model_missing
+94	ud_pud	役人	やくにん	—	やくにん	—	model_extra
+94	ud_pud	役人として	—	—	—	やくにんとして	model_missing
+94	ud_pud	感心させました	かんしんさせました	かんしんさせました	かんしんさけました	かんしんさせました	reading_diff
+94	ud_pud	括	—	—	かく	—	model_extra
+94	ud_pud	政府	せいふ	—	せいふ	せいふ	coverage_diff
+94	ud_pud	政府役人	—	せいふやくにん	—	—	model_extra
+94	ud_pud	沈	—	—	しん	—	model_extra
+94	ud_pud	沈括	ちんかつ	しんかつ	—	ちんかつ	reading_diff
+94	ud_pud	王	—	—	おう	おう	coverage_diff
+94	ud_pud	王安石	おうあんせき	おうあんせき	—	—	model_extra
+94	ud_pud	行政	—	—	—	ぎょうせい	model_missing
+94	ud_pud	行政官	ぎょうせいかん	ぎょうせいかん	せいこうかん	—	model_extra
+95	ud_pud	付近	ふきん	ふきん	—	ふきん	coverage_diff
+95	ud_pud	受けました	うけました	うけました	—	うけました	coverage_diff
+95	ud_pud	古代	—	—	—	こだい	model_missing
+95	ud_pud	古代文明	こだいぶんめい	こだいぶんめい	—	—	model_extra
+95	ud_pud	地中	—	—	—	ちちゅう	model_missing
+95	ud_pud	地中海沿岸	ちちゅうかいえんがん	ちちゅうかいえんがん	—	—	model_extra
+95	ud_pud	大きな	おおきな	おおきな	—	おおきな	coverage_diff
+95	ud_pud	影響	えいきょう	えいきょう	—	えいきょう	coverage_diff
+95	ud_pud	文明	—	—	—	ぶんめい	model_missing
+95	ud_pud	沿岸	—	—	—	えんがん	model_missing
+95	ud_pud	海	うみ	うみ	—	かい, うみ	reading_diff
+95	ud_pud	複数	ふくすう	ふくすう	—	ふくすう	coverage_diff
+96	ud_pud	。	—	—	。	—	model_extra
+96	ud_pud	ため	—	—	の	—	model_extra
+96	ud_pud	で	—	—	で	—	model_extra
+96	ud_pud	と	—	—	と	—	model_extra
+96	ud_pud	に	—	—	に	—	model_extra
+96	ud_pud	は	—	—	は, は	—	model_extra
+96	ud_pud	を	—	—	を	—	model_extra
+96	ud_pud	ノーサンプトン	—	—	のーさんぷとん	—	model_extra
+96	ud_pud	ノーサンプトン大学	—	のーさんぷとんだいがく	—	—	model_extra
+96	ud_pud	大学	だいがく	—	だいがく	だいがく	coverage_diff
+96	ud_pud	才能	さいのう	さいのう	さいがい	さいのう	reading_diff
+96	ud_pud	示される	しめされる	しめされる	しめられる	しめされる	reading_diff
+96	ud_pud	言う	いう	いう	いいます	いう	reading_diff
+97	ud_pud	こと	—	—	こと	—	model_extra
+97	ud_pud	しかし	—	—	しかるべく	—	model_extra
+97	ud_pud	て	—	—	て	—	model_extra
+97	ud_pud	に	—	—	に, に	—	model_extra
+97	ud_pud	の	—	—	の, の	—	model_extra
+97	ud_pud	は	—	—	は	—	model_extra
+97	ud_pud	ひび割れ	—	—	ひびわり	—	model_extra
+97	ud_pud	ひび割れる	—	ひびわれる	—	ひびわれる	coverage_diff
+97	ud_pud	めぐって	—	—	めぐって	—	model_extra
+97	ud_pud	を	—	—	を	—	model_extra
+97	ud_pud	公式	—	—	—	こうしき	model_missing
+97	ud_pud	割れる	われる	—	—	—	model_extra
+97	ud_pud	生じ	—	—	—	しょうずる	model_missing
+97	ud_pud	生じた	しょうじた	しょうじた	うまれた	—	model_extra
+97	ud_pud	由来	—	—	ゆらい	—	model_extra
+97	ud_pud	的な	—	—	—	てきな	model_missing
+97	ud_pud	非	—	—	—	ひ	model_missing
+97	ud_pud	非公式的な	ひこうしきてきな	ひこうしきてきな	ひこうしきな	—	model_extra
+98	ud_pud	会	—	—	—	かい	model_missing
+98	ud_pud	可能	—	—	—	かのう	model_missing
+98	ud_pud	可能性	かのうせい	かのうせい	—	—	model_extra
+98	ud_pud	問題	もんだい	もんだい	—	もんだい	coverage_diff
+98	ud_pud	審議	—	—	—	しんぎ	model_missing
+98	ud_pud	審議会	しんぎかい	しんぎかい	—	—	model_extra
+98	ud_pud	性	—	—	—	せい	model_missing
+98	ud_pud	技術	ぎじゅつ	ぎじゅつ	—	ぎじゅつ	coverage_diff
+98	ud_pud	提言する	ていげんする	ていげんする	—	ていげんする	coverage_diff
+98	ud_pud	法案	ほうあん	ほうあん	—	ほうあん	coverage_diff
+98	ud_pud	調査	—	ちょうさ	—	—	model_extra
+98	ud_pud	調査する	ちょうさする	—	—	ちょうさする	coverage_diff
+98	ud_pud	関する	かんする	かんする	—	かんする	coverage_diff
+99	ud_pud	および	—	—	および	—	model_extra
+99	ud_pud	が	—	—	が	—	model_extra
+99	ud_pud	しかし	—	—	しかるべく	—	model_extra
+99	ud_pud	な	—	—	な	—	model_extra
+99	ud_pud	の	—	—	の, の	—	model_extra
+99	ud_pud	を	—	—	を, を	—	model_extra
+99	ud_pud	データ	—	—	てきとう	—	model_extra
+99	ud_pud	人口統計学	じんこうとうけいがく	じんこうとうけいがく	—	—	model_extra
+99	ud_pud	分析	ぶんせき	—	ぶんせき	ぶんせき	coverage_diff
+99	ud_pud	女性	じょせい, じょせい	じょせい, じょせい	じょし, じょし	じょせい, じょせい	reading_diff
+99	ud_pud	学	—	—	—	がく	model_missing
+99	ud_pud	広範	—	—	こうはん	—	model_extra
+99	ud_pud	広範な	こうはんな	こうはんな	—	こうはんな	coverage_diff
+99	ud_pud	担う	になう	になう	たもつ	になう	reading_diff
+99	ud_pud	特	とく	—	—	とく	coverage_diff
+99	ud_pud	特に	—	とくに	とくに	—	model_extra
+99	ud_pud	的	—	—	—	てき	model_missing
+99	ud_pud	統計	—	—	—	とうけい, とうけい	model_missing
+99	ud_pud	統計学	—	—	とうけいがく	—	model_extra
+99	ud_pud	統計的	とうけいてき	—	とうけいてき	—	model_extra
+99	ud_pud	統計的分析	—	とうけいてきぶんせき	—	—	model_extra
+99	ud_pud	行われて	—	—	—	おこなわれて	model_missing
+99	ud_pud	行われてきた	おこなわれてきた	おこなわれてきた	おこなわれてき	—	model_extra
+100	ud_pud	い	—	—	い	—	model_extra
+100	ud_pud	が	—	—	が	—	model_extra
+100	ud_pud	した	—	—	した	—	model_extra
+100	ud_pud	たち	—	—	たち	—	model_extra
+100	ud_pud	と	—	—	と	—	model_extra
+100	ud_pud	に	—	—	に	—	model_extra
+100	ud_pud	は	—	—	は	—	model_extra
+100	ud_pud	び	—	—	び	—	model_extra
+100	ud_pud	ま	—	—	ま, ま	—	model_extra
+100	ud_pud	を	—	—	を, を	—	model_extra
+100	ud_pud	アウグストゥス	—	—	あうぐすとぅす	—	model_extra
+100	ud_pud	マレ・ノストラム	—	—	まれ・のすとらむ	—	model_extra
+100	ud_pud	ローマ	—	—	ろーま	—	model_extra
+100	ud_pud	ローマ人	—	ろーまじん	ろーまじん	—	model_extra
+100	ud_pud	ローマ帝国	—	ろーまていこく	—	—	model_extra
+100	ud_pud	人	じん	—	—	じん	coverage_diff
+100	ud_pud	創設	—	—	そうせつ	—	model_extra
+100	ud_pud	創設した	そうせつした	そうせつした	—	そうせつした	coverage_diff
+100	ud_pud	呼	—	—	よ	—	model_extra
+100	ud_pud	呼びました	よびました	よびました	—	よびました	coverage_diff
+100	ud_pud	地中	—	—	—	ちちゅう	model_missing
+100	ud_pud	地中海	ちちゅうかい	ちちゅうかい	ちtml海	—	model_extra
+100	ud_pud	帝国	ていこく	—	ていこく	ていこく	coverage_diff
+100	ud_pud	年	—	—	ねん	—	model_extra
+100	ud_pud	後	—	—	ご	—	model_extra
+100	ud_pud	後年	こうねん	こうねん	—	こうねん	coverage_diff
+100	ud_pud	海	うみ	うみ	かい	かい, うみ	reading_diff
+100	ud_pud	私	わたし	—	—	わたし	coverage_diff
+100	ud_pud	私たち	—	わたしたち	—	—	model_extra
+100	ud_pud	私たちの	—	—	わたしたちの	—	model_extra
+100	ud_pud	際	さい	さい	き	さい	reading_diff

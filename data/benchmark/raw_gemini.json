@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "raw_response": "[\n  {\"surface\": \"笛\", \"reading\": \"ふえ\", \"type\": \"noun\"},\n  {\"surface\": \"教室\", \"reading\": \"きょうしつ\", \"type\": \"noun\"},\n  {\"surface\": \"女の子\", \"reading\": \"おんなのこ\", \"type\": \"noun\"},\n  {\"surface\": \"笛\", \"reading\": \"ふえ\", \"type\": \"noun\"},\n  {\"surface\": \"吹く\", \"reading\": \"ふく\", \"type\": \"verb\"},\n  {\"surface\": \"機会\", \"reading\": \"きかい\", \"type\": \"noun\"},\n  {\"surface\": \"少ない\", \"reading\": \"すくない\", \"type\": \"adjective\"},\n  {\"surface\": \"女の子\", \"reading\": \"おんなのこ\", \"type\": \"noun\"},\n  {\"surface\": \"笛\", \"reading\": \"ふえ\", \"type\": \"noun\"},\n  {\"surface\": \"教えたい\", \"reading\": \"おしえたい\", \"type\": \"verb\"},\n  {\"surface\": \"思いました\", \"reading\": \"おもいました\", \"type\": \"verb\"},\n  {\"surface\": \"女の子\", \"reading\": \"おんなのこ\", \"type\": \"noun\"},\n  {\"surface\": \"笛\", \"reading\": \"ふえ\", \"type\": \"noun\"},\n  {\"surface\": \"習って\", \"reading\": \"ならって\", \"type\": \"verb\"},\n  {\"surface\": \"将来\", \"reading\": \"しょうらい\", \"type\": \"noun\"},\n  {\"surface\": \"自分\", \"reading\": \"じぶん\", \"type\": \"noun\"},\n  {\"surface\": \"教えられる\", \"reading\": \"おしえられる\", \"type\": \"verb\"},\n  {\"surface\": \"思います\", \"reading\": \"おもいます\", \"type\": \"verb\"},\n  {\"surface\": \"開いています\", \"reading\": \"ひらいています\", \"type\": \"verb\"},\n  {\"surface\": \"今\", \"reading\": \"いま\", \"type\": \"noun\"},\n  {\"surface\": \"笛\", \"reading\": \"ふえ\", \"type\": \"noun\"},\n  {\"surface\": \"吹く\", \"reading\": \"ふく\", \"type\": \"verb\"},\n  {\"surface\": \"人\", \"reading\": \"ひと\", \"type\": \"noun\"},\n  {\"surface\": \"減って\", \"reading\": \"へって\", \"type\": \"verb\"},\n  {\"surface\": \"お祭り\", \"reading\": \"おまつり\", \"type\": \"noun\"},\n  {\"surface\": \"音\", \"reading\": \"おと\", \"type\": \"noun\"},\n  {\"surface\": \"使う\", \"reading\": \"つかう\", \"type\": \"verb\"},\n  {\"surface\": \"笛\", \"reading\": \"ふえ\", \"type\": \"noun\"},\n  {\"surface\": \"興味\", \"reading\": \"きょうみ\", \"type\": \"noun\"},\n  {\"surface\": \"持つ\", \"reading\": \"もつ\", \"type\": \"verb\"},\n  {\"surface\": \"人\", \"reading\": \"ひと\", \"type\": \"noun\"},\n  {\"surface\": \"増える\", \"reading\": \"ふえる\", \"type\": \"verb\"},\n  {\"surface\": \"活動しています\", \"reading\": \"かつどうしています\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 100.91078615188599,
+    "attempt": 1
+  },
+  {
+    "id": 2,
+    "raw_response": "[\n  {\"surface\": \"午前4時\", \"reading\": \"ごぜんよじ\", \"type\": \"counter\"},\n  {\"surface\": \"堤防\", \"reading\": \"ていぼう\", \"type\": \"noun\"},\n  {\"surface\": \"釣り\", \"reading\": \"つり\", \"type\": \"noun\"},\n  {\"surface\": \"行く\", \"reading\": \"いく\", \"type\": \"verb\"},\n  {\"surface\": \"人\", \"reading\": \"ひと\", \"type\": \"noun\"},\n  {\"surface\": \"港\", \"reading\": \"みなと\", \"type\": \"noun\"},\n  {\"surface\": \"集まっています\", \"reading\": \"あつまっています\", \"type\": \"verb\"},\n  {\"surface\": \"船\", \"reading\": \"ふね\", \"type\": \"noun\"},\n  {\"surface\": \"堤防\", \"reading\": \"ていぼう\", \"type\": \"noun\"},\n  {\"surface\": \"釣り\", \"reading\": \"つり\", \"type\": \"noun\"},\n  {\"surface\": \"人\", \"reading\": \"ひと\", \"type\": \"noun\"},\n  {\"surface\": \"1日\", \"reading\": \"いちにち\", \"type\": \"counter\"},\n  {\"surface\": \"何回\", \"reading\": \"なんかい\", \"type\": \"counter\"},\n  {\"surface\": \"行きます\", \"reading\": \"いきます\", \"type\": \"verb\"},\n  {\"surface\": \"日\", \"reading\": \"ひ\", \"type\": \"noun\"},\n  {\"surface\": \"８回\", \"reading\": \"はちかい\", \"type\": \"counter\"},\n  {\"surface\": \"出発しました\", \"reading\": \"しゅっぱつしました\", \"type\": \"verb\"},\n  {\"surface\": \"一番\", \"reading\": \"いちばん\", \"type\": \"counter\"},\n  {\"surface\": \"最初\", \"reading\": \"さいしょ\", \"type\": \"noun\"},\n  {\"surface\": \"4時半\", \"reading\": \"よじはん\", \"type\": \"counter\"},\n  {\"surface\": \"船\", \"reading\": \"ふね\", \"type\": \"noun\"},\n  {\"surface\": \"乗りました\", \"reading\": \"のりました\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 64.31487703323364,
+    "attempt": 1
+  },
+  {
+    "id": 3,
+    "raw_response": "[\n  {\"surface\": \"試合\", \"reading\": \"しあい\", \"type\": \"noun\"},\n  {\"surface\": \"二人\", \"reading\": \"ふたり\", \"type\": \"counter\"},\n  {\"surface\": \"二人\", \"reading\": \"ふたり\", \"type\": \"counter\"},\n  {\"surface\": \"戦いません\", \"reading\": \"たたかいません\", \"type\": \"verb\"},\n  {\"surface\": \"型\", \"reading\": \"かた\", \"type\": \"noun\"},\n  {\"surface\": \"見せて\", \"reading\": \"みせて\", \"type\": \"verb\"},\n  {\"surface\": \"美しい\", \"reading\": \"うつくしい\", \"type\": \"adjective\"},\n  {\"surface\": \"迫力\", \"reading\": \"はくりょく\", \"type\": \"noun\"},\n  {\"surface\": \"審判\", \"reading\": \"しんぱん\", \"type\": \"noun\"},\n  {\"surface\": \"決めます\", \"reading\": \"きめます\", \"type\": \"verb\"},\n  {\"surface\": \"体\", \"reading\": \"からだ\", \"type\": \"noun\"},\n  {\"surface\": \"大きい\", \"reading\": \"おおきい\", \"type\": \"adjective\"},\n  {\"surface\": \"人\", \"reading\": \"ひと\", \"type\": \"noun\"},\n  {\"surface\": \"小さい\", \"reading\": \"ちいさい\", \"type\": \"adjective\"},\n  {\"surface\": \"人\", \"reading\": \"ひと\", \"type\": \"noun\"},\n  {\"surface\": \"若い\", \"reading\": \"わかい\", \"type\": \"adjective\"},\n  {\"surface\": \"人\", \"reading\": \"ひと\", \"type\": \"noun\"},\n  {\"surface\": \"年\", \"reading\": \"とし\", \"type\": \"noun\"},\n  {\"surface\": \"人\", \"reading\": \"ひと\", \"type\": \"noun\"},\n  {\"surface\": \"男性\", \"reading\": \"だんせい\", \"type\": \"noun\"},\n  {\"surface\": \"女性\", \"reading\": \"じょせい\", \"type\": \"noun\"},\n  {\"surface\": \"試合\", \"reading\": \"しあい\", \"type\": \"noun\"},\n  {\"surface\": \"武道\", \"reading\": \"ぶどう\", \"type\": \"noun\"},\n  {\"surface\": \"違っていて\", \"reading\": \"ちがっていて\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 129.3031871318817,
+    "attempt": 1
+  },
+  {
+    "id": 4,
+    "raw_response": "[\n  {\"surface\": \"先生\", \"reading\": \"せんせい\", \"type\": \"noun\"},\n  {\"surface\": \"話\", \"reading\": \"はなし\", \"type\": \"noun\"},\n  {\"surface\": \"私\", \"reading\": \"わたし\", \"type\": \"noun\"},\n  {\"surface\": \"練習\", \"reading\": \"れんしゅう\", \"type\": \"noun\"},\n  {\"surface\": \"墨汁\", \"reading\": \"ぼくじゅう\", \"type\": \"noun\"},\n  {\"surface\": \"使います\", \"reading\": \"つかいます\", \"type\": \"verb\"},\n  {\"surface\": \"作品\", \"reading\": \"さくひん\", \"type\": \"noun\"},\n  {\"surface\": \"書く\", \"reading\": \"かく\", \"type\": \"verb\"},\n  {\"surface\": \"墨\", \"reading\": \"すみ\", \"type\": \"noun\"},\n  {\"surface\": \"使います\", \"reading\": \"つかいます\", \"type\": \"verb\"},\n  {\"surface\": \"墨\", \"reading\": \"すみ\", \"type\": \"noun\"},\n  {\"surface\": \"時間\", \"reading\": \"じかん\", \"type\": \"noun\"},\n  {\"surface\": \"早く\", \"reading\": \"はやく\", \"type\": \"adjective\"},\n  {\"surface\": \"書きたい\", \"reading\": \"かきたい\", \"type\": \"verb\"},\n  {\"surface\": \"気持ち\", \"reading\": \"きもち\", \"type\": \"noun\"},\n  {\"surface\": \"長い\", \"reading\": \"ながい\", \"type\": \"adjective\"},\n  {\"surface\": \"時間\", \"reading\": \"じかん\", \"type\": \"noun\"},\n  {\"surface\": \"墨\", \"reading\": \"すみ\", \"type\": \"noun\"},\n  {\"surface\": \"気持ち\", \"reading\": \"きもち\", \"type\": \"noun\"},\n  {\"surface\": \"落ち着きます\", \"reading\": \"おちつきます\", \"type\": \"verb\"},\n  {\"surface\": \"作品\", \"reading\": \"さくひん\", \"type\": \"noun\"},\n  {\"surface\": \"書く\", \"reading\": \"かく\", \"type\": \"verb\"},\n  {\"surface\": \"集中\", \"reading\": \"しゅうちゅう\", \"type\": \"noun\"},\n  {\"surface\": \"準備\", \"reading\": \"じゅんび\", \"type\": \"noun\"},\n  {\"surface\": \"時間\", \"reading\": \"じかん\", \"type\": \"noun\"},\n  {\"surface\": \"使って\", \"reading\": \"つかって\", \"type\": \"verb\"},\n  {\"surface\": \"集中して\", \"reading\": \"しゅうちゅうして\", \"type\": \"verb\"},\n  {\"surface\": \"書く\", \"reading\": \"かく\", \"type\": \"verb\"},\n  {\"surface\": \"大切\", \"reading\": \"たいせつ\", \"type\": \"adjective\"}\n]\n",
+    "time_seconds": 129.20117449760437,
+    "attempt": 1
+  },
+  {
+    "id": 5,
+    "raw_response": "[\n  {\"surface\": \"普通\", \"reading\": \"ふつう\", \"type\": \"noun\"},\n  {\"surface\": \"本屋\", \"reading\": \"ほんや\", \"type\": \"noun\"},\n  {\"surface\": \"本\", \"reading\": \"ほん\", \"type\": \"noun\"},\n  {\"surface\": \"値段\", \"reading\": \"ねだん\", \"type\": \"noun\"},\n  {\"surface\": \"決まっています\", \"reading\": \"きまっています\", \"type\": \"verb\"},\n  {\"surface\": \"自分\", \"reading\": \"じぶん\", \"type\": \"noun\"},\n  {\"surface\": \"考えて\", \"reading\": \"かんがえて\", \"type\": \"verb\"},\n  {\"surface\": \"値段\", \"reading\": \"ねだん\", \"type\": \"noun\"},\n  {\"surface\": \"決めます\", \"reading\": \"きめます\", \"type\": \"verb\"},\n  {\"surface\": \"面白い\", \"reading\": \"おもしろい\", \"type\": \"adjective\"},\n  {\"surface\": \"売れなかったら\", \"reading\": \"うれなかったら\", \"type\": \"verb\"},\n  {\"surface\": \"安くします\", \"reading\": \"やすくします\", \"type\": \"adjective\"},\n  {\"surface\": \"自分\", \"reading\": \"じぶん\", \"type\": \"noun\"},\n  {\"surface\": \"商売\", \"reading\": \"しょうばい\", \"type\": \"noun\"},\n  {\"surface\": \"気持ち\", \"reading\": \"きもち\", \"type\": \"noun\"}\n]\n",
+    "time_seconds": 107.17402982711792,
+    "attempt": 1
+  },
+  {
+    "id": 6,
+    "raw_response": "[\n  {\"surface\": \"書道\", \"reading\": \"しょどう\", \"type\": \"noun\"},\n  {\"surface\": \"参加しています\", \"reading\": \"さんかしています\", \"type\": \"verb\"},\n  {\"surface\": \"毎日\", \"reading\": \"まいにち\", \"type\": \"noun\"},\n  {\"surface\": \"書く\", \"reading\": \"かく\", \"type\": \"verb\"},\n  {\"surface\": \"決めます\", \"reading\": \"きめます\", \"type\": \"verb\"},\n  {\"surface\": \"書いて\", \"reading\": \"かいて\", \"type\": \"verb\"},\n  {\"surface\": \"写真\", \"reading\": \"しゃしん\", \"type\": \"noun\"},\n  {\"surface\": \"日\", \"reading\": \"ひ\", \"type\": \"noun\"},\n  {\"surface\": \"祝う\", \"reading\": \"いわう\", \"type\": \"verb\"},\n  {\"surface\": \"字\", \"reading\": \"じ\", \"type\": \"noun\"},\n  {\"surface\": \"書きました\", \"reading\": \"かきました\", \"type\": \"verb\"},\n  {\"surface\": \"書\", \"reading\": \"しょ\", \"type\": \"noun\"},\n  {\"surface\": \"集まりました\", \"reading\": \"あつまりました\", \"type\": \"verb\"},\n  {\"surface\": \"書\", \"reading\": \"しょ\", \"type\": \"noun\"},\n  {\"surface\": \"好き\", \"reading\": \"すき\", \"type\": \"adjective\"}\n]\n",
+    "time_seconds": 48.65035939216614,
+    "attempt": 1
+  },
+  {
+    "id": 7,
+    "raw_response": "[\n  {\"surface\": \"山\", \"reading\": \"やま\", \"type\": \"noun\"},\n  {\"surface\": \"近く\", \"reading\": \"ちかく\", \"type\": \"noun\"},\n  {\"surface\": \"寺\", \"reading\": \"てら\", \"type\": \"noun\"},\n  {\"surface\": \"行きました\", \"reading\": \"いきました\", \"type\": \"verb\"},\n  {\"surface\": \"近く\", \"reading\": \"ちかく\", \"type\": \"noun\"},\n  {\"surface\": \"住んでいる\", \"reading\": \"すんでいる\", \"type\": \"verb\"},\n  {\"surface\": \"人\", \"reading\": \"ひと\", \"type\": \"noun\"},\n  {\"surface\": \"寺\", \"reading\": \"てら\", \"type\": \"noun\"},\n  {\"surface\": \"観光客\", \"reading\": \"かんこうきゃく\", \"type\": \"noun\"},\n  {\"surface\": \"来ません\", \"reading\": \"きません\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 40.77997922897339,
+    "attempt": 1
+  },
+  {
+    "id": 8,
+    "raw_response": "[\n  {\"surface\": \"上\", \"reading\": \"うえ\", \"type\": \"noun\"},\n  {\"surface\": \"木星\", \"reading\": \"もくせい\", \"type\": \"proper_noun\"},\n  {\"surface\": \"土星\", \"reading\": \"どせい\", \"type\": \"proper_noun\"},\n  {\"surface\": \"小さく\", \"reading\": \"ちいさく\", \"type\": \"adjective\"},\n  {\"surface\": \"地球\", \"reading\": \"ちきゅう\", \"type\": \"proper_noun\"},\n  {\"surface\": \"見えます\", \"reading\": \"みえます\", \"type\": \"verb\"},\n  {\"surface\": \"地球\", \"reading\": \"ちきゅう\", \"type\": \"proper_noun\"},\n  {\"surface\": \"距離\", \"reading\": \"きょり\", \"type\": \"noun\"},\n  {\"surface\": \"星\", \"reading\": \"ほし\", \"type\": \"noun\"},\n  {\"surface\": \"大きさ\", \"reading\": \"おおきさ\", \"type\": \"noun\"},\n  {\"surface\": \"表しています\", \"reading\": \"あらわしています\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 51.27292561531067,
+    "attempt": 1
+  },
+  {
+    "id": 9,
+    "raw_response": "[\n  {\"surface\": \"中古\", \"reading\": \"ちゅうこ\", \"type\": \"noun\"},\n  {\"surface\": \"本\", \"reading\": \"ほん\", \"type\": \"noun\"},\n  {\"surface\": \"売っている\", \"reading\": \"うっている\", \"type\": \"verb\"},\n  {\"surface\": \"店\", \"reading\": \"みせ\", \"type\": \"noun\"},\n  {\"surface\": \"人\", \"reading\": \"ひと\", \"type\": \"noun\"},\n  {\"surface\": \"来て\", \"reading\": \"きて\", \"type\": \"verb\"},\n  {\"surface\": \"読み終わった\", \"reading\": \"よみおわった\", \"type\": \"verb\"},\n  {\"surface\": \"本\", \"reading\": \"ほん\", \"type\": \"noun\"},\n  {\"surface\": \"売ります\", \"reading\": \"うります\", \"type\": \"verb\"},\n  {\"surface\": \"店\", \"reading\": \"みせ\", \"type\": \"noun\"},\n  {\"surface\": \"本\", \"reading\": \"ほん\", \"type\": \"noun\"},\n  {\"surface\": \"売ります\", \"reading\": \"うります\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 114.41021800041199,
+    "attempt": 1
+  },
+  {
+    "id": 10,
+    "raw_response": "[\n  {\"surface\": \"和太鼓\", \"reading\": \"わだいこ\", \"type\": \"noun\"},\n  {\"surface\": \"演奏\", \"reading\": \"えんそう\", \"type\": \"noun\"},\n  {\"surface\": \"見ました\", \"reading\": \"みました\", \"type\": \"verb\"},\n  {\"surface\": \"13年前\", \"reading\": \"じゅうさんねんまえ\", \"type\": \"counter\"},\n  {\"surface\": \"活動しています\", \"reading\": \"かつどうしています\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 63.567665576934814,
+    "attempt": 1
+  },
+  {
+    "id": 11,
+    "raw_response": "[\n  {\"surface\": \"大きい\", \"reading\": \"おおきい\", \"type\": \"adjective\"},\n  {\"surface\": \"岩\", \"reading\": \"いわ\", \"type\": \"noun\"},\n  {\"surface\": \"砂浜\", \"reading\": \"すなはま\", \"type\": \"noun\"},\n  {\"surface\": \"上\", \"reading\": \"うえ\", \"type\": \"noun\"},\n  {\"surface\": \"自然\", \"reading\": \"しぜん\", \"type\": \"noun\"},\n  {\"surface\": \"力\", \"reading\": \"ちから\", \"type\": \"noun\"},\n  {\"surface\": \"感じます\", \"reading\": \"かんじます\", \"type\": \"verb\"},\n  {\"surface\": \"神社\", \"reading\": \"じんじゃ\", \"type\": \"noun\"},\n  {\"surface\": \"作った\", \"reading\": \"つくった\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 158.47285294532776,
+    "attempt": 1
+  },
+  {
+    "id": 12,
+    "raw_response": "[\n  {\"surface\": \"鎖\", \"reading\": \"くさり\", \"type\": \"noun\"},\n  {\"surface\": \"全部\", \"reading\": \"ぜんぶ\", \"type\": \"noun\"},\n  {\"surface\": \"以上\", \"reading\": \"いじょう\", \"type\": \"noun\"},\n  {\"surface\": \"下\", \"reading\": \"した\", \"type\": \"noun\"},\n  {\"surface\": \"見る\", \"reading\": \"みる\", \"type\": \"verb\"},\n  {\"surface\": \"怖くなります\", \"reading\": \"こわくなります\", \"type\": \"adjective\"},\n  {\"surface\": \"下\", \"reading\": \"した\", \"type\": \"noun\"},\n  {\"surface\": \"見ない\", \"reading\": \"みない\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 130.45978808403015,
+    "attempt": 1
+  },
+  {
+    "id": 13,
+    "raw_response": "[\n  {\"surface\": \"会社\", \"reading\": \"かいしゃ\", \"type\": \"noun\"},\n  {\"surface\": \"近く\", \"reading\": \"ちかく\", \"type\": \"noun\"},\n  {\"surface\": \"昼休み\", \"reading\": \"ひるやすみ\", \"type\": \"noun\"},\n  {\"surface\": \"お弁当\", \"reading\": \"おべんとう\", \"type\": \"noun\"},\n  {\"surface\": \"買いに行きます\", \"reading\": \"かいにいきます\", \"type\": \"verb\"},\n  {\"surface\": \"お弁当\", \"reading\": \"おべんとう\", \"type\": \"noun\"},\n  {\"surface\": \"売っています\", \"reading\": \"うっています\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 115.27791452407837,
+    "attempt": 1
+  },
+  {
+    "id": 14,
+    "raw_response": "[\n  {\"surface\": \"古い\", \"reading\": \"ふるい\", \"type\": \"adjective\"},\n  {\"surface\": \"道場\", \"reading\": \"どうじょう\", \"type\": \"noun\"},\n  {\"surface\": \"お城\", \"reading\": \"おしろ\", \"type\": \"noun\"},\n  {\"surface\": \"中\", \"reading\": \"なか\", \"type\": \"noun\"},\n  {\"surface\": \"道場\", \"reading\": \"どうじょう\", \"type\": \"noun\"},\n  {\"surface\": \"左\", \"reading\": \"ひだり\", \"type\": \"noun\"},\n  {\"surface\": \"建物\", \"reading\": \"たてもの\", \"type\": \"noun\"},\n  {\"surface\": \"道場\", \"reading\": \"どうじょう\", \"type\": \"noun\"},\n  {\"surface\": \"右\", \"reading\": \"みぎ\", \"type\": \"noun\"},\n  {\"surface\": \"お城\", \"reading\": \"おしろ\", \"type\": \"noun\"},\n  {\"surface\": \"見えます\", \"reading\": \"みえます\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 183.84453654289246,
+    "attempt": 1
+  },
+  {
+    "id": 15,
+    "raw_response": "[\n  {\"surface\": \"七五三\", \"reading\": \"しちごさん\", \"type\": \"proper_noun\"},\n  {\"surface\": \"11月\", \"reading\": \"じゅういちがつ\", \"type\": \"counter\"},\n  {\"surface\": \"行く\", \"reading\": \"いく\", \"type\": \"verb\"},\n  {\"surface\": \"多い\", \"reading\": \"おおい\", \"type\": \"adjective\"},\n  {\"surface\": \"着物\", \"reading\": \"きもの\", \"type\": \"noun\"},\n  {\"surface\": \"着る\", \"reading\": \"きる\", \"type\": \"verb\"},\n  {\"surface\": \"人\", \"reading\": \"ひと\", \"type\": \"noun\"},\n  {\"surface\": \"日\", \"reading\": \"ひ\", \"type\": \"noun\"},\n  {\"surface\": \"天気\", \"reading\": \"てんき\", \"type\": \"noun\"}\n]\n",
+    "time_seconds": 37.61510396003723,
+    "attempt": 1
+  },
+  {
+    "id": 16,
+    "raw_response": "[\n  {\"surface\": \"笛\", \"reading\": \"ふえ\", \"type\": \"noun\"},\n  {\"surface\": \"知りました\", \"reading\": \"しりました\", \"type\": \"verb\"},\n  {\"surface\": \"教えてください\", \"reading\": \"おしえてください\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 47.299662351608276,
+    "attempt": 1
+  },
+  {
+    "id": 17,
+    "raw_response": "[\n  {\"surface\": \"服\", \"reading\": \"ふく\", \"type\": \"noun\"},\n  {\"surface\": \"作る\", \"reading\": \"つくる\", \"type\": \"verb\"},\n  {\"surface\": \"人\", \"reading\": \"ひと\", \"type\": \"noun\"},\n  {\"surface\": \"私\", \"reading\": \"わたし\", \"type\": \"noun\"},\n  {\"surface\": \"専門\", \"reading\": \"せんもん\", \"type\": \"noun\"},\n  {\"surface\": \"店\", \"reading\": \"みせ\", \"type\": \"noun\"},\n  {\"surface\": \"買っています\", \"reading\": \"かっています\", \"type\": \"verb\"},\n  {\"surface\": \"着なくなった\", \"reading\": \"きなくなった\", \"type\": \"verb\"},\n  {\"surface\": \"服\", \"reading\": \"ふく\", \"type\": \"noun\"},\n  {\"surface\": \"友達\", \"reading\": \"ともだち\", \"type\": \"noun\"},\n  {\"surface\": \"売ったりします\", \"reading\": \"うったりします\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 208.84717845916748,
+    "attempt": 1
+  },
+  {
+    "id": 18,
+    "raw_response": "[\n  {\"surface\": \"京都\", \"reading\": \"きょうと\", \"type\": \"proper_noun\"},\n  {\"surface\": \"夕方\", \"reading\": \"ゆうがた\", \"type\": \"noun\"},\n  {\"surface\": \"空\", \"reading\": \"そら\", \"type\": \"noun\"},\n  {\"surface\": \"少し\", \"reading\": \"すこし\", \"type\": \"noun\"},\n  {\"surface\": \"暗くなって\", \"reading\": \"くらくなって\", \"type\": \"adjective\"},\n  {\"surface\": \"後\", \"reading\": \"あと\", \"type\": \"noun\"},\n  {\"surface\": \"夜景\", \"reading\": \"やけい\", \"type\": \"noun\"}\n]\n",
+    "time_seconds": 50.88353705406189,
+    "attempt": 1
+  },
+  {
+    "id": 19,
+    "raw_response": "[\n  {\"surface\": \"一瞬\", \"reading\": \"いっしゅん\", \"type\": \"noun\"},\n  {\"surface\": \"好きな\", \"reading\": \"すきな\", \"type\": \"adjective\"},\n  {\"surface\": \"撮った\", \"reading\": \"とった\", \"type\": \"verb\"},\n  {\"surface\": \"写真\", \"reading\": \"しゃしん\", \"type\": \"noun\"},\n  {\"surface\": \"見ている\", \"reading\": \"みている\", \"type\": \"verb\"},\n  {\"surface\": \"幸せ\", \"reading\": \"しあわせ\", \"type\": \"adjective\"}\n]\n",
+    "time_seconds": 52.777846813201904,
+    "attempt": 1
+  },
+  {
+    "id": 20,
+    "raw_response": "[\n  {\"surface\": \"店\", \"reading\": \"みせ\", \"type\": \"noun\"},\n  {\"surface\": \"作りました\", \"reading\": \"つくりました\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 29.011775970458984,
+    "attempt": 1
+  },
+  {
+    "id": 21,
+    "raw_response": "[\n  {\"surface\": \"東北野生動物保護管理センター\", \"reading\": \"とうほくやせいどうぶつほごかんりせんたー\", \"type\": \"proper_noun\"},\n  {\"surface\": \"自然\", \"reading\": \"しぜん\", \"type\": \"noun\"},\n  {\"surface\": \"中\", \"reading\": \"なか\", \"type\": \"noun\"},\n  {\"surface\": \"生きる\", \"reading\": \"いきる\", \"type\": \"verb\"},\n  {\"surface\": \"動物\", \"reading\": \"どうぶつ\", \"type\": \"noun\"},\n  {\"surface\": \"研究している\", \"reading\": \"けんきゅうしている\", \"type\": \"verb\"},\n  {\"surface\": \"所\", \"reading\": \"ところ\", \"type\": \"noun\"},\n  {\"surface\": \"小野田泰士\", \"reading\": \"おのだやすし\", \"type\": \"proper_noun\"},\n  {\"surface\": \"台原森林公園\", \"reading\": \"だいのはらしんりんこうえん\", \"type\": \"proper_noun\"},\n  {\"surface\": \"広い\", \"reading\": \"ひろい\", \"type\": \"adjective\"},\n  {\"surface\": \"住む\", \"reading\": \"すむ\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 69.11930274963379,
+    "attempt": 1
+  },
+  {
+    "id": 22,
+    "raw_response": "[\n  {\"surface\": \"隣り\", \"reading\": \"となり\", \"type\": \"noun\"},\n  {\"surface\": \"涌谷町\", \"reading\": \"わくやちょう\", \"type\": \"proper_noun\"},\n  {\"surface\": \"来た\", \"reading\": \"きた\", \"type\": \"verb\"},\n  {\"surface\": \"古川黎明中学校\", \"reading\": \"ふるかわれいめいちゅうがっこう\", \"type\": \"proper_noun\"},\n  {\"surface\": \"２年生\", \"reading\": \"にねんせい\", \"type\": \"counter\"},\n  {\"surface\": \"富樫\", \"reading\": \"とがし\", \"type\": \"proper_noun\"},\n  {\"surface\": \"優愛\", \"reading\": \"ゆあ\", \"type\": \"proper_noun\"},\n  {\"surface\": \"１３歳\", \"reading\": \"じゅうさんさい\", \"type\": \"counter\"},\n  {\"surface\": \"親\", \"reading\": \"おや\", \"type\": \"noun\"},\n  {\"surface\": \"食べたい\", \"reading\": \"たべたい\", \"type\": \"verb\"},\n  {\"surface\": \"言っていた\", \"reading\": \"いっていた\", \"type\": \"verb\"},\n  {\"surface\": \"買い\", \"reading\": \"かい\", \"type\": \"verb\"},\n  {\"surface\": \"来ました\", \"reading\": \"きました\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 225.94415950775146,
+    "attempt": 1
+  },
+  {
+    "id": 23,
+    "raw_response": "[\n  {\"surface\": \"４月\", \"reading\": \"しがつ\", \"type\": \"counter\"},\n  {\"surface\": \"国\", \"reading\": \"くに\", \"type\": \"noun\"},\n  {\"surface\": \"特別天然記念物\", \"reading\": \"とくべつてんねんきねんぶつ\", \"type\": \"noun\"},\n  {\"surface\": \"国\", \"reading\": \"くに\", \"type\": \"noun\"},\n  {\"surface\": \"決めて\", \"reading\": \"きめて\", \"type\": \"verb\"},\n  {\"surface\": \"特に\", \"reading\": \"とくに\", \"type\": \"adverb\"},\n  {\"surface\": \"大切に\", \"reading\": \"たいせつに\", \"type\": \"adjective\"},\n  {\"surface\": \"守っている\", \"reading\": \"まもっている\", \"type\": \"verb\"},\n  {\"surface\": \"珍しい\", \"reading\": \"めずらしい\", \"type\": \"adjective\"},\n  {\"surface\": \"何度\", \"reading\": \"なんど\", \"type\": \"counter\"},\n  {\"surface\": \"見られています\", \"reading\": \"みられています\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 56.99445843696594,
+    "attempt": 1
+  },
+  {
+    "id": 24,
+    "raw_response": "[\n  {\"surface\": \"実習生\", \"reading\": \"じっしゅうせい\", \"type\": \"noun\"},\n  {\"surface\": \"日本語教室\", \"reading\": \"にほんごきょうしつ\", \"type\": \"noun\"},\n  {\"surface\": \"練習した\", \"reading\": \"れんしゅうした\", \"type\": \"verb\"},\n  {\"surface\": \"曲\", \"reading\": \"きょく\", \"type\": \"noun\"},\n  {\"surface\": \"弾けたなら\", \"reading\": \"ひけたなら\", \"type\": \"verb\"},\n  {\"surface\": \"歌いました\", \"reading\": \"うたいました\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 64.45674014091492,
+    "attempt": 1
+  },
+  {
+    "id": 25,
+    "raw_response": "[\n  {\"surface\": \"太白区\", \"reading\": \"たいはくく\", \"type\": \"proper_noun\"},\n  {\"surface\": \"金剛沢\", \"reading\": \"こんごうざわ\", \"type\": \"proper_noun\"},\n  {\"surface\": \"健康\", \"reading\": \"けんこう\", \"type\": \"noun\"},\n  {\"surface\": \"教室\", \"reading\": \"きょうしつ\", \"type\": \"noun\"},\n  {\"surface\": \"１０年間\", \"reading\": \"じゅうねんかん\", \"type\": \"counter\"},\n  {\"surface\": \"毎週\", \"reading\": \"まいしゅう\", \"type\": \"noun\"},\n  {\"surface\": \"通いました\", \"reading\": \"かよいました\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 54.33381509780884,
+    "attempt": 1
+  },
+  {
+    "id": 26,
+    "raw_response": "[\n  {\"surface\": \"神様\", \"reading\": \"かみさま\", \"type\": \"noun\"},\n  {\"surface\": \"踊った\", \"reading\": \"おどった\", \"type\": \"verb\"},\n  {\"surface\": \"小学校\", \"reading\": \"しょうがっこう\", \"type\": \"noun\"},\n  {\"surface\": \"６年生\", \"reading\": \"ろくねんせい\", \"type\": \"counter\"},\n  {\"surface\": \"佐藤\", \"reading\": \"さとう\", \"type\": \"proper_noun\"},\n  {\"surface\": \"実織\", \"reading\": \"みおり\", \"type\": \"proper_noun\"},\n  {\"surface\": \"１１歳\", \"reading\": \"じゅういっさい\", \"type\": \"counter\"},\n  {\"surface\": \"自然\", \"reading\": \"しぜん\", \"type\": \"noun\"},\n  {\"surface\": \"好きな\", \"reading\": \"すきな\", \"type\": \"adjective\"},\n  {\"surface\": \"神社\", \"reading\": \"じんじゃ\", \"type\": \"noun\"},\n  {\"surface\": \"来る\", \"reading\": \"くる\", \"type\": \"verb\"},\n  {\"surface\": \"気持ち\", \"reading\": \"きもち\", \"type\": \"noun\"},\n  {\"surface\": \"良くなります\", \"reading\": \"よくなります\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 137.91986536979675,
+    "attempt": 1
+  },
+  {
+    "id": 27,
+    "raw_response": "[\n  {\"surface\": \"仙台市\", \"reading\": \"せんだいし\", \"type\": \"proper_noun\"},\n  {\"surface\": \"青葉区\", \"reading\": \"あおばく\", \"type\": \"proper_noun\"},\n  {\"surface\": \"台原森林公園\", \"reading\": \"だいのはらしんりんこうえん\", \"type\": \"proper_noun\"},\n  {\"surface\": \"広くて\", \"reading\": \"ひろくて\", \"type\": \"adjective\"},\n  {\"surface\": \"緑\", \"reading\": \"みどり\", \"type\": \"noun\"},\n  {\"surface\": \"多い\", \"reading\": \"おおい\", \"type\": \"adjective\"},\n  {\"surface\": \"公園\", \"reading\": \"こうえん\", \"type\": \"noun\"}\n]\n",
+    "time_seconds": 42.23323202133179,
+    "attempt": 1
+  },
+  {
+    "id": 28,
+    "raw_response": "I will now annotate the provided Japanese text according to the specified furigana conventions, ensuring all kanji words are covered and correctly categorized.\n\n```json\n[\n  {\n    \"surface\": \"高校２年生\",\n    \"reading\": \"こうこうにねんせい\",\n    \"type\": \"noun\"\n  },\n  {\n    \"surface\": \"阿部日夏\",\n    \"reading\": \"あべひなつ\",\n    \"type\": \"proper_noun\"\n  },\n  {\n    \"surface\": \"有名な\",\n    \"reading\": \"ゆうめいな\",\n    \"type\": \"adjective\"\n  },\n  {\n    \"surface\": \"富谷市\",\n    \"reading\": \"とみやし\",\n    \"type\": \"proper_noun\"\n  },\n  {\n    \"surface\": \"知ってほしかったです\",\n    \"reading\": \"しってほしかったです\",\n    \"type\": \"verb\"\n  }\n]\n```\n",
+    "time_seconds": 37.88344621658325,
+    "attempt": 1
+  },
+  {
+    "id": 29,
+    "raw_response": "[\n  {\"surface\": \"八木山動物公園\", \"reading\": \"やぎやまどうぶつこうえん\", \"type\": \"proper_noun\"},\n  {\"surface\": \"大森山動物園\", \"reading\": \"おおもりやまどうぶつえん\", \"type\": \"proper_noun\"},\n  {\"surface\": \"話\", \"reading\": \"はなし\", \"type\": \"noun\"},\n  {\"surface\": \"雌\", \"reading\": \"めす\", \"type\": \"noun\"},\n  {\"surface\": \"取り換えてみる\", \"reading\": \"とりかえてみる\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 265.6527678966522,
+    "attempt": 1
+  },
+  {
+    "id": 30,
+    "raw_response": "[\n  {\"surface\": \"７月\", \"reading\": \"しちがつ\", \"type\": \"counter\"},\n  {\"surface\": \"１２日\", \"reading\": \"じゅうににち\", \"type\": \"counter\"},\n  {\"surface\": \"初めて\", \"reading\": \"はじめて\", \"type\": \"adverb\"},\n  {\"surface\": \"売った\", \"reading\": \"うった\", \"type\": \"verb\"},\n  {\"surface\": \"日\", \"reading\": \"ひ\", \"type\": \"noun\"},\n  {\"surface\": \"２０人\", \"reading\": \"にじゅうにん\", \"type\": \"counter\"},\n  {\"surface\": \"人\", \"reading\": \"ひと\", \"type\": \"noun\"},\n  {\"surface\": \"並びました\", \"reading\": \"ならびました\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 76.84525108337402,
+    "attempt": 1
+  },
+  {
+    "id": 31,
+    "raw_response": "[\n  {\"surface\": \"仙台市\", \"reading\": \"せんだいし\", \"type\": \"proper_noun\"},\n  {\"surface\": \"宮城野高校\", \"reading\": \"みやぎのこうこう\", \"type\": \"proper_noun\"},\n  {\"surface\": \"決めました\", \"reading\": \"きめました\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 28.95089554786682,
+    "attempt": 1
+  },
+  {
+    "id": 32,
+    "raw_response": "```json\n[\n  {\n    \"surface\": \"高校生\",\n    \"reading\": \"こうこうせい\",\n    \"type\": \"noun\"\n  },\n  {\n    \"surface\": \"使って\",\n    \"reading\": \"つかって\",\n    \"type\": \"verb\"\n  },\n  {\n    \"surface\": \"紫色\",\n    \"reading\": \"むらさきいろ\",\n    \"type\": \"noun\"\n  },\n  {\n    \"surface\": \"液体\",\n    \"reading\": \"えきたい\",\n    \"type\": \"noun\"\n  },\n  {\n    \"surface\": \"水\",\n    \"reading\": \"みず\",\n    \"type\": \"noun\"\n  },\n  {\n    \"surface\": \"物\",\n    \"reading\": \"もの\",\n    \"type\": \"noun\"\n  },\n  {\n    \"surface\": \"作りました\",\n    \"reading\": \"つくりました\",\n    \"type\": \"verb\"\n  }\n]\n```\n",
+    "time_seconds": 112.22324347496033,
+    "attempt": 1
+  },
+  {
+    "id": 33,
+    "raw_response": "[\n  {\"surface\": \"斎藤正美\", \"reading\": \"さいとうまさみ\", \"type\": \"proper_noun\"},\n  {\"surface\": \"市長\", \"reading\": \"しちょう\", \"type\": \"noun\"},\n  {\"surface\": \"新しい\", \"reading\": \"あたらしい\", \"type\": \"adjective\"},\n  {\"surface\": \"大人\", \"reading\": \"おとな\", \"type\": \"noun\"},\n  {\"surface\": \"皆\", \"reading\": \"みな\", \"type\": \"noun\"},\n  {\"surface\": \"石巻市\", \"reading\": \"いしのまきし\", \"type\": \"proper_noun\"},\n  {\"surface\": \"元気にする\", \"reading\": \"げんきにする\", \"type\": \"verb\"},\n  {\"surface\": \"大切な\", \"reading\": \"たいせつな\", \"type\": \"adjective\"},\n  {\"surface\": \"人\", \"reading\": \"ひと\", \"type\": \"noun\"}\n]\n",
+    "time_seconds": 142.44683504104614,
+    "attempt": 1
+  },
+  {
+    "id": 34,
+    "raw_response": "[\n  {\"surface\": \"花\", \"reading\": \"はな\", \"type\": \"noun\"},\n  {\"surface\": \"大きくなって\", \"reading\": \"おおきくなって\", \"type\": \"adjective\"},\n  {\"surface\": \"育ちました\", \"reading\": \"そだちました\", \"type\": \"verb\"},\n  {\"surface\": \"話しました\", \"reading\": \"はなしました\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 57.01480746269226,
+    "attempt": 1
+  },
+  {
+    "id": 35,
+    "raw_response": "[\n  {\"surface\": \"授業\", \"reading\": \"じゅぎょう\", \"type\": \"noun\"},\n  {\"surface\": \"富谷小学校\", \"reading\": \"とみやしょうがっこう\", \"type\": \"proper_noun\"},\n  {\"surface\": \"３年生\", \"reading\": \"さんねんせい\", \"type\": \"counter\"},\n  {\"surface\": \"５８人\", \"reading\": \"ごじゅうはちにん\", \"type\": \"counter\"},\n  {\"surface\": \"参加しました\", \"reading\": \"さんかしました\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 64.33364272117615,
+    "attempt": 1
+  },
+  {
+    "id": 36,
+    "raw_response": "[\n  {\"surface\": \"１１月\", \"reading\": \"じゅういちがつ\", \"type\": \"counter\"},\n  {\"surface\": \"１０日\", \"reading\": \"とおか\", \"type\": \"counter\"},\n  {\"surface\": \"２０人\", \"reading\": \"にじゅうにん\", \"type\": \"counter\"},\n  {\"surface\": \"人\", \"reading\": \"ひと\", \"type\": \"noun\"},\n  {\"surface\": \"使った\", \"reading\": \"つかった\", \"type\": \"verb\"},\n  {\"surface\": \"料理\", \"reading\": \"りょうり\", \"type\": \"noun\"},\n  {\"surface\": \"食べました\", \"reading\": \"たべました\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 151.52437353134155,
+    "attempt": 1
+  },
+  {
+    "id": 37,
+    "raw_response": "[\n  {\"surface\": \"木村\", \"reading\": \"きむら\", \"type\": \"proper_noun\"},\n  {\"surface\": \"１８年前\", \"reading\": \"じゅうはちねんまえ\", \"type\": \"counter\"},\n  {\"surface\": \"名古屋\", \"reading\": \"なごや\", \"type\": \"proper_noun\"},\n  {\"surface\": \"大学\", \"reading\": \"だいがく\", \"type\": \"noun\"},\n  {\"surface\": \"通う\", \"reading\": \"かよう\", \"type\": \"verb\"},\n  {\"surface\": \"名古屋市\", \"reading\": \"なごやし\", \"type\": \"proper_noun\"},\n  {\"surface\": \"引っ越ししました\", \"reading\": \"ひっこししました\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 59.69249868392944,
+    "attempt": 1
+  },
+  {
+    "id": 38,
+    "raw_response": "[\n  {\"surface\": \"生徒\", \"reading\": \"せいと\", \"type\": \"noun\"},\n  {\"surface\": \"親\", \"reading\": \"おや\", \"type\": \"noun\"},\n  {\"surface\": \"卒業する\", \"reading\": \"そつぎょうする\", \"type\": \"verb\"},\n  {\"surface\": \"３年生\", \"reading\": \"さんねんせい\", \"type\": \"counter\"},\n  {\"surface\": \"思いました\", \"reading\": \"おもいました\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 91.85124945640564,
+    "attempt": 1
+  },
+  {
+    "id": 39,
+    "raw_response": "[\n  {\"surface\": \"山形県\", \"reading\": \"やまがたけん\", \"type\": \"proper_noun\"},\n  {\"surface\": \"朝日町\", \"reading\": \"あさひまち\", \"type\": \"proper_noun\"},\n  {\"surface\": \"空気\", \"reading\": \"くうき\", \"type\": \"noun\"},\n  {\"surface\": \"神様\", \"reading\": \"かみさま\", \"type\": \"noun\"},\n  {\"surface\": \"空気神社\", \"reading\": \"くうきじんじゃ\", \"type\": \"proper_noun\"}\n]\n",
+    "time_seconds": 88.41653394699097,
+    "attempt": 1
+  },
+  {
+    "id": 40,
+    "raw_response": "[\n  {\"surface\": \"３月２４日\", \"reading\": \"さんがつにじゅうよっか\", \"type\": \"noun\"},\n  {\"surface\": \"９０人\", \"reading\": \"きゅうじゅうにん\", \"type\": \"counter\"},\n  {\"surface\": \"人\", \"reading\": \"ひと\", \"type\": \"noun\"},\n  {\"surface\": \"来ました\", \"reading\": \"きました\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 79.64272713661194,
+    "attempt": 1
+  },
+  {
+    "id": 41,
+    "raw_response": "[\n  {\"surface\": \"家族\", \"reading\": \"かぞく\", \"type\": \"noun\"},\n  {\"surface\": \"1人\", \"reading\": \"ひとり\", \"type\": \"counter\"},\n  {\"surface\": \"横田早紀江\", \"reading\": \"よこたさきえ\", \"type\": \"proper_noun\"},\n  {\"surface\": \"大統領\", \"reading\": \"だいとうりょう\", \"type\": \"noun\"},\n  {\"surface\": \"会った\", \"reading\": \"あった\", \"type\": \"verb\"},\n  {\"surface\": \"大統領\", \"reading\": \"だいとうりょう\", \"type\": \"noun\"},\n  {\"surface\": \"拉致\", \"reading\": \"らち\", \"type\": \"noun\"},\n  {\"surface\": \"問題\", \"reading\": \"もんだい\", \"type\": \"noun\"},\n  {\"surface\": \"考えている\", \"reading\": \"かんがえている\", \"type\": \"verb\"},\n  {\"surface\": \"思いました\", \"reading\": \"おもいました\", \"type\": \"verb\"},\n  {\"surface\": \"大統領\", \"reading\": \"だいとうりょう\", \"type\": \"noun\"},\n  {\"surface\": \"北朝鮮\", \"reading\": \"きたちょうせん\", \"type\": \"proper_noun\"},\n  {\"surface\": \"会ったら\", \"reading\": \"あったら\", \"type\": \"verb\"},\n  {\"surface\": \"必ず\", \"reading\": \"かならず\", \"type\": \"noun\"},\n  {\"surface\": \"問題\", \"reading\": \"もんだい\", \"type\": \"noun\"},\n  {\"surface\": \"話してほしい\", \"reading\": \"はなしてほしい\", \"type\": \"verb\"},\n  {\"surface\": \"話しました\", \"reading\": \"はなしました\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 55.25594115257263,
+    "attempt": 1
+  },
+  {
+    "id": 42,
+    "raw_response": "[\n  {\"surface\": \"永井\", \"reading\": \"ながい\", \"type\": \"proper_noun\"},\n  {\"surface\": \"石川県\", \"reading\": \"いしかわけん\", \"type\": \"proper_noun\"},\n  {\"surface\": \"輪島市\", \"reading\": \"わじまし\", \"type\": \"proper_noun\"},\n  {\"surface\": \"出身\", \"reading\": \"しゅっしん\", \"type\": \"noun\"},\n  {\"surface\": \"漫画\", \"reading\": \"まんが\", \"type\": \"noun\"},\n  {\"surface\": \"有名\", \"reading\": \"ゆうめい\", \"type\": \"adjective\"},\n  {\"surface\": \"4月\", \"reading\": \"しがつ\", \"type\": \"counter\"},\n  {\"surface\": \"永井\", \"reading\": \"ながい\", \"type\": \"proper_noun\"},\n  {\"surface\": \"地震\", \"reading\": \"じしん\", \"type\": \"noun\"},\n  {\"surface\": \"被害\", \"reading\": \"ひがい\", \"type\": \"noun\"},\n  {\"surface\": \"人\", \"reading\": \"ひと\", \"type\": \"noun\"},\n  {\"surface\": \"助けたい\", \"reading\": \"たすけたい\", \"type\": \"verb\"},\n  {\"surface\": \"考えて\", \"reading\": \"かんがえて\", \"type\": \"verb\"},\n  {\"surface\": \"絵\", \"reading\": \"え\", \"type\": \"noun\"},\n  {\"surface\": \"出しました\", \"reading\": \"だしました\", \"type\": \"verb\"},\n  {\"surface\": \"200人\", \"reading\": \"にひゃくにん\", \"type\": \"counter\"},\n  {\"surface\": \"以上\", \"reading\": \"いじょう\", \"type\": \"noun\"},\n  {\"surface\": \"漫画家\", \"reading\": \"まんがか\", \"type\": \"noun\"},\n  {\"surface\": \"一緒に\", \"reading\": \"いっしょに\", \"type\": \"adjective\"},\n  {\"surface\": \"絵\", \"reading\": \"え\", \"type\": \"noun\"},\n  {\"surface\": \"出しました\", \"reading\": \"だしました\", \"type\": \"verb\"},\n  {\"surface\": \"1億2300万円\", \"reading\": \"いちおくにせんさんびゃくまんえん\", \"type\": \"counter\"},\n  {\"surface\": \"集まりました\", \"reading\": \"あつまりました\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 89.9943699836731,
+    "attempt": 1
+  },
+  {
+    "id": 43,
+    "raw_response": "[\n  {\"surface\": \"北海道\", \"reading\": \"ほっかいどう\", \"type\": \"proper_noun\"},\n  {\"surface\": \"青森県\", \"reading\": \"あおもりけん\", \"type\": \"proper_noun\"},\n  {\"surface\": \"岩手県\", \"reading\": \"いわてけん\", \"type\": \"proper_noun\"},\n  {\"surface\": \"宮城県\", \"reading\": \"みやぎけん\", \"type\": \"proper_noun\"},\n  {\"surface\": \"福島県\", \"reading\": \"ふくしまけん\", \"type\": \"proper_noun\"},\n  {\"surface\": \"茨城県\", \"reading\": \"いばらきけん\", \"type\": \"proper_noun\"},\n  {\"surface\": \"千葉県\", \"reading\": \"ちばけん\", \"type\": \"proper_noun\"},\n  {\"surface\": \"市\", \"reading\": \"し\", \"type\": \"noun\"},\n  {\"surface\": \"町\", \"reading\": \"まち\", \"type\": \"noun\"},\n  {\"surface\": \"住んでいる\", \"reading\": \"すんでいる\", \"type\": \"verb\"},\n  {\"surface\": \"人\", \"reading\": \"ひと\", \"type\": \"noun\"},\n  {\"surface\": \"1週間\", \"reading\": \"いっしゅうかん\", \"type\": \"counter\"},\n  {\"surface\": \"地震\", \"reading\": \"じしん\", \"type\": \"noun\"},\n  {\"surface\": \"準備\", \"reading\": \"じゅんび\", \"type\": \"noun\"},\n  {\"surface\": \"言いました\", \"reading\": \"いいました\", \"type\": \"verb\"},\n  {\"surface\": \"避難場所\", \"reading\": \"ひなんばしょ\", \"type\": \"noun\"},\n  {\"surface\": \"逃げる\", \"reading\": \"にげる\", \"type\": \"verb\"},\n  {\"surface\": \"荷物\", \"reading\": \"にもつ\", \"type\": \"noun\"},\n  {\"surface\": \"一度\", \"reading\": \"いちど\", \"type\": \"counter\"}\n]\n",
+    "time_seconds": 131.52435445785522,
+    "attempt": 1
+  },
+  {
+    "id": 44,
+    "raw_response": "[\n  {\"surface\": \"沖縄県\", \"reading\": \"おきなわけん\", \"type\": \"proper_noun\"},\n  {\"surface\": \"会社\", \"reading\": \"かいしゃ\", \"type\": \"noun\"},\n  {\"surface\": \"25日\", \"reading\": \"にじゅうごにち\", \"type\": \"counter\"},\n  {\"surface\": \"東京証券取引所\", \"reading\": \"とうきょうしょうけんとりひきじょ\", \"type\": \"proper_noun\"},\n  {\"surface\": \"株\", \"reading\": \"かぶ\", \"type\": \"noun\"},\n  {\"surface\": \"上場しました\", \"reading\": \"じょうじょうしました\", \"type\": \"verb\"},\n  {\"surface\": \"上場する\", \"reading\": \"じょうじょうする\", \"type\": \"verb\"},\n  {\"surface\": \"株\", \"reading\": \"かぶ\", \"type\": \"noun\"},\n  {\"surface\": \"売ったり\", \"reading\": \"うったり\", \"type\": \"verb\"},\n  {\"surface\": \"買ったり\", \"reading\": \"かったり\", \"type\": \"verb\"},\n  {\"surface\": \"午前\", \"reading\": \"ごぜん\", \"type\": \"noun\"},\n  {\"surface\": \"買いたい\", \"reading\": \"かいたい\", \"type\": \"verb\"},\n  {\"surface\": \"人\", \"reading\": \"ひと\", \"type\": \"noun\"},\n  {\"surface\": \"多くて\", \"reading\": \"おおくて\", \"type\": \"adjective\"},\n  {\"surface\": \"値段\", \"reading\": \"ねだん\", \"type\": \"noun\"},\n  {\"surface\": \"決まりませんでした\", \"reading\": \"きまりませんでした\", \"type\": \"verb\"},\n  {\"surface\": \"午後\", \"reading\": \"ごご\", \"type\": \"noun\"},\n  {\"surface\": \"決まって\", \"reading\": \"きまって\", \"type\": \"verb\"},\n  {\"surface\": \"25日\", \"reading\": \"にじゅうごにち\", \"type\": \"counter\"},\n  {\"surface\": \"最後\", \"reading\": \"さいご\", \"type\": \"noun\"},\n  {\"surface\": \"値段\", \"reading\": \"ねだん\", \"type\": \"noun\"},\n  {\"surface\": \"1950円\", \"reading\": \"せんきゅうひゃくごじゅうえん\", \"type\": \"counter\"}\n]\n",
+    "time_seconds": 94.62433457374573,
+    "attempt": 1
+  },
+  {
+    "id": 45,
+    "raw_response": "[\n  {\"surface\": \"社長\", \"reading\": \"しゃちょう\", \"type\": \"noun\"},\n  {\"surface\": \"正しくない\", \"reading\": \"ただしくない\", \"type\": \"adjective\"},\n  {\"surface\": \"調べ方\", \"reading\": \"しらべかた\", \"type\": \"noun\"},\n  {\"surface\": \"言って\", \"reading\": \"いって\", \"type\": \"verb\"},\n  {\"surface\": \"東京都\", \"reading\": \"とうきょうと\", \"type\": \"proper_noun\"},\n  {\"surface\": \"国\", \"reading\": \"くに\", \"type\": \"noun\"},\n  {\"surface\": \"訴えました\", \"reading\": \"うったえました\", \"type\": \"verb\"},\n  {\"surface\": \"裁判所\", \"reading\": \"さいばんしょ\", \"type\": \"noun\"},\n  {\"surface\": \"5月\", \"reading\": \"ごがつ\", \"type\": \"counter\"},\n  {\"surface\": \"警察\", \"reading\": \"けいさつ\", \"type\": \"noun\"},\n  {\"surface\": \"検察\", \"reading\": \"けんさつ\", \"type\": \"noun\"},\n  {\"surface\": \"法律\", \"reading\": \"ほうりつ\", \"type\": \"noun\"},\n  {\"surface\": \"違反していた\", \"reading\": \"いはんしていた\", \"type\": \"verb\"},\n  {\"surface\": \"言いました\", \"reading\": \"いいました\", \"type\": \"verb\"},\n  {\"surface\": \"東京都\", \"reading\": \"とうきょうと\", \"type\": \"proper_noun\"},\n  {\"surface\": \"国\", \"reading\": \"くに\", \"type\": \"noun\"},\n  {\"surface\": \"1億6600万円\", \"reading\": \"いちおくろくせんろっぴゃくまんえん\", \"type\": \"counter\"},\n  {\"surface\": \"社長\", \"reading\": \"しゃちょう\", \"type\": \"noun\"},\n  {\"surface\": \"払う\", \"reading\": \"はらう\", \"type\": \"verb\"},\n  {\"surface\": \"命令しました\", \"reading\": \"めいれいしました\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 84.98771381378174,
+    "attempt": 1
+  },
+  {
+    "id": 46,
+    "raw_response": "[\n  {\"surface\": \"片岡仁左衛門\", \"reading\": \"かたおかにざえもん\", \"type\": \"proper_noun\"},\n  {\"surface\": \"尾上菊五郎\", \"reading\": \"おのえきくごろう\", \"type\": \"proper_noun\"},\n  {\"surface\": \"旗\", \"reading\": \"はた\", \"type\": \"noun\"},\n  {\"surface\": \"飾った\", \"reading\": \"かざった\", \"type\": \"verb\"},\n  {\"surface\": \"船\", \"reading\": \"ふね\", \"type\": \"noun\"},\n  {\"surface\": \"乗りました\", \"reading\": \"のりました\", \"type\": \"verb\"},\n  {\"surface\": \"大阪\", \"reading\": \"おおさか\", \"type\": \"proper_noun\"},\n  {\"surface\": \"中\", \"reading\": \"なか\", \"type\": \"noun\"},\n  {\"surface\": \"川\", \"reading\": \"かわ\", \"type\": \"noun\"},\n  {\"surface\": \"進みました\", \"reading\": \"すすみました\", \"type\": \"verb\"},\n  {\"surface\": \"舞台\", \"reading\": \"ぶたい\", \"type\": \"noun\"},\n  {\"surface\": \"近く\", \"reading\": \"ちかく\", \"type\": \"noun\"},\n  {\"surface\": \"着く\", \"reading\": \"つく\", \"type\": \"verb\"},\n  {\"surface\": \"人\", \"reading\": \"ひと\", \"type\": \"noun\"},\n  {\"surface\": \"拍手\", \"reading\": \"はくしゅ\", \"type\": \"noun\"},\n  {\"surface\": \"迎えました\", \"reading\": \"むかえました\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 123.72308564186096,
+    "attempt": 1
+  },
+  {
+    "id": 47,
+    "raw_response": "[\n  {\"surface\": \"今年\", \"reading\": \"ことし\", \"type\": \"noun\"},\n  {\"surface\": \"4月\", \"reading\": \"しがつ\", \"type\": \"counter\"},\n  {\"surface\": \"関税\", \"reading\": \"かんぜい\", \"type\": \"noun\"},\n  {\"surface\": \"上げた\", \"reading\": \"あげた\", \"type\": \"verb\"},\n  {\"surface\": \"自動車\", \"reading\": \"じどうしゃ\", \"type\": \"noun\"},\n  {\"surface\": \"輸出\", \"reading\": \"ゆしゅつ\", \"type\": \"noun\"},\n  {\"surface\": \"減りました\", \"reading\": \"へりました\", \"type\": \"verb\"},\n  {\"surface\": \"住宅\", \"reading\": \"じゅうたく\", \"type\": \"noun\"},\n  {\"surface\": \"投資\", \"reading\": \"とうし\", \"type\": \"noun\"},\n  {\"surface\": \"大きく\", \"reading\": \"おおきく\", \"type\": \"adjective\"},\n  {\"surface\": \"減りました\", \"reading\": \"へりました\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 40.2026252746582,
+    "attempt": 1
+  },
+  {
+    "id": 48,
+    "raw_response": "[\n  {\"surface\": \"有名な\", \"reading\": \"ゆうめいな\", \"type\": \"adjective\"},\n  {\"surface\": \"野球選手\", \"reading\": \"やきゅうせんしゅ\", \"type\": \"noun\"},\n  {\"surface\": \"松井秀喜\", \"reading\": \"まついひでき\", \"type\": \"proper_noun\"},\n  {\"surface\": \"去年\", \"reading\": \"きょねん\", \"type\": \"noun\"},\n  {\"surface\": \"大きい\", \"reading\": \"おおきい\", \"type\": \"adjective\"},\n  {\"surface\": \"地震\", \"reading\": \"じしん\", \"type\": \"noun\"},\n  {\"surface\": \"石川県\", \"reading\": \"いしかわけん\", \"type\": \"proper_noun\"},\n  {\"surface\": \"能登地方\", \"reading\": \"のとちほう\", \"type\": \"proper_noun\"},\n  {\"surface\": \"9月\", \"reading\": \"くがつ\", \"type\": \"counter\"},\n  {\"surface\": \"野球教室\", \"reading\": \"やきゅうきょうしつ\", \"type\": \"noun\"},\n  {\"surface\": \"開きます\", \"reading\": \"ひらきます\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 47.34486699104309,
+    "attempt": 1
+  },
+  {
+    "id": 49,
+    "raw_response": "[\n  {\"surface\": \"今年\", \"reading\": \"ことし\", \"type\": \"noun\"},\n  {\"surface\": \"4月\", \"reading\": \"しがつ\", \"type\": \"counter\"},\n  {\"surface\": \"神奈川県川崎市\", \"reading\": \"かながわけんかわさきし\", \"type\": \"proper_noun\"},\n  {\"surface\": \"20歳\", \"reading\": \"にじゅっさい\", \"type\": \"counter\"},\n  {\"surface\": \"女性\", \"reading\": \"じょせい\", \"type\": \"noun\"},\n  {\"surface\": \"殺されている\", \"reading\": \"ころされている\", \"type\": \"verb\"},\n  {\"surface\": \"見つかりました\", \"reading\": \"みつかりました\", \"type\": \"verb\"},\n  {\"surface\": \"前\", \"reading\": \"まえ\", \"type\": \"noun\"},\n  {\"surface\": \"つき合っていた\", \"reading\": \"つきあっていた\", \"type\": \"verb\"},\n  {\"surface\": \"男\", \"reading\": \"おとこ\", \"type\": \"noun\"},\n  {\"surface\": \"家\", \"reading\": \"いえ\", \"type\": \"noun\"},\n  {\"surface\": \"見つかりました\", \"reading\": \"みつかりました\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 63.74520397186279,
+    "attempt": 1
+  },
+  {
+    "id": 50,
+    "raw_response": "[\n  {\"surface\": \"政府\", \"reading\": \"せいふ\", \"type\": \"noun\"},\n  {\"surface\": \"19日\", \"reading\": \"じゅうくにち\", \"type\": \"counter\"},\n  {\"surface\": \"午前\", \"reading\": \"ごぜん\", \"type\": \"noun\"},\n  {\"surface\": \"犯人\", \"reading\": \"はんにん\", \"type\": \"noun\"},\n  {\"surface\": \"美術館\", \"reading\": \"びじゅつかん\", \"type\": \"noun\"},\n  {\"surface\": \"2階\", \"reading\": \"にかい\", \"type\": \"counter\"},\n  {\"surface\": \"窓\", \"reading\": \"まど\", \"type\": \"noun\"},\n  {\"surface\": \"入りました\", \"reading\": \"はいりました\", \"type\": \"verb\"},\n  {\"surface\": \"宝石\", \"reading\": \"ほうせき\", \"type\": \"noun\"},\n  {\"surface\": \"盗んで\", \"reading\": \"ぬすんで\", \"type\": \"verb\"},\n  {\"surface\": \"逃げました\", \"reading\": \"にげました\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 37.50854802131653,
+    "attempt": 1
+  },
+  {
+    "id": 51,
+    "raw_response": "[\n  {\n    \"surface\": \"強い\",\n    \"reading\": \"つよい\",\n    \"type\": \"adjective\"\n  },\n  {\n    \"surface\": \"台風22号\",\n    \"reading\": \"たいふうにじゅうにごう\",\n    \"type\": \"noun\"\n  },\n  {\n    \"surface\": \"9日\",\n    \"reading\": \"ここのか\",\n    \"type\": \"counter\"\n  },\n  {\n    \"surface\": \"伊豆諸島\",\n    \"reading\": \"いずしょとう\",\n    \"type\": \"proper_noun\"\n  },\n  {\n    \"surface\": \"東\",\n    \"reading\": \"ひがし\",\n    \"type\": \"noun\"\n  },\n  {\n    \"surface\": \"海\",\n    \"reading\": \"うみ\",\n    \"type\": \"noun\"\n  },\n  {\n    \"surface\": \"進みました\",\n    \"reading\": \"すすみました\",\n    \"type\": \"verb\"\n  },\n  {\n    \"surface\": \"伊豆諸島\",\n    \"reading\": \"いずしょとう\",\n    \"type\": \"proper_noun\"\n  },\n  {\n    \"surface\": \"離れています\",\n    \"reading\": \"はなれています\",\n    \"type\": \"verb\"\n  }\n]\n",
+    "time_seconds": 50.70655941963196,
+    "attempt": 1
+  },
+  {
+    "id": 52,
+    "raw_response": "[\n  {\"surface\": \"気象庁\", \"reading\": \"きしょうちょう\", \"type\": \"proper_noun\"},\n  {\"surface\": \"8日\", \"reading\": \"ようか\", \"type\": \"counter\"},\n  {\"surface\": \"大きい\", \"reading\": \"おおきい\", \"type\": \"adjective\"},\n  {\"surface\": \"地震\", \"reading\": \"じしん\", \"type\": \"noun\"},\n  {\"surface\": \"大きい\", \"reading\": \"おおきい\", \"type\": \"adjective\"},\n  {\"surface\": \"8以上\", \"reading\": \"はちいじょう\", \"type\": \"counter\"},\n  {\"surface\": \"地震\", \"reading\": \"じしん\", \"type\": \"noun\"},\n  {\"surface\": \"起こる\", \"reading\": \"おこる\", \"type\": \"verb\"},\n  {\"surface\": \"言いました\", \"reading\": \"いいました\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 70.36523962020874,
+    "attempt": 1
+  },
+  {
+    "id": 53,
+    "raw_response": "[\n  {\"surface\": \"解散する\", \"reading\": \"かいさんする\", \"type\": \"verb\"},\n  {\"surface\": \"衆議院\", \"reading\": \"しゅうぎいん\", \"type\": \"proper_noun\"},\n  {\"surface\": \"新しい\", \"reading\": \"あたらしい\", \"type\": \"adjective\"},\n  {\"surface\": \"議員\", \"reading\": \"ぎいん\", \"type\": \"noun\"},\n  {\"surface\": \"選ぶ\", \"reading\": \"えらぶ\", \"type\": \"verb\"},\n  {\"surface\": \"選挙\", \"reading\": \"せんきょう\", \"type\": \"noun\"},\n  {\"surface\": \"与党\", \"reading\": \"よとう\", \"type\": \"noun\"},\n  {\"surface\": \"投票する\", \"reading\": \"とうひょうする\", \"type\": \"verb\"},\n  {\"surface\": \"日\", \"reading\": \"ひ\", \"type\": \"noun\"},\n  {\"surface\": \"2月8日\", \"reading\": \"にがつようか\", \"type\": \"counter\"},\n  {\"surface\": \"考えています\", \"reading\": \"かんがえています\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 53.88377666473389,
+    "attempt": 1
+  },
+  {
+    "id": 54,
+    "raw_response": "```json\n[\n  {\"surface\": \"東京\", \"reading\": \"とうきょう\", \"type\": \"proper_noun\"},\n  {\"surface\": \"北区\", \"reading\": \"きたく\", \"type\": \"proper_noun\"},\n  {\"surface\": \"一緒に\", \"reading\": \"いっしょに\", \"type\": \"adverb\"},\n  {\"surface\": \"避難する\", \"reading\": \"ひなんする\", \"type\": \"verb\"},\n  {\"surface\": \"方法\", \"reading\": \"ほうほう\", \"type\": \"noun\"},\n  {\"surface\": \"勉強する\", \"reading\": \"べんきょうする\", \"type\": \"verb\"},\n  {\"surface\": \"会\", \"reading\": \"かい\", \"type\": \"noun\"},\n  {\"surface\": \"近く\", \"reading\": \"ちかく\", \"type\": \"noun\"},\n  {\"surface\": \"住む\", \"reading\": \"すむ\", \"type\": \"verb\"},\n  {\"surface\": \"20人\", \"reading\": \"にじゅうにん\", \"type\": \"counter\"},\n  {\"surface\": \"集まりました\", \"reading\": \"あつまりました\", \"type\": \"verb\"}\n]\n```\n",
+    "time_seconds": 45.15717649459839,
+    "attempt": 1
+  },
+  {
+    "id": 55,
+    "raw_response": "[\n  {\"surface\": \"国土交通省\", \"reading\": \"こくどこうつうしょう\", \"type\": \"proper_noun\"},\n  {\"surface\": \"全日空\", \"reading\": \"ぜんにっくう\", \"type\": \"proper_noun\"},\n  {\"surface\": \"日本航空\", \"reading\": \"にほんこうくう\", \"type\": \"proper_noun\"},\n  {\"surface\": \"同じ\", \"reading\": \"おなじ\", \"type\": \"adjective\"},\n  {\"surface\": \"飛行機\", \"reading\": \"ひこうき\", \"type\": \"noun\"},\n  {\"surface\": \"言いました\", \"reading\": \"いいました\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 42.40428614616394,
+    "attempt": 1
+  },
+  {
+    "id": 56,
+    "raw_response": "[\n  {\"surface\": \"漫画家\", \"reading\": \"まんがか\", \"type\": \"noun\"},\n  {\"surface\": \"永井豪\", \"reading\": \"ながいごう\", \"type\": \"proper_noun\"},\n  {\"surface\": \"11日\", \"reading\": \"じゅういちにち\", \"type\": \"counter\"},\n  {\"surface\": \"能登半島地震\", \"reading\": \"のとはんとうじしん\", \"type\": \"noun\"},\n  {\"surface\": \"被害\", \"reading\": \"ひがい\", \"type\": \"noun\"},\n  {\"surface\": \"石川県\", \"reading\": \"いしかわけん\", \"type\": \"proper_noun\"},\n  {\"surface\": \"1億2300万円\", \"reading\": \"いちおくにせんさんびゃくまんえん\", \"type\": \"counter\"},\n  {\"surface\": \"贈りました\", \"reading\": \"おくりました\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 39.25095725059509,
+    "attempt": 1
+  },
+  {
+    "id": 57,
+    "raw_response": "[\n  {\"surface\": \"軍\", \"reading\": \"ぐん\", \"type\": \"noun\"},\n  {\"surface\": \"3日\", \"reading\": \"みっか\", \"type\": \"counter\"},\n  {\"surface\": \"南米\", \"reading\": \"なんべい\", \"type\": \"proper_noun\"},\n  {\"surface\": \"大統領\", \"reading\": \"だいとうりょう\", \"type\": \"noun\"},\n  {\"surface\": \"妻\", \"reading\": \"つま\", \"type\": \"noun\"},\n  {\"surface\": \"2人\", \"reading\": \"ふたり\", \"type\": \"counter\"},\n  {\"surface\": \"捕まえました\", \"reading\": \"つかまえました\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 43.56860017776489,
+    "attempt": 1
+  },
+  {
+    "id": 58,
+    "raw_response": "[\n  {\"surface\": \"票\", \"reading\": \"ひょう\", \"type\": \"noun\"},\n  {\"surface\": \"数\", \"reading\": \"かず\", \"type\": \"noun\"},\n  {\"surface\": \"同じになった\", \"reading\": \"おなじになった\", \"type\": \"adjective\"},\n  {\"surface\": \"場合\", \"reading\": \"ばあい\", \"type\": \"noun\"},\n  {\"surface\": \"引きます\", \"reading\": \"ひきます\", \"type\": \"verb\"},\n  {\"surface\": \"法律\", \"reading\": \"ほうりつ\", \"type\": \"noun\"},\n  {\"surface\": \"決まっています\", \"reading\": \"きまっています\", \"type\": \"verb\"},\n  {\"surface\": \"結果\", \"reading\": \"けっか\", \"type\": \"noun\"},\n  {\"surface\": \"新しく\", \"reading\": \"あたらしく\", \"type\": \"adjective\"},\n  {\"surface\": \"選挙\", \"reading\": \"せんきょ\", \"type\": \"noun\"},\n  {\"surface\": \"出た\", \"reading\": \"でた\", \"type\": \"verb\"},\n  {\"surface\": \"人\", \"reading\": \"ひと\", \"type\": \"noun\"},\n  {\"surface\": \"決まりました\", \"reading\": \"きまりました\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 39.343366861343384,
+    "attempt": 1
+  },
+  {
+    "id": 59,
+    "raw_response": "[\n  {\"surface\": \"尾崎\", \"reading\": \"おざき\", \"type\": \"proper_noun\"},\n  {\"surface\": \"体\", \"reading\": \"からだ\", \"type\": \"noun\"},\n  {\"surface\": \"大きくて\", \"reading\": \"おおきくて\", \"type\": \"adjective\"},\n  {\"surface\": \"打つ\", \"reading\": \"うつ\", \"type\": \"verb\"},\n  {\"surface\": \"遠く\", \"reading\": \"とおく\", \"type\": \"adjective\"},\n  {\"surface\": \"飛びました\", \"reading\": \"とびました\", \"type\": \"verb\"},\n  {\"surface\": \"尾崎\", \"reading\": \"おざき\", \"type\": \"proper_noun\"},\n  {\"surface\": \"呼びました\", \"reading\": \"よびました\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 34.73142671585083,
+    "attempt": 1
+  },
+  {
+    "id": 60,
+    "raw_response": "[\n  {\"surface\": \"大学\", \"reading\": \"だいがく\", \"type\": \"noun\"},\n  {\"surface\": \"留学生\", \"reading\": \"りゅうがくせい\", \"type\": \"noun\"},\n  {\"surface\": \"大学院\", \"reading\": \"だいがくいん\", \"type\": \"noun\"},\n  {\"surface\": \"修士課程\", \"reading\": \"しゅうしかてい\", \"type\": \"noun\"},\n  {\"surface\": \"留学生\", \"reading\": \"りゅうがくせい\", \"type\": \"noun\"},\n  {\"surface\": \"1年\", \"reading\": \"いちねん\", \"type\": \"counter\"},\n  {\"surface\": \"授業料\", \"reading\": \"じゅぎょうりょう\", \"type\": \"noun\"},\n  {\"surface\": \"90万円\", \"reading\": \"きゅうじゅうまんえん\", \"type\": \"counter\"},\n  {\"surface\": \"日本\", \"reading\": \"にほん\", \"type\": \"proper_noun\"},\n  {\"surface\": \"学生\", \"reading\": \"がくせい\", \"type\": \"noun\"},\n  {\"surface\": \"1.7倍\", \"reading\": \"いってんななばい\", \"type\": \"counter\"}\n]\n",
+    "time_seconds": 68.86028003692627,
+    "attempt": 1
+  },
+  {
+    "id": 61,
+    "raw_response": "[\n  {\"surface\": \"1995年\", \"reading\": \"せんきゅうひゃくきゅうじゅうごねん\", \"type\": \"counter\"},\n  {\"surface\": \"時点\", \"reading\": \"じてん\", \"type\": \"noun\"},\n  {\"surface\": \"高校生\", \"reading\": \"こうこうせい\", \"type\": \"noun\"},\n  {\"surface\": \"主人公\", \"reading\": \"しゅじんこう\", \"type\": \"noun\"},\n  {\"surface\": \"辰木\", \"reading\": \"たつき\", \"type\": \"proper_noun\"},\n  {\"surface\": \"桂\", \"reading\": \"けい\", \"type\": \"proper_noun\"},\n  {\"surface\": \"神戸\", \"reading\": \"こうべ\", \"type\": \"proper_noun\"},\n  {\"surface\": \"引っ越す\", \"reading\": \"ひっこす\", \"type\": \"verb\"},\n  {\"surface\": \"前\", \"reading\": \"まえ\", \"type\": \"noun\"},\n  {\"surface\": \"阪神\", \"reading\": \"はんしん\", \"type\": \"proper_noun\"},\n  {\"surface\": \"淡路\", \"reading\": \"あわじ\", \"type\": \"proper_noun\"},\n  {\"surface\": \"大震災\", \"reading\": \"だいしんさい\", \"type\": \"noun\"},\n  {\"surface\": \"直接\", \"reading\": \"ちょくせつ\", \"type\": \"noun\"},\n  {\"surface\": \"経験していない\", \"reading\": \"けいけんしていない\", \"type\": \"verb\"},\n  {\"surface\": \"設定\", \"reading\": \"せってい\", \"type\": \"noun\"},\n  {\"surface\": \"作中\", \"reading\": \"さくちゅう\", \"type\": \"noun\"},\n  {\"surface\": \"震災\", \"reading\": \"しんさい\", \"type\": \"noun\"},\n  {\"surface\": \"話\", \"reading\": \"はなし\", \"type\": \"noun\"},\n  {\"surface\": \"桂\", \"reading\": \"けい\", \"type\": \"proper_noun\"},\n  {\"surface\": \"被害\", \"reading\": \"ひがい\", \"type\": \"noun\"},\n  {\"surface\": \"爪痕\", \"reading\": \"つめあと\", \"type\": \"noun\"},\n  {\"surface\": \"見る\", \"reading\": \"みる\", \"type\": \"verb\"},\n  {\"surface\": \"直接\", \"reading\": \"ちょくせつ\", \"type\": \"noun\"},\n  {\"surface\": \"体験した\", \"reading\": \"たいけんした\", \"type\": \"verb\"},\n  {\"surface\": \"桂\", \"reading\": \"けい\", \"type\": \"proper_noun\"},\n  {\"surface\": \"友人\", \"reading\": \"ゆうじん\", \"type\": \"noun\"},\n  {\"surface\": \"金城\", \"reading\": \"きんじょう\", \"type\": \"proper_noun\"},\n  {\"surface\": \"和歌子\", \"reading\": \"わかこ\", \"type\": \"proper_noun\"},\n  {\"surface\": \"恋人\", \"reading\": \"こいびと\", \"type\": \"noun\"},\n  {\"surface\": \"林\", \"reading\": \"はやし\", \"type\": \"proper_noun\"},\n  {\"surface\": \"浩\", \"reading\": \"ひろし\", \"type\": \"proper_noun\"},\n  {\"surface\": \"2人\", \"reading\": \"ふたり\", \"type\": \"counter\"},\n  {\"surface\": \"中心\", \"reading\": \"ちゅうしん\", \"type\": \"noun\"},\n  {\"surface\": \"体験談\", \"reading\": \"たいけんだん\", \"type\": \"noun\"},\n  {\"surface\": \"語る\", \"reading\": \"かたる\", \"type\": \"verb\"},\n  {\"surface\": \"形\", \"reading\": \"かたち\", \"type\": \"noun\"},\n  {\"surface\": \"描かれている\", \"reading\": \"えがかれている\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 199.6253502368927,
+    "attempt": 1
+  },
+  {
+    "id": 62,
+    "raw_response": "[\n  {\"surface\": \"同小説\", \"reading\": \"どうしょうせつ\", \"type\": \"noun\"},\n  {\"surface\": \"藍染\", \"reading\": \"あいぜん\", \"type\": \"proper_noun\"},\n  {\"surface\": \"罪\", \"reading\": \"つみ\", \"type\": \"noun\"},\n  {\"surface\": \"元柳斎\", \"reading\": \"げんりゅうさい\", \"type\": \"proper_noun\"},\n  {\"surface\": \"尽力\", \"reading\": \"じんりょく\", \"type\": \"noun\"},\n  {\"surface\": \"藍染\", \"reading\": \"あいぜん\", \"type\": \"proper_noun\"},\n  {\"surface\": \"謀略\", \"reading\": \"ぼうりゃく\", \"type\": \"noun\"},\n  {\"surface\": \"認められた\", \"reading\": \"みとめられた\", \"type\": \"verb\"},\n  {\"surface\": \"鉄裁\", \"reading\": \"てっさい\", \"type\": \"proper_noun\"},\n  {\"surface\": \"夜一\", \"reading\": \"よるいち\", \"type\": \"proper_noun\"},\n  {\"surface\": \"罪状共々\", \"reading\": \"ざいじょうともども\", \"type\": \"noun\"},\n  {\"surface\": \"取り消し\", \"reading\": \"とりけし\", \"type\": \"noun\"},\n  {\"surface\": \"商店\", \"reading\": \"しょうてん\", \"type\": \"noun\"},\n  {\"surface\": \"尸魂界\", \"reading\": \"しこんかい\", \"type\": \"proper_noun\"},\n  {\"surface\": \"公認\", \"reading\": \"こうにん\", \"type\": \"noun\"},\n  {\"surface\": \"上\", \"reading\": \"うえ\", \"type\": \"noun\"},\n  {\"surface\": \"破面篇\", \"reading\": \"はめんへん\", \"type\": \"proper_noun\"},\n  {\"surface\": \"喜助\", \"reading\": \"きすけ\", \"type\": \"proper_noun\"},\n  {\"surface\": \"存在\", \"reading\": \"そんざい\", \"type\": \"noun\"},\n  {\"surface\": \"広く\", \"reading\": \"ひろく\", \"type\": \"adjective\"},\n  {\"surface\": \"知れ渡った\", \"reading\": \"しれわたった\", \"type\": \"verb\"},\n  {\"surface\": \"為\", \"reading\": \"ため\", \"type\": \"noun\"},\n  {\"surface\": \"現世駐在任務\", \"reading\": \"げんせちゅうざいにんむ\", \"type\": \"noun\"},\n  {\"surface\": \"死神\", \"reading\": \"しにがみ\", \"type\": \"noun\"},\n  {\"surface\": \"多数\", \"reading\": \"たすう\", \"type\": \"noun\"},\n  {\"surface\": \"訪れる\", \"reading\": \"おとずれる\", \"type\": \"verb\"},\n  {\"surface\": \"手\", \"reading\": \"て\", \"type\": \"noun\"},\n  {\"surface\": \"足りなくなりつつある\", \"reading\": \"たりなくなりつつある\", \"type\": \"verb\"},\n  {\"surface\": \"程\", \"reading\": \"ほど\", \"type\": \"noun\"},\n  {\"surface\": \"忙しくなっている\", \"reading\": \"いそがしくなっている\", \"type\": \"adjective\"},\n  {\"surface\": \"語られている\", \"reading\": \"かたられている\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 174.89697575569153,
+    "attempt": 1
+  },
+  {
+    "id": 63,
+    "raw_response": "[\n  {\"surface\": \"1970年代\", \"reading\": \"せんきゅうひゃくななじゅうねんだい\", \"type\": \"counter\"},\n  {\"surface\": \"末\", \"reading\": \"すえ\", \"type\": \"noun\"},\n  {\"surface\": \"開発された\", \"reading\": \"かいはつされた\", \"type\": \"verb\"},\n  {\"surface\": \"本形式\", \"reading\": \"ほんけいしき\", \"type\": \"noun\"},\n  {\"surface\": \"国産\", \"reading\": \"こくさん\", \"type\": \"noun\"},\n  {\"surface\": \"高品質な\", \"reading\": \"こうひんしつな\", \"type\": \"adjective\"},\n  {\"surface\": \"軽快車\", \"reading\": \"けいかいしゃ\", \"type\": \"noun\"},\n  {\"surface\": \"広く\", \"reading\": \"ひろく\", \"type\": \"adjective\"},\n  {\"surface\": \"採用された\", \"reading\": \"さいようされた\", \"type\": \"verb\"},\n  {\"surface\": \"近年\", \"reading\": \"きんねん\", \"type\": \"noun\"},\n  {\"surface\": \"自転車\", \"reading\": \"じてんしゃ\", \"type\": \"noun\"},\n  {\"surface\": \"低価格化圧力\", \"reading\": \"ていかかくかあつりょく\", \"type\": \"noun\"},\n  {\"surface\": \"大手\", \"reading\": \"おおて\", \"type\": \"noun\"},\n  {\"surface\": \"自転車部品\", \"reading\": \"じてんしゃぶひん\", \"type\": \"noun\"},\n  {\"surface\": \"社\", \"reading\": \"しゃ\", \"type\": \"noun\"},\n  {\"surface\": \"開発した\", \"reading\": \"かいはつした\", \"type\": \"verb\"},\n  {\"surface\": \"後発製品\", \"reading\": \"こうはつせいひん\", \"type\": \"noun\"},\n  {\"surface\": \"普及\", \"reading\": \"ふきゅう\", \"type\": \"noun\"},\n  {\"surface\": \"挟撃\", \"reading\": \"きょうげき\", \"type\": \"noun\"},\n  {\"surface\": \"受ける\", \"reading\": \"うける\", \"type\": \"verb\"},\n  {\"surface\": \"形\", \"reading\": \"かたち\", \"type\": \"noun\"},\n  {\"surface\": \"安売りされている\", \"reading\": \"やすうりされている\", \"type\": \"verb\"},\n  {\"surface\": \"自転車\", \"reading\": \"じてんしゃ\", \"type\": \"noun\"},\n  {\"surface\": \"他\", \"reading\": \"ほか\", \"type\": \"noun\"},\n  {\"surface\": \"多く\", \"reading\": \"おおく\", \"type\": \"adjective\"},\n  {\"surface\": \"軽快車\", \"reading\": \"けいかいしゃ\", \"type\": \"noun\"},\n  {\"surface\": \"市場\", \"reading\": \"しじょう\", \"type\": \"noun\"},\n  {\"surface\": \"奪われ\", \"reading\": \"うばわれ\", \"type\": \"verb\"},\n  {\"surface\": \"新車\", \"reading\": \"しんしゃ\", \"type\": \"noun\"},\n  {\"surface\": \"付く\", \"reading\": \"つく\", \"type\": \"verb\"},\n  {\"surface\": \"自転車\", \"reading\": \"じてんしゃ\", \"type\": \"noun\"},\n  {\"surface\": \"減少傾向\", \"reading\": \"げんしょうけいこう\", \"type\": \"noun\"}\n]\n",
+    "time_seconds": 92.77106142044067,
+    "attempt": 1
+  },
+  {
+    "id": 64,
+    "raw_response": "[\n  {\"surface\": \"佐脇有紀\", \"reading\": \"さわきゆき\", \"type\": \"proper_noun\"},\n  {\"surface\": \"裁判長\", \"reading\": \"さいばんちょう\", \"type\": \"noun\"},\n  {\"surface\": \"吉田\", \"reading\": \"よしだ\", \"type\": \"proper_noun\"},\n  {\"surface\": \"被告\", \"reading\": \"ひこく\", \"type\": \"noun\"},\n  {\"surface\": \"本件\", \"reading\": \"ほんけん\", \"type\": \"noun\"},\n  {\"surface\": \"果たした\", \"reading\": \"はたした\", \"type\": \"verb\"},\n  {\"surface\": \"役割\", \"reading\": \"やくわり\", \"type\": \"noun\"},\n  {\"surface\": \"主導的で\", \"reading\": \"しゅどうてきで\", \"type\": \"adjective\"},\n  {\"surface\": \"積極的\", \"reading\": \"せっきょくてき\", \"type\": \"adjective\"},\n  {\"surface\": \"元警察官\", \"reading\": \"もとけいさつかん\", \"type\": \"noun\"},\n  {\"surface\": \"犯行\", \"reading\": \"はんこう\", \"type\": \"noun\"},\n  {\"surface\": \"情状\", \"reading\": \"じょうじょう\", \"type\": \"noun\"},\n  {\"surface\": \"悪い\", \"reading\": \"わるい\", \"type\": \"adjective\"},\n  {\"surface\": \"被告\", \"reading\": \"ひこく\", \"type\": \"noun\"},\n  {\"surface\": \"素直に\", \"reading\": \"すなおに\", \"type\": \"adjective\"},\n  {\"surface\": \"犯行\", \"reading\": \"はんこう\", \"type\": \"noun\"},\n  {\"surface\": \"認め\", \"reading\": \"みとめ\", \"type\": \"verb\"},\n  {\"surface\": \"二度\", \"reading\": \"にど\", \"type\": \"counter\"},\n  {\"surface\": \"犯罪\", \"reading\": \"はんざい\", \"type\": \"noun\"},\n  {\"surface\": \"起こさない\", \"reading\": \"おこさない\", \"type\": \"verb\"},\n  {\"surface\": \"反省している\", \"reading\": \"はんせいしている\", \"type\": \"verb\"},\n  {\"surface\": \"弁護士会\", \"reading\": \"べんごしかい\", \"type\": \"noun\"},\n  {\"surface\": \"100万円\", \"reading\": \"ひゃくまんえん\", \"type\": \"counter\"},\n  {\"surface\": \"寄付した\", \"reading\": \"きふした\", \"type\": \"verb\"},\n  {\"surface\": \"総合考慮し\", \"reading\": \"そうごうこうりょし\", \"type\": \"verb\"},\n  {\"surface\": \"執行猶予付き\", \"reading\": \"しっこうゆうよつき\", \"type\": \"noun\"},\n  {\"surface\": \"判決\", \"reading\": \"はんけつ\", \"type\": \"noun\"},\n  {\"surface\": \"述べた\", \"reading\": \"のべた\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 150.0104055404663,
+    "attempt": 1
+  },
+  {
+    "id": 65,
+    "raw_response": "[\n  {\"surface\": \"勝負事\", \"reading\": \"しょうぶごと\", \"type\": \"noun\"},\n  {\"surface\": \"引き分け\", \"reading\": \"ひきわけ\", \"type\": \"noun\"},\n  {\"surface\": \"避けようとする\", \"reading\": \"さけようとする\", \"type\": \"verb\"},\n  {\"surface\": \"一般的\", \"reading\": \"いっぱんてき\", \"type\": \"noun\"},\n  {\"surface\": \"将棋\", \"reading\": \"しょうぎ\", \"type\": \"noun\"},\n  {\"surface\": \"千日手\", \"reading\": \"せんにちて\", \"type\": \"noun\"},\n  {\"surface\": \"狙い\", \"reading\": \"ねらい\", \"type\": \"noun\"},\n  {\"surface\": \"戦術\", \"reading\": \"せんじゅつ\", \"type\": \"noun\"},\n  {\"surface\": \"リーグ戦\", \"reading\": \"りーぐせん\", \"type\": \"noun\"},\n  {\"surface\": \"引き分け\", \"reading\": \"ひきわけ\", \"type\": \"noun\"},\n  {\"surface\": \"勝ち点\", \"reading\": \"かちてん\", \"type\": \"noun\"},\n  {\"surface\": \"引き分け\", \"reading\": \"ひきわけ\", \"type\": \"noun\"},\n  {\"surface\": \"試合結果\", \"reading\": \"しあいけっか\", \"type\": \"noun\"},\n  {\"surface\": \"文化\", \"reading\": \"ぶんか\", \"type\": \"noun\"},\n  {\"surface\": \"少数\", \"reading\": \"しょうすう\", \"type\": \"noun\"},\n  {\"surface\": \"存在する\", \"reading\": \"そんざいする\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 87.14541292190552,
+    "attempt": 1
+  },
+  {
+    "id": 66,
+    "raw_response": "[\n  {\"surface\": \"6日\", \"reading\": \"むいか\", \"type\": \"counter\"},\n  {\"surface\": \"引け後\", \"reading\": \"ひけご\", \"type\": \"noun\"},\n  {\"surface\": \"厚生労働省\", \"reading\": \"こうせいろうどうしょう\", \"type\": \"proper_noun\"},\n  {\"surface\": \"厚生科学審議会\", \"reading\": \"こうせいかがくしんぎかい\", \"type\": \"proper_noun\"},\n  {\"surface\": \"科学技術部会\", \"reading\": \"かがくぎじゅつぶかい\", \"type\": \"proper_noun\"},\n  {\"surface\": \"東海大学\", \"reading\": \"とうかいだいがく\", \"type\": \"proper_noun\"},\n  {\"surface\": \"医学部\", \"reading\": \"いがくぶ\", \"type\": \"noun\"},\n  {\"surface\": \"軟骨再生\", \"reading\": \"なんこつさいせい\", \"type\": \"noun\"},\n  {\"surface\": \"関する\", \"reading\": \"かんする\", \"type\": \"verb\"},\n  {\"surface\": \"臨床研究\", \"reading\": \"りんしょうけんきゅう\", \"type\": \"noun\"},\n  {\"surface\": \"実施計画\", \"reading\": \"じっしけいかく\", \"type\": \"noun\"},\n  {\"surface\": \"了承する\", \"reading\": \"りょうしょうする\", \"type\": \"verb\"},\n  {\"surface\": \"方向性\", \"reading\": \"ほうこうせい\", \"type\": \"noun\"},\n  {\"surface\": \"示され\", \"reading\": \"しめされ\", \"type\": \"verb\"},\n  {\"surface\": \"当該\", \"reading\": \"とうがい\", \"type\": \"noun\"},\n  {\"surface\": \"臨床研究\", \"reading\": \"りんしょうけんきゅう\", \"type\": \"noun\"},\n  {\"surface\": \"開始\", \"reading\": \"かいし\", \"type\": \"noun\"},\n  {\"surface\": \"認められる\", \"reading\": \"みとめられる\", \"type\": \"verb\"},\n  {\"surface\": \"見通し\", \"reading\": \"みとおし\", \"type\": \"noun\"},\n  {\"surface\": \"発表\", \"reading\": \"はっぴょう\", \"type\": \"noun\"}\n]\n",
+    "time_seconds": 148.748596906662,
+    "attempt": 1
+  },
+  {
+    "id": 67,
+    "raw_response": "[\n  {\"surface\": \"少林寺\", \"reading\": \"しょうりんじ\", \"type\": \"proper_noun\"},\n  {\"surface\": \"二人\", \"reading\": \"ふたり\", \"type\": \"counter\"},\n  {\"surface\": \"帰って\", \"reading\": \"かえって\", \"type\": \"verb\"},\n  {\"surface\": \"書物庫\", \"reading\": \"しょもつこ\", \"type\": \"noun\"},\n  {\"surface\": \"蔵書\", \"reading\": \"ぞうしょ\", \"type\": \"noun\"},\n  {\"surface\": \"盗み見された\", \"reading\": \"ぬすみみされた\", \"type\": \"verb\"},\n  {\"surface\": \"気付き\", \"reading\": \"きづき\", \"type\": \"verb\"},\n  {\"surface\": \"事情\", \"reading\": \"じじょう\", \"type\": \"noun\"},\n  {\"surface\": \"調べる\", \"reading\": \"しらべる\", \"type\": \"verb\"},\n  {\"surface\": \"一人\", \"reading\": \"ひとり\", \"type\": \"counter\"},\n  {\"surface\": \"僧\", \"reading\": \"そう\", \"type\": \"noun\"},\n  {\"surface\": \"渡元\", \"reading\": \"とげん\", \"type\": \"proper_noun\"},\n  {\"surface\": \"華山派\", \"reading\": \"かざんぱ\", \"type\": \"proper_noun\"},\n  {\"surface\": \"派遣した\", \"reading\": \"はけんした\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 70.12053513526917,
+    "attempt": 1
+  },
+  {
+    "id": 68,
+    "raw_response": "[\n  {\"surface\": \"用意できない\", \"reading\": \"よういできない\", \"type\": \"verb\"},\n  {\"surface\": \"信者\", \"reading\": \"しんじゃ\", \"type\": \"noun\"},\n  {\"surface\": \"経済舞台\", \"reading\": \"けいざいぶたい\", \"type\": \"noun\"},\n  {\"surface\": \"組まれ\", \"reading\": \"くまれ\", \"type\": \"verb\"},\n  {\"surface\": \"印鑑\", \"reading\": \"いんかん\", \"type\": \"noun\"},\n  {\"surface\": \"浄水器等\", \"reading\": \"じょうすいきとう\", \"type\": \"noun\"},\n  {\"surface\": \"販売し\", \"reading\": \"はんばいし\", \"type\": \"verb\"},\n  {\"surface\": \"教会\", \"reading\": \"きょうかい\", \"type\": \"noun\"},\n  {\"surface\": \"貢献する\", \"reading\": \"こうけんする\", \"type\": \"verb\"},\n  {\"surface\": \"求められていた\", \"reading\": \"もとめられていた\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 182.98274874687195,
+    "attempt": 1
+  },
+  {
+    "id": 69,
+    "raw_response": "```json\n[\n  {\"surface\": \"宇宙\", \"reading\": \"うちゅう\", \"type\": \"noun\"},\n  {\"surface\": \"無限\", \"reading\": \"むげん\", \"type\": \"noun\"},\n  {\"surface\": \"時間\", \"reading\": \"じかん\", \"type\": \"noun\"},\n  {\"surface\": \"経過する\", \"reading\": \"けいかする\", \"type\": \"verb\"},\n  {\"surface\": \"全て\", \"reading\": \"すべて\", \"type\": \"noun\"},\n  {\"surface\": \"均等に\", \"reading\": \"きんとうに\", \"type\": \"adjective\"},\n  {\"surface\": \"分布する\", \"reading\": \"ぶんぷする\", \"type\": \"verb\"},\n  {\"surface\": \"状態\", \"reading\": \"じょうたい\", \"type\": \"noun\"},\n  {\"surface\": \"漸近的に\", \"reading\": \"ぜんきんてきに\", \"type\": \"adjective\"},\n  {\"surface\": \"到達する\", \"reading\": \"とうたつする\", \"type\": \"verb\"},\n  {\"surface\": \"考えられる\", \"reading\": \"かんがえられる\", \"type\": \"verb\"}\n]\n```\n",
+    "time_seconds": 97.70340633392334,
+    "attempt": 1
+  },
+  {
+    "id": 70,
+    "raw_response": "[\n  {\"surface\": \"国際的に\", \"reading\": \"こくさいてきに\", \"type\": \"adjective\"},\n  {\"surface\": \"拘束力\", \"reading\": \"こうそくりょく\", \"type\": \"noun\"},\n  {\"surface\": \"持つ\", \"reading\": \"もつ\", \"type\": \"verb\"},\n  {\"surface\": \"条約\", \"reading\": \"じょうやく\", \"type\": \"noun\"},\n  {\"surface\": \"勧告\", \"reading\": \"かんこく\", \"type\": \"noun\"},\n  {\"surface\": \"形式\", \"reading\": \"けいしき\", \"type\": \"noun\"},\n  {\"surface\": \"採択された\", \"reading\": \"さいたくされた\", \"type\": \"verb\"},\n  {\"surface\": \"盛り込まれた\", \"reading\": \"もりこまれた\", \"type\": \"verb\"},\n  {\"surface\": \"措置\", \"reading\": \"そち\", \"type\": \"noun\"},\n  {\"surface\": \"完全な\", \"reading\": \"かんぜんな\", \"type\": \"adjective\"},\n  {\"surface\": \"実施\", \"reading\": \"じっし\", \"type\": \"noun\"},\n  {\"surface\": \"義務付けられる\", \"reading\": \"ぎむづけられる\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 91.72347331047058,
+    "attempt": 1
+  },
+  {
+    "id": 71,
+    "raw_response": "[\n  {\"surface\": \"私\", \"reading\": \"わたし\", \"type\": \"noun\"},\n  {\"surface\": \"倉渕透\", \"reading\": \"くらぶちとおる\", \"type\": \"proper_noun\"},\n  {\"surface\": \"守谷香\", \"reading\": \"もりやかおり\", \"type\": \"proper_noun\"},\n  {\"surface\": \"関係\", \"reading\": \"かんけい\", \"type\": \"noun\"},\n  {\"surface\": \"知られる\", \"reading\": \"しられる\", \"type\": \"verb\"},\n  {\"surface\": \"二人\", \"reading\": \"ふたり\", \"type\": \"counter\"},\n  {\"surface\": \"大きな\", \"reading\": \"おおきな\", \"type\": \"adjective\"},\n  {\"surface\": \"収入源\", \"reading\": \"しゅうにゅうげん\", \"type\": \"noun\"},\n  {\"surface\": \"断たれてしまう\", \"reading\": \"たたれてしまう\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 50.493025064468384,
+    "attempt": 1
+  },
+  {
+    "id": 72,
+    "raw_response": "[\n  {\"surface\": \"一人\", \"reading\": \"ひとり\", \"type\": \"counter\"},\n  {\"surface\": \"若い\", \"reading\": \"わかい\", \"type\": \"adjective\"},\n  {\"surface\": \"女性\", \"reading\": \"じょせい\", \"type\": \"noun\"},\n  {\"surface\": \"信者\", \"reading\": \"しんじゃ\", \"type\": \"noun\"},\n  {\"surface\": \"手作り\", \"reading\": \"てづくり\", \"type\": \"noun\"},\n  {\"surface\": \"紅茶\", \"reading\": \"こうちゃ\", \"type\": \"noun\"},\n  {\"surface\": \"出し\", \"reading\": \"だし\", \"type\": \"verb\"},\n  {\"surface\": \"記者\", \"reading\": \"きしゃ\", \"type\": \"noun\"},\n  {\"surface\": \"海老澤\", \"reading\": \"えびさわ\", \"type\": \"proper_noun\"},\n  {\"surface\": \"代表\", \"reading\": \"だいひょう\", \"type\": \"noun\"},\n  {\"surface\": \"付いた\", \"reading\": \"ついた\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 89.37975358963013,
+    "attempt": 1
+  },
+  {
+    "id": 73,
+    "raw_response": "[\n  {\"surface\": \"同市\", \"reading\": \"どうし\", \"type\": \"noun\"},\n  {\"surface\": \"大久保寿夫\", \"reading\": \"おおくぼとしお\", \"type\": \"proper_noun\"},\n  {\"surface\": \"市長\", \"reading\": \"しちょう\", \"type\": \"noun\"},\n  {\"surface\": \"県\", \"reading\": \"けん\", \"type\": \"noun\"},\n  {\"surface\": \"責任\", \"reading\": \"せきにん\", \"type\": \"noun\"},\n  {\"surface\": \"別途\", \"reading\": \"べっと\", \"type\": \"noun\"},\n  {\"surface\": \"補助金\", \"reading\": \"ほじょきん\", \"type\": \"noun\"},\n  {\"surface\": \"確保してくれる\", \"reading\": \"かくほしてくれる\", \"type\": \"verb\"},\n  {\"surface\": \"確信している\", \"reading\": \"かくしんしている\", \"type\": \"verb\"},\n  {\"surface\": \"発表した\", \"reading\": \"はっぴょうした\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 67.4749345779419,
+    "attempt": 1
+  },
+  {
+    "id": 74,
+    "raw_response": "[\n  {\"surface\": \"2005年\", \"reading\": \"にせんごねん\", \"type\": \"counter\"},\n  {\"surface\": \"7月\", \"reading\": \"しちがつ\", \"type\": \"counter\"},\n  {\"surface\": \"1日\", \"reading\": \"ついたち\", \"type\": \"counter\"},\n  {\"surface\": \"浜松市\", \"reading\": \"はままつし\", \"type\": \"proper_noun\"},\n  {\"surface\": \"編入合併した\", \"reading\": \"へんにゅうがっぺいした\", \"type\": \"verb\"},\n  {\"surface\": \"旧\", \"reading\": \"きゅう\", \"type\": \"noun\"},\n  {\"surface\": \"三ケ日町\", \"reading\": \"みっかびちょう\", \"type\": \"proper_noun\"},\n  {\"surface\": \"町役場庁舎\", \"reading\": \"まちやくばちょうしゃ\", \"type\": \"noun\"},\n  {\"surface\": \"利用して\", \"reading\": \"りようして\", \"type\": \"verb\"},\n  {\"surface\": \"三ヶ日総合事務所\", \"reading\": \"みっかびそうごうじむしょ\", \"type\": \"proper_noun\"},\n  {\"surface\": \"開設された\", \"reading\": \"かいせつされた\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 27.89337992668152,
+    "attempt": 1
+  },
+  {
+    "id": 75,
+    "raw_response": "[\n  {\"surface\": \"現に\", \"reading\": \"げんに\", \"type\": \"adverb\"},\n  {\"surface\": \"統一教会\", \"reading\": \"とういつきょうかい\", \"type\": \"proper_noun\"},\n  {\"surface\": \"教祖\", \"reading\": \"きょうそ\", \"type\": \"noun\"},\n  {\"surface\": \"自叙伝\", \"reading\": \"じじょでん\", \"type\": \"noun\"},\n  {\"surface\": \"信者\", \"reading\": \"しんじゃ\", \"type\": \"noun\"},\n  {\"surface\": \"大量購入させ\", \"reading\": \"たいりょうこうにゅうさせ\", \"type\": \"verb\"},\n  {\"surface\": \"配り歩かせている\", \"reading\": \"くばりあるかせている\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 81.40100574493408,
+    "attempt": 1
+  },
+  {
+    "id": 76,
+    "raw_response": "[\n  {\"surface\": \"子ども\", \"reading\": \"こども\", \"type\": \"noun\"},\n  {\"surface\": \"世話する\", \"reading\": \"せわする\", \"type\": \"verb\"},\n  {\"surface\": \"養育者\", \"reading\": \"よういくしゃ\", \"type\": \"noun\"},\n  {\"surface\": \"資金支援する\", \"reading\": \"しきんしえんする\", \"type\": \"verb\"},\n  {\"surface\": \"国\", \"reading\": \"くに\", \"type\": \"noun\"},\n  {\"surface\": \"ファミリーホーム制度\", \"reading\": \"ふぁみりーほーむせいど\", \"type\": \"noun\"},\n  {\"surface\": \"活用\", \"reading\": \"かつよう\", \"type\": \"noun\"},\n  {\"surface\": \"考え\", \"reading\": \"かんがえ\", \"type\": \"verb\"},\n  {\"surface\": \"移り住める\", \"reading\": \"うつりすめる\", \"type\": \"verb\"},\n  {\"surface\": \"空き家\", \"reading\": \"あきや\", \"type\": \"noun\"},\n  {\"surface\": \"用意した\", \"reading\": \"よういした\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 76.24053907394409,
+    "attempt": 1
+  },
+  {
+    "id": 77,
+    "raw_response": "[\n  {\n    \"surface\": \"対して\",\n    \"reading\": \"たいして\",\n    \"type\": \"verb\"\n  },\n  {\n    \"surface\": \"幸福の科学\",\n    \"reading\": \"こうふくのかがく\",\n    \"type\": \"proper_noun\"\n  },\n  {\n    \"surface\": \"信者\",\n    \"reading\": \"しんじゃ\",\n    \"type\": \"noun\"\n  },\n  {\n    \"surface\": \"講談社\",\n    \"reading\": \"こうだんしゃ\",\n    \"type\": \"proper_noun\"\n  },\n  {\n    \"surface\": \"非難する\",\n    \"reading\": \"ひなんする\",\n    \"type\": \"verb\"\n  },\n  {\n    \"surface\": \"署名活動\",\n    \"reading\": \"しょめいかつどう\",\n    \"type\": \"noun\"\n  },\n  {\n    \"surface\": \"行いました\",\n    \"reading\": \"おこないました\",\n    \"type\": \"verb\"\n  },\n  {\n    \"surface\": \"抗議活動\",\n    \"reading\": \"こうぎかつどう\",\n    \"type\": \"noun\"\n  }\n]\n",
+    "time_seconds": 106.2474844455719,
+    "attempt": 1
+  },
+  {
+    "id": 78,
+    "raw_response": "[\n  {\"surface\": \"物質界監視員\", \"reading\": \"ぶっしつかいかんしいん\", \"type\": \"noun\"},\n  {\"surface\": \"長年\", \"reading\": \"ながねん\", \"type\": \"noun\"},\n  {\"surface\": \"地上\", \"reading\": \"ちじょう\", \"type\": \"noun\"},\n  {\"surface\": \"派遣されており\", \"reading\": \"はけんされており\", \"type\": \"verb\"},\n  {\"surface\": \"現在\", \"reading\": \"げんざい\", \"type\": \"noun\"},\n  {\"surface\": \"神貫\", \"reading\": \"かみぬき\", \"type\": \"proper_noun\"},\n  {\"surface\": \"協力\", \"reading\": \"きょうりょく\", \"type\": \"noun\"},\n  {\"surface\": \"取り付けて\", \"reading\": \"とりつけて\", \"type\": \"verb\"},\n  {\"surface\": \"動向\", \"reading\": \"どうこう\", \"type\": \"noun\"},\n  {\"surface\": \"探っている\", \"reading\": \"さぐっている\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 52.196682929992676,
+    "attempt": 1
+  },
+  {
+    "id": 79,
+    "raw_response": "[\n  {\"surface\": \"反乱\", \"reading\": \"はんらん\", \"type\": \"noun\"},\n  {\"surface\": \"皇位\", \"reading\": \"こうい\", \"type\": \"noun\"},\n  {\"surface\": \"追われ\", \"reading\": \"おわれ\", \"type\": \"verb\"},\n  {\"surface\": \"息子\", \"reading\": \"むすこ\", \"type\": \"noun\"},\n  {\"surface\": \"殺される\", \"reading\": \"ころされる\", \"type\": \"verb\"},\n  {\"surface\": \"見せられた\", \"reading\": \"みせられた\", \"type\": \"verb\"},\n  {\"surface\": \"上\", \"reading\": \"うえ\", \"type\": \"noun\"},\n  {\"surface\": \"処刑されてしまった\", \"reading\": \"しょけいされてしまった\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 93.04160833358765,
+    "attempt": 1
+  },
+  {
+    "id": 80,
+    "raw_response": "[\n  {\"surface\": \"伝統的\", \"reading\": \"でんとうてき\", \"type\": \"adjective\"},\n  {\"surface\": \"仏堂建築\", \"reading\": \"ぶつどうけんちく\", \"type\": \"noun\"},\n  {\"surface\": \"新様式\", \"reading\": \"しんようしき\", \"type\": \"noun\"},\n  {\"surface\": \"取り入れた\", \"reading\": \"とりいれた\", \"type\": \"verb\"},\n  {\"surface\": \"近代仏堂\", \"reading\": \"きんだいぶつどう\", \"type\": \"noun\"},\n  {\"surface\": \"代表作\", \"reading\": \"だいひょうさく\", \"type\": \"noun\"},\n  {\"surface\": \"2007年\", \"reading\": \"にせんななねん\", \"type\": \"counter\"},\n  {\"surface\": \"国\", \"reading\": \"くに\", \"type\": \"noun\"},\n  {\"surface\": \"重要文化財\", \"reading\": \"じゅうようぶんかざい\", \"type\": \"noun\"},\n  {\"surface\": \"指定された\", \"reading\": \"していされた\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 55.88926386833191,
+    "attempt": 1
+  },
+  {
+    "id": 81,
+    "raw_response": "[\n  {\"surface\": \"大統領\", \"reading\": \"だいとうりょう\", \"type\": \"noun\"},\n  {\"surface\": \"就任する\", \"reading\": \"しゅうにんする\", \"type\": \"verb\"},\n  {\"surface\": \"前\", \"reading\": \"まえ\", \"type\": \"noun\"},\n  {\"surface\": \"退任する\", \"reading\": \"たいにんする\", \"type\": \"verb\"},\n  {\"surface\": \"大統領\", \"reading\": \"だいとうりょう\", \"type\": \"noun\"},\n  {\"surface\": \"補助金\", \"reading\": \"ほじょきん\", \"type\": \"noun\"},\n  {\"surface\": \"減額する\", \"reading\": \"げんがくする\", \"type\": \"verb\"},\n  {\"surface\": \"燃料価格\", \"reading\": \"ねんりょうかかく\", \"type\": \"noun\"},\n  {\"surface\": \"上昇させる\", \"reading\": \"じょうしょうさせる\", \"type\": \"verb\"},\n  {\"surface\": \"決定\", \"reading\": \"けってい\", \"type\": \"noun\"},\n  {\"surface\": \"責任\", \"reading\": \"せきにん\", \"type\": \"noun\"},\n  {\"surface\": \"求めた\", \"reading\": \"もとめた\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 80.59463858604431,
+    "attempt": 1
+  },
+  {
+    "id": 82,
+    "raw_response": "[\n  {\"surface\": \"一方\", \"reading\": \"いっぽう\", \"type\": \"noun\"},\n  {\"surface\": \"最良\", \"reading\": \"さいりょう\", \"type\": \"noun\"},\n  {\"surface\": \"管理慣行\", \"reading\": \"かんりかんこう\", \"type\": \"noun\"},\n  {\"surface\": \"機能している\", \"reading\": \"きのうしている\", \"type\": \"verb\"},\n  {\"surface\": \"良好な\", \"reading\": \"りょうこうな\", \"type\": \"adjective\"},\n  {\"surface\": \"生態系\", \"reading\": \"せいたいけい\", \"type\": \"noun\"},\n  {\"surface\": \"事態\", \"reading\": \"じたい\", \"type\": \"noun\"},\n  {\"surface\": \"発生機会\", \"reading\": \"はっせいきかい\", \"type\": \"noun\"},\n  {\"surface\": \"減少させる\", \"reading\": \"げんしょうさせる\", \"type\": \"verb\"},\n  {\"surface\": \"場合\", \"reading\": \"ばあい\", \"type\": \"noun\"},\n  {\"surface\": \"悪影響\", \"reading\": \"あくえいきょう\", \"type\": \"noun\"},\n  {\"surface\": \"度合い\", \"reading\": \"どあい\", \"type\": \"noun\"},\n  {\"surface\": \"軽減します\", \"reading\": \"けいげんします\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 56.69292378425598,
+    "attempt": 1
+  },
+  {
+    "id": 83,
+    "raw_response": "I will read the project's annotation conventions from `docs/poneglyph_conventions.md` to ensure I'm following the project-specific rules for compound nouns involving katakana.\n\n[\n  {\"surface\": \"分野\", \"reading\": \"ぶんや\", \"type\": \"noun\"},\n  {\"surface\": \"専門家\", \"reading\": \"せんもんか\", \"type\": \"noun\"},\n  {\"surface\": \"名\", \"reading\": \"な\", \"type\": \"noun\"},\n  {\"surface\": \"知られるようになった\", \"reading\": \"しられるようになった\", \"type\": \"verb\"},\n  {\"surface\": \"彼女\", \"reading\": \"かのじょ\", \"type\": \"noun\"},\n  {\"surface\": \"小さな\", \"reading\": \"ちいさな\", \"type\": \"adjective\"},\n  {\"surface\": \"円盤状\", \"reading\": \"えんばんじょう\", \"type\": \"noun\"},\n  {\"surface\": \"研究所\", \"reading\": \"けんきゅうじょ\", \"type\": \"noun\"},\n  {\"surface\": \"持ち帰った\", \"reading\": \"もちかえった\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 170.36831712722778,
+    "attempt": 1
+  },
+  {
+    "id": 84,
+    "raw_response": "[\n  {\"surface\": \"明治天皇\", \"reading\": \"めいじてんのう\", \"type\": \"proper_noun\"},\n  {\"surface\": \"以後\", \"reading\": \"いご\", \"type\": \"noun\"},\n  {\"surface\": \"一人\", \"reading\": \"ひとり\", \"type\": \"counter\"},\n  {\"surface\": \"天皇\", \"reading\": \"てんのう\", \"type\": \"noun\"},\n  {\"surface\": \"一つ\", \"reading\": \"ひとつ\", \"type\": \"counter\"},\n  {\"surface\": \"年号\", \"reading\": \"ねんごう\", \"type\": \"noun\"},\n  {\"surface\": \"付け\", \"reading\": \"つけ\", \"type\": \"verb\"},\n  {\"surface\": \"天皇\", \"reading\": \"てんのう\", \"type\": \"noun\"},\n  {\"surface\": \"死後\", \"reading\": \"しご\", \"type\": \"noun\"},\n  {\"surface\": \"統治\", \"reading\": \"とうち\", \"type\": \"noun\"},\n  {\"surface\": \"時代\", \"reading\": \"じだい\", \"type\": \"noun\"},\n  {\"surface\": \"使っていた\", \"reading\": \"つかっていた\", \"type\": \"verb\"},\n  {\"surface\": \"年号\", \"reading\": \"ねんごう\", \"type\": \"noun\"},\n  {\"surface\": \"改める\", \"reading\": \"あらためる\", \"type\": \"verb\"},\n  {\"surface\": \"慣習\", \"reading\": \"かんしゅう\", \"type\": \"noun\"}\n]\n",
+    "time_seconds": 45.85132431983948,
+    "attempt": 1
+  },
+  {
+    "id": 85,
+    "raw_response": "[\n  {\"surface\": \"彼\", \"reading\": \"かれ\", \"type\": \"noun\"},\n  {\"surface\": \"平凡な\", \"reading\": \"へいぼんな\", \"type\": \"adjective\"},\n  {\"surface\": \"人生\", \"reading\": \"じんせい\", \"type\": \"noun\"},\n  {\"surface\": \"後\", \"reading\": \"あと\", \"type\": \"noun\"},\n  {\"surface\": \"老衰\", \"reading\": \"ろうすい\", \"type\": \"noun\"},\n  {\"surface\": \"亡くなる\", \"reading\": \"なくなる\", \"type\": \"verb\"},\n  {\"surface\": \"戦場\", \"reading\": \"せんじょう\", \"type\": \"noun\"},\n  {\"surface\": \"若くして\", \"reading\": \"わかくして\", \"type\": \"adjective\"},\n  {\"surface\": \"命\", \"reading\": \"いのち\", \"type\": \"noun\"},\n  {\"surface\": \"落とし\", \"reading\": \"おとし\", \"type\": \"verb\"},\n  {\"surface\": \"詩\", \"reading\": \"し\", \"type\": \"noun\"},\n  {\"surface\": \"通じて\", \"reading\": \"つうじて\", \"type\": \"verb\"},\n  {\"surface\": \"不死\", \"reading\": \"ふし\", \"type\": \"noun\"},\n  {\"surface\": \"得る\", \"reading\": \"える\", \"type\": \"verb\"},\n  {\"surface\": \"予言されていました\", \"reading\": \"よげんされていました\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 84.36429262161255,
+    "attempt": 1
+  },
+  {
+    "id": 86,
+    "raw_response": "[\n  {\n    \"surface\": \"国際再生可能エネルギー機関\",\n    \"reading\": \"こくさいさいせいかのうえねるぎーきかん\",\n    \"type\": \"proper_noun\"\n  },\n  {\n    \"surface\": \"総裁\",\n    \"reading\": \"そうさい\",\n    \"type\": \"noun\"\n  },\n  {\n    \"surface\": \"洋上風力発電\",\n    \"reading\": \"ようじょうふうりょくはつでん\",\n    \"type\": \"noun\"\n  },\n  {\n    \"surface\": \"世界経済\",\n    \"reading\": \"せかいけいざい\",\n    \"type\": \"noun\"\n  },\n  {\n    \"surface\": \"石炭エネルギー\",\n    \"reading\": \"せきたんえねるぎー\",\n    \"type\": \"noun\"\n  },\n  {\n    \"surface\": \"依存しない\",\n    \"reading\": \"いぞんしない\",\n    \"type\": \"verb\"\n  },\n  {\n    \"surface\": \"最大\",\n    \"reading\": \"さいだい\",\n    \"type\": \"noun\"\n  },\n  {\n    \"surface\": \"発電手段\",\n    \"reading\": \"はつでんしゅだん\",\n    \"type\": \"noun\"\n  },\n  {\n    \"surface\": \"確信している\",\n    \"reading\": \"かくしんしている\",\n    \"type\": \"verb\"\n  }\n]\n",
+    "time_seconds": 108.23022317886353,
+    "attempt": 1
+  },
+  {
+    "id": 87,
+    "raw_response": "[\n  {\"surface\": \"機内インターネット\", \"reading\": \"きないいんたーねっと\", \"type\": \"noun\"},\n  {\"surface\": \"多く\", \"reading\": \"おおく\", \"type\": \"noun\"},\n  {\"surface\": \"場合\", \"reading\": \"ばあい\", \"type\": \"noun\"},\n  {\"surface\": \"信頼性\", \"reading\": \"しんらいせい\", \"type\": \"noun\"},\n  {\"surface\": \"欠け\", \"reading\": \"かけ\", \"type\": \"verb\"},\n  {\"surface\": \"旅行者\", \"reading\": \"りょこうしゃ\", \"type\": \"noun\"},\n  {\"surface\": \"航空会社\", \"reading\": \"こうくうがいしゃ\", \"type\": \"noun\"},\n  {\"surface\": \"選択\", \"reading\": \"せんたく\", \"type\": \"noun\"},\n  {\"surface\": \"影響\", \"reading\": \"えいきょう\", \"type\": \"noun\"},\n  {\"surface\": \"及ぼす\", \"reading\": \"およぼす\", \"type\": \"verb\"},\n  {\"surface\": \"可能性\", \"reading\": \"かのうせい\", \"type\": \"noun\"},\n  {\"surface\": \"低い\", \"reading\": \"ひくい\", \"type\": \"adjective\"},\n  {\"surface\": \"海外旅行\", \"reading\": \"かいがいりょこう\", \"type\": \"noun\"},\n  {\"surface\": \"専門家\", \"reading\": \"せんもんか\", \"type\": \"noun\"},\n  {\"surface\": \"警告した\", \"reading\": \"けいこくした\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 47.70690083503723,
+    "attempt": 1
+  },
+  {
+    "id": 88,
+    "raw_response": "[\n  {\"surface\": \"彼女\", \"reading\": \"かのじょ\", \"type\": \"noun\"},\n  {\"surface\": \"機密情報\", \"reading\": \"きみつじょうほう\", \"type\": \"noun\"},\n  {\"surface\": \"彼女\", \"reading\": \"かのじょ\", \"type\": \"noun\"},\n  {\"surface\": \"提供した\", \"reading\": \"ていきょうした\", \"type\": \"verb\"},\n  {\"surface\": \"数々\", \"reading\": \"かずかず\", \"type\": \"noun\"},\n  {\"surface\": \"政府系科学者\", \"reading\": \"せいふけいかがくしゃ\", \"type\": \"noun\"},\n  {\"surface\": \"人脈\", \"reading\": \"じんみゃく\", \"type\": \"noun\"},\n  {\"surface\": \"利用しました\", \"reading\": \"りようしました\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 38.519511699676514,
+    "attempt": 1
+  },
+  {
+    "id": 89,
+    "raw_response": "[\n  {\"surface\": \"地中海\", \"reading\": \"ちちゅうかい\", \"type\": \"proper_noun\"},\n  {\"surface\": \"全域\", \"reading\": \"ぜんいき\", \"type\": \"noun\"},\n  {\"surface\": \"商業的な\", \"reading\": \"しょうぎょうてきな\", \"type\": \"adjective\"},\n  {\"surface\": \"前哨基地\", \"reading\": \"ぜんしょうきち\", \"type\": \"noun\"},\n  {\"surface\": \"設立する\", \"reading\": \"せつりつする\", \"type\": \"verb\"},\n  {\"surface\": \"使用されていなかった\", \"reading\": \"しようされていなかった\", \"type\": \"verb\"},\n  {\"surface\": \"技術\", \"reading\": \"ぎじゅつ\", \"type\": \"noun\"},\n  {\"surface\": \"貿易\", \"reading\": \"ぼうえき\", \"type\": \"noun\"},\n  {\"surface\": \"発展した\", \"reading\": \"はってんした\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 60.98790717124939,
+    "attempt": 1
+  },
+  {
+    "id": 90,
+    "raw_response": "[\n  {\"surface\": \"中国\", \"reading\": \"ちゅうごく\", \"type\": \"proper_noun\"},\n  {\"surface\": \"旧正月\", \"reading\": \"きゅうしょうがつ\", \"type\": \"noun\"},\n  {\"surface\": \"華人\", \"reading\": \"かじん\", \"type\": \"noun\"},\n  {\"surface\": \"その他\", \"reading\": \"そのた\", \"type\": \"noun\"},\n  {\"surface\": \"饗宴\", \"reading\": \"きょうえん\", \"type\": \"noun\"},\n  {\"surface\": \"旧暦\", \"reading\": \"きゅうれき\", \"type\": \"noun\"},\n  {\"surface\": \"基づいて\", \"reading\": \"もとづいて\", \"type\": \"verb\"},\n  {\"surface\": \"計算される\", \"reading\": \"けいさんされる\", \"type\": \"verb\"},\n  {\"surface\": \"日付\", \"reading\": \"ひづけ\", \"type\": \"noun\"},\n  {\"surface\": \"毎年\", \"reading\": \"まいとし\", \"type\": \"noun\"},\n  {\"surface\": \"変わります\", \"reading\": \"かわります\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 65.97077488899231,
+    "attempt": 1
+  },
+  {
+    "id": 91,
+    "raw_response": "[\n  {\"surface\": \"今年\", \"reading\": \"ことし\", \"type\": \"noun\"},\n  {\"surface\": \"初め\", \"reading\": \"はじめ\", \"type\": \"noun\"},\n  {\"surface\": \"首都\", \"reading\": \"しゅと\", \"type\": \"noun\"},\n  {\"surface\": \"武術学校\", \"reading\": \"ぶじゅつがっこう\", \"type\": \"noun\"},\n  {\"surface\": \"設立\", \"reading\": \"せつりつ\", \"type\": \"noun\"},\n  {\"surface\": \"申し出た\", \"reading\": \"もうしでた\", \"type\": \"verb\"},\n  {\"surface\": \"後\", \"reading\": \"あと\", \"type\": \"noun\"},\n  {\"surface\": \"国籍\", \"reading\": \"こくせき\", \"type\": \"noun\"},\n  {\"surface\": \"与えられた\", \"reading\": \"あたえられた\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 75.78732347488403,
+    "attempt": 1
+  },
+  {
+    "id": 92,
+    "raw_response": "[\n  {\"surface\": \"権力\", \"reading\": \"けんりょく\", \"type\": \"noun\"},\n  {\"surface\": \"教育\", \"reading\": \"きょういく\", \"type\": \"noun\"},\n  {\"surface\": \"受けた\", \"reading\": \"うけた\", \"type\": \"verb\"},\n  {\"surface\": \"保護者\", \"reading\": \"ほごしゃ\", \"type\": \"noun\"},\n  {\"surface\": \"注意して\", \"reading\": \"ちゅういして\", \"type\": \"verb\"},\n  {\"surface\": \"委ねる\", \"reading\": \"ゆだねる\", \"type\": \"verb\"},\n  {\"surface\": \"方\", \"reading\": \"ほう\", \"type\": \"noun\"},\n  {\"surface\": \"安全\", \"reading\": \"あんぜん\", \"type\": \"noun\"},\n  {\"surface\": \"考えた\", \"reading\": \"かんがえた\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 64.00265336036682,
+    "attempt": 1
+  },
+  {
+    "id": 93,
+    "raw_response": "[\n  {\"surface\": \"繁栄する\", \"reading\": \"はんえいする\", \"type\": \"verb\"},\n  {\"surface\": \"連れて\", \"reading\": \"つれて\", \"type\": \"verb\"},\n  {\"surface\": \"河川\", \"reading\": \"かせん\", \"type\": \"noun\"},\n  {\"surface\": \"状態\", \"reading\": \"じょうたい\", \"type\": \"noun\"},\n  {\"surface\": \"下水道\", \"reading\": \"げすいどう\", \"type\": \"noun\"},\n  {\"surface\": \"ゴミ捨て場\", \"reading\": \"ごみすてば\", \"type\": \"noun\"},\n  {\"surface\": \"並に\", \"reading\": \"なみに\", \"type\": \"noun\"},\n  {\"surface\": \"悪化した\", \"reading\": \"あっかした\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 85.09427642822266,
+    "attempt": 1
+  },
+  {
+    "id": 94,
+    "raw_response": "[\n  {\"surface\": \"沈括\", \"reading\": \"しんかつ\", \"type\": \"proper_noun\"},\n  {\"surface\": \"行政官\", \"reading\": \"ぎょうせいかん\", \"type\": \"noun\"},\n  {\"surface\": \"政府役人\", \"reading\": \"せいふやくにん\", \"type\": \"noun\"},\n  {\"surface\": \"高い\", \"reading\": \"たかい\", \"type\": \"adjective\"},\n  {\"surface\": \"能力\", \"reading\": \"のうりょく\", \"type\": \"noun\"},\n  {\"surface\": \"王安石\", \"reading\": \"おうあんせき\", \"type\": \"proper_noun\"},\n  {\"surface\": \"感心させました\", \"reading\": \"かんしんさせました\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 33.4255154132843,
+    "attempt": 1
+  },
+  {
+    "id": 95,
+    "raw_response": "[\n  {\"surface\": \"複数\", \"reading\": \"ふくすう\", \"type\": \"noun\"},\n  {\"surface\": \"古代文明\", \"reading\": \"こだいぶんめい\", \"type\": \"noun\"},\n  {\"surface\": \"地中海沿岸\", \"reading\": \"ちちゅうかいえんがん\", \"type\": \"proper_noun\"},\n  {\"surface\": \"付近\", \"reading\": \"ふきん\", \"type\": \"noun\"},\n  {\"surface\": \"海\", \"reading\": \"うみ\", \"type\": \"noun\"},\n  {\"surface\": \"大きな\", \"reading\": \"おおきな\", \"type\": \"adjective\"},\n  {\"surface\": \"影響\", \"reading\": \"えいきょう\", \"type\": \"noun\"},\n  {\"surface\": \"受けました\", \"reading\": \"うけました\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 41.51055932044983,
+    "attempt": 1
+  },
+  {
+    "id": 96,
+    "raw_response": "[\n  {\"surface\": \"私\", \"reading\": \"わたし\", \"type\": \"noun\"},\n  {\"surface\": \"ノーサンプトン大学\", \"reading\": \"のーさんぷとんだいがく\", \"type\": \"proper_noun\"},\n  {\"surface\": \"示される\", \"reading\": \"しめされる\", \"type\": \"verb\"},\n  {\"surface\": \"新しい\", \"reading\": \"あたらしい\", \"type\": \"adjective\"},\n  {\"surface\": \"才能\", \"reading\": \"さいのう\", \"type\": \"noun\"},\n  {\"surface\": \"取り上げる\", \"reading\": \"とりあげる\", \"type\": \"verb\"},\n  {\"surface\": \"訪問します\", \"reading\": \"ほうもんします\", \"type\": \"verb\"},\n  {\"surface\": \"彼\", \"reading\": \"かれ\", \"type\": \"noun\"},\n  {\"surface\": \"言う\", \"reading\": \"いう\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 69.42456793785095,
+    "attempt": 1
+  },
+  {
+    "id": 97,
+    "raw_response": "[\n  {\"surface\": \"彼ら\", \"reading\": \"かれら\", \"type\": \"noun\"},\n  {\"surface\": \"友情\", \"reading\": \"ゆうじょう\", \"type\": \"noun\"},\n  {\"surface\": \"二人\", \"reading\": \"ふたり\", \"type\": \"counter\"},\n  {\"surface\": \"非公式的な\", \"reading\": \"ひこうしきてきな\", \"type\": \"adjective\"},\n  {\"surface\": \"協業\", \"reading\": \"きょうぎょう\", \"type\": \"noun\"},\n  {\"surface\": \"生じた\", \"reading\": \"しょうじた\", \"type\": \"verb\"},\n  {\"surface\": \"法的\", \"reading\": \"ほうてき\", \"type\": \"adjective\"},\n  {\"surface\": \"紛争\", \"reading\": \"ふんそう\", \"type\": \"noun\"},\n  {\"surface\": \"ひび割れる\", \"reading\": \"ひびわれる\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 64.68176102638245,
+    "attempt": 1
+  },
+  {
+    "id": 98,
+    "raw_response": "[\n  {\"surface\": \"技術\", \"reading\": \"ぎじゅつ\", \"type\": \"noun\"},\n  {\"surface\": \"問題\", \"reading\": \"もんだい\", \"type\": \"noun\"},\n  {\"surface\": \"関する\", \"reading\": \"かんする\", \"type\": \"verb\"},\n  {\"surface\": \"法案\", \"reading\": \"ほうあん\", \"type\": \"noun\"},\n  {\"surface\": \"提言する\", \"reading\": \"ていげんする\", \"type\": \"verb\"},\n  {\"surface\": \"審議会\", \"reading\": \"しんぎかい\", \"type\": \"noun\"},\n  {\"surface\": \"調査\", \"reading\": \"ちょうさ\", \"type\": \"noun\"},\n  {\"surface\": \"可能性\", \"reading\": \"かのうせい\", \"type\": \"noun\"}\n]\n",
+    "time_seconds": 81.5262098312378,
+    "attempt": 1
+  },
+  {
+    "id": 99,
+    "raw_response": "[\n  {\"surface\": \"女性\", \"reading\": \"じょせい\", \"type\": \"noun\"},\n  {\"surface\": \"特に\", \"reading\": \"とくに\", \"type\": \"adverb\"},\n  {\"surface\": \"出産\", \"reading\": \"しゅっさん\", \"type\": \"noun\"},\n  {\"surface\": \"役割\", \"reading\": \"やくわり\", \"type\": \"noun\"},\n  {\"surface\": \"担う\", \"reading\": \"になう\", \"type\": \"verb\"},\n  {\"surface\": \"女性\", \"reading\": \"じょせい\", \"type\": \"noun\"},\n  {\"surface\": \"含む\", \"reading\": \"ふくむ\", \"type\": \"verb\"},\n  {\"surface\": \"人口統計学\", \"reading\": \"じんこうとうけいがく\", \"type\": \"noun\"},\n  {\"surface\": \"人口\", \"reading\": \"じんこう\", \"type\": \"noun\"},\n  {\"surface\": \"広範な\", \"reading\": \"こうはんな\", \"type\": \"adjective\"},\n  {\"surface\": \"統計的分析\", \"reading\": \"とうけいてきぶんせき\", \"type\": \"noun\"},\n  {\"surface\": \"行われてきた\", \"reading\": \"おこなわれてきた\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 80.66872477531433,
+    "attempt": 1
+  },
+  {
+    "id": 100,
+    "raw_response": "[\n  {\"surface\": \"後年\", \"reading\": \"こうねん\", \"type\": \"noun\"},\n  {\"surface\": \"ローマ帝国\", \"reading\": \"ろーまていこく\", \"type\": \"proper_noun\"},\n  {\"surface\": \"創設した\", \"reading\": \"そうせつした\", \"type\": \"verb\"},\n  {\"surface\": \"際\", \"reading\": \"さい\", \"type\": \"noun\"},\n  {\"surface\": \"ローマ人\", \"reading\": \"ろーまじん\", \"type\": \"proper_noun\"},\n  {\"surface\": \"地中海\", \"reading\": \"ちちゅうかい\", \"type\": \"proper_noun\"},\n  {\"surface\": \"私たち\", \"reading\": \"わたしたち\", \"type\": \"noun\"},\n  {\"surface\": \"海\", \"reading\": \"うみ\", \"type\": \"noun\"},\n  {\"surface\": \"呼びました\", \"reading\": \"よびました\", \"type\": \"verb\"}\n]\n",
+    "time_seconds": 70.11883664131165,
+    "attempt": 1
+  }
+]

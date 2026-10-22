@@ -1,0 +1,436 @@
+{
+  "models": {
+    "claude_v2": {
+      "metrics": {
+        "exact_span_match_pct": 66.86390532544378,
+        "char_coverage_recall": 97.8743357299156,
+        "char_coverage_precision": 91.68374816983894,
+        "reading_accuracy": 97.92899408284023,
+        "parse_failure_rate": 0.0,
+        "model_extra_chars": 284,
+        "gt_only_chars": 68
+      },
+      "total_gold_tokens": 1352,
+      "total_model_tokens": 1189,
+      "exact_matches": 904,
+      "parse_failures": 0,
+      "overlap": {
+        "gt_kanji_chars": 3199,
+        "model_kanji_chars": 3415,
+        "overlap_chars": 3131,
+        "model_extra_chars": 284,
+        "gt_only_chars": 68,
+        "reading_spans_checked": 1352,
+        "reading_spans_correct": 1324
+      },
+      "per_source": {
+        "hirogaru": {
+          "gold": 254,
+          "model": 250,
+          "exact": 212,
+          "ov_gt_kanji_chars": 579,
+          "ov_model_kanji_chars": 629,
+          "ov_overlap_chars": 569,
+          "ov_model_extra_chars": 60,
+          "ov_gt_only_chars": 10,
+          "ov_reading_spans_checked": 254,
+          "ov_reading_spans_correct": 253
+        },
+        "kahoku": {
+          "gold": 167,
+          "model": 142,
+          "exact": 97,
+          "ov_gt_kanji_chars": 411,
+          "ov_model_kanji_chars": 447,
+          "ov_overlap_chars": 400,
+          "ov_model_extra_chars": 47,
+          "ov_gt_only_chars": 11,
+          "ov_reading_spans_checked": 167,
+          "ov_reading_spans_correct": 164
+        },
+        "nhk": {
+          "gold": 273,
+          "model": 261,
+          "exact": 212,
+          "ov_gt_kanji_chars": 714,
+          "ov_model_kanji_chars": 779,
+          "ov_overlap_chars": 700,
+          "ov_model_extra_chars": 79,
+          "ov_gt_only_chars": 14,
+          "ov_reading_spans_checked": 273,
+          "ov_reading_spans_correct": 270
+        },
+        "ud_gsd": {
+          "gold": 404,
+          "model": 320,
+          "exact": 218,
+          "ov_gt_kanji_chars": 905,
+          "ov_model_kanji_chars": 959,
+          "ov_overlap_chars": 885,
+          "ov_model_extra_chars": 74,
+          "ov_gt_only_chars": 20,
+          "ov_reading_spans_checked": 404,
+          "ov_reading_spans_correct": 392
+        },
+        "ud_pud": {
+          "gold": 254,
+          "model": 216,
+          "exact": 165,
+          "ov_gt_kanji_chars": 590,
+          "ov_model_kanji_chars": 601,
+          "ov_overlap_chars": 577,
+          "ov_model_extra_chars": 24,
+          "ov_gt_only_chars": 13,
+          "ov_reading_spans_checked": 254,
+          "ov_reading_spans_correct": 245
+        }
+      },
+      "convention_scores": {
+        "verb_chains": {
+          "total": 307,
+          "correct": 271
+        },
+        "compound_nouns": {
+          "total": 101,
+          "correct": 101
+        },
+        "proper_nouns": {
+          "total": 109,
+          "correct": 109
+        },
+        "counters": {
+          "total": 74,
+          "correct": 74
+        },
+        "no_hiragana_annotation": {
+          "total": 1189,
+          "correct": 1189
+        }
+      }
+    },
+    "qwen7b": {
+      "metrics": {
+        "exact_span_match_pct": 34.467455621301774,
+        "char_coverage_recall": 92.89428076256499,
+        "char_coverage_precision": 83.75,
+        "reading_accuracy": 69.03171953255426,
+        "parse_failure_rate": 11.0,
+        "model_extra_chars": 520,
+        "gt_only_chars": 205
+      },
+      "total_gold_tokens": 1352,
+      "total_model_tokens": 2246,
+      "exact_matches": 466,
+      "parse_failures": 11,
+      "overlap": {
+        "gt_kanji_chars": 2885,
+        "model_kanji_chars": 3200,
+        "overlap_chars": 2680,
+        "model_extra_chars": 520,
+        "gt_only_chars": 205,
+        "reading_spans_checked": 1198,
+        "reading_spans_correct": 827
+      },
+      "per_source": {
+        "hirogaru": {
+          "gold": 254,
+          "model": 527,
+          "exact": 126,
+          "ov_gt_kanji_chars": 552,
+          "ov_model_kanji_chars": 621,
+          "ov_overlap_chars": 523,
+          "ov_model_extra_chars": 98,
+          "ov_gt_only_chars": 29,
+          "ov_reading_spans_checked": 237,
+          "ov_reading_spans_correct": 178
+        },
+        "kahoku": {
+          "gold": 167,
+          "model": 304,
+          "exact": 59,
+          "ov_gt_kanji_chars": 379,
+          "ov_model_kanji_chars": 412,
+          "ov_overlap_chars": 349,
+          "ov_model_extra_chars": 63,
+          "ov_gt_only_chars": 30,
+          "ov_reading_spans_checked": 149,
+          "ov_reading_spans_correct": 113
+        },
+        "nhk": {
+          "gold": 273,
+          "model": 502,
+          "exact": 122,
+          "ov_gt_kanji_chars": 656,
+          "ov_model_kanji_chars": 752,
+          "ov_overlap_chars": 627,
+          "ov_model_extra_chars": 125,
+          "ov_gt_only_chars": 29,
+          "ov_reading_spans_checked": 248,
+          "ov_reading_spans_correct": 181
+        },
+        "ud_gsd": {
+          "gold": 404,
+          "model": 532,
+          "exact": 82,
+          "ov_gt_kanji_chars": 805,
+          "ov_model_kanji_chars": 913,
+          "ov_overlap_chars": 730,
+          "ov_model_extra_chars": 183,
+          "ov_gt_only_chars": 75,
+          "ov_reading_spans_checked": 355,
+          "ov_reading_spans_correct": 215
+        },
+        "ud_pud": {
+          "gold": 254,
+          "model": 381,
+          "exact": 77,
+          "ov_gt_kanji_chars": 493,
+          "ov_model_kanji_chars": 502,
+          "ov_overlap_chars": 451,
+          "ov_model_extra_chars": 51,
+          "ov_gt_only_chars": 42,
+          "ov_reading_spans_checked": 209,
+          "ov_reading_spans_correct": 140
+        }
+      },
+      "convention_scores": {
+        "verb_chains": {
+          "total": 331,
+          "correct": 208
+        },
+        "compound_nouns": {
+          "total": 75,
+          "correct": 75
+        },
+        "proper_nouns": {
+          "total": 139,
+          "correct": 139
+        },
+        "counters": {
+          "total": 58,
+          "correct": 58
+        },
+        "no_hiragana_annotation": {
+          "total": 2246,
+          "correct": 1343
+        }
+      }
+    },
+    "gemini": {
+      "metrics": {
+        "exact_span_match_pct": 61.094674556213015,
+        "char_coverage_recall": 97.74929665520476,
+        "char_coverage_precision": 89.21540656205421,
+        "reading_accuracy": 97.18934911242604,
+        "parse_failure_rate": 0.0,
+        "model_extra_chars": 378,
+        "gt_only_chars": 72
+      },
+      "total_gold_tokens": 1352,
+      "total_model_tokens": 1156,
+      "exact_matches": 826,
+      "parse_failures": 0,
+      "overlap": {
+        "gt_kanji_chars": 3199,
+        "model_kanji_chars": 3505,
+        "overlap_chars": 3127,
+        "model_extra_chars": 378,
+        "gt_only_chars": 72,
+        "reading_spans_checked": 1352,
+        "reading_spans_correct": 1314
+      },
+      "per_source": {
+        "hirogaru": {
+          "gold": 254,
+          "model": 249,
+          "exact": 210,
+          "ov_gt_kanji_chars": 579,
+          "ov_model_kanji_chars": 631,
+          "ov_overlap_chars": 567,
+          "ov_model_extra_chars": 64,
+          "ov_gt_only_chars": 12,
+          "ov_reading_spans_checked": 254,
+          "ov_reading_spans_correct": 253
+        },
+        "kahoku": {
+          "gold": 167,
+          "model": 142,
+          "exact": 97,
+          "ov_gt_kanji_chars": 411,
+          "ov_model_kanji_chars": 465,
+          "ov_overlap_chars": 400,
+          "ov_model_extra_chars": 65,
+          "ov_gt_only_chars": 11,
+          "ov_reading_spans_checked": 167,
+          "ov_reading_spans_correct": 163
+        },
+        "nhk": {
+          "gold": 273,
+          "model": 255,
+          "exact": 199,
+          "ov_gt_kanji_chars": 714,
+          "ov_model_kanji_chars": 789,
+          "ov_overlap_chars": 700,
+          "ov_model_extra_chars": 89,
+          "ov_gt_only_chars": 14,
+          "ov_reading_spans_checked": 273,
+          "ov_reading_spans_correct": 270
+        },
+        "ud_gsd": {
+          "gold": 404,
+          "model": 306,
+          "exact": 183,
+          "ov_gt_kanji_chars": 905,
+          "ov_model_kanji_chars": 978,
+          "ov_overlap_chars": 884,
+          "ov_model_extra_chars": 94,
+          "ov_gt_only_chars": 21,
+          "ov_reading_spans_checked": 404,
+          "ov_reading_spans_correct": 385
+        },
+        "ud_pud": {
+          "gold": 254,
+          "model": 204,
+          "exact": 137,
+          "ov_gt_kanji_chars": 590,
+          "ov_model_kanji_chars": 642,
+          "ov_overlap_chars": 576,
+          "ov_model_extra_chars": 66,
+          "ov_gt_only_chars": 14,
+          "ov_reading_spans_checked": 254,
+          "ov_reading_spans_correct": 243
+        }
+      },
+      "convention_scores": {
+        "verb_chains": {
+          "total": 307,
+          "correct": 268
+        },
+        "compound_nouns": {
+          "total": 110,
+          "correct": 110
+        },
+        "proper_nouns": {
+          "total": 124,
+          "correct": 124
+        },
+        "counters": {
+          "total": 75,
+          "correct": 75
+        },
+        "no_hiragana_annotation": {
+          "total": 1156,
+          "correct": 1156
+        }
+      }
+    },
+    "claude_v1": {
+      "metrics": {
+        "exact_span_match_pct": 51.405325443786985,
+        "char_coverage_recall": 95.87453119672689,
+        "char_coverage_precision": 87.0049504950495,
+        "reading_accuracy": 96.64710813076279,
+        "parse_failure_rate": 7.000000000000001,
+        "model_extra_chars": 420,
+        "gt_only_chars": 121
+      },
+      "total_gold_tokens": 1352,
+      "total_model_tokens": 1036,
+      "exact_matches": 695,
+      "parse_failures": 7,
+      "overlap": {
+        "gt_kanji_chars": 2933,
+        "model_kanji_chars": 3232,
+        "overlap_chars": 2812,
+        "model_extra_chars": 420,
+        "gt_only_chars": 121,
+        "reading_spans_checked": 1193,
+        "reading_spans_correct": 1153
+      },
+      "per_source": {
+        "hirogaru": {
+          "gold": 254,
+          "model": 251,
+          "exact": 207,
+          "ov_gt_kanji_chars": 579,
+          "ov_model_kanji_chars": 653,
+          "ov_overlap_chars": 565,
+          "ov_model_extra_chars": 88,
+          "ov_gt_only_chars": 14,
+          "ov_reading_spans_checked": 250,
+          "ov_reading_spans_correct": 248
+        },
+        "kahoku": {
+          "gold": 167,
+          "model": 138,
+          "exact": 82,
+          "ov_gt_kanji_chars": 411,
+          "ov_model_kanji_chars": 488,
+          "ov_overlap_chars": 396,
+          "ov_model_extra_chars": 92,
+          "ov_gt_only_chars": 15,
+          "ov_reading_spans_checked": 163,
+          "ov_reading_spans_correct": 159
+        },
+        "nhk": {
+          "gold": 273,
+          "model": 243,
+          "exact": 180,
+          "ov_gt_kanji_chars": 714,
+          "ov_model_kanji_chars": 783,
+          "ov_overlap_chars": 684,
+          "ov_model_extra_chars": 99,
+          "ov_gt_only_chars": 30,
+          "ov_reading_spans_checked": 260,
+          "ov_reading_spans_correct": 257
+        },
+        "ud_gsd": {
+          "gold": 404,
+          "model": 250,
+          "exact": 132,
+          "ov_gt_kanji_chars": 783,
+          "ov_model_kanji_chars": 838,
+          "ov_overlap_chars": 743,
+          "ov_model_extra_chars": 95,
+          "ov_gt_only_chars": 40,
+          "ov_reading_spans_checked": 333,
+          "ov_reading_spans_correct": 311
+        },
+        "ud_pud": {
+          "gold": 254,
+          "model": 154,
+          "exact": 94,
+          "ov_gt_kanji_chars": 446,
+          "ov_model_kanji_chars": 470,
+          "ov_overlap_chars": 424,
+          "ov_model_extra_chars": 46,
+          "ov_gt_only_chars": 22,
+          "ov_reading_spans_checked": 187,
+          "ov_reading_spans_correct": 178
+        }
+      },
+      "convention_scores": {
+        "verb_chains": {
+          "total": 303,
+          "correct": 271
+        },
+        "compound_nouns": {
+          "total": 104,
+          "correct": 104
+        },
+        "proper_nouns": {
+          "total": 118,
+          "correct": 118
+        },
+        "counters": {
+          "total": 69,
+          "correct": 69
+        },
+        "no_hiragana_annotation": {
+          "total": 1114,
+          "correct": 1109
+        }
+      }
+    }
+  }
+}

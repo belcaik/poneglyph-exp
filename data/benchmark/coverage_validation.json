@@ -1,0 +1,2349 @@
+{
+  "claude_v2": {
+    "model": "claude_v2",
+    "total_kanji_chars": 2190,
+    "covered_kanji_chars": 2190,
+    "coverage_pct": 100.0,
+    "uncovered_sentences": 0,
+    "uncovered_details": []
+  },
+  "claude": {
+    "model": "claude",
+    "total_kanji_chars": 2190,
+    "covered_kanji_chars": 1958,
+    "coverage_pct": 89.40639269406392,
+    "uncovered_sentences": 34,
+    "uncovered_details": [
+      {
+        "sent_id": 1,
+        "source": "hirogaru",
+        "uncovered": [
+          {
+            "pos": 100,
+            "char": "今"
+          }
+        ]
+      },
+      {
+        "sent_id": 3,
+        "source": "hirogaru",
+        "uncovered": [
+          {
+            "pos": 73,
+            "char": "人"
+          }
+        ]
+      },
+      {
+        "sent_id": 8,
+        "source": "hirogaru",
+        "uncovered": [
+          {
+            "pos": 0,
+            "char": "上"
+          }
+        ]
+      },
+      {
+        "sent_id": 17,
+        "source": "hirogaru",
+        "uncovered": [
+          {
+            "pos": 11,
+            "char": "私"
+          }
+        ]
+      },
+      {
+        "sent_id": 21,
+        "source": "kahoku",
+        "uncovered": [
+          {
+            "pos": 18,
+            "char": "中"
+          }
+        ]
+      },
+      {
+        "sent_id": 23,
+        "source": "kahoku",
+        "uncovered": [
+          {
+            "pos": 21,
+            "char": "特"
+          }
+        ]
+      },
+      {
+        "sent_id": 30,
+        "source": "kahoku",
+        "uncovered": [
+          {
+            "pos": 21,
+            "char": "人"
+          }
+        ]
+      },
+      {
+        "sent_id": 40,
+        "source": "kahoku",
+        "uncovered": [
+          {
+            "pos": 15,
+            "char": "人"
+          }
+        ]
+      },
+      {
+        "sent_id": 42,
+        "source": "nhk",
+        "uncovered": [
+          {
+            "pos": 39,
+            "char": "月"
+          },
+          {
+            "pos": 55,
+            "char": "人"
+          }
+        ]
+      },
+      {
+        "sent_id": 43,
+        "source": "nhk",
+        "uncovered": [
+          {
+            "pos": 43,
+            "char": "人"
+          },
+          {
+            "pos": 98,
+            "char": "一"
+          },
+          {
+            "pos": 99,
+            "char": "度"
+          }
+        ]
+      },
+      {
+        "sent_id": 44,
+        "source": "nhk",
+        "uncovered": [
+          {
+            "pos": 30,
+            "char": "日"
+          },
+          {
+            "pos": 83,
+            "char": "人"
+          },
+          {
+            "pos": 115,
+            "char": "日"
+          }
+        ]
+      },
+      {
+        "sent_id": 45,
+        "source": "nhk",
+        "uncovered": [
+          {
+            "pos": 41,
+            "char": "月"
+          }
+        ]
+      },
+      {
+        "sent_id": 46,
+        "source": "nhk",
+        "uncovered": [
+          {
+            "pos": 42,
+            "char": "中"
+          },
+          {
+            "pos": 74,
+            "char": "人"
+          }
+        ]
+      },
+      {
+        "sent_id": 49,
+        "source": "nhk",
+        "uncovered": [
+          {
+            "pos": 42,
+            "char": "合"
+          }
+        ]
+      },
+      {
+        "sent_id": 53,
+        "source": "nhk",
+        "uncovered": [
+          {
+            "pos": 34,
+            "char": "日"
+          }
+        ]
+      },
+      {
+        "sent_id": 58,
+        "source": "nhk",
+        "uncovered": [
+          {
+            "pos": 50,
+            "char": "人"
+          }
+        ]
+      },
+      {
+        "sent_id": 61,
+        "source": "ud_gsd",
+        "uncovered": [
+          {
+            "pos": 8,
+            "char": "年"
+          },
+          {
+            "pos": 36,
+            "char": "前"
+          }
+        ]
+      },
+      {
+        "sent_id": 62,
+        "source": "ud_gsd",
+        "uncovered": [
+          {
+            "pos": 54,
+            "char": "共"
+          },
+          {
+            "pos": 79,
+            "char": "上"
+          },
+          {
+            "pos": 98,
+            "char": "為"
+          },
+          {
+            "pos": 120,
+            "char": "足"
+          }
+        ]
+      },
+      {
+        "sent_id": 63,
+        "source": "ud_gsd",
+        "uncovered": [
+          {
+            "pos": 4,
+            "char": "年"
+          },
+          {
+            "pos": 5,
+            "char": "代"
+          },
+          {
+            "pos": 7,
+            "char": "末"
+          },
+          {
+            "pos": 9,
+            "char": "開"
+          },
+          {
+            "pos": 10,
+            "char": "発"
+          },
+          {
+            "pos": 14,
+            "char": "本"
+          },
+          {
+            "pos": 15,
+            "char": "形"
+          },
+          {
+            "pos": 16,
+            "char": "式"
+          },
+          {
+            "pos": 19,
+            "char": "国"
+          },
+          {
+            "pos": 20,
+            "char": "産"
+          },
+          {
+            "pos": 22,
+            "char": "高"
+          },
+          {
+            "pos": 23,
+            "char": "品"
+          },
+          {
+            "pos": 24,
+            "char": "質"
+          },
+          {
+            "pos": 26,
+            "char": "軽"
+          },
+          {
+            "pos": 27,
+            "char": "快"
+          },
+          {
+            "pos": 28,
+            "char": "車"
+          },
+          {
+            "pos": 30,
+            "char": "広"
+          },
+          {
+            "pos": 32,
+            "char": "採"
+          },
+          {
+            "pos": 33,
+            "char": "用"
+          },
+          {
+            "pos": 39,
+            "char": "近"
+          },
+          {
+            "pos": 40,
+            "char": "年"
+          },
+          {
+            "pos": 42,
+            "char": "自"
+          },
+          {
+            "pos": 43,
+            "char": "転"
+          },
+          {
+            "pos": 44,
+            "char": "車"
+          },
+          {
+            "pos": 46,
+            "char": "低"
+          },
+          {
+            "pos": 47,
+            "char": "価"
+          },
+          {
+            "pos": 48,
+            "char": "格"
+          },
+          {
+            "pos": 49,
+            "char": "化"
+          },
+          {
+            "pos": 50,
+            "char": "圧"
+          },
+          {
+            "pos": 51,
+            "char": "力"
+          },
+          {
+            "pos": 54,
+            "char": "大"
+          },
+          {
+            "pos": 55,
+            "char": "手"
+          },
+          {
+            "pos": 56,
+            "char": "自"
+          },
+          {
+            "pos": 57,
+            "char": "転"
+          },
+          {
+            "pos": 58,
+            "char": "車"
+          },
+          {
+            "pos": 59,
+            "char": "部"
+          },
+          {
+            "pos": 60,
+            "char": "品"
+          },
+          {
+            "pos": 69,
+            "char": "社"
+          },
+          {
+            "pos": 71,
+            "char": "開"
+          },
+          {
+            "pos": 72,
+            "char": "発"
+          },
+          {
+            "pos": 75,
+            "char": "後"
+          },
+          {
+            "pos": 76,
+            "char": "発"
+          },
+          {
+            "pos": 77,
+            "char": "製"
+          },
+          {
+            "pos": 78,
+            "char": "品"
+          },
+          {
+            "pos": 91,
+            "char": "普"
+          },
+          {
+            "pos": 92,
+            "char": "及"
+          },
+          {
+            "pos": 96,
+            "char": "挟"
+          },
+          {
+            "pos": 97,
+            "char": "撃"
+          },
+          {
+            "pos": 99,
+            "char": "受"
+          },
+          {
+            "pos": 102,
+            "char": "形"
+          },
+          {
+            "pos": 107,
+            "char": "安"
+          },
+          {
+            "pos": 108,
+            "char": "売"
+          },
+          {
+            "pos": 115,
+            "char": "自"
+          },
+          {
+            "pos": 116,
+            "char": "転"
+          },
+          {
+            "pos": 117,
+            "char": "車"
+          },
+          {
+            "pos": 127,
+            "char": "他"
+          },
+          {
+            "pos": 129,
+            "char": "多"
+          },
+          {
+            "pos": 132,
+            "char": "軽"
+          },
+          {
+            "pos": 133,
+            "char": "快"
+          },
+          {
+            "pos": 134,
+            "char": "車"
+          },
+          {
+            "pos": 146,
+            "char": "市"
+          },
+          {
+            "pos": 147,
+            "char": "場"
+          },
+          {
+            "pos": 149,
+            "char": "奪"
+          },
+          {
+            "pos": 153,
+            "char": "新"
+          },
+          {
+            "pos": 154,
+            "char": "車"
+          },
+          {
+            "pos": 164,
+            "char": "付"
+          },
+          {
+            "pos": 166,
+            "char": "自"
+          },
+          {
+            "pos": 167,
+            "char": "転"
+          },
+          {
+            "pos": 168,
+            "char": "車"
+          },
+          {
+            "pos": 170,
+            "char": "減"
+          },
+          {
+            "pos": 171,
+            "char": "少"
+          },
+          {
+            "pos": 172,
+            "char": "傾"
+          },
+          {
+            "pos": 173,
+            "char": "向"
+          }
+        ],
+        "reason": "missing"
+      },
+      {
+        "sent_id": 65,
+        "source": "ud_gsd",
+        "uncovered": [
+          {
+            "pos": 70,
+            "char": "戦"
+          },
+          {
+            "pos": 88,
+            "char": "引"
+          },
+          {
+            "pos": 90,
+            "char": "分"
+          }
+        ]
+      },
+      {
+        "sent_id": 66,
+        "source": "ud_gsd",
+        "uncovered": [
+          {
+            "pos": 49,
+            "char": "関"
+          }
+        ]
+      },
+      {
+        "sent_id": 68,
+        "source": "ud_gsd",
+        "uncovered": [
+          {
+            "pos": 26,
+            "char": "等"
+          }
+        ]
+      },
+      {
+        "sent_id": 71,
+        "source": "ud_gsd",
+        "uncovered": [
+          {
+            "pos": 6,
+            "char": "私"
+          }
+        ]
+      },
+      {
+        "sent_id": 72,
+        "source": "ud_gsd",
+        "uncovered": [
+          {
+            "pos": 0,
+            "char": "一"
+          },
+          {
+            "pos": 1,
+            "char": "人"
+          },
+          {
+            "pos": 6,
+            "char": "若"
+          },
+          {
+            "pos": 8,
+            "char": "女"
+          },
+          {
+            "pos": 9,
+            "char": "性"
+          },
+          {
+            "pos": 10,
+            "char": "信"
+          },
+          {
+            "pos": 11,
+            "char": "者"
+          },
+          {
+            "pos": 13,
+            "char": "手"
+          },
+          {
+            "pos": 14,
+            "char": "作"
+          },
+          {
+            "pos": 24,
+            "char": "紅"
+          },
+          {
+            "pos": 25,
+            "char": "茶"
+          },
+          {
+            "pos": 27,
+            "char": "出"
+          },
+          {
+            "pos": 30,
+            "char": "記"
+          },
+          {
+            "pos": 31,
+            "char": "者"
+          },
+          {
+            "pos": 34,
+            "char": "海"
+          },
+          {
+            "pos": 35,
+            "char": "老"
+          },
+          {
+            "pos": 36,
+            "char": "澤"
+          },
+          {
+            "pos": 37,
+            "char": "代"
+          },
+          {
+            "pos": 38,
+            "char": "表"
+          },
+          {
+            "pos": 40,
+            "char": "付"
+          }
+        ],
+        "reason": "missing"
+      },
+      {
+        "sent_id": 75,
+        "source": "ud_gsd",
+        "uncovered": [
+          {
+            "pos": 0,
+            "char": "現"
+          }
+        ]
+      },
+      {
+        "sent_id": 77,
+        "source": "ud_gsd",
+        "uncovered": [
+          {
+            "pos": 3,
+            "char": "対"
+          }
+        ]
+      },
+      {
+        "sent_id": 81,
+        "source": "ud_pud",
+        "uncovered": [
+          {
+            "pos": 14,
+            "char": "前"
+          }
+        ]
+      },
+      {
+        "sent_id": 85,
+        "source": "ud_pud",
+        "uncovered": [
+          {
+            "pos": 0,
+            "char": "彼"
+          },
+          {
+            "pos": 2,
+            "char": "平"
+          },
+          {
+            "pos": 3,
+            "char": "凡"
+          },
+          {
+            "pos": 5,
+            "char": "人"
+          },
+          {
+            "pos": 6,
+            "char": "生"
+          },
+          {
+            "pos": 8,
+            "char": "後"
+          },
+          {
+            "pos": 10,
+            "char": "老"
+          },
+          {
+            "pos": 11,
+            "char": "衰"
+          },
+          {
+            "pos": 13,
+            "char": "亡"
+          },
+          {
+            "pos": 23,
+            "char": "戦"
+          },
+          {
+            "pos": 24,
+            "char": "場"
+          },
+          {
+            "pos": 26,
+            "char": "若"
+          },
+          {
+            "pos": 30,
+            "char": "命"
+          },
+          {
+            "pos": 32,
+            "char": "落"
+          },
+          {
+            "pos": 36,
+            "char": "詩"
+          },
+          {
+            "pos": 38,
+            "char": "通"
+          },
+          {
+            "pos": 41,
+            "char": "不"
+          },
+          {
+            "pos": 42,
+            "char": "死"
+          },
+          {
+            "pos": 44,
+            "char": "得"
+          },
+          {
+            "pos": 54,
+            "char": "予"
+          },
+          {
+            "pos": 55,
+            "char": "言"
+          }
+        ],
+        "reason": "missing"
+      },
+      {
+        "sent_id": 88,
+        "source": "ud_pud",
+        "uncovered": [
+          {
+            "pos": 3,
+            "char": "彼"
+          },
+          {
+            "pos": 4,
+            "char": "女"
+          },
+          {
+            "pos": 7,
+            "char": "機"
+          },
+          {
+            "pos": 8,
+            "char": "密"
+          },
+          {
+            "pos": 9,
+            "char": "情"
+          },
+          {
+            "pos": 10,
+            "char": "報"
+          },
+          {
+            "pos": 12,
+            "char": "彼"
+          },
+          {
+            "pos": 13,
+            "char": "女"
+          },
+          {
+            "pos": 15,
+            "char": "提"
+          },
+          {
+            "pos": 16,
+            "char": "供"
+          },
+          {
+            "pos": 19,
+            "char": "数"
+          },
+          {
+            "pos": 22,
+            "char": "政"
+          },
+          {
+            "pos": 23,
+            "char": "府"
+          },
+          {
+            "pos": 24,
+            "char": "系"
+          },
+          {
+            "pos": 25,
+            "char": "科"
+          },
+          {
+            "pos": 26,
+            "char": "学"
+          },
+          {
+            "pos": 27,
+            "char": "者"
+          },
+          {
+            "pos": 30,
+            "char": "人"
+          },
+          {
+            "pos": 31,
+            "char": "脈"
+          },
+          {
+            "pos": 33,
+            "char": "利"
+          },
+          {
+            "pos": 34,
+            "char": "用"
+          }
+        ],
+        "reason": "missing"
+      },
+      {
+        "sent_id": 91,
+        "source": "ud_pud",
+        "uncovered": [
+          {
+            "pos": 0,
+            "char": "今"
+          },
+          {
+            "pos": 1,
+            "char": "年"
+          },
+          {
+            "pos": 3,
+            "char": "初"
+          },
+          {
+            "pos": 12,
+            "char": "首"
+          },
+          {
+            "pos": 13,
+            "char": "都"
+          },
+          {
+            "pos": 21,
+            "char": "武"
+          },
+          {
+            "pos": 22,
+            "char": "術"
+          },
+          {
+            "pos": 23,
+            "char": "学"
+          },
+          {
+            "pos": 24,
+            "char": "校"
+          },
+          {
+            "pos": 26,
+            "char": "設"
+          },
+          {
+            "pos": 27,
+            "char": "立"
+          },
+          {
+            "pos": 29,
+            "char": "申"
+          },
+          {
+            "pos": 31,
+            "char": "出"
+          },
+          {
+            "pos": 33,
+            "char": "後"
+          },
+          {
+            "pos": 40,
+            "char": "国"
+          },
+          {
+            "pos": 41,
+            "char": "籍"
+          },
+          {
+            "pos": 43,
+            "char": "与"
+          }
+        ],
+        "reason": "missing"
+      },
+      {
+        "sent_id": 92,
+        "source": "ud_pud",
+        "uncovered": [
+          {
+            "pos": 26,
+            "char": "方"
+          }
+        ]
+      },
+      {
+        "sent_id": 96,
+        "source": "ud_pud",
+        "uncovered": [
+          {
+            "pos": 1,
+            "char": "私"
+          },
+          {
+            "pos": 10,
+            "char": "大"
+          },
+          {
+            "pos": 11,
+            "char": "学"
+          },
+          {
+            "pos": 13,
+            "char": "示"
+          },
+          {
+            "pos": 17,
+            "char": "新"
+          },
+          {
+            "pos": 20,
+            "char": "才"
+          },
+          {
+            "pos": 21,
+            "char": "能"
+          },
+          {
+            "pos": 23,
+            "char": "取"
+          },
+          {
+            "pos": 25,
+            "char": "上"
+          },
+          {
+            "pos": 31,
+            "char": "訪"
+          },
+          {
+            "pos": 32,
+            "char": "問"
+          },
+          {
+            "pos": 39,
+            "char": "彼"
+          },
+          {
+            "pos": 41,
+            "char": "言"
+          }
+        ],
+        "reason": "missing"
+      },
+      {
+        "sent_id": 99,
+        "source": "ud_pud",
+        "uncovered": [
+          {
+            "pos": 4,
+            "char": "女"
+          },
+          {
+            "pos": 5,
+            "char": "性"
+          },
+          {
+            "pos": 7,
+            "char": "特"
+          },
+          {
+            "pos": 9,
+            "char": "出"
+          },
+          {
+            "pos": 10,
+            "char": "産"
+          },
+          {
+            "pos": 12,
+            "char": "役"
+          },
+          {
+            "pos": 13,
+            "char": "割"
+          },
+          {
+            "pos": 15,
+            "char": "担"
+          },
+          {
+            "pos": 17,
+            "char": "女"
+          },
+          {
+            "pos": 18,
+            "char": "性"
+          },
+          {
+            "pos": 20,
+            "char": "含"
+          },
+          {
+            "pos": 22,
+            "char": "人"
+          },
+          {
+            "pos": 23,
+            "char": "口"
+          },
+          {
+            "pos": 24,
+            "char": "統"
+          },
+          {
+            "pos": 25,
+            "char": "計"
+          },
+          {
+            "pos": 26,
+            "char": "学"
+          },
+          {
+            "pos": 30,
+            "char": "人"
+          },
+          {
+            "pos": 31,
+            "char": "口"
+          },
+          {
+            "pos": 36,
+            "char": "広"
+          },
+          {
+            "pos": 37,
+            "char": "範"
+          },
+          {
+            "pos": 39,
+            "char": "統"
+          },
+          {
+            "pos": 40,
+            "char": "計"
+          },
+          {
+            "pos": 41,
+            "char": "的"
+          },
+          {
+            "pos": 42,
+            "char": "分"
+          },
+          {
+            "pos": 43,
+            "char": "析"
+          },
+          {
+            "pos": 45,
+            "char": "行"
+          }
+        ],
+        "reason": "missing"
+      },
+      {
+        "sent_id": 100,
+        "source": "ud_pud",
+        "uncovered": [
+          {
+            "pos": 27,
+            "char": "人"
+          },
+          {
+            "pos": 45,
+            "char": "私"
+          },
+          {
+            "pos": 49,
+            "char": "海"
+          }
+        ]
+      }
+    ]
+  },
+  "qwen7b": {
+    "model": "qwen7b",
+    "total_kanji_chars": 2190,
+    "covered_kanji_chars": 1947,
+    "coverage_pct": 88.9041095890411,
+    "uncovered_sentences": 27,
+    "uncovered_details": [
+      {
+        "sent_id": 2,
+        "source": "hirogaru",
+        "uncovered": [
+          {
+            "pos": 61,
+            "char": "回"
+          }
+        ]
+      },
+      {
+        "sent_id": 4,
+        "source": "hirogaru",
+        "uncovered": [
+          {
+            "pos": 130,
+            "char": "書"
+          }
+        ]
+      },
+      {
+        "sent_id": 5,
+        "source": "hirogaru",
+        "uncovered": [
+          {
+            "pos": 55,
+            "char": "安"
+          }
+        ]
+      },
+      {
+        "sent_id": 6,
+        "source": "hirogaru",
+        "uncovered": [
+          {
+            "pos": 102,
+            "char": "好"
+          }
+        ]
+      },
+      {
+        "sent_id": 9,
+        "source": "hirogaru",
+        "uncovered": [
+          {
+            "pos": 4,
+            "char": "中"
+          },
+          {
+            "pos": 5,
+            "char": "古"
+          },
+          {
+            "pos": 7,
+            "char": "本"
+          },
+          {
+            "pos": 9,
+            "char": "売"
+          },
+          {
+            "pos": 14,
+            "char": "店"
+          },
+          {
+            "pos": 23,
+            "char": "人"
+          },
+          {
+            "pos": 28,
+            "char": "来"
+          },
+          {
+            "pos": 31,
+            "char": "読"
+          },
+          {
+            "pos": 33,
+            "char": "終"
+          },
+          {
+            "pos": 37,
+            "char": "本"
+          },
+          {
+            "pos": 39,
+            "char": "売"
+          },
+          {
+            "pos": 48,
+            "char": "店"
+          },
+          {
+            "pos": 52,
+            "char": "本"
+          },
+          {
+            "pos": 54,
+            "char": "売"
+          }
+        ],
+        "reason": "parse_failure"
+      },
+      {
+        "sent_id": 22,
+        "source": "kahoku",
+        "uncovered": [
+          {
+            "pos": 18,
+            "char": "年"
+          },
+          {
+            "pos": 19,
+            "char": "生"
+          }
+        ]
+      },
+      {
+        "sent_id": 25,
+        "source": "kahoku",
+        "uncovered": [
+          {
+            "pos": 3,
+            "char": "金"
+          },
+          {
+            "pos": 4,
+            "char": "剛"
+          },
+          {
+            "pos": 30,
+            "char": "年"
+          },
+          {
+            "pos": 31,
+            "char": "間"
+          }
+        ]
+      },
+      {
+        "sent_id": 28,
+        "source": "kahoku",
+        "uncovered": [
+          {
+            "pos": 3,
+            "char": "年"
+          },
+          {
+            "pos": 4,
+            "char": "生"
+          },
+          {
+            "pos": 31,
+            "char": "知"
+          }
+        ]
+      },
+      {
+        "sent_id": 34,
+        "source": "kahoku",
+        "uncovered": [
+          {
+            "pos": 4,
+            "char": "花"
+          },
+          {
+            "pos": 6,
+            "char": "大"
+          },
+          {
+            "pos": 17,
+            "char": "育"
+          },
+          {
+            "pos": 24,
+            "char": "話"
+          }
+        ],
+        "reason": "parse_failure"
+      },
+      {
+        "sent_id": 37,
+        "source": "kahoku",
+        "uncovered": [
+          {
+            "pos": 0,
+            "char": "木"
+          },
+          {
+            "pos": 1,
+            "char": "村"
+          },
+          {
+            "pos": 8,
+            "char": "年"
+          },
+          {
+            "pos": 9,
+            "char": "前"
+          },
+          {
+            "pos": 11,
+            "char": "名"
+          },
+          {
+            "pos": 12,
+            "char": "古"
+          },
+          {
+            "pos": 13,
+            "char": "屋"
+          },
+          {
+            "pos": 15,
+            "char": "大"
+          },
+          {
+            "pos": 16,
+            "char": "学"
+          },
+          {
+            "pos": 18,
+            "char": "通"
+          },
+          {
+            "pos": 24,
+            "char": "名"
+          },
+          {
+            "pos": 25,
+            "char": "古"
+          },
+          {
+            "pos": 26,
+            "char": "屋"
+          },
+          {
+            "pos": 27,
+            "char": "市"
+          },
+          {
+            "pos": 29,
+            "char": "引"
+          },
+          {
+            "pos": 31,
+            "char": "越"
+          }
+        ],
+        "reason": "parse_failure"
+      },
+      {
+        "sent_id": 43,
+        "source": "nhk",
+        "uncovered": [
+          {
+            "pos": 98,
+            "char": "一"
+          },
+          {
+            "pos": 99,
+            "char": "度"
+          }
+        ]
+      },
+      {
+        "sent_id": 47,
+        "source": "nhk",
+        "uncovered": [
+          {
+            "pos": 39,
+            "char": "大"
+          }
+        ]
+      },
+      {
+        "sent_id": 50,
+        "source": "nhk",
+        "uncovered": [
+          {
+            "pos": 5,
+            "char": "政"
+          },
+          {
+            "pos": 6,
+            "char": "府"
+          },
+          {
+            "pos": 14,
+            "char": "日"
+          },
+          {
+            "pos": 16,
+            "char": "午"
+          },
+          {
+            "pos": 17,
+            "char": "前"
+          },
+          {
+            "pos": 19,
+            "char": "犯"
+          },
+          {
+            "pos": 20,
+            "char": "人"
+          },
+          {
+            "pos": 22,
+            "char": "美"
+          },
+          {
+            "pos": 23,
+            "char": "術"
+          },
+          {
+            "pos": 24,
+            "char": "館"
+          },
+          {
+            "pos": 27,
+            "char": "階"
+          },
+          {
+            "pos": 29,
+            "char": "窓"
+          },
+          {
+            "pos": 32,
+            "char": "入"
+          },
+          {
+            "pos": 41,
+            "char": "宝"
+          },
+          {
+            "pos": 42,
+            "char": "石"
+          },
+          {
+            "pos": 46,
+            "char": "盗"
+          },
+          {
+            "pos": 49,
+            "char": "逃"
+          }
+        ],
+        "reason": "parse_failure"
+      },
+      {
+        "sent_id": 54,
+        "source": "nhk",
+        "uncovered": [
+          {
+            "pos": 0,
+            "char": "東"
+          },
+          {
+            "pos": 1,
+            "char": "京"
+          },
+          {
+            "pos": 3,
+            "char": "北"
+          },
+          {
+            "pos": 4,
+            "char": "区"
+          },
+          {
+            "pos": 11,
+            "char": "一"
+          },
+          {
+            "pos": 12,
+            "char": "緒"
+          },
+          {
+            "pos": 14,
+            "char": "避"
+          },
+          {
+            "pos": 15,
+            "char": "難"
+          },
+          {
+            "pos": 18,
+            "char": "方"
+          },
+          {
+            "pos": 19,
+            "char": "法"
+          },
+          {
+            "pos": 21,
+            "char": "勉"
+          },
+          {
+            "pos": 22,
+            "char": "強"
+          },
+          {
+            "pos": 25,
+            "char": "会"
+          },
+          {
+            "pos": 33,
+            "char": "近"
+          },
+          {
+            "pos": 36,
+            "char": "住"
+          },
+          {
+            "pos": 40,
+            "char": "人"
+          },
+          {
+            "pos": 49,
+            "char": "集"
+          }
+        ],
+        "reason": "parse_failure"
+      },
+      {
+        "sent_id": 58,
+        "source": "nhk",
+        "uncovered": [
+          {
+            "pos": 48,
+            "char": "出"
+          }
+        ]
+      },
+      {
+        "sent_id": 61,
+        "source": "ud_gsd",
+        "uncovered": [
+          {
+            "pos": 10,
+            "char": "時"
+          },
+          {
+            "pos": 11,
+            "char": "点"
+          }
+        ]
+      },
+      {
+        "sent_id": 66,
+        "source": "ud_gsd",
+        "uncovered": [
+          {
+            "pos": 1,
+            "char": "日"
+          },
+          {
+            "pos": 2,
+            "char": "引"
+          },
+          {
+            "pos": 4,
+            "char": "後"
+          },
+          {
+            "pos": 6,
+            "char": "厚"
+          },
+          {
+            "pos": 7,
+            "char": "生"
+          },
+          {
+            "pos": 8,
+            "char": "労"
+          },
+          {
+            "pos": 9,
+            "char": "働"
+          },
+          {
+            "pos": 10,
+            "char": "省"
+          },
+          {
+            "pos": 11,
+            "char": "厚"
+          },
+          {
+            "pos": 12,
+            "char": "生"
+          },
+          {
+            "pos": 13,
+            "char": "科"
+          },
+          {
+            "pos": 14,
+            "char": "学"
+          },
+          {
+            "pos": 15,
+            "char": "審"
+          },
+          {
+            "pos": 16,
+            "char": "議"
+          },
+          {
+            "pos": 17,
+            "char": "会"
+          },
+          {
+            "pos": 18,
+            "char": "科"
+          },
+          {
+            "pos": 19,
+            "char": "学"
+          },
+          {
+            "pos": 20,
+            "char": "技"
+          },
+          {
+            "pos": 21,
+            "char": "術"
+          },
+          {
+            "pos": 22,
+            "char": "部"
+          },
+          {
+            "pos": 23,
+            "char": "会"
+          },
+          {
+            "pos": 29,
+            "char": "東"
+          },
+          {
+            "pos": 30,
+            "char": "海"
+          },
+          {
+            "pos": 31,
+            "char": "大"
+          },
+          {
+            "pos": 32,
+            "char": "学"
+          },
+          {
+            "pos": 33,
+            "char": "医"
+          },
+          {
+            "pos": 34,
+            "char": "学"
+          },
+          {
+            "pos": 35,
+            "char": "部"
+          },
+          {
+            "pos": 40,
+            "char": "軟"
+          },
+          {
+            "pos": 41,
+            "char": "骨"
+          },
+          {
+            "pos": 42,
+            "char": "再"
+          },
+          {
+            "pos": 43,
+            "char": "生"
+          },
+          {
+            "pos": 49,
+            "char": "関"
+          },
+          {
+            "pos": 52,
+            "char": "臨"
+          },
+          {
+            "pos": 53,
+            "char": "床"
+          },
+          {
+            "pos": 54,
+            "char": "研"
+          },
+          {
+            "pos": 55,
+            "char": "究"
+          },
+          {
+            "pos": 56,
+            "char": "実"
+          },
+          {
+            "pos": 57,
+            "char": "施"
+          },
+          {
+            "pos": 58,
+            "char": "計"
+          },
+          {
+            "pos": 59,
+            "char": "画"
+          },
+          {
+            "pos": 61,
+            "char": "了"
+          },
+          {
+            "pos": 62,
+            "char": "承"
+          },
+          {
+            "pos": 65,
+            "char": "方"
+          },
+          {
+            "pos": 66,
+            "char": "向"
+          },
+          {
+            "pos": 67,
+            "char": "性"
+          },
+          {
+            "pos": 69,
+            "char": "示"
+          },
+          {
+            "pos": 73,
+            "char": "当"
+          },
+          {
+            "pos": 74,
+            "char": "該"
+          },
+          {
+            "pos": 75,
+            "char": "臨"
+          },
+          {
+            "pos": 76,
+            "char": "床"
+          },
+          {
+            "pos": 77,
+            "char": "研"
+          },
+          {
+            "pos": 78,
+            "char": "究"
+          },
+          {
+            "pos": 80,
+            "char": "開"
+          },
+          {
+            "pos": 81,
+            "char": "始"
+          },
+          {
+            "pos": 83,
+            "char": "認"
+          },
+          {
+            "pos": 88,
+            "char": "見"
+          },
+          {
+            "pos": 89,
+            "char": "通"
+          },
+          {
+            "pos": 96,
+            "char": "発"
+          },
+          {
+            "pos": 97,
+            "char": "表"
+          }
+        ],
+        "reason": "parse_failure"
+      },
+      {
+        "sent_id": 67,
+        "source": "ud_gsd",
+        "uncovered": [
+          {
+            "pos": 36,
+            "char": "調"
+          }
+        ]
+      },
+      {
+        "sent_id": 68,
+        "source": "ud_gsd",
+        "uncovered": [
+          {
+            "pos": 32,
+            "char": "教"
+          },
+          {
+            "pos": 33,
+            "char": "会"
+          }
+        ]
+      },
+      {
+        "sent_id": 72,
+        "source": "ud_gsd",
+        "uncovered": [
+          {
+            "pos": 0,
+            "char": "一"
+          },
+          {
+            "pos": 1,
+            "char": "人"
+          },
+          {
+            "pos": 6,
+            "char": "若"
+          },
+          {
+            "pos": 8,
+            "char": "女"
+          },
+          {
+            "pos": 9,
+            "char": "性"
+          },
+          {
+            "pos": 10,
+            "char": "信"
+          },
+          {
+            "pos": 11,
+            "char": "者"
+          },
+          {
+            "pos": 13,
+            "char": "手"
+          },
+          {
+            "pos": 14,
+            "char": "作"
+          },
+          {
+            "pos": 24,
+            "char": "紅"
+          },
+          {
+            "pos": 25,
+            "char": "茶"
+          },
+          {
+            "pos": 27,
+            "char": "出"
+          },
+          {
+            "pos": 30,
+            "char": "記"
+          },
+          {
+            "pos": 31,
+            "char": "者"
+          },
+          {
+            "pos": 34,
+            "char": "海"
+          },
+          {
+            "pos": 35,
+            "char": "老"
+          },
+          {
+            "pos": 36,
+            "char": "澤"
+          },
+          {
+            "pos": 37,
+            "char": "代"
+          },
+          {
+            "pos": 38,
+            "char": "表"
+          },
+          {
+            "pos": 40,
+            "char": "付"
+          }
+        ],
+        "reason": "parse_failure"
+      },
+      {
+        "sent_id": 84,
+        "source": "ud_pud",
+        "uncovered": [
+          {
+            "pos": 4,
+            "char": "以"
+          },
+          {
+            "pos": 5,
+            "char": "後"
+          }
+        ]
+      },
+      {
+        "sent_id": 85,
+        "source": "ud_pud",
+        "uncovered": [
+          {
+            "pos": 30,
+            "char": "命"
+          },
+          {
+            "pos": 32,
+            "char": "落"
+          }
+        ]
+      },
+      {
+        "sent_id": 88,
+        "source": "ud_pud",
+        "uncovered": [
+          {
+            "pos": 12,
+            "char": "彼"
+          },
+          {
+            "pos": 13,
+            "char": "女"
+          }
+        ]
+      },
+      {
+        "sent_id": 91,
+        "source": "ud_pud",
+        "uncovered": [
+          {
+            "pos": 0,
+            "char": "今"
+          },
+          {
+            "pos": 1,
+            "char": "年"
+          },
+          {
+            "pos": 3,
+            "char": "初"
+          },
+          {
+            "pos": 12,
+            "char": "首"
+          },
+          {
+            "pos": 13,
+            "char": "都"
+          },
+          {
+            "pos": 21,
+            "char": "武"
+          },
+          {
+            "pos": 22,
+            "char": "術"
+          },
+          {
+            "pos": 23,
+            "char": "学"
+          },
+          {
+            "pos": 24,
+            "char": "校"
+          },
+          {
+            "pos": 26,
+            "char": "設"
+          },
+          {
+            "pos": 27,
+            "char": "立"
+          },
+          {
+            "pos": 29,
+            "char": "申"
+          },
+          {
+            "pos": 31,
+            "char": "出"
+          },
+          {
+            "pos": 33,
+            "char": "後"
+          },
+          {
+            "pos": 40,
+            "char": "国"
+          },
+          {
+            "pos": 41,
+            "char": "籍"
+          },
+          {
+            "pos": 43,
+            "char": "与"
+          }
+        ],
+        "reason": "parse_failure"
+      },
+      {
+        "sent_id": 92,
+        "source": "ud_pud",
+        "uncovered": [
+          {
+            "pos": 6,
+            "char": "権"
+          },
+          {
+            "pos": 7,
+            "char": "力"
+          },
+          {
+            "pos": 9,
+            "char": "教"
+          },
+          {
+            "pos": 10,
+            "char": "育"
+          },
+          {
+            "pos": 12,
+            "char": "受"
+          },
+          {
+            "pos": 15,
+            "char": "保"
+          },
+          {
+            "pos": 16,
+            "char": "護"
+          },
+          {
+            "pos": 17,
+            "char": "者"
+          },
+          {
+            "pos": 19,
+            "char": "注"
+          },
+          {
+            "pos": 20,
+            "char": "意"
+          },
+          {
+            "pos": 23,
+            "char": "委"
+          },
+          {
+            "pos": 26,
+            "char": "方"
+          },
+          {
+            "pos": 31,
+            "char": "安"
+          },
+          {
+            "pos": 32,
+            "char": "全"
+          },
+          {
+            "pos": 38,
+            "char": "考"
+          }
+        ],
+        "reason": "parse_failure"
+      },
+      {
+        "sent_id": 95,
+        "source": "ud_pud",
+        "uncovered": [
+          {
+            "pos": 0,
+            "char": "複"
+          },
+          {
+            "pos": 1,
+            "char": "数"
+          },
+          {
+            "pos": 3,
+            "char": "古"
+          },
+          {
+            "pos": 4,
+            "char": "代"
+          },
+          {
+            "pos": 5,
+            "char": "文"
+          },
+          {
+            "pos": 6,
+            "char": "明"
+          },
+          {
+            "pos": 8,
+            "char": "地"
+          },
+          {
+            "pos": 9,
+            "char": "中"
+          },
+          {
+            "pos": 10,
+            "char": "海"
+          },
+          {
+            "pos": 11,
+            "char": "沿"
+          },
+          {
+            "pos": 12,
+            "char": "岸"
+          },
+          {
+            "pos": 17,
+            "char": "付"
+          },
+          {
+            "pos": 18,
+            "char": "近"
+          },
+          {
+            "pos": 20,
+            "char": "海"
+          },
+          {
+            "pos": 23,
+            "char": "大"
+          },
+          {
+            "pos": 26,
+            "char": "影"
+          },
+          {
+            "pos": 27,
+            "char": "響"
+          },
+          {
+            "pos": 29,
+            "char": "受"
+          }
+        ],
+        "reason": "parse_failure"
+      },
+      {
+        "sent_id": 98,
+        "source": "ud_pud",
+        "uncovered": [
+          {
+            "pos": 4,
+            "char": "技"
+          },
+          {
+            "pos": 5,
+            "char": "術"
+          },
+          {
+            "pos": 7,
+            "char": "問"
+          },
+          {
+            "pos": 8,
+            "char": "題"
+          },
+          {
+            "pos": 10,
+            "char": "関"
+          },
+          {
+            "pos": 13,
+            "char": "法"
+          },
+          {
+            "pos": 14,
+            "char": "案"
+          },
+          {
+            "pos": 16,
+            "char": "提"
+          },
+          {
+            "pos": 17,
+            "char": "言"
+          },
+          {
+            "pos": 28,
+            "char": "審"
+          },
+          {
+            "pos": 29,
+            "char": "議"
+          },
+          {
+            "pos": 30,
+            "char": "会"
+          },
+          {
+            "pos": 36,
+            "char": "調"
+          },
+          {
+            "pos": 37,
+            "char": "査"
+          },
+          {
+            "pos": 45,
+            "char": "可"
+          },
+          {
+            "pos": 46,
+            "char": "能"
+          },
+          {
+            "pos": 47,
+            "char": "性"
+          }
+        ],
+        "reason": "parse_failure"
+      }
+    ]
+  },
+  "gemini": {
+    "model": "gemini",
+    "total_kanji_chars": 2190,
+    "covered_kanji_chars": 2190,
+    "coverage_pct": 100.0,
+    "uncovered_sentences": 0,
+    "uncovered_details": []
+  },
+  "v7_gt": {
+    "model": "v7_gt",
+    "total_kanji_chars": 2190,
+    "covered_kanji_chars": 2188,
+    "coverage_pct": 99.90867579908675,
+    "uncovered_sentences": 2,
+    "uncovered_details": [
+      {
+        "sent_id": 14,
+        "source": "hirogaru",
+        "uncovered": [
+          {
+            "pos": 3,
+            "char": "古"
+          }
+        ]
+      },
+      {
+        "sent_id": 49,
+        "source": "nhk",
+        "uncovered": [
+          {
+            "pos": 16,
+            "char": "歳"
+          }
+        ]
+      }
+    ]
+  }
+}

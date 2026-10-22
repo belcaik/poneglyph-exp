@@ -1,0 +1,7562 @@
+[
+  {
+    "id": 1,
+    "source": "hirogaru",
+    "text": "笛の教室をしています。女の子が笛を吹く機会が少ないので、女の子に笛を教えたいと思いました。女の子が笛を習って、将来、自分のこどもに教えられるといいと思います。それからコンサートもときどき開いています。今、笛を吹く人が減って、お祭りでテープの音を使うことがあります。笛に興味を持つ人が増えるように活動しています。",
+    "annotations": [
+      {
+        "surface": "笛",
+        "reading": "ふえ",
+        "type": "unknown"
+      },
+      {
+        "surface": "教室",
+        "reading": "きょうしつ",
+        "type": "unknown"
+      },
+      {
+        "surface": "女",
+        "reading": "おんな",
+        "type": "unknown"
+      },
+      {
+        "surface": "子",
+        "reading": "こ",
+        "type": "unknown"
+      },
+      {
+        "surface": "笛",
+        "reading": "ふえ",
+        "type": "unknown"
+      },
+      {
+        "surface": "吹く",
+        "reading": "ふくく",
+        "type": "unknown"
+      },
+      {
+        "surface": "機会",
+        "reading": "きかい",
+        "type": "unknown"
+      },
+      {
+        "surface": "少ない",
+        "reading": "すくない",
+        "type": "unknown"
+      },
+      {
+        "surface": "女",
+        "reading": "おんな",
+        "type": "unknown"
+      },
+      {
+        "surface": "子",
+        "reading": "こ",
+        "type": "unknown"
+      },
+      {
+        "surface": "笛",
+        "reading": "ふえ",
+        "type": "unknown"
+      },
+      {
+        "surface": "教えたい",
+        "reading": "おしえたい",
+        "type": "unknown"
+      },
+      {
+        "surface": "思いました",
+        "reading": "おもいました",
+        "type": "unknown"
+      },
+      {
+        "surface": "女",
+        "reading": "おんな",
+        "type": "unknown"
+      },
+      {
+        "surface": "子",
+        "reading": "こ",
+        "type": "unknown"
+      },
+      {
+        "surface": "笛",
+        "reading": "ふえ",
+        "type": "unknown"
+      },
+      {
+        "surface": "習って",
+        "reading": "ならって",
+        "type": "unknown"
+      },
+      {
+        "surface": "将来",
+        "reading": "しょうらい",
+        "type": "unknown"
+      },
+      {
+        "surface": "自分のこど",
+        "reading": "じぶんのこど",
+        "type": "unknown"
+      },
+      {
+        "surface": "教えられる",
+        "reading": "おしえられる",
+        "type": "unknown"
+      },
+      {
+        "surface": "思います",
+        "reading": "おもいます",
+        "type": "unknown"
+      },
+      {
+        "surface": "開いて",
+        "reading": "ひらいて",
+        "type": "unknown"
+      },
+      {
+        "surface": "今",
+        "reading": "いま",
+        "type": "unknown"
+      },
+      {
+        "surface": "笛",
+        "reading": "ふえ",
+        "type": "unknown"
+      },
+      {
+        "surface": "吹く",
+        "reading": "ふく",
+        "type": "unknown"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと",
+        "type": "unknown"
+      },
+      {
+        "surface": "減って",
+        "reading": "へって",
+        "type": "unknown"
+      },
+      {
+        "surface": "祭り",
+        "reading": "まつり",
+        "type": "unknown"
+      },
+      {
+        "surface": "音",
+        "reading": "おと",
+        "type": "unknown"
+      },
+      {
+        "surface": "使う",
+        "reading": "つかう",
+        "type": "unknown"
+      },
+      {
+        "surface": "笛",
+        "reading": "ふえ",
+        "type": "unknown"
+      },
+      {
+        "surface": "興味",
+        "reading": "きょうみ",
+        "type": "unknown"
+      },
+      {
+        "surface": "持つ",
+        "reading": "もつ",
+        "type": "unknown"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと",
+        "type": "unknown"
+      },
+      {
+        "surface": "増える",
+        "reading": "ふえる",
+        "type": "unknown"
+      },
+      {
+        "surface": "活動して",
+        "reading": "かつどうして",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 2,
+    "source": "hirogaru",
+    "text": "午前4時、堤防へ釣りに行く人が港にたくさん集まっています。船は、堤防で釣りをする人のために1日に何回も行きます。この日は８回くらい出発しました。一番最初の4時半の船に乗りました。",
+    "annotations": [
+      {
+        "surface": "午前4時",
+        "reading": "ごぜんよじ",
+        "type": "unknown"
+      },
+      {
+        "surface": "堤防",
+        "reading": "ていぼう",
+        "type": "unknown"
+      },
+      {
+        "surface": "釣り",
+        "reading": "つり",
+        "type": "unknown"
+      },
+      {
+        "surface": "行く",
+        "reading": "いく",
+        "type": "unknown"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと",
+        "type": "unknown"
+      },
+      {
+        "surface": "港",
+        "reading": "みなと",
+        "type": "unknown"
+      },
+      {
+        "surface": "集まって",
+        "reading": "あつまって",
+        "type": "unknown"
+      },
+      {
+        "surface": "船",
+        "reading": "ふね",
+        "type": "unknown"
+      },
+      {
+        "surface": "堤防",
+        "reading": "ていぼう",
+        "type": "unknown"
+      },
+      {
+        "surface": "釣り",
+        "reading": "つり",
+        "type": "unknown"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと",
+        "type": "unknown"
+      },
+      {
+        "surface": "日",
+        "reading": "にち",
+        "type": "unknown"
+      },
+      {
+        "surface": "何回",
+        "reading": "なんかい",
+        "type": "unknown"
+      },
+      {
+        "surface": "行きます",
+        "reading": "いきます",
+        "type": "unknown"
+      },
+      {
+        "surface": "日",
+        "reading": "ひ",
+        "type": "unknown"
+      },
+      {
+        "surface": "回くらい",
+        "reading": "かいくらい",
+        "type": "unknown"
+      },
+      {
+        "surface": "出発しました",
+        "reading": "しゅっぱつしました",
+        "type": "unknown"
+      },
+      {
+        "surface": "一番最初",
+        "reading": "いちばんさいしょ",
+        "type": "unknown"
+      },
+      {
+        "surface": "4時半",
+        "reading": "よじはん",
+        "type": "unknown"
+      },
+      {
+        "surface": "船",
+        "reading": "ふね",
+        "type": "unknown"
+      },
+      {
+        "surface": "乗りました",
+        "reading": "のりました",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 3,
+    "source": "hirogaru",
+    "text": "試合は二人でします。でも、二人は戦いません。型を見せて、どちらが美しいか、迫力があるか、審判が決めます。体が大きい人と小さい人、若い人と年をとった人、そして男性と女性が試合をすることもあります。ほかの武道と違っていて、おもしろいですね。",
+    "annotations": [
+      {
+        "surface": "試合",
+        "reading": "しあい",
+        "type": "unknown"
+      },
+      {
+        "surface": "二人",
+        "reading": "ふたり",
+        "type": "unknown"
+      },
+      {
+        "surface": "二人",
+        "reading": "ふたり",
+        "type": "unknown"
+      },
+      {
+        "surface": "戦いません",
+        "reading": "たたかいません",
+        "type": "unknown"
+      },
+      {
+        "surface": "型",
+        "reading": "かた",
+        "type": "unknown"
+      },
+      {
+        "surface": "見せて",
+        "reading": "みせて",
+        "type": "unknown"
+      },
+      {
+        "surface": "美しい",
+        "reading": "うつくしい",
+        "type": "unknown"
+      },
+      {
+        "surface": "迫力",
+        "reading": "はくりょく",
+        "type": "unknown"
+      },
+      {
+        "surface": "審判",
+        "reading": "しんぱん",
+        "type": "unknown"
+      },
+      {
+        "surface": "決めます",
+        "reading": "きめます",
+        "type": "unknown"
+      },
+      {
+        "surface": "体",
+        "reading": "からだ",
+        "type": "unknown"
+      },
+      {
+        "surface": "大きい",
+        "reading": "おおきい",
+        "type": "unknown"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと",
+        "type": "unknown"
+      },
+      {
+        "surface": "小さい",
+        "reading": "ちいさい",
+        "type": "unknown"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと",
+        "type": "unknown"
+      },
+      {
+        "surface": "若い",
+        "reading": "わかい",
+        "type": "unknown"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと",
+        "type": "unknown"
+      },
+      {
+        "surface": "年",
+        "reading": "とし",
+        "type": "unknown"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと",
+        "type": "unknown"
+      },
+      {
+        "surface": "男性",
+        "reading": "だんせい",
+        "type": "unknown"
+      },
+      {
+        "surface": "女性",
+        "reading": "じょせい",
+        "type": "unknown"
+      },
+      {
+        "surface": "試合",
+        "reading": "しあい",
+        "type": "unknown"
+      },
+      {
+        "surface": "武道",
+        "reading": "ぶどう",
+        "type": "unknown"
+      },
+      {
+        "surface": "違っていて",
+        "reading": "ちがっていて",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 4,
+    "source": "hirogaru",
+    "text": "先生の話です。「私は、練習のとき墨汁を使いますが、作品を書くとき墨を使います。墨は時間がかかりますから、「早く書きたい」という気持ちになります。でも、長い時間、墨をすると、気持ちがとても落ち着きます。作品を書くために集中もできます。準備に時間を使って、集中して書くことは、とても大切です。」",
+    "annotations": [
+      {
+        "surface": "先生",
+        "reading": "せんせい",
+        "type": "unknown"
+      },
+      {
+        "surface": "話",
+        "reading": "はなし",
+        "type": "unknown"
+      },
+      {
+        "surface": "私",
+        "reading": "わたし",
+        "type": "unknown"
+      },
+      {
+        "surface": "練習",
+        "reading": "れんしゅう",
+        "type": "unknown"
+      },
+      {
+        "surface": "墨汁",
+        "reading": "ぼくじゅう",
+        "type": "unknown"
+      },
+      {
+        "surface": "使います",
+        "reading": "つかいます",
+        "type": "unknown"
+      },
+      {
+        "surface": "作品",
+        "reading": "さくひん",
+        "type": "unknown"
+      },
+      {
+        "surface": "書く",
+        "reading": "かく",
+        "type": "unknown"
+      },
+      {
+        "surface": "墨",
+        "reading": "すみ",
+        "type": "unknown"
+      },
+      {
+        "surface": "使います",
+        "reading": "つかいます",
+        "type": "unknown"
+      },
+      {
+        "surface": "墨",
+        "reading": "すみ",
+        "type": "unknown"
+      },
+      {
+        "surface": "時間",
+        "reading": "じかん",
+        "type": "unknown"
+      },
+      {
+        "surface": "早く",
+        "reading": "はやく",
+        "type": "unknown"
+      },
+      {
+        "surface": "書きたい",
+        "reading": "かきたい",
+        "type": "unknown"
+      },
+      {
+        "surface": "気持ち",
+        "reading": "きもち",
+        "type": "unknown"
+      },
+      {
+        "surface": "長い",
+        "reading": "ながい",
+        "type": "unknown"
+      },
+      {
+        "surface": "時間",
+        "reading": "じかん",
+        "type": "unknown"
+      },
+      {
+        "surface": "墨",
+        "reading": "すみ",
+        "type": "unknown"
+      },
+      {
+        "surface": "気持ち",
+        "reading": "きもち",
+        "type": "unknown"
+      },
+      {
+        "surface": "落ち",
+        "reading": "おち",
+        "type": "unknown"
+      },
+      {
+        "surface": "着きます",
+        "reading": "つきます",
+        "type": "unknown"
+      },
+      {
+        "surface": "作品",
+        "reading": "さくひん",
+        "type": "unknown"
+      },
+      {
+        "surface": "書く",
+        "reading": "かく",
+        "type": "unknown"
+      },
+      {
+        "surface": "集中",
+        "reading": "しゅうちゅう",
+        "type": "unknown"
+      },
+      {
+        "surface": "準備",
+        "reading": "じゅんび",
+        "type": "unknown"
+      },
+      {
+        "surface": "時間",
+        "reading": "じかん",
+        "type": "unknown"
+      },
+      {
+        "surface": "使って",
+        "reading": "つかって",
+        "type": "unknown"
+      },
+      {
+        "surface": "集中して",
+        "reading": "しゅうちゅうして",
+        "type": "unknown"
+      },
+      {
+        "surface": "書く",
+        "reading": "かく",
+        "type": "unknown"
+      },
+      {
+        "surface": "大切",
+        "reading": "たいせつ",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 5,
+    "source": "hirogaru",
+    "text": "普通の本屋で、本の値段は決まっていますが、ここでは自分で考えて値段を決めます。それが面白いです。売れなかったら安くします。自分で商売をしている気持ちになります。",
+    "annotations": [
+      {
+        "surface": "普通",
+        "reading": "ふつう",
+        "type": "unknown"
+      },
+      {
+        "surface": "本屋",
+        "reading": "ほんや",
+        "type": "unknown"
+      },
+      {
+        "surface": "本",
+        "reading": "ほん",
+        "type": "unknown"
+      },
+      {
+        "surface": "値段",
+        "reading": "ねだん",
+        "type": "unknown"
+      },
+      {
+        "surface": "決まって",
+        "reading": "きまって",
+        "type": "unknown"
+      },
+      {
+        "surface": "自分",
+        "reading": "じぶん",
+        "type": "unknown"
+      },
+      {
+        "surface": "考えて",
+        "reading": "かんがえて",
+        "type": "unknown"
+      },
+      {
+        "surface": "値段",
+        "reading": "ねだん",
+        "type": "unknown"
+      },
+      {
+        "surface": "決めます",
+        "reading": "きめます",
+        "type": "unknown"
+      },
+      {
+        "surface": "面白い",
+        "reading": "おもしろい",
+        "type": "unknown"
+      },
+      {
+        "surface": "売れなかった",
+        "reading": "うれなかった",
+        "type": "unknown"
+      },
+      {
+        "surface": "安くします",
+        "reading": "やすくします",
+        "type": "unknown"
+      },
+      {
+        "surface": "自分",
+        "reading": "じぶん",
+        "type": "unknown"
+      },
+      {
+        "surface": "商売",
+        "reading": "しょうばい",
+        "type": "unknown"
+      },
+      {
+        "surface": "気持ち",
+        "reading": "きもち",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 6,
+    "source": "hirogaru",
+    "text": "書道のSNSグループに参加しています。毎日ひとりが、書くことばを決めます。みんなは、そのことばを書いてSNSに写真をアップします。この日は「祝う」という字を書きました。いろいろな書が集まりました。どの書が好きですか。",
+    "annotations": [
+      {
+        "surface": "書道",
+        "reading": "しょどう",
+        "type": "unknown"
+      },
+      {
+        "surface": "参加して",
+        "reading": "さんかして",
+        "type": "unknown"
+      },
+      {
+        "surface": "毎日",
+        "reading": "まいにち",
+        "type": "unknown"
+      },
+      {
+        "surface": "書く",
+        "reading": "かく",
+        "type": "unknown"
+      },
+      {
+        "surface": "決めます",
+        "reading": "きめます",
+        "type": "unknown"
+      },
+      {
+        "surface": "書いて",
+        "reading": "かいて",
+        "type": "unknown"
+      },
+      {
+        "surface": "写真",
+        "reading": "しゃしん",
+        "type": "unknown"
+      },
+      {
+        "surface": "日",
+        "reading": "ひ",
+        "type": "unknown"
+      },
+      {
+        "surface": "祝う",
+        "reading": "いわう",
+        "type": "unknown"
+      },
+      {
+        "surface": "字",
+        "reading": "じ",
+        "type": "unknown"
+      },
+      {
+        "surface": "書きました",
+        "reading": "かきました",
+        "type": "unknown"
+      },
+      {
+        "surface": "書",
+        "reading": "しょ",
+        "type": "unknown"
+      },
+      {
+        "surface": "集まりました",
+        "reading": "あつまりました",
+        "type": "unknown"
+      },
+      {
+        "surface": "書",
+        "reading": "しょ",
+        "type": "unknown"
+      },
+      {
+        "surface": "好き",
+        "reading": "すき",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 7,
+    "source": "hirogaru",
+    "text": "山の近くにある寺に行きました。近くに住んでいる人のための寺ですから、観光客はあまり来ません。",
+    "annotations": [
+      {
+        "surface": "山",
+        "reading": "やま",
+        "type": "unknown"
+      },
+      {
+        "surface": "近く",
+        "reading": "ちかく",
+        "type": "unknown"
+      },
+      {
+        "surface": "寺",
+        "reading": "てら",
+        "type": "unknown"
+      },
+      {
+        "surface": "行きました",
+        "reading": "いきました",
+        "type": "unknown"
+      },
+      {
+        "surface": "近く",
+        "reading": "ちかく",
+        "type": "unknown"
+      },
+      {
+        "surface": "住んで",
+        "reading": "すんで",
+        "type": "unknown"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと",
+        "type": "unknown"
+      },
+      {
+        "surface": "寺",
+        "reading": "てら",
+        "type": "unknown"
+      },
+      {
+        "surface": "観光客",
+        "reading": "かんこうきゃく",
+        "type": "unknown"
+      },
+      {
+        "surface": "来ません",
+        "reading": "きません",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 8,
+    "source": "hirogaru",
+    "text": "上には、木星や土星がありました。小さく地球も見えます。地球からの距離と、星の大きさを表しています。",
+    "annotations": [
+      {
+        "surface": "上",
+        "reading": "うえ",
+        "type": "unknown"
+      },
+      {
+        "surface": "木星",
+        "reading": "もくせい",
+        "type": "unknown"
+      },
+      {
+        "surface": "土星",
+        "reading": "どせい",
+        "type": "unknown"
+      },
+      {
+        "surface": "小さく",
+        "reading": "ちいさく",
+        "type": "unknown"
+      },
+      {
+        "surface": "地球",
+        "reading": "ちきゅう",
+        "type": "unknown"
+      },
+      {
+        "surface": "見えます",
+        "reading": "みえます",
+        "type": "unknown"
+      },
+      {
+        "surface": "地球",
+        "reading": "ちきゅう",
+        "type": "unknown"
+      },
+      {
+        "surface": "距離",
+        "reading": "きょり",
+        "type": "unknown"
+      },
+      {
+        "surface": "星",
+        "reading": "ほし",
+        "type": "unknown"
+      },
+      {
+        "surface": "大きさ",
+        "reading": "おおきさ",
+        "type": "unknown"
+      },
+      {
+        "surface": "表して",
+        "reading": "あらわして",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 9,
+    "source": "hirogaru",
+    "text": "ここは、中古の本を売っている店です。いろいろな人がここへ来て、読み終わった本を売ります。そして、店はその本を売ります。",
+    "annotations": [
+      {
+        "surface": "中古",
+        "reading": "ちゅうこ",
+        "type": "unknown"
+      },
+      {
+        "surface": "本",
+        "reading": "ほん",
+        "type": "unknown"
+      },
+      {
+        "surface": "売って",
+        "reading": "うって",
+        "type": "unknown"
+      },
+      {
+        "surface": "店",
+        "reading": "みせ",
+        "type": "unknown"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと",
+        "type": "unknown"
+      },
+      {
+        "surface": "来て",
+        "reading": "きて",
+        "type": "unknown"
+      },
+      {
+        "surface": "読み",
+        "reading": "よみ",
+        "type": "unknown"
+      },
+      {
+        "surface": "終わった",
+        "reading": "おわった",
+        "type": "unknown"
+      },
+      {
+        "surface": "本",
+        "reading": "ほん",
+        "type": "unknown"
+      },
+      {
+        "surface": "売ります",
+        "reading": "うります",
+        "type": "unknown"
+      },
+      {
+        "surface": "店",
+        "reading": "みせ",
+        "type": "unknown"
+      },
+      {
+        "surface": "本",
+        "reading": "ほん",
+        "type": "unknown"
+      },
+      {
+        "surface": "売ります",
+        "reading": "うります",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 10,
+    "source": "hirogaru",
+    "text": "和太鼓の演奏を見ました。このグループは、13年前から活動しています。",
+    "annotations": [
+      {
+        "surface": "和太鼓",
+        "reading": "わだいこ",
+        "type": "unknown"
+      },
+      {
+        "surface": "演奏",
+        "reading": "えんそう",
+        "type": "unknown"
+      },
+      {
+        "surface": "見ました",
+        "reading": "みました",
+        "type": "unknown"
+      },
+      {
+        "surface": "年",
+        "reading": "ねん",
+        "type": "unknown"
+      },
+      {
+        "surface": "前",
+        "reading": "まえ",
+        "type": "unknown"
+      },
+      {
+        "surface": "活動して",
+        "reading": "かつどうして",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 11,
+    "source": "hirogaru",
+    "text": "大きい岩は砂浜の上にあって、自然の力を感じます。それで神社を作ったのかもしれません。",
+    "annotations": [
+      {
+        "surface": "大きい",
+        "reading": "おおきい",
+        "type": "unknown"
+      },
+      {
+        "surface": "岩",
+        "reading": "いわ",
+        "type": "unknown"
+      },
+      {
+        "surface": "砂浜",
+        "reading": "すなはま",
+        "type": "unknown"
+      },
+      {
+        "surface": "上",
+        "reading": "うえ",
+        "type": "unknown"
+      },
+      {
+        "surface": "自然",
+        "reading": "しぜん",
+        "type": "unknown"
+      },
+      {
+        "surface": "力",
+        "reading": "ちから",
+        "type": "unknown"
+      },
+      {
+        "surface": "感じます",
+        "reading": "かんじます",
+        "type": "unknown"
+      },
+      {
+        "surface": "神社",
+        "reading": "じんじゃ",
+        "type": "unknown"
+      },
+      {
+        "surface": "作った",
+        "reading": "つくった",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 12,
+    "source": "hirogaru",
+    "text": "鎖は、全部で200メートル以上あります。下を見ると怖くなりますから、下は見ないほうがいいです。",
+    "annotations": [
+      {
+        "surface": "鎖",
+        "reading": "くさり",
+        "type": "unknown"
+      },
+      {
+        "surface": "全部",
+        "reading": "ぜんぶ",
+        "type": "unknown"
+      },
+      {
+        "surface": "以上あります",
+        "reading": "いじょうあります",
+        "type": "unknown"
+      },
+      {
+        "surface": "下",
+        "reading": "した",
+        "type": "unknown"
+      },
+      {
+        "surface": "見る",
+        "reading": "みる",
+        "type": "unknown"
+      },
+      {
+        "surface": "怖くなります",
+        "reading": "こわくなります",
+        "type": "unknown"
+      },
+      {
+        "surface": "下",
+        "reading": "した",
+        "type": "unknown"
+      },
+      {
+        "surface": "見ない",
+        "reading": "みない",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 13,
+    "source": "hirogaru",
+    "text": "会社の近くにスーパーがあるので、ときどき昼休みにお弁当を買いに行きます。スーパーでは、たくさんのお弁当を売っています。",
+    "annotations": [
+      {
+        "surface": "会社",
+        "reading": "かいしゃ",
+        "type": "unknown"
+      },
+      {
+        "surface": "近く",
+        "reading": "ちかく",
+        "type": "unknown"
+      },
+      {
+        "surface": "昼休み",
+        "reading": "ひるやすみ",
+        "type": "unknown"
+      },
+      {
+        "surface": "弁当",
+        "reading": "べんとう",
+        "type": "unknown"
+      },
+      {
+        "surface": "買い",
+        "reading": "かい",
+        "type": "unknown"
+      },
+      {
+        "surface": "行きます",
+        "reading": "いきます",
+        "type": "unknown"
+      },
+      {
+        "surface": "弁当",
+        "reading": "べんとう",
+        "type": "unknown"
+      },
+      {
+        "surface": "売って",
+        "reading": "うって",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 14,
+    "source": "hirogaru",
+    "text": "でも、古い道場もあります。ここは、お城の中にある道場です。左の建物が道場で、右にお城が見えます。",
+    "annotations": [
+      {
+        "surface": "道場",
+        "reading": "どうじょう",
+        "type": "unknown"
+      },
+      {
+        "surface": "城",
+        "reading": "しろ",
+        "type": "unknown"
+      },
+      {
+        "surface": "中",
+        "reading": "なか",
+        "type": "unknown"
+      },
+      {
+        "surface": "道場",
+        "reading": "どうじょう",
+        "type": "unknown"
+      },
+      {
+        "surface": "左",
+        "reading": "ひだり",
+        "type": "unknown"
+      },
+      {
+        "surface": "建物",
+        "reading": "たてもの",
+        "type": "unknown"
+      },
+      {
+        "surface": "道場",
+        "reading": "どうじょう",
+        "type": "unknown"
+      },
+      {
+        "surface": "右",
+        "reading": "みぎ",
+        "type": "unknown"
+      },
+      {
+        "surface": "城",
+        "reading": "しろ",
+        "type": "unknown"
+      },
+      {
+        "surface": "見えます",
+        "reading": "みえます",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 15,
+    "source": "hirogaru",
+    "text": "七五三は11月に行くことが多いです。着物を着る人もたくさんいます。この日はいい天気でした。",
+    "annotations": [
+      {
+        "surface": "七五三",
+        "reading": "しちごさん",
+        "type": "unknown"
+      },
+      {
+        "surface": "月",
+        "reading": "がつ",
+        "type": "unknown"
+      },
+      {
+        "surface": "行く",
+        "reading": "いく",
+        "type": "unknown"
+      },
+      {
+        "surface": "多い",
+        "reading": "おおい",
+        "type": "unknown"
+      },
+      {
+        "surface": "着物",
+        "reading": "きもの",
+        "type": "unknown"
+      },
+      {
+        "surface": "着る",
+        "reading": "きる",
+        "type": "unknown"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと",
+        "type": "unknown"
+      },
+      {
+        "surface": "日",
+        "reading": "ひ",
+        "type": "unknown"
+      },
+      {
+        "surface": "天気",
+        "reading": "てんき",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 16,
+    "source": "hirogaru",
+    "text": "Q笛をどこで知りましたか。きっかけを教えてください。",
+    "annotations": [
+      {
+        "surface": "笛",
+        "reading": "ふえ",
+        "type": "unknown"
+      },
+      {
+        "surface": "知りましたか",
+        "reading": "しりましたか",
+        "type": "unknown"
+      },
+      {
+        "surface": "教えて",
+        "reading": "おしえて",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 17,
+    "source": "hirogaru",
+    "text": "服を作る人もいますが、私はインターネットの専門の店で買っています。着なくなった服は、友達にあげたり、売ったりします。",
+    "annotations": [
+      {
+        "surface": "服",
+        "reading": "ふく",
+        "type": "unknown"
+      },
+      {
+        "surface": "作る",
+        "reading": "つくる",
+        "type": "unknown"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと",
+        "type": "unknown"
+      },
+      {
+        "surface": "私",
+        "reading": "わたし",
+        "type": "unknown"
+      },
+      {
+        "surface": "専門",
+        "reading": "せんもん",
+        "type": "unknown"
+      },
+      {
+        "surface": "店",
+        "reading": "みせ",
+        "type": "unknown"
+      },
+      {
+        "surface": "買って",
+        "reading": "かって",
+        "type": "unknown"
+      },
+      {
+        "surface": "着",
+        "reading": "き",
+        "type": "unknown"
+      },
+      {
+        "surface": "服",
+        "reading": "ふく",
+        "type": "unknown"
+      },
+      {
+        "surface": "友達",
+        "reading": "ともだち",
+        "type": "unknown"
+      },
+      {
+        "surface": "売った",
+        "reading": "うった",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 18,
+    "source": "hirogaru",
+    "text": "京都の夕方の空です。少し暗くなって、この後、夜景になりました。",
+    "annotations": [
+      {
+        "surface": "京都",
+        "reading": "きょうと",
+        "type": "unknown"
+      },
+      {
+        "surface": "夕方",
+        "reading": "ゆうがた",
+        "type": "unknown"
+      },
+      {
+        "surface": "空",
+        "reading": "そら",
+        "type": "unknown"
+      },
+      {
+        "surface": "少し",
+        "reading": "すこし",
+        "type": "unknown"
+      },
+      {
+        "surface": "暗くなって",
+        "reading": "くらくなって",
+        "type": "unknown"
+      },
+      {
+        "surface": "後",
+        "reading": "あと",
+        "type": "unknown"
+      },
+      {
+        "surface": "夜景",
+        "reading": "やけい",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 19,
+    "source": "hirogaru",
+    "text": "一瞬でも好きなキャラクターになれることです。コスプレをして撮った写真を見ているときは、とても幸せです。",
+    "annotations": [
+      {
+        "surface": "一瞬",
+        "reading": "いっしゅん",
+        "type": "unknown"
+      },
+      {
+        "surface": "好きな",
+        "reading": "すきな",
+        "type": "unknown"
+      },
+      {
+        "surface": "撮った",
+        "reading": "とった",
+        "type": "unknown"
+      },
+      {
+        "surface": "写真",
+        "reading": "しゃしん",
+        "type": "unknown"
+      },
+      {
+        "surface": "見て",
+        "reading": "みて",
+        "type": "unknown"
+      },
+      {
+        "surface": "幸せ",
+        "reading": "しあわせ",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 20,
+    "source": "hirogaru",
+    "text": "Q. どうしてウクレレの店を作りましたか。",
+    "annotations": [
+      {
+        "surface": "店",
+        "reading": "みせ",
+        "type": "unknown"
+      },
+      {
+        "surface": "作りましたか",
+        "reading": "つくりましたか",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 21,
+    "source": "kahoku",
+    "text": "東北野生動物保護管理センター（自然の中で生きる動物を研究している所）の小野田泰士さんは「台原森林公園は広いので、カモシカが住むこともできます。",
+    "annotations": [
+      {
+        "surface": "東北",
+        "reading": "とうほく",
+        "type": "unknown"
+      },
+      {
+        "surface": "野生",
+        "reading": "やせい",
+        "type": "unknown"
+      },
+      {
+        "surface": "動物",
+        "reading": "どうぶつ",
+        "type": "unknown"
+      },
+      {
+        "surface": "保護",
+        "reading": "ほご",
+        "type": "unknown"
+      },
+      {
+        "surface": "管理",
+        "reading": "かんり",
+        "type": "unknown"
+      },
+      {
+        "surface": "自然",
+        "reading": "しぜん",
+        "type": "unknown"
+      },
+      {
+        "surface": "中",
+        "reading": "なか",
+        "type": "unknown"
+      },
+      {
+        "surface": "生きる",
+        "reading": "いきる",
+        "type": "unknown"
+      },
+      {
+        "surface": "動物",
+        "reading": "どうぶつ",
+        "type": "unknown"
+      },
+      {
+        "surface": "研究して",
+        "reading": "けんきゅうして",
+        "type": "unknown"
+      },
+      {
+        "surface": "所",
+        "reading": "ところ",
+        "type": "unknown"
+      },
+      {
+        "surface": "小野田",
+        "reading": "おのだ",
+        "type": "unknown"
+      },
+      {
+        "surface": "泰士",
+        "reading": "たいじ",
+        "type": "unknown"
+      },
+      {
+        "surface": "台原森林",
+        "reading": "だいのはらしんりん",
+        "type": "unknown"
+      },
+      {
+        "surface": "公園",
+        "reading": "こうえん",
+        "type": "unknown"
+      },
+      {
+        "surface": "広い",
+        "reading": "ひろい",
+        "type": "unknown"
+      },
+      {
+        "surface": "住む",
+        "reading": "すむ",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 22,
+    "source": "kahoku",
+    "text": "隣りの涌谷町から来た古川黎明中学校２年生、富樫優愛さん（１３歳）は「親も食べたいと言っていたので買いに来ました。",
+    "annotations": [
+      {
+        "surface": "隣り",
+        "reading": "となり",
+        "type": "unknown"
+      },
+      {
+        "surface": "涌谷町",
+        "reading": "わくやちょう",
+        "type": "unknown"
+      },
+      {
+        "surface": "来た",
+        "reading": "きた",
+        "type": "unknown"
+      },
+      {
+        "surface": "古川黎明中学校",
+        "reading": "ふるかわれいめいちゅうがっこう",
+        "type": "unknown"
+      },
+      {
+        "surface": "年生",
+        "reading": "ねんせい",
+        "type": "unknown"
+      },
+      {
+        "surface": "富樫",
+        "reading": "とがし",
+        "type": "unknown"
+      },
+      {
+        "surface": "優愛",
+        "reading": "ゆあ",
+        "type": "unknown"
+      },
+      {
+        "surface": "歳",
+        "reading": "さい",
+        "type": "unknown"
+      },
+      {
+        "surface": "親",
+        "reading": "おや",
+        "type": "unknown"
+      },
+      {
+        "surface": "食べたい",
+        "reading": "たべたい",
+        "type": "unknown"
+      },
+      {
+        "surface": "言って",
+        "reading": "いって",
+        "type": "unknown"
+      },
+      {
+        "surface": "買い",
+        "reading": "かい",
+        "type": "unknown"
+      },
+      {
+        "surface": "来ました",
+        "reading": "きました",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 23,
+    "source": "kahoku",
+    "text": "ここで４月、国の特別天然記念物（国が決めて特に大切に守っている珍しいもの）のニホンカモシカが、何度も見られています。",
+    "annotations": [
+      {
+        "surface": "月",
+        "reading": "がつ",
+        "type": "unknown"
+      },
+      {
+        "surface": "国",
+        "reading": "くに",
+        "type": "unknown"
+      },
+      {
+        "surface": "特別",
+        "reading": "とくべつ",
+        "type": "unknown"
+      },
+      {
+        "surface": "天然",
+        "reading": "てんねん",
+        "type": "unknown"
+      },
+      {
+        "surface": "記念物",
+        "reading": "きねんぶつ",
+        "type": "unknown"
+      },
+      {
+        "surface": "国",
+        "reading": "くに",
+        "type": "unknown"
+      },
+      {
+        "surface": "決めて",
+        "reading": "きめて",
+        "type": "unknown"
+      },
+      {
+        "surface": "特",
+        "reading": "とく",
+        "type": "unknown"
+      },
+      {
+        "surface": "大切",
+        "reading": "たいせつ",
+        "type": "unknown"
+      },
+      {
+        "surface": "守って",
+        "reading": "まもって",
+        "type": "unknown"
+      },
+      {
+        "surface": "珍しい",
+        "reading": "めずらしい",
+        "type": "unknown"
+      },
+      {
+        "surface": "何度",
+        "reading": "なんど",
+        "type": "unknown"
+      },
+      {
+        "surface": "見られて",
+        "reading": "みられて",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 24,
+    "source": "kahoku",
+    "text": "また、実習生たちは、日本語教室で練習した曲「もしもピアノが弾けたなら」も歌いました。",
+    "annotations": [
+      {
+        "surface": "実習",
+        "reading": "じっしゅう",
+        "type": "unknown"
+      },
+      {
+        "surface": "生",
+        "reading": "せい",
+        "type": "unknown"
+      },
+      {
+        "surface": "日本語",
+        "reading": "にほんご",
+        "type": "unknown"
+      },
+      {
+        "surface": "教室",
+        "reading": "きょうしつ",
+        "type": "unknown"
+      },
+      {
+        "surface": "練習した",
+        "reading": "れんしゅうした",
+        "type": "unknown"
+      },
+      {
+        "surface": "曲",
+        "reading": "きょく",
+        "type": "unknown"
+      },
+      {
+        "surface": "弾けたなら",
+        "reading": "ひけたなら",
+        "type": "unknown"
+      },
+      {
+        "surface": "歌いました",
+        "reading": "うたいました",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 25,
+    "source": "kahoku",
+    "text": "太白区金剛沢コミュニティ・センターの健康マージャン教室に１０年間、毎週通いました。",
+    "annotations": [
+      {
+        "surface": "太白区",
+        "reading": "たいはくく",
+        "type": "unknown"
+      },
+      {
+        "surface": "金剛沢",
+        "reading": "こんごうざわ",
+        "type": "unknown"
+      },
+      {
+        "surface": "健康",
+        "reading": "けんこう",
+        "type": "unknown"
+      },
+      {
+        "surface": "教室",
+        "reading": "きょうしつ",
+        "type": "unknown"
+      },
+      {
+        "surface": "年",
+        "reading": "ねん",
+        "type": "unknown"
+      },
+      {
+        "surface": "間",
+        "reading": "かん",
+        "type": "unknown"
+      },
+      {
+        "surface": "毎週",
+        "reading": "まいしゅう",
+        "type": "unknown"
+      },
+      {
+        "surface": "通いました",
+        "reading": "かよいました",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 26,
+    "source": "kahoku",
+    "text": "神様のために踊った小学校６年生の佐藤実織さん（１１歳）は「自然が好きなので、神社へ来るととても気持ちが良くなります。",
+    "annotations": [
+      {
+        "surface": "神様",
+        "reading": "かみさま",
+        "type": "unknown"
+      },
+      {
+        "surface": "踊った",
+        "reading": "おどった",
+        "type": "unknown"
+      },
+      {
+        "surface": "小学校",
+        "reading": "しょうがっこう",
+        "type": "unknown"
+      },
+      {
+        "surface": "年生",
+        "reading": "ねんせい",
+        "type": "unknown"
+      },
+      {
+        "surface": "佐藤",
+        "reading": "さとう",
+        "type": "unknown"
+      },
+      {
+        "surface": "実",
+        "reading": "み",
+        "type": "unknown"
+      },
+      {
+        "surface": "織",
+        "reading": "おり",
+        "type": "unknown"
+      },
+      {
+        "surface": "歳",
+        "reading": "さい",
+        "type": "unknown"
+      },
+      {
+        "surface": "自然",
+        "reading": "しぜん",
+        "type": "unknown"
+      },
+      {
+        "surface": "好きな",
+        "reading": "すきな",
+        "type": "unknown"
+      },
+      {
+        "surface": "神社",
+        "reading": "じんじゃ",
+        "type": "unknown"
+      },
+      {
+        "surface": "来る",
+        "reading": "くる",
+        "type": "unknown"
+      },
+      {
+        "surface": "気持ち",
+        "reading": "きもち",
+        "type": "unknown"
+      },
+      {
+        "surface": "良くなります",
+        "reading": "よくなります",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 27,
+    "source": "kahoku",
+    "text": "仙台市青葉区の台原森林公園は、広くて緑が多い公園です。",
+    "annotations": [
+      {
+        "surface": "仙台市",
+        "reading": "せんだいし",
+        "type": "unknown"
+      },
+      {
+        "surface": "青葉区",
+        "reading": "あおばく",
+        "type": "unknown"
+      },
+      {
+        "surface": "台原森林",
+        "reading": "だいのはらしんりん",
+        "type": "unknown"
+      },
+      {
+        "surface": "公園",
+        "reading": "こうえん",
+        "type": "unknown"
+      },
+      {
+        "surface": "広くて",
+        "reading": "ひろくて",
+        "type": "unknown"
+      },
+      {
+        "surface": "緑",
+        "reading": "みどり",
+        "type": "unknown"
+      },
+      {
+        "surface": "多い",
+        "reading": "おおい",
+        "type": "unknown"
+      },
+      {
+        "surface": "公園",
+        "reading": "こうえん",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 28,
+    "source": "kahoku",
+    "text": "高校２年生の阿部日夏さんは「ブルーベリーで有名な富谷市のことを知ってほしかったです。",
+    "annotations": [
+      {
+        "surface": "高校",
+        "reading": "こうこう",
+        "type": "unknown"
+      },
+      {
+        "surface": "年生",
+        "reading": "ねんせい",
+        "type": "unknown"
+      },
+      {
+        "surface": "阿部日夏",
+        "reading": "あべひなつ",
+        "type": "unknown"
+      },
+      {
+        "surface": "有名な",
+        "reading": "ゆうめいな",
+        "type": "unknown"
+      },
+      {
+        "surface": "富谷市のこ",
+        "reading": "とみやしのこ",
+        "type": "unknown"
+      },
+      {
+        "surface": "知って",
+        "reading": "しって",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 29,
+    "source": "kahoku",
+    "text": "それで、八木山動物公園と大森山動物園は話をして、雌のアフリカゾウを取り換えてみることにしました。",
+    "annotations": [
+      {
+        "surface": "八木山",
+        "reading": "やぎやま",
+        "type": "unknown"
+      },
+      {
+        "surface": "動物公園",
+        "reading": "どうぶつこうえん",
+        "type": "unknown"
+      },
+      {
+        "surface": "大森山",
+        "reading": "おおもりやま",
+        "type": "unknown"
+      },
+      {
+        "surface": "動物",
+        "reading": "どうぶつ",
+        "type": "unknown"
+      },
+      {
+        "surface": "園",
+        "reading": "えん",
+        "type": "unknown"
+      },
+      {
+        "surface": "話",
+        "reading": "はなし",
+        "type": "unknown"
+      },
+      {
+        "surface": "雌",
+        "reading": "めす",
+        "type": "unknown"
+      },
+      {
+        "surface": "取り",
+        "reading": "とり",
+        "type": "unknown"
+      },
+      {
+        "surface": "換えて",
+        "reading": "かえて",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 30,
+    "source": "kahoku",
+    "text": "７月１２日、初めて売った日は２０人ぐらいの人が並びました。",
+    "annotations": [
+      {
+        "surface": "月",
+        "reading": "がつ",
+        "type": "unknown"
+      },
+      {
+        "surface": "日",
+        "reading": "にち",
+        "type": "unknown"
+      },
+      {
+        "surface": "初めて",
+        "reading": "はじめて",
+        "type": "unknown"
+      },
+      {
+        "surface": "売った",
+        "reading": "うった",
+        "type": "unknown"
+      },
+      {
+        "surface": "日",
+        "reading": "ひ",
+        "type": "unknown"
+      },
+      {
+        "surface": "人ぐらい",
+        "reading": "にんぐらい",
+        "type": "unknown"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと",
+        "type": "unknown"
+      },
+      {
+        "surface": "並びました",
+        "reading": "ならびました",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 31,
+    "source": "kahoku",
+    "text": "それで、仙台市の宮城野高校にあげることを決めました。",
+    "annotations": [
+      {
+        "surface": "仙台市",
+        "reading": "せんだいし",
+        "type": "unknown"
+      },
+      {
+        "surface": "宮城野",
+        "reading": "みやぎの",
+        "type": "unknown"
+      },
+      {
+        "surface": "高校",
+        "reading": "こうこう",
+        "type": "unknown"
+      },
+      {
+        "surface": "決めました",
+        "reading": "きめました",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 32,
+    "source": "kahoku",
+    "text": "高校生たちは、ブルーベリーを使って紫色の液体（水のような物）を作りました。",
+    "annotations": [
+      {
+        "surface": "高校生",
+        "reading": "こうこうせい",
+        "type": "unknown"
+      },
+      {
+        "surface": "使って",
+        "reading": "つかって",
+        "type": "unknown"
+      },
+      {
+        "surface": "紫色",
+        "reading": "むらさきいろ",
+        "type": "unknown"
+      },
+      {
+        "surface": "液体",
+        "reading": "えきたい",
+        "type": "unknown"
+      },
+      {
+        "surface": "水",
+        "reading": "みず",
+        "type": "unknown"
+      },
+      {
+        "surface": "物",
+        "reading": "もの",
+        "type": "unknown"
+      },
+      {
+        "surface": "作りました",
+        "reading": "つくりました",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 33,
+    "source": "kahoku",
+    "text": "斎藤正美市長は「新しい大人の皆さんは石巻市を元気にする、とても大切な人たちです」と、あいさつをしました。",
+    "annotations": [
+      {
+        "surface": "斎藤",
+        "reading": "さいとう",
+        "type": "unknown"
+      },
+      {
+        "surface": "正美",
+        "reading": "まさみ",
+        "type": "unknown"
+      },
+      {
+        "surface": "市長",
+        "reading": "しちょう",
+        "type": "unknown"
+      },
+      {
+        "surface": "新しい",
+        "reading": "あたらしい",
+        "type": "unknown"
+      },
+      {
+        "surface": "大人",
+        "reading": "おとな",
+        "type": "unknown"
+      },
+      {
+        "surface": "皆",
+        "reading": "みな",
+        "type": "unknown"
+      },
+      {
+        "surface": "石巻市",
+        "reading": "いしのまきし",
+        "type": "unknown"
+      },
+      {
+        "surface": "元気",
+        "reading": "げんき",
+        "type": "unknown"
+      },
+      {
+        "surface": "大切な",
+        "reading": "たいせつな",
+        "type": "unknown"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 34,
+    "source": "kahoku",
+    "text": "それで、花も大きくなって、きれいに育ちました」と話しました。",
+    "annotations": [
+      {
+        "surface": "花",
+        "reading": "はな",
+        "type": "unknown"
+      },
+      {
+        "surface": "大きく",
+        "reading": "おおきく",
+        "type": "unknown"
+      },
+      {
+        "surface": "育ちました",
+        "reading": "そだちました",
+        "type": "unknown"
+      },
+      {
+        "surface": "話しました",
+        "reading": "はなしました",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 35,
+    "source": "kahoku",
+    "text": "授業には、富谷小学校の３年生５８人が参加しました。",
+    "annotations": [
+      {
+        "surface": "授業",
+        "reading": "じゅぎょう",
+        "type": "unknown"
+      },
+      {
+        "surface": "富谷",
+        "reading": "とみや",
+        "type": "unknown"
+      },
+      {
+        "surface": "小学校",
+        "reading": "しょうがっこう",
+        "type": "unknown"
+      },
+      {
+        "surface": "年生",
+        "reading": "ねんせい",
+        "type": "unknown"
+      },
+      {
+        "surface": "人",
+        "reading": "にん",
+        "type": "unknown"
+      },
+      {
+        "surface": "参加しました",
+        "reading": "さんかしました",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 36,
+    "source": "kahoku",
+    "text": "１１月１０日には、２０人くらいの人たちがアメリカザリガニとウシガエルを使った料理を食べました。",
+    "annotations": [
+      {
+        "surface": "月",
+        "reading": "がつ",
+        "type": "unknown"
+      },
+      {
+        "surface": "日",
+        "reading": "か",
+        "type": "unknown"
+      },
+      {
+        "surface": "人くらい",
+        "reading": "にんくらい",
+        "type": "unknown"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと",
+        "type": "unknown"
+      },
+      {
+        "surface": "使った",
+        "reading": "つかった",
+        "type": "unknown"
+      },
+      {
+        "surface": "料理",
+        "reading": "りょうり",
+        "type": "unknown"
+      },
+      {
+        "surface": "食べました",
+        "reading": "たべました",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 37,
+    "source": "kahoku",
+    "text": "木村さんは、１８年前、名古屋の大学に通うために、名古屋市に引っ越ししました。",
+    "annotations": [
+      {
+        "surface": "木村",
+        "reading": "きむら",
+        "type": "unknown"
+      },
+      {
+        "surface": "年",
+        "reading": "ねん",
+        "type": "unknown"
+      },
+      {
+        "surface": "前",
+        "reading": "まえ",
+        "type": "unknown"
+      },
+      {
+        "surface": "名古屋",
+        "reading": "なごや",
+        "type": "unknown"
+      },
+      {
+        "surface": "大学",
+        "reading": "だいがく",
+        "type": "unknown"
+      },
+      {
+        "surface": "通う",
+        "reading": "かよう",
+        "type": "unknown"
+      },
+      {
+        "surface": "名古屋市",
+        "reading": "なごやし",
+        "type": "unknown"
+      },
+      {
+        "surface": "引っ",
+        "reading": "ひっ",
+        "type": "unknown"
+      },
+      {
+        "surface": "越",
+        "reading": "こ",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 38,
+    "source": "kahoku",
+    "text": "生徒の親たちは、卒業する３年生のためにプレゼントをしようと思いました。",
+    "annotations": [
+      {
+        "surface": "生徒",
+        "reading": "せいと",
+        "type": "unknown"
+      },
+      {
+        "surface": "親",
+        "reading": "おや",
+        "type": "unknown"
+      },
+      {
+        "surface": "卒業する",
+        "reading": "そつぎょうする",
+        "type": "unknown"
+      },
+      {
+        "surface": "年生",
+        "reading": "ねんせい",
+        "type": "unknown"
+      },
+      {
+        "surface": "思いました",
+        "reading": "おもいました",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 39,
+    "source": "kahoku",
+    "text": "山形県朝日町には、空気を神様にした「空気神社」があります。",
+    "annotations": [
+      {
+        "surface": "山形県",
+        "reading": "やまがたけん",
+        "type": "unknown"
+      },
+      {
+        "surface": "朝日町",
+        "reading": "あさひまち",
+        "type": "unknown"
+      },
+      {
+        "surface": "空気",
+        "reading": "くうき",
+        "type": "unknown"
+      },
+      {
+        "surface": "神様",
+        "reading": "かみさま",
+        "type": "unknown"
+      },
+      {
+        "surface": "空気",
+        "reading": "くうき",
+        "type": "unknown"
+      },
+      {
+        "surface": "神社",
+        "reading": "じんじゃ",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 40,
+    "source": "kahoku",
+    "text": "３月２４日には、９０人くらいの人が来ました。",
+    "annotations": [
+      {
+        "surface": "月",
+        "reading": "がつ",
+        "type": "unknown"
+      },
+      {
+        "surface": "２４日",
+        "reading": "にじゅうよっか",
+        "type": "unknown"
+      },
+      {
+        "surface": "人くらい",
+        "reading": "にんくらい",
+        "type": "unknown"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと",
+        "type": "unknown"
+      },
+      {
+        "surface": "来ました",
+        "reading": "きました",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 41,
+    "source": "nhk",
+    "text": "家族の1人、横田早紀江さんはトランプ大統領に会ったあと「大統領は拉致の問題をよく考えていると思いました。大統領が北朝鮮のトップに会ったら、必ずこの問題のことを話してほしいです」と話しました。",
+    "annotations": [
+      {
+        "surface": "家族",
+        "reading": "かぞく",
+        "type": "unknown"
+      },
+      {
+        "surface": "1人",
+        "reading": "ひとり",
+        "type": "unknown"
+      },
+      {
+        "surface": "横田",
+        "reading": "よこた",
+        "type": "unknown"
+      },
+      {
+        "surface": "早紀江",
+        "reading": "さきえ",
+        "type": "unknown"
+      },
+      {
+        "surface": "大統領",
+        "reading": "だいとうりょう",
+        "type": "unknown"
+      },
+      {
+        "surface": "会った",
+        "reading": "あった",
+        "type": "unknown"
+      },
+      {
+        "surface": "大統領",
+        "reading": "だいとうりょう",
+        "type": "unknown"
+      },
+      {
+        "surface": "拉致",
+        "reading": "らち",
+        "type": "unknown"
+      },
+      {
+        "surface": "問題",
+        "reading": "もんだい",
+        "type": "unknown"
+      },
+      {
+        "surface": "考えて",
+        "reading": "かんがえて",
+        "type": "unknown"
+      },
+      {
+        "surface": "思いました",
+        "reading": "おもいました",
+        "type": "unknown"
+      },
+      {
+        "surface": "大統領",
+        "reading": "だいとうりょう",
+        "type": "unknown"
+      },
+      {
+        "surface": "北朝鮮",
+        "reading": "きたちょうせん",
+        "type": "unknown"
+      },
+      {
+        "surface": "会った",
+        "reading": "あった",
+        "type": "unknown"
+      },
+      {
+        "surface": "必ず",
+        "reading": "かならず",
+        "type": "unknown"
+      },
+      {
+        "surface": "問題のこ",
+        "reading": "もんだいのこ",
+        "type": "unknown"
+      },
+      {
+        "surface": "話して",
+        "reading": "はなして",
+        "type": "unknown"
+      },
+      {
+        "surface": "話しました",
+        "reading": "はなしました",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 42,
+    "source": "nhk",
+    "text": "永井さんは、石川県輪島市の出身で、漫画「マジンガーＺ」などで有名です。ことし4月、永井さんは地震で被害のあった人たちを助けたいと考えて、オークションに絵を出しました。200人以上の漫画家も一緒に絵を出しました。このオークションで1億2300万円が集まりました。",
+    "annotations": [
+      {
+        "surface": "永井",
+        "reading": "ながい",
+        "type": "unknown"
+      },
+      {
+        "surface": "石川県",
+        "reading": "いしかわけん",
+        "type": "unknown"
+      },
+      {
+        "surface": "輪島市",
+        "reading": "わじまし",
+        "type": "unknown"
+      },
+      {
+        "surface": "出身",
+        "reading": "しゅっしん",
+        "type": "unknown"
+      },
+      {
+        "surface": "漫画",
+        "reading": "まんが",
+        "type": "unknown"
+      },
+      {
+        "surface": "有名",
+        "reading": "ゆうめい",
+        "type": "unknown"
+      },
+      {
+        "surface": "月",
+        "reading": "がつ",
+        "type": "unknown"
+      },
+      {
+        "surface": "永井",
+        "reading": "ながい",
+        "type": "unknown"
+      },
+      {
+        "surface": "地震",
+        "reading": "じしん",
+        "type": "unknown"
+      },
+      {
+        "surface": "被害",
+        "reading": "ひがい",
+        "type": "unknown"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと",
+        "type": "unknown"
+      },
+      {
+        "surface": "助けたい",
+        "reading": "たすけたい",
+        "type": "unknown"
+      },
+      {
+        "surface": "考えて",
+        "reading": "かんがえて",
+        "type": "unknown"
+      },
+      {
+        "surface": "絵",
+        "reading": "え",
+        "type": "unknown"
+      },
+      {
+        "surface": "出しました",
+        "reading": "だしました",
+        "type": "unknown"
+      },
+      {
+        "surface": "人",
+        "reading": "にん",
+        "type": "unknown"
+      },
+      {
+        "surface": "以上",
+        "reading": "いじょう",
+        "type": "unknown"
+      },
+      {
+        "surface": "漫画家",
+        "reading": "まんがか",
+        "type": "unknown"
+      },
+      {
+        "surface": "一緒",
+        "reading": "いっしょ",
+        "type": "unknown"
+      },
+      {
+        "surface": "絵",
+        "reading": "え",
+        "type": "unknown"
+      },
+      {
+        "surface": "出しました",
+        "reading": "だしました",
+        "type": "unknown"
+      },
+      {
+        "surface": "億",
+        "reading": "おく",
+        "type": "unknown"
+      },
+      {
+        "surface": "万",
+        "reading": "まん",
+        "type": "unknown"
+      },
+      {
+        "surface": "円",
+        "reading": "えん",
+        "type": "unknown"
+      },
+      {
+        "surface": "集まりました",
+        "reading": "あつまりました",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 43,
+    "source": "nhk",
+    "text": "北海道と青森県、岩手県、宮城県、福島県、茨城県、千葉県の182の市や町などに住んでいる人は、これから1週間は地震があったときの準備をチェックしてほしいと言いました。避難場所や逃げるときの荷物をもう一度みてください。",
+    "annotations": [
+      {
+        "surface": "北海道",
+        "reading": "ほっかいどう",
+        "type": "unknown"
+      },
+      {
+        "surface": "青森県",
+        "reading": "あおもりけん",
+        "type": "unknown"
+      },
+      {
+        "surface": "岩手県",
+        "reading": "いわてけん",
+        "type": "unknown"
+      },
+      {
+        "surface": "宮城県",
+        "reading": "みやぎけん",
+        "type": "unknown"
+      },
+      {
+        "surface": "福島県",
+        "reading": "ふくしまけん",
+        "type": "unknown"
+      },
+      {
+        "surface": "茨城県",
+        "reading": "いばらきけん",
+        "type": "unknown"
+      },
+      {
+        "surface": "千葉県",
+        "reading": "ちばけん",
+        "type": "unknown"
+      },
+      {
+        "surface": "市",
+        "reading": "し",
+        "type": "unknown"
+      },
+      {
+        "surface": "町",
+        "reading": "まち",
+        "type": "unknown"
+      },
+      {
+        "surface": "住んで",
+        "reading": "すんで",
+        "type": "unknown"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと",
+        "type": "unknown"
+      },
+      {
+        "surface": "週間",
+        "reading": "しゅうかん",
+        "type": "unknown"
+      },
+      {
+        "surface": "地震",
+        "reading": "じしん",
+        "type": "unknown"
+      },
+      {
+        "surface": "準備",
+        "reading": "じゅんび",
+        "type": "unknown"
+      },
+      {
+        "surface": "言いました",
+        "reading": "いいました",
+        "type": "unknown"
+      },
+      {
+        "surface": "避難",
+        "reading": "ひなん",
+        "type": "unknown"
+      },
+      {
+        "surface": "場所",
+        "reading": "ばしょ",
+        "type": "unknown"
+      },
+      {
+        "surface": "逃げる",
+        "reading": "にげる",
+        "type": "unknown"
+      },
+      {
+        "surface": "荷物",
+        "reading": "にもつ",
+        "type": "unknown"
+      },
+      {
+        "surface": "一度みてく",
+        "reading": "いちどみてく",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 44,
+    "source": "nhk",
+    "text": "沖縄県でビールをつくっている会社の「オリオンビール」が、25日、東京証券取引所で株を上場しました。上場すると、株を売ったり、買ったりすることができます。午前は買いたい人が多くて、値段が決まりませんでした。午後になって決まって、25日の最後の値段は1950円でした。",
+    "annotations": [
+      {
+        "surface": "沖縄県",
+        "reading": "おきなわけん",
+        "type": "unknown"
+      },
+      {
+        "surface": "会社",
+        "reading": "かいしゃ",
+        "type": "unknown"
+      },
+      {
+        "surface": "日",
+        "reading": "にち",
+        "type": "unknown"
+      },
+      {
+        "surface": "東京証券取引所",
+        "reading": "とうきょうしょうけんとりひきじょ",
+        "type": "unknown"
+      },
+      {
+        "surface": "株",
+        "reading": "かぶ",
+        "type": "unknown"
+      },
+      {
+        "surface": "上場しました",
+        "reading": "じょうじょうしました",
+        "type": "unknown"
+      },
+      {
+        "surface": "上場する",
+        "reading": "じょうじょうする",
+        "type": "unknown"
+      },
+      {
+        "surface": "株",
+        "reading": "かぶ",
+        "type": "unknown"
+      },
+      {
+        "surface": "売った",
+        "reading": "うった",
+        "type": "unknown"
+      },
+      {
+        "surface": "買った",
+        "reading": "かった",
+        "type": "unknown"
+      },
+      {
+        "surface": "午前",
+        "reading": "ごぜん",
+        "type": "unknown"
+      },
+      {
+        "surface": "買いたい",
+        "reading": "かいたい",
+        "type": "unknown"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと",
+        "type": "unknown"
+      },
+      {
+        "surface": "多くて",
+        "reading": "おおくて",
+        "type": "unknown"
+      },
+      {
+        "surface": "値段",
+        "reading": "ねだん",
+        "type": "unknown"
+      },
+      {
+        "surface": "決まりませんで",
+        "reading": "きまりませんで",
+        "type": "unknown"
+      },
+      {
+        "surface": "午後",
+        "reading": "ごご",
+        "type": "unknown"
+      },
+      {
+        "surface": "決まって",
+        "reading": "きまって",
+        "type": "unknown"
+      },
+      {
+        "surface": "日",
+        "reading": "にち",
+        "type": "unknown"
+      },
+      {
+        "surface": "最後",
+        "reading": "さいご",
+        "type": "unknown"
+      },
+      {
+        "surface": "値段",
+        "reading": "ねだん",
+        "type": "unknown"
+      },
+      {
+        "surface": "円",
+        "reading": "えん",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 45,
+    "source": "nhk",
+    "text": "社長などは、正しくない調べ方をされたと言って、東京都と国を訴えました。裁判所は、5月、警察と検察は法律に違反していたと言いました。そして、東京都と国が1億6600万円を社長などに払うように命令しました。",
+    "annotations": [
+      {
+        "surface": "社長",
+        "reading": "しゃちょう",
+        "type": "unknown"
+      },
+      {
+        "surface": "正しく",
+        "reading": "ただしく",
+        "type": "unknown"
+      },
+      {
+        "surface": "調べ",
+        "reading": "しらべ",
+        "type": "unknown"
+      },
+      {
+        "surface": "方",
+        "reading": "かた",
+        "type": "unknown"
+      },
+      {
+        "surface": "言って",
+        "reading": "いって",
+        "type": "unknown"
+      },
+      {
+        "surface": "東京都",
+        "reading": "とうきょうと",
+        "type": "unknown"
+      },
+      {
+        "surface": "国",
+        "reading": "くに",
+        "type": "unknown"
+      },
+      {
+        "surface": "訴えました",
+        "reading": "うったえました",
+        "type": "unknown"
+      },
+      {
+        "surface": "裁判所",
+        "reading": "さいばんしょ",
+        "type": "unknown"
+      },
+      {
+        "surface": "月",
+        "reading": "がつ",
+        "type": "unknown"
+      },
+      {
+        "surface": "警察",
+        "reading": "けいさつ",
+        "type": "unknown"
+      },
+      {
+        "surface": "検察",
+        "reading": "けんさつ",
+        "type": "unknown"
+      },
+      {
+        "surface": "法律",
+        "reading": "ほうりつ",
+        "type": "unknown"
+      },
+      {
+        "surface": "違反して",
+        "reading": "いはんして",
+        "type": "unknown"
+      },
+      {
+        "surface": "言いました",
+        "reading": "いいました",
+        "type": "unknown"
+      },
+      {
+        "surface": "東京都",
+        "reading": "とうきょうと",
+        "type": "unknown"
+      },
+      {
+        "surface": "国",
+        "reading": "くに",
+        "type": "unknown"
+      },
+      {
+        "surface": "億",
+        "reading": "おく",
+        "type": "unknown"
+      },
+      {
+        "surface": "万",
+        "reading": "まん",
+        "type": "unknown"
+      },
+      {
+        "surface": "円",
+        "reading": "えん",
+        "type": "unknown"
+      },
+      {
+        "surface": "社長",
+        "reading": "しゃちょう",
+        "type": "unknown"
+      },
+      {
+        "surface": "払う",
+        "reading": "はらう",
+        "type": "unknown"
+      },
+      {
+        "surface": "命令しました",
+        "reading": "めいれいしました",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 46,
+    "source": "nhk",
+    "text": "片岡仁左衛門さんや尾上菊五郎さんなどが旗で飾った船に乗りました。そして、大阪のまちの中の川を2.5kmぐらい進みました。舞台の近くに着くとたくさんの人たちが拍手をして迎えました。",
+    "annotations": [
+      {
+        "surface": "片岡",
+        "reading": "かたおか",
+        "type": "unknown"
+      },
+      {
+        "surface": "仁左衛門",
+        "reading": "にざえもん",
+        "type": "unknown"
+      },
+      {
+        "surface": "尾上",
+        "reading": "おのえ",
+        "type": "unknown"
+      },
+      {
+        "surface": "菊五郎",
+        "reading": "きくごろう",
+        "type": "unknown"
+      },
+      {
+        "surface": "旗",
+        "reading": "はた",
+        "type": "unknown"
+      },
+      {
+        "surface": "飾った",
+        "reading": "かざった",
+        "type": "unknown"
+      },
+      {
+        "surface": "船",
+        "reading": "ふね",
+        "type": "unknown"
+      },
+      {
+        "surface": "乗りました",
+        "reading": "のりました",
+        "type": "unknown"
+      },
+      {
+        "surface": "大阪のまち",
+        "reading": "おおさかのまち",
+        "type": "unknown"
+      },
+      {
+        "surface": "中",
+        "reading": "なか",
+        "type": "unknown"
+      },
+      {
+        "surface": "川",
+        "reading": "かわ",
+        "type": "unknown"
+      },
+      {
+        "surface": "進みました",
+        "reading": "すすみました",
+        "type": "unknown"
+      },
+      {
+        "surface": "舞台",
+        "reading": "ぶたい",
+        "type": "unknown"
+      },
+      {
+        "surface": "近く",
+        "reading": "ちかく",
+        "type": "unknown"
+      },
+      {
+        "surface": "着く",
+        "reading": "つく",
+        "type": "unknown"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと",
+        "type": "unknown"
+      },
+      {
+        "surface": "拍手",
+        "reading": "はくしゅ",
+        "type": "unknown"
+      },
+      {
+        "surface": "迎えました",
+        "reading": "むかえました",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 47,
+    "source": "nhk",
+    "text": "今年4月からアメリカが関税を上げたので自動車の輸出が減りました。住宅への投資も大きく減りました。",
+    "annotations": [
+      {
+        "surface": "今年",
+        "reading": "ことし",
+        "type": "unknown"
+      },
+      {
+        "surface": "月",
+        "reading": "がつ",
+        "type": "unknown"
+      },
+      {
+        "surface": "関税",
+        "reading": "かんぜい",
+        "type": "unknown"
+      },
+      {
+        "surface": "上げた",
+        "reading": "あげた",
+        "type": "unknown"
+      },
+      {
+        "surface": "自動車",
+        "reading": "じどうしゃ",
+        "type": "unknown"
+      },
+      {
+        "surface": "輸出",
+        "reading": "ゆしゅつ",
+        "type": "unknown"
+      },
+      {
+        "surface": "減りました",
+        "reading": "へりました",
+        "type": "unknown"
+      },
+      {
+        "surface": "住宅",
+        "reading": "じゅうたく",
+        "type": "unknown"
+      },
+      {
+        "surface": "投資",
+        "reading": "とうし",
+        "type": "unknown"
+      },
+      {
+        "surface": "大きく",
+        "reading": "おおきく",
+        "type": "unknown"
+      },
+      {
+        "surface": "減りました",
+        "reading": "へりました",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 48,
+    "source": "nhk",
+    "text": "有名な野球選手だった松井秀喜さんが、去年大きい地震があった石川県の能登地方で、ことし9月に「野球教室」を開きます。",
+    "annotations": [
+      {
+        "surface": "有名な",
+        "reading": "ゆうめいな",
+        "type": "unknown"
+      },
+      {
+        "surface": "野球",
+        "reading": "やきゅう",
+        "type": "unknown"
+      },
+      {
+        "surface": "選手だった",
+        "reading": "せんしゅだった",
+        "type": "unknown"
+      },
+      {
+        "surface": "松井",
+        "reading": "まつい",
+        "type": "unknown"
+      },
+      {
+        "surface": "秀喜",
+        "reading": "ひでき",
+        "type": "unknown"
+      },
+      {
+        "surface": "去年",
+        "reading": "きょねん",
+        "type": "unknown"
+      },
+      {
+        "surface": "大きい",
+        "reading": "おおきい",
+        "type": "unknown"
+      },
+      {
+        "surface": "地震",
+        "reading": "じしん",
+        "type": "unknown"
+      },
+      {
+        "surface": "石川県",
+        "reading": "いしかわけん",
+        "type": "unknown"
+      },
+      {
+        "surface": "能登地方",
+        "reading": "のとちほう",
+        "type": "unknown"
+      },
+      {
+        "surface": "月",
+        "reading": "がつ",
+        "type": "unknown"
+      },
+      {
+        "surface": "野球",
+        "reading": "やきゅう",
+        "type": "unknown"
+      },
+      {
+        "surface": "教室",
+        "reading": "きょうしつ",
+        "type": "unknown"
+      },
+      {
+        "surface": "開きます",
+        "reading": "ひらきます",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 49,
+    "source": "nhk",
+    "text": "今年の4月、神奈川県川崎市で20歳の女性が、殺されているのが見つかりました。前につき合っていた男の家で見つかりました。",
+    "annotations": [
+      {
+        "surface": "今年",
+        "reading": "ことし",
+        "type": "unknown"
+      },
+      {
+        "surface": "月",
+        "reading": "がつ",
+        "type": "unknown"
+      },
+      {
+        "surface": "神奈川県川崎市",
+        "reading": "かながわけんかわさきし",
+        "type": "unknown"
+      },
+      {
+        "surface": "女性",
+        "reading": "じょせい",
+        "type": "unknown"
+      },
+      {
+        "surface": "殺されて",
+        "reading": "ころされて",
+        "type": "unknown"
+      },
+      {
+        "surface": "見つかりました",
+        "reading": "みつかりました",
+        "type": "unknown"
+      },
+      {
+        "surface": "前",
+        "reading": "まえ",
+        "type": "unknown"
+      },
+      {
+        "surface": "合って",
+        "reading": "あって",
+        "type": "unknown"
+      },
+      {
+        "surface": "男",
+        "reading": "おとこ",
+        "type": "unknown"
+      },
+      {
+        "surface": "家",
+        "reading": "いえ",
+        "type": "unknown"
+      },
+      {
+        "surface": "見つかりました",
+        "reading": "みつかりました",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 50,
+    "source": "nhk",
+    "text": "フランスの政府によると、19日の午前、犯人は美術館の2階の窓から入りました。そして宝石などを盗んで逃げました。",
+    "annotations": [
+      {
+        "surface": "政府",
+        "reading": "せいふ",
+        "type": "unknown"
+      },
+      {
+        "surface": "日",
+        "reading": "にち",
+        "type": "unknown"
+      },
+      {
+        "surface": "午前",
+        "reading": "ごぜん",
+        "type": "unknown"
+      },
+      {
+        "surface": "犯人",
+        "reading": "はんにん",
+        "type": "unknown"
+      },
+      {
+        "surface": "美術館",
+        "reading": "びじゅつかん",
+        "type": "unknown"
+      },
+      {
+        "surface": "階",
+        "reading": "かい",
+        "type": "unknown"
+      },
+      {
+        "surface": "窓",
+        "reading": "まど",
+        "type": "unknown"
+      },
+      {
+        "surface": "入りました",
+        "reading": "はいりました",
+        "type": "unknown"
+      },
+      {
+        "surface": "宝石",
+        "reading": "ほうせき",
+        "type": "unknown"
+      },
+      {
+        "surface": "盗んで",
+        "reading": "ぬすんで",
+        "type": "unknown"
+      },
+      {
+        "surface": "逃げました",
+        "reading": "にげました",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 51,
+    "source": "nhk",
+    "text": "とても強い台風22号は9日、伊豆諸島の東の海を進みました。伊豆諸島からだんだん離れています。",
+    "annotations": [
+      {
+        "surface": "強い",
+        "reading": "つよい",
+        "type": "unknown"
+      },
+      {
+        "surface": "台風",
+        "reading": "たいふう",
+        "type": "unknown"
+      },
+      {
+        "surface": "号",
+        "reading": "ごう",
+        "type": "unknown"
+      },
+      {
+        "surface": "9日",
+        "reading": "ここのか",
+        "type": "unknown"
+      },
+      {
+        "surface": "伊豆諸島",
+        "reading": "いずしょとう",
+        "type": "unknown"
+      },
+      {
+        "surface": "東",
+        "reading": "ひがし",
+        "type": "unknown"
+      },
+      {
+        "surface": "海",
+        "reading": "うみ",
+        "type": "unknown"
+      },
+      {
+        "surface": "進みました",
+        "reading": "すすみました",
+        "type": "unknown"
+      },
+      {
+        "surface": "伊豆諸島",
+        "reading": "いずしょとう",
+        "type": "unknown"
+      },
+      {
+        "surface": "離れて",
+        "reading": "はなれて",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 52,
+    "source": "nhk",
+    "text": "気象庁は、8日のような大きい地震のあとは、もっと大きいマグニチュード8以上の地震が起こることがあると言いました。",
+    "annotations": [
+      {
+        "surface": "気象庁",
+        "reading": "きしょうちょう",
+        "type": "unknown"
+      },
+      {
+        "surface": "8日",
+        "reading": "ようか",
+        "type": "unknown"
+      },
+      {
+        "surface": "大きい",
+        "reading": "おおきい",
+        "type": "unknown"
+      },
+      {
+        "surface": "地震",
+        "reading": "じしん",
+        "type": "unknown"
+      },
+      {
+        "surface": "大きい",
+        "reading": "おおきい",
+        "type": "unknown"
+      },
+      {
+        "surface": "以上",
+        "reading": "いじょう",
+        "type": "unknown"
+      },
+      {
+        "surface": "地震",
+        "reading": "じしん",
+        "type": "unknown"
+      },
+      {
+        "surface": "起こる",
+        "reading": "おこる",
+        "type": "unknown"
+      },
+      {
+        "surface": "言いました",
+        "reading": "いいました",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 53,
+    "source": "nhk",
+    "text": "解散すると、衆議院の新しい議員を選ぶ選挙があります。与党は、投票する日を2月8日と考えています。",
+    "annotations": [
+      {
+        "surface": "解散する",
+        "reading": "かいさんする",
+        "type": "unknown"
+      },
+      {
+        "surface": "衆議院",
+        "reading": "しゅうぎいん",
+        "type": "unknown"
+      },
+      {
+        "surface": "新しい",
+        "reading": "あたらしい",
+        "type": "unknown"
+      },
+      {
+        "surface": "議員",
+        "reading": "ぎいん",
+        "type": "unknown"
+      },
+      {
+        "surface": "選ぶ",
+        "reading": "えらぶ",
+        "type": "unknown"
+      },
+      {
+        "surface": "選挙",
+        "reading": "せんきょ",
+        "type": "unknown"
+      },
+      {
+        "surface": "与党",
+        "reading": "よとう",
+        "type": "unknown"
+      },
+      {
+        "surface": "投票する",
+        "reading": "とうひょうする",
+        "type": "unknown"
+      },
+      {
+        "surface": "日",
+        "reading": "ひ",
+        "type": "unknown"
+      },
+      {
+        "surface": "月",
+        "reading": "がつ",
+        "type": "unknown"
+      },
+      {
+        "surface": "8日",
+        "reading": "ようか",
+        "type": "unknown"
+      },
+      {
+        "surface": "考えて",
+        "reading": "かんがえて",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 54,
+    "source": "nhk",
+    "text": "東京の北区で、ペットと一緒に避難する方法を勉強する会がありました。近くに住む20人ぐらいがペットと集まりました。",
+    "annotations": [
+      {
+        "surface": "東京",
+        "reading": "とうきょう",
+        "type": "unknown"
+      },
+      {
+        "surface": "北区",
+        "reading": "きたく",
+        "type": "unknown"
+      },
+      {
+        "surface": "一緒",
+        "reading": "いっしょ",
+        "type": "unknown"
+      },
+      {
+        "surface": "避難する",
+        "reading": "ひなんする",
+        "type": "unknown"
+      },
+      {
+        "surface": "方法",
+        "reading": "ほうほう",
+        "type": "unknown"
+      },
+      {
+        "surface": "勉強する",
+        "reading": "べんきょうする",
+        "type": "unknown"
+      },
+      {
+        "surface": "会",
+        "reading": "かい",
+        "type": "unknown"
+      },
+      {
+        "surface": "近く",
+        "reading": "ちかく",
+        "type": "unknown"
+      },
+      {
+        "surface": "住む",
+        "reading": "すむ",
+        "type": "unknown"
+      },
+      {
+        "surface": "人ぐらい",
+        "reading": "にんぐらい",
+        "type": "unknown"
+      },
+      {
+        "surface": "集まりました",
+        "reading": "あつまりました",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 55,
+    "source": "nhk",
+    "text": "国土交通省は、全日空と日本航空に、同じタイプの飛行機をしっかりチェックするように言いました。",
+    "annotations": [
+      {
+        "surface": "国土交通省",
+        "reading": "こくどこうつうしょう",
+        "type": "unknown"
+      },
+      {
+        "surface": "全日空",
+        "reading": "ぜんにっくう",
+        "type": "unknown"
+      },
+      {
+        "surface": "日本航空",
+        "reading": "にほんこうくう",
+        "type": "unknown"
+      },
+      {
+        "surface": "同じ",
+        "reading": "おなじ",
+        "type": "unknown"
+      },
+      {
+        "surface": "飛行機",
+        "reading": "ひこうき",
+        "type": "unknown"
+      },
+      {
+        "surface": "言いました",
+        "reading": "いいました",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 56,
+    "source": "nhk",
+    "text": "漫画家の永井豪さんたちが、11日、能登半島地震で被害のあった石川県に1億2300万円を贈りました。",
+    "annotations": [
+      {
+        "surface": "漫画家",
+        "reading": "まんがか",
+        "type": "unknown"
+      },
+      {
+        "surface": "永井",
+        "reading": "ながい",
+        "type": "unknown"
+      },
+      {
+        "surface": "豪",
+        "reading": "ごう",
+        "type": "unknown"
+      },
+      {
+        "surface": "日",
+        "reading": "にち",
+        "type": "unknown"
+      },
+      {
+        "surface": "能登半島地震",
+        "reading": "のとはんとうじしん",
+        "type": "unknown"
+      },
+      {
+        "surface": "被害",
+        "reading": "ひがい",
+        "type": "unknown"
+      },
+      {
+        "surface": "石川県",
+        "reading": "いしかわけん",
+        "type": "unknown"
+      },
+      {
+        "surface": "億",
+        "reading": "おく",
+        "type": "unknown"
+      },
+      {
+        "surface": "万",
+        "reading": "まん",
+        "type": "unknown"
+      },
+      {
+        "surface": "円",
+        "reading": "えん",
+        "type": "unknown"
+      },
+      {
+        "surface": "贈りました",
+        "reading": "おくりました",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 57,
+    "source": "nhk",
+    "text": "アメリカの軍は3日、南米のベネズエラのマドゥーロ大統領と妻の2人を捕まえました。",
+    "annotations": [
+      {
+        "surface": "軍",
+        "reading": "ぐん",
+        "type": "unknown"
+      },
+      {
+        "surface": "3日",
+        "reading": "みっか",
+        "type": "unknown"
+      },
+      {
+        "surface": "南米",
+        "reading": "なんべい",
+        "type": "unknown"
+      },
+      {
+        "surface": "大統領",
+        "reading": "だいとうりょう",
+        "type": "unknown"
+      },
+      {
+        "surface": "妻",
+        "reading": "つま",
+        "type": "unknown"
+      },
+      {
+        "surface": "2人",
+        "reading": "ふたり",
+        "type": "unknown"
+      },
+      {
+        "surface": "捕まえました",
+        "reading": "つかまえました",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 58,
+    "source": "nhk",
+    "text": "票の数が同じになった場合は、くじを引きます。これは法律で決まっています。くじの結果、新しく選挙に出た人に決まりました。",
+    "annotations": [
+      {
+        "surface": "票",
+        "reading": "ひょう",
+        "type": "unknown"
+      },
+      {
+        "surface": "数",
+        "reading": "かず",
+        "type": "unknown"
+      },
+      {
+        "surface": "同じ",
+        "reading": "おなじ",
+        "type": "unknown"
+      },
+      {
+        "surface": "場合",
+        "reading": "ばあい",
+        "type": "unknown"
+      },
+      {
+        "surface": "引きます",
+        "reading": "ひきます",
+        "type": "unknown"
+      },
+      {
+        "surface": "法律",
+        "reading": "ほうりつ",
+        "type": "unknown"
+      },
+      {
+        "surface": "決まって",
+        "reading": "きまって",
+        "type": "unknown"
+      },
+      {
+        "surface": "結果",
+        "reading": "けっか",
+        "type": "unknown"
+      },
+      {
+        "surface": "新しく",
+        "reading": "あたらしく",
+        "type": "unknown"
+      },
+      {
+        "surface": "選挙",
+        "reading": "せんきょ",
+        "type": "unknown"
+      },
+      {
+        "surface": "出た",
+        "reading": "でた",
+        "type": "unknown"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと",
+        "type": "unknown"
+      },
+      {
+        "surface": "決まりました",
+        "reading": "きまりました",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 59,
+    "source": "nhk",
+    "text": "尾崎さんは体が大きくて、ボールを打つと遠くまで飛びました。みんなが「ジャンボ尾崎」と呼びました。",
+    "annotations": [
+      {
+        "surface": "尾崎",
+        "reading": "おざき",
+        "type": "unknown"
+      },
+      {
+        "surface": "体",
+        "reading": "からだ",
+        "type": "unknown"
+      },
+      {
+        "surface": "大きくて",
+        "reading": "おおきくて",
+        "type": "unknown"
+      },
+      {
+        "surface": "打つ",
+        "reading": "うつ",
+        "type": "unknown"
+      },
+      {
+        "surface": "遠く",
+        "reading": "とおく",
+        "type": "unknown"
+      },
+      {
+        "surface": "飛びました",
+        "reading": "とびました",
+        "type": "unknown"
+      },
+      {
+        "surface": "尾崎",
+        "reading": "おざき",
+        "type": "unknown"
+      },
+      {
+        "surface": "呼びました",
+        "reading": "よびました",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 60,
+    "source": "nhk",
+    "text": "大学の留学生と大学院の修士課程の留学生は、1年の授業料が90万円になります。日本の学生の1.7倍です。",
+    "annotations": [
+      {
+        "surface": "大学",
+        "reading": "だいがく",
+        "type": "unknown"
+      },
+      {
+        "surface": "留学生",
+        "reading": "りゅうがくせい",
+        "type": "unknown"
+      },
+      {
+        "surface": "大学院",
+        "reading": "だいがくいん",
+        "type": "unknown"
+      },
+      {
+        "surface": "修士課程",
+        "reading": "しゅうしかてい",
+        "type": "unknown"
+      },
+      {
+        "surface": "留学生",
+        "reading": "りゅうがくせい",
+        "type": "unknown"
+      },
+      {
+        "surface": "年",
+        "reading": "ねん",
+        "type": "unknown"
+      },
+      {
+        "surface": "授業",
+        "reading": "じゅぎょう",
+        "type": "unknown"
+      },
+      {
+        "surface": "料",
+        "reading": "りょう",
+        "type": "unknown"
+      },
+      {
+        "surface": "万",
+        "reading": "まん",
+        "type": "unknown"
+      },
+      {
+        "surface": "円",
+        "reading": "えん",
+        "type": "unknown"
+      },
+      {
+        "surface": "日本",
+        "reading": "にっぽん",
+        "type": "unknown"
+      },
+      {
+        "surface": "学生",
+        "reading": "がくせい",
+        "type": "unknown"
+      },
+      {
+        "surface": "倍",
+        "reading": "ばい",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 61,
+    "source": "ud_gsd",
+    "text": "しかし、1995年の時点で高校生だった主人公、辰木桂はまだ神戸に引っ越す前で阪神・淡路大震災を直接経験していないという設定のため、作中での震災の話は、桂が被害の爪痕を見ることか、直接体験した桂の友人、金城和歌子とその恋人、林浩の2人が中心となって体験談を語る形で描かれている。",
+    "annotations": [
+      {
+        "surface": "年",
+        "reading": "ねん",
+        "type": "unknown"
+      },
+      {
+        "surface": "時点",
+        "reading": "じてん",
+        "type": "unknown"
+      },
+      {
+        "surface": "高校",
+        "reading": "こうこう",
+        "type": "unknown"
+      },
+      {
+        "surface": "生だった",
+        "reading": "せいだった",
+        "type": "unknown"
+      },
+      {
+        "surface": "主人",
+        "reading": "しゅじん",
+        "type": "unknown"
+      },
+      {
+        "surface": "公",
+        "reading": "こう",
+        "type": "unknown"
+      },
+      {
+        "surface": "辰木",
+        "reading": "たつき",
+        "type": "unknown"
+      },
+      {
+        "surface": "桂",
+        "reading": "かつら",
+        "type": "unknown"
+      },
+      {
+        "surface": "神戸",
+        "reading": "こうべ",
+        "type": "unknown"
+      },
+      {
+        "surface": "引っ越す",
+        "reading": "ひっこす",
+        "type": "unknown"
+      },
+      {
+        "surface": "前",
+        "reading": "まえ",
+        "type": "unknown"
+      },
+      {
+        "surface": "阪神",
+        "reading": "はんしん",
+        "type": "unknown"
+      },
+      {
+        "surface": "淡路",
+        "reading": "あわじ",
+        "type": "unknown"
+      },
+      {
+        "surface": "大",
+        "reading": "だい",
+        "type": "unknown"
+      },
+      {
+        "surface": "震災",
+        "reading": "しんさい",
+        "type": "unknown"
+      },
+      {
+        "surface": "直接",
+        "reading": "ちょくせつ",
+        "type": "unknown"
+      },
+      {
+        "surface": "経験して",
+        "reading": "けいけんして",
+        "type": "unknown"
+      },
+      {
+        "surface": "設定",
+        "reading": "せってい",
+        "type": "unknown"
+      },
+      {
+        "surface": "作中",
+        "reading": "さくちゅう",
+        "type": "unknown"
+      },
+      {
+        "surface": "震災",
+        "reading": "しんさい",
+        "type": "unknown"
+      },
+      {
+        "surface": "話",
+        "reading": "はなし",
+        "type": "unknown"
+      },
+      {
+        "surface": "桂",
+        "reading": "かつら",
+        "type": "unknown"
+      },
+      {
+        "surface": "被害",
+        "reading": "ひがい",
+        "type": "unknown"
+      },
+      {
+        "surface": "爪痕",
+        "reading": "つめあと",
+        "type": "unknown"
+      },
+      {
+        "surface": "見る",
+        "reading": "みる",
+        "type": "unknown"
+      },
+      {
+        "surface": "直接",
+        "reading": "ちょくせつ",
+        "type": "unknown"
+      },
+      {
+        "surface": "体験した",
+        "reading": "たいけんした",
+        "type": "unknown"
+      },
+      {
+        "surface": "桂",
+        "reading": "かつら",
+        "type": "unknown"
+      },
+      {
+        "surface": "友人",
+        "reading": "ゆうじん",
+        "type": "unknown"
+      },
+      {
+        "surface": "金城",
+        "reading": "かなぎ",
+        "type": "unknown"
+      },
+      {
+        "surface": "和歌子",
+        "reading": "わかこ",
+        "type": "unknown"
+      },
+      {
+        "surface": "恋人",
+        "reading": "こいびと",
+        "type": "unknown"
+      },
+      {
+        "surface": "林浩",
+        "reading": "りんはお",
+        "type": "unknown"
+      },
+      {
+        "surface": "2人",
+        "reading": "ふたり",
+        "type": "unknown"
+      },
+      {
+        "surface": "中心",
+        "reading": "ちゅうしん",
+        "type": "unknown"
+      },
+      {
+        "surface": "体験",
+        "reading": "たいけん",
+        "type": "unknown"
+      },
+      {
+        "surface": "談",
+        "reading": "だん",
+        "type": "unknown"
+      },
+      {
+        "surface": "語る",
+        "reading": "かたる",
+        "type": "unknown"
+      },
+      {
+        "surface": "形",
+        "reading": "かたち",
+        "type": "unknown"
+      },
+      {
+        "surface": "描",
+        "reading": "えが",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 62,
+    "source": "ud_gsd",
+    "text": "また同小説では藍染になすりつけられた罪は、元柳斎の尽力もあって藍染の謀略が認められたことから鉄裁・夜一の罪状共々取り消しとなったこと、商店も尸魂界公認となった上、破面篇で喜助の存在が広く知れ渡った為、現世駐在任務の死神が多数訪れるように手が足りなくなりつつある程忙しくなっていることが語られている。",
+    "annotations": [
+      {
+        "surface": "同",
+        "reading": "どう",
+        "type": "unknown"
+      },
+      {
+        "surface": "小説",
+        "reading": "しょうせつ",
+        "type": "unknown"
+      },
+      {
+        "surface": "藍染",
+        "reading": "あいぜん",
+        "type": "unknown"
+      },
+      {
+        "surface": "罪",
+        "reading": "つみ",
+        "type": "unknown"
+      },
+      {
+        "surface": "元柳斎",
+        "reading": "げんりゅうさい",
+        "type": "unknown"
+      },
+      {
+        "surface": "尽力",
+        "reading": "じんりょく",
+        "type": "unknown"
+      },
+      {
+        "surface": "藍染",
+        "reading": "あいぜん",
+        "type": "unknown"
+      },
+      {
+        "surface": "謀略",
+        "reading": "ぼうりゃく",
+        "type": "unknown"
+      },
+      {
+        "surface": "認められた",
+        "reading": "みとめられた",
+        "type": "unknown"
+      },
+      {
+        "surface": "鉄裁",
+        "reading": "てっさい",
+        "type": "unknown"
+      },
+      {
+        "surface": "夜一",
+        "reading": "よるいち",
+        "type": "unknown"
+      },
+      {
+        "surface": "罪状",
+        "reading": "ざいじょう",
+        "type": "unknown"
+      },
+      {
+        "surface": "共々",
+        "reading": "ともども",
+        "type": "unknown"
+      },
+      {
+        "surface": "取り消",
+        "reading": "とりけ",
+        "type": "unknown"
+      },
+      {
+        "surface": "商店",
+        "reading": "しょうてん",
+        "type": "unknown"
+      },
+      {
+        "surface": "尸魂",
+        "reading": "そうる",
+        "type": "unknown"
+      },
+      {
+        "surface": "界",
+        "reading": "そさえてぃ",
+        "type": "unknown"
+      },
+      {
+        "surface": "公認",
+        "reading": "こうにん",
+        "type": "unknown"
+      },
+      {
+        "surface": "上",
+        "reading": "うえ",
+        "type": "unknown"
+      },
+      {
+        "surface": "破面",
+        "reading": "はめん",
+        "type": "unknown"
+      },
+      {
+        "surface": "篇",
+        "reading": "へん",
+        "type": "unknown"
+      },
+      {
+        "surface": "喜助",
+        "reading": "きすけ",
+        "type": "unknown"
+      },
+      {
+        "surface": "存在",
+        "reading": "そんざい",
+        "type": "unknown"
+      },
+      {
+        "surface": "広く",
+        "reading": "ひろく",
+        "type": "unknown"
+      },
+      {
+        "surface": "知れ",
+        "reading": "しれ",
+        "type": "unknown"
+      },
+      {
+        "surface": "渡った",
+        "reading": "わたった",
+        "type": "unknown"
+      },
+      {
+        "surface": "為",
+        "reading": "ため",
+        "type": "unknown"
+      },
+      {
+        "surface": "現世",
+        "reading": "げんせ",
+        "type": "unknown"
+      },
+      {
+        "surface": "駐在",
+        "reading": "ちゅうざい",
+        "type": "unknown"
+      },
+      {
+        "surface": "任務",
+        "reading": "にんむ",
+        "type": "unknown"
+      },
+      {
+        "surface": "死神",
+        "reading": "しにがみ",
+        "type": "unknown"
+      },
+      {
+        "surface": "多数",
+        "reading": "たすう",
+        "type": "unknown"
+      },
+      {
+        "surface": "訪れる",
+        "reading": "おとずれる",
+        "type": "unknown"
+      },
+      {
+        "surface": "手",
+        "reading": "て",
+        "type": "unknown"
+      },
+      {
+        "surface": "足り",
+        "reading": "たり",
+        "type": "unknown"
+      },
+      {
+        "surface": "程",
+        "reading": "ほど",
+        "type": "unknown"
+      },
+      {
+        "surface": "忙しく",
+        "reading": "いそがしく",
+        "type": "unknown"
+      },
+      {
+        "surface": "語られて",
+        "reading": "かたられて",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 63,
+    "source": "ud_gsd",
+    "text": "1970年代の末に開発された本形式は、国産の高品質な軽快車に広く採用されたが、近年の自転車の低価格化圧力と、大手自転車部品メーカー、シマノ社の開発した後発製品であるローラーブレーキの普及による挟撃を受ける形となり、安売りされている自転車はバンドブレーキ、他の多くの軽快車ではローラーブレーキに市場を奪われ、新車でサーボブレーキが付く自転車は減少傾向である。",
+    "annotations": [
+      {
+        "surface": "年",
+        "reading": "ねん",
+        "type": "unknown"
+      },
+      {
+        "surface": "代",
+        "reading": "だい",
+        "type": "unknown"
+      },
+      {
+        "surface": "末",
+        "reading": "すえ",
+        "type": "unknown"
+      },
+      {
+        "surface": "開発された",
+        "reading": "かいはつされた",
+        "type": "unknown"
+      },
+      {
+        "surface": "本",
+        "reading": "ほん",
+        "type": "unknown"
+      },
+      {
+        "surface": "形式",
+        "reading": "けいしき",
+        "type": "unknown"
+      },
+      {
+        "surface": "国産",
+        "reading": "こくさん",
+        "type": "unknown"
+      },
+      {
+        "surface": "高",
+        "reading": "こう",
+        "type": "unknown"
+      },
+      {
+        "surface": "品質な",
+        "reading": "ひんしつな",
+        "type": "unknown"
+      },
+      {
+        "surface": "軽快",
+        "reading": "けいかい",
+        "type": "unknown"
+      },
+      {
+        "surface": "車",
+        "reading": "しゃ",
+        "type": "unknown"
+      },
+      {
+        "surface": "広く",
+        "reading": "ひろく",
+        "type": "unknown"
+      },
+      {
+        "surface": "採用された",
+        "reading": "さいようされた",
+        "type": "unknown"
+      },
+      {
+        "surface": "近年",
+        "reading": "きんねん",
+        "type": "unknown"
+      },
+      {
+        "surface": "自転",
+        "reading": "じてん",
+        "type": "unknown"
+      },
+      {
+        "surface": "車",
+        "reading": "しゃ",
+        "type": "unknown"
+      },
+      {
+        "surface": "低",
+        "reading": "てい",
+        "type": "unknown"
+      },
+      {
+        "surface": "価格",
+        "reading": "かかく",
+        "type": "unknown"
+      },
+      {
+        "surface": "化",
+        "reading": "か",
+        "type": "unknown"
+      },
+      {
+        "surface": "圧力",
+        "reading": "あつりょく",
+        "type": "unknown"
+      },
+      {
+        "surface": "大手",
+        "reading": "おおて",
+        "type": "unknown"
+      },
+      {
+        "surface": "自転",
+        "reading": "じてん",
+        "type": "unknown"
+      },
+      {
+        "surface": "車",
+        "reading": "しゃ",
+        "type": "unknown"
+      },
+      {
+        "surface": "部品",
+        "reading": "ぶひん",
+        "type": "unknown"
+      },
+      {
+        "surface": "社",
+        "reading": "しゃ",
+        "type": "unknown"
+      },
+      {
+        "surface": "開発した",
+        "reading": "かいはつした",
+        "type": "unknown"
+      },
+      {
+        "surface": "後発",
+        "reading": "こうはつ",
+        "type": "unknown"
+      },
+      {
+        "surface": "製品",
+        "reading": "せいひん",
+        "type": "unknown"
+      },
+      {
+        "surface": "普及",
+        "reading": "ふきゅう",
+        "type": "unknown"
+      },
+      {
+        "surface": "挟撃",
+        "reading": "きょうげき",
+        "type": "unknown"
+      },
+      {
+        "surface": "受ける",
+        "reading": "うける",
+        "type": "unknown"
+      },
+      {
+        "surface": "形",
+        "reading": "かたち",
+        "type": "unknown"
+      },
+      {
+        "surface": "安売りされて",
+        "reading": "やすうりされて",
+        "type": "unknown"
+      },
+      {
+        "surface": "自転",
+        "reading": "じてん",
+        "type": "unknown"
+      },
+      {
+        "surface": "車",
+        "reading": "しゃ",
+        "type": "unknown"
+      },
+      {
+        "surface": "他",
+        "reading": "ほか",
+        "type": "unknown"
+      },
+      {
+        "surface": "多く",
+        "reading": "おおく",
+        "type": "unknown"
+      },
+      {
+        "surface": "軽快",
+        "reading": "けいかい",
+        "type": "unknown"
+      },
+      {
+        "surface": "車",
+        "reading": "しゃ",
+        "type": "unknown"
+      },
+      {
+        "surface": "市場",
+        "reading": "しじょう",
+        "type": "unknown"
+      },
+      {
+        "surface": "奪われ",
+        "reading": "うばわれ",
+        "type": "unknown"
+      },
+      {
+        "surface": "新車",
+        "reading": "しんしゃ",
+        "type": "unknown"
+      },
+      {
+        "surface": "付く",
+        "reading": "つく",
+        "type": "unknown"
+      },
+      {
+        "surface": "自転",
+        "reading": "じてん",
+        "type": "unknown"
+      },
+      {
+        "surface": "車",
+        "reading": "しゃ",
+        "type": "unknown"
+      },
+      {
+        "surface": "減少",
+        "reading": "げんしょう",
+        "type": "unknown"
+      },
+      {
+        "surface": "傾向",
+        "reading": "けいこう",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 64,
+    "source": "ud_gsd",
+    "text": "佐脇有紀裁判長は,吉田被告について“本件に果たした役割は主導的で積極的”とし,元警察官として“犯行の情状も悪い”としながらも,被告が素直に犯行を認め二度と犯罪を起こさないと反省していることや弁護士会に100万円を寄付したことなどを総合考慮し執行猶予付きの判決となったと述べた。",
+    "annotations": [
+      {
+        "surface": "佐脇",
+        "reading": "さわき",
+        "type": "unknown"
+      },
+      {
+        "surface": "有紀",
+        "reading": "ゆき",
+        "type": "unknown"
+      },
+      {
+        "surface": "裁判",
+        "reading": "さいばん",
+        "type": "unknown"
+      },
+      {
+        "surface": "長",
+        "reading": "ちょう",
+        "type": "unknown"
+      },
+      {
+        "surface": "吉田",
+        "reading": "よしだ",
+        "type": "unknown"
+      },
+      {
+        "surface": "被告",
+        "reading": "ひこく",
+        "type": "unknown"
+      },
+      {
+        "surface": "本件",
+        "reading": "ほんけん",
+        "type": "unknown"
+      },
+      {
+        "surface": "果たした",
+        "reading": "はたした",
+        "type": "unknown"
+      },
+      {
+        "surface": "役割",
+        "reading": "やくわり",
+        "type": "unknown"
+      },
+      {
+        "surface": "主導",
+        "reading": "しゅどう",
+        "type": "unknown"
+      },
+      {
+        "surface": "的",
+        "reading": "てき",
+        "type": "unknown"
+      },
+      {
+        "surface": "積極",
+        "reading": "せっきょく",
+        "type": "unknown"
+      },
+      {
+        "surface": "的",
+        "reading": "てき",
+        "type": "unknown"
+      },
+      {
+        "surface": "元",
+        "reading": "もと",
+        "type": "unknown"
+      },
+      {
+        "surface": "警察",
+        "reading": "けいさつ",
+        "type": "unknown"
+      },
+      {
+        "surface": "官として",
+        "reading": "かんとして",
+        "type": "unknown"
+      },
+      {
+        "surface": "犯行",
+        "reading": "はんこう",
+        "type": "unknown"
+      },
+      {
+        "surface": "情状",
+        "reading": "じょうじょう",
+        "type": "unknown"
+      },
+      {
+        "surface": "悪い",
+        "reading": "わるい",
+        "type": "unknown"
+      },
+      {
+        "surface": "被告",
+        "reading": "ひこく",
+        "type": "unknown"
+      },
+      {
+        "surface": "素直",
+        "reading": "すなお",
+        "type": "unknown"
+      },
+      {
+        "surface": "犯行",
+        "reading": "はんこう",
+        "type": "unknown"
+      },
+      {
+        "surface": "認め",
+        "reading": "みとめ",
+        "type": "unknown"
+      },
+      {
+        "surface": "二",
+        "reading": "に",
+        "type": "unknown"
+      },
+      {
+        "surface": "度",
+        "reading": "ど",
+        "type": "unknown"
+      },
+      {
+        "surface": "犯罪",
+        "reading": "はんざい",
+        "type": "unknown"
+      },
+      {
+        "surface": "起こさな",
+        "reading": "おこさな",
+        "type": "unknown"
+      },
+      {
+        "surface": "反省して",
+        "reading": "はんせいして",
+        "type": "unknown"
+      },
+      {
+        "surface": "弁護",
+        "reading": "べんご",
+        "type": "unknown"
+      },
+      {
+        "surface": "士",
+        "reading": "し",
+        "type": "unknown"
+      },
+      {
+        "surface": "会",
+        "reading": "かい",
+        "type": "unknown"
+      },
+      {
+        "surface": "万",
+        "reading": "まん",
+        "type": "unknown"
+      },
+      {
+        "surface": "円",
+        "reading": "えん",
+        "type": "unknown"
+      },
+      {
+        "surface": "寄付",
+        "reading": "きふ",
+        "type": "unknown"
+      },
+      {
+        "surface": "総合",
+        "reading": "そうごう",
+        "type": "unknown"
+      },
+      {
+        "surface": "考慮し",
+        "reading": "こうりょし",
+        "type": "unknown"
+      },
+      {
+        "surface": "執行",
+        "reading": "しっこう",
+        "type": "unknown"
+      },
+      {
+        "surface": "猶予",
+        "reading": "ゆうよ",
+        "type": "unknown"
+      },
+      {
+        "surface": "付き",
+        "reading": "つき",
+        "type": "unknown"
+      },
+      {
+        "surface": "判決",
+        "reading": "はんけつ",
+        "type": "unknown"
+      },
+      {
+        "surface": "述べた",
+        "reading": "のべた",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 65,
+    "source": "ud_gsd",
+    "text": "このことから、勝負事では引き分けをなるべく避けようとするのが一般的であるが、チェスのステイルメイト、将棋の千日手狙いの戦術、サッカーのリーグ戦における引き分けの勝ち点のように「引き分けも試合結果のひとつ」ととらえる文化も少数ながら存在する。",
+    "annotations": [
+      {
+        "surface": "勝負",
+        "reading": "しょうぶ",
+        "type": "unknown"
+      },
+      {
+        "surface": "事",
+        "reading": "こと",
+        "type": "unknown"
+      },
+      {
+        "surface": "引き分け",
+        "reading": "ひきわけ",
+        "type": "unknown"
+      },
+      {
+        "surface": "避けよう",
+        "reading": "さける",
+        "type": "unknown"
+      },
+      {
+        "surface": "一般",
+        "reading": "いっぱん",
+        "type": "unknown"
+      },
+      {
+        "surface": "的",
+        "reading": "てき",
+        "type": "unknown"
+      },
+      {
+        "surface": "将棋",
+        "reading": "しょうぎ",
+        "type": "unknown"
+      },
+      {
+        "surface": "千日手",
+        "reading": "せんにちて",
+        "type": "unknown"
+      },
+      {
+        "surface": "狙い",
+        "reading": "ねらい",
+        "type": "unknown"
+      },
+      {
+        "surface": "戦術",
+        "reading": "せんじゅつ",
+        "type": "unknown"
+      },
+      {
+        "surface": "戦",
+        "reading": "せん",
+        "type": "unknown"
+      },
+      {
+        "surface": "引き分け",
+        "reading": "ひきわけ",
+        "type": "unknown"
+      },
+      {
+        "surface": "勝ち点",
+        "reading": "かちてん",
+        "type": "unknown"
+      },
+      {
+        "surface": "引き分け",
+        "reading": "ひきわけ",
+        "type": "unknown"
+      },
+      {
+        "surface": "試合",
+        "reading": "しあい",
+        "type": "unknown"
+      },
+      {
+        "surface": "結果",
+        "reading": "けっか",
+        "type": "unknown"
+      },
+      {
+        "surface": "文化",
+        "reading": "ぶんか",
+        "type": "unknown"
+      },
+      {
+        "surface": "少数な",
+        "reading": "しょうすうな",
+        "type": "unknown"
+      },
+      {
+        "surface": "存在する",
+        "reading": "そんざいする",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 66,
+    "source": "ud_gsd",
+    "text": "6日引け後、厚生労働省厚生科学審議会科学技術部会において、東海大学医学部による「軟骨再生シート」に関する臨床研究実施計画を了承する方向性が示され、当該臨床研究の開始が認められる見通しとなったと発表。",
+    "annotations": [
+      {
+        "surface": "日",
+        "reading": "か",
+        "type": "unknown"
+      },
+      {
+        "surface": "引け",
+        "reading": "ひけ",
+        "type": "unknown"
+      },
+      {
+        "surface": "後",
+        "reading": "ご",
+        "type": "unknown"
+      },
+      {
+        "surface": "厚生",
+        "reading": "こうせい",
+        "type": "unknown"
+      },
+      {
+        "surface": "労働",
+        "reading": "ろうどう",
+        "type": "unknown"
+      },
+      {
+        "surface": "省",
+        "reading": "しょう",
+        "type": "unknown"
+      },
+      {
+        "surface": "厚生",
+        "reading": "こうせい",
+        "type": "unknown"
+      },
+      {
+        "surface": "科学",
+        "reading": "かがく",
+        "type": "unknown"
+      },
+      {
+        "surface": "審議",
+        "reading": "しんぎ",
+        "type": "unknown"
+      },
+      {
+        "surface": "会",
+        "reading": "かい",
+        "type": "unknown"
+      },
+      {
+        "surface": "科学",
+        "reading": "かがく",
+        "type": "unknown"
+      },
+      {
+        "surface": "技術",
+        "reading": "ぎじゅつ",
+        "type": "unknown"
+      },
+      {
+        "surface": "部会",
+        "reading": "ぶかい",
+        "type": "unknown"
+      },
+      {
+        "surface": "東海",
+        "reading": "とうかい",
+        "type": "unknown"
+      },
+      {
+        "surface": "大学",
+        "reading": "だいがく",
+        "type": "unknown"
+      },
+      {
+        "surface": "医学",
+        "reading": "いがく",
+        "type": "unknown"
+      },
+      {
+        "surface": "部",
+        "reading": "ぶ",
+        "type": "unknown"
+      },
+      {
+        "surface": "軟骨",
+        "reading": "なんこつ",
+        "type": "unknown"
+      },
+      {
+        "surface": "再生",
+        "reading": "さいせい",
+        "type": "unknown"
+      },
+      {
+        "surface": "関する",
+        "reading": "かんする",
+        "type": "unknown"
+      },
+      {
+        "surface": "臨床",
+        "reading": "りんしょう",
+        "type": "unknown"
+      },
+      {
+        "surface": "研究",
+        "reading": "けんきゅう",
+        "type": "unknown"
+      },
+      {
+        "surface": "実施",
+        "reading": "じっし",
+        "type": "unknown"
+      },
+      {
+        "surface": "計画",
+        "reading": "けいかく",
+        "type": "unknown"
+      },
+      {
+        "surface": "了承する",
+        "reading": "りょうしょうする",
+        "type": "unknown"
+      },
+      {
+        "surface": "方向",
+        "reading": "ほうこう",
+        "type": "unknown"
+      },
+      {
+        "surface": "性",
+        "reading": "せい",
+        "type": "unknown"
+      },
+      {
+        "surface": "示され",
+        "reading": "しめされ",
+        "type": "unknown"
+      },
+      {
+        "surface": "当該",
+        "reading": "とうがい",
+        "type": "unknown"
+      },
+      {
+        "surface": "臨床",
+        "reading": "りんしょう",
+        "type": "unknown"
+      },
+      {
+        "surface": "研究",
+        "reading": "けんきゅう",
+        "type": "unknown"
+      },
+      {
+        "surface": "開始",
+        "reading": "かいし",
+        "type": "unknown"
+      },
+      {
+        "surface": "認められる",
+        "reading": "みとめられる",
+        "type": "unknown"
+      },
+      {
+        "surface": "見通",
+        "reading": "みとお",
+        "type": "unknown"
+      },
+      {
+        "surface": "発表",
+        "reading": "はっぴょう",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 67,
+    "source": "ud_gsd",
+    "text": "少林寺は、二人が帰ってから書物庫の蔵書が盗み見されたことに気付き、事情を調べるために一人の僧、渡元を華山派に派遣した。",
+    "annotations": [
+      {
+        "surface": "少林",
+        "reading": "しょうりん",
+        "type": "unknown"
+      },
+      {
+        "surface": "寺",
+        "reading": "じ",
+        "type": "unknown"
+      },
+      {
+        "surface": "二人",
+        "reading": "ふたり",
+        "type": "unknown"
+      },
+      {
+        "surface": "帰って",
+        "reading": "かえって",
+        "type": "unknown"
+      },
+      {
+        "surface": "書物",
+        "reading": "しょもつ",
+        "type": "unknown"
+      },
+      {
+        "surface": "庫",
+        "reading": "こ",
+        "type": "unknown"
+      },
+      {
+        "surface": "蔵書",
+        "reading": "ぞうしょ",
+        "type": "unknown"
+      },
+      {
+        "surface": "盗み見された",
+        "reading": "ぬすみみされた",
+        "type": "unknown"
+      },
+      {
+        "surface": "気付き",
+        "reading": "きずき",
+        "type": "unknown"
+      },
+      {
+        "surface": "事情",
+        "reading": "じじょう",
+        "type": "unknown"
+      },
+      {
+        "surface": "調べる",
+        "reading": "しらべる",
+        "type": "unknown"
+      },
+      {
+        "surface": "一人",
+        "reading": "ひとり",
+        "type": "unknown"
+      },
+      {
+        "surface": "僧",
+        "reading": "そう",
+        "type": "unknown"
+      },
+      {
+        "surface": "渡元",
+        "reading": "とげん",
+        "type": "unknown"
+      },
+      {
+        "surface": "華山",
+        "reading": "かざん",
+        "type": "unknown"
+      },
+      {
+        "surface": "派",
+        "reading": "は",
+        "type": "unknown"
+      },
+      {
+        "surface": "派遣した",
+        "reading": "はけんした",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 68,
+    "source": "ud_gsd",
+    "text": "用意できない信者は“経済舞台”が組まれ,印鑑や浄水器等を販売し,教会に貢献することが求められていた。",
+    "annotations": [
+      {
+        "surface": "用意できない",
+        "reading": "よういできない",
+        "type": "unknown"
+      },
+      {
+        "surface": "信者",
+        "reading": "しんじゃ",
+        "type": "unknown"
+      },
+      {
+        "surface": "経済",
+        "reading": "けいざい",
+        "type": "unknown"
+      },
+      {
+        "surface": "舞台",
+        "reading": "ぶたい",
+        "type": "unknown"
+      },
+      {
+        "surface": "組まれ",
+        "reading": "くまれ",
+        "type": "unknown"
+      },
+      {
+        "surface": "印鑑",
+        "reading": "いんかん",
+        "type": "unknown"
+      },
+      {
+        "surface": "浄水",
+        "reading": "じょうすい",
+        "type": "unknown"
+      },
+      {
+        "surface": "器",
+        "reading": "き",
+        "type": "unknown"
+      },
+      {
+        "surface": "等",
+        "reading": "とう",
+        "type": "unknown"
+      },
+      {
+        "surface": "販売し",
+        "reading": "はんばいし",
+        "type": "unknown"
+      },
+      {
+        "surface": "教会",
+        "reading": "きょうかい",
+        "type": "unknown"
+      },
+      {
+        "surface": "貢献する",
+        "reading": "こうけんする",
+        "type": "unknown"
+      },
+      {
+        "surface": "求められて",
+        "reading": "もとめられて",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 69,
+    "source": "ud_gsd",
+    "text": "宇宙で無限の時間が経過すると、全てのエネルギーが均等に分布する状態に漸近的に到達すると考えられる。",
+    "annotations": [
+      {
+        "surface": "宇宙",
+        "reading": "うちゅう",
+        "type": "unknown"
+      },
+      {
+        "surface": "無限",
+        "reading": "むげん",
+        "type": "unknown"
+      },
+      {
+        "surface": "時間",
+        "reading": "じかん",
+        "type": "unknown"
+      },
+      {
+        "surface": "経過する",
+        "reading": "けいかする",
+        "type": "unknown"
+      },
+      {
+        "surface": "全て",
+        "reading": "すべて",
+        "type": "unknown"
+      },
+      {
+        "surface": "均等",
+        "reading": "きんとう",
+        "type": "unknown"
+      },
+      {
+        "surface": "分布する",
+        "reading": "ぶんぷする",
+        "type": "unknown"
+      },
+      {
+        "surface": "状態",
+        "reading": "じょうたい",
+        "type": "unknown"
+      },
+      {
+        "surface": "漸近",
+        "reading": "ぜんきん",
+        "type": "unknown"
+      },
+      {
+        "surface": "的",
+        "reading": "てき",
+        "type": "unknown"
+      },
+      {
+        "surface": "到達する",
+        "reading": "とうたつする",
+        "type": "unknown"
+      },
+      {
+        "surface": "考えられる",
+        "reading": "かんがえられる",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 70,
+    "source": "ud_gsd",
+    "text": "国際的に拘束力を持つ条約ではなく、勧告の形式で採択されたため、盛り込まれた措置の完全な実施を義務付けられることはない。",
+    "annotations": [
+      {
+        "surface": "国際",
+        "reading": "こくさい",
+        "type": "unknown"
+      },
+      {
+        "surface": "的",
+        "reading": "てき",
+        "type": "unknown"
+      },
+      {
+        "surface": "拘束",
+        "reading": "こうそく",
+        "type": "unknown"
+      },
+      {
+        "surface": "力",
+        "reading": "りょく",
+        "type": "unknown"
+      },
+      {
+        "surface": "持つ",
+        "reading": "もつ",
+        "type": "unknown"
+      },
+      {
+        "surface": "条約",
+        "reading": "じょうやく",
+        "type": "unknown"
+      },
+      {
+        "surface": "勧告",
+        "reading": "かんこく",
+        "type": "unknown"
+      },
+      {
+        "surface": "形式",
+        "reading": "けいしき",
+        "type": "unknown"
+      },
+      {
+        "surface": "採択された",
+        "reading": "さいたくされた",
+        "type": "unknown"
+      },
+      {
+        "surface": "盛り込まれた",
+        "reading": "もりこまれた",
+        "type": "unknown"
+      },
+      {
+        "surface": "措置",
+        "reading": "そち",
+        "type": "unknown"
+      },
+      {
+        "surface": "完全な",
+        "reading": "かんぜんな",
+        "type": "unknown"
+      },
+      {
+        "surface": "実施",
+        "reading": "じっし",
+        "type": "unknown"
+      },
+      {
+        "surface": "義務",
+        "reading": "ぎむ",
+        "type": "unknown"
+      },
+      {
+        "surface": "付けられる",
+        "reading": "ずけられる",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 71,
+    "source": "ud_gsd",
+    "text": "なぜならば,私にその倉渕透と守谷香の関係を知られることは,二人のための大きな収入源が断たれてしまうことになるからです。",
+    "annotations": [
+      {
+        "surface": "私",
+        "reading": "わたし",
+        "type": "unknown"
+      },
+      {
+        "surface": "倉渕",
+        "reading": "くらぶち",
+        "type": "unknown"
+      },
+      {
+        "surface": "透",
+        "reading": "とおる",
+        "type": "unknown"
+      },
+      {
+        "surface": "守谷",
+        "reading": "もりや",
+        "type": "unknown"
+      },
+      {
+        "surface": "香",
+        "reading": "かおり",
+        "type": "unknown"
+      },
+      {
+        "surface": "関係",
+        "reading": "かんけい",
+        "type": "unknown"
+      },
+      {
+        "surface": "知られる",
+        "reading": "しられる",
+        "type": "unknown"
+      },
+      {
+        "surface": "二人",
+        "reading": "ふたり",
+        "type": "unknown"
+      },
+      {
+        "surface": "大きな",
+        "reading": "おおきな",
+        "type": "unknown"
+      },
+      {
+        "surface": "収入",
+        "reading": "しゅうにゅう",
+        "type": "unknown"
+      },
+      {
+        "surface": "源",
+        "reading": "げん",
+        "type": "unknown"
+      },
+      {
+        "surface": "断たれて",
+        "reading": "たたれて",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 72,
+    "source": "ud_gsd",
+    "text": "一人だけいた若い女性信者が手作りのミルクプリンと紅茶を出し,記者には海老澤代表が付いた。",
+    "annotations": [
+      {
+        "surface": "一人だけいた",
+        "reading": "ひとりだけいた",
+        "type": "unknown"
+      },
+      {
+        "surface": "若い",
+        "reading": "わかい",
+        "type": "unknown"
+      },
+      {
+        "surface": "女性",
+        "reading": "じょせい",
+        "type": "unknown"
+      },
+      {
+        "surface": "信者",
+        "reading": "しんじゃ",
+        "type": "unknown"
+      },
+      {
+        "surface": "手作り",
+        "reading": "てづくり",
+        "type": "unknown"
+      },
+      {
+        "surface": "紅茶",
+        "reading": "こうちゃ",
+        "type": "unknown"
+      },
+      {
+        "surface": "出し",
+        "reading": "だし",
+        "type": "unknown"
+      },
+      {
+        "surface": "記者",
+        "reading": "きしゃ",
+        "type": "unknown"
+      },
+      {
+        "surface": "海老澤",
+        "reading": "えびさわ",
+        "type": "unknown"
+      },
+      {
+        "surface": "代表",
+        "reading": "だいひょう",
+        "type": "unknown"
+      },
+      {
+        "surface": "付いた",
+        "reading": "ついた",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 73,
+    "source": "ud_gsd",
+    "text": "同市の大久保寿夫市長は「県の責任で別途補助金を確保してくれるものと確信している」とのコメントを発表した。",
+    "annotations": [
+      {
+        "surface": "同市",
+        "reading": "どうし",
+        "type": "unknown"
+      },
+      {
+        "surface": "大久保",
+        "reading": "おおくぼ",
+        "type": "unknown"
+      },
+      {
+        "surface": "寿夫",
+        "reading": "としお",
+        "type": "unknown"
+      },
+      {
+        "surface": "市長",
+        "reading": "しちょう",
+        "type": "unknown"
+      },
+      {
+        "surface": "県",
+        "reading": "けん",
+        "type": "unknown"
+      },
+      {
+        "surface": "責任",
+        "reading": "せきにん",
+        "type": "unknown"
+      },
+      {
+        "surface": "別途",
+        "reading": "べっと",
+        "type": "unknown"
+      },
+      {
+        "surface": "補助",
+        "reading": "ほじょ",
+        "type": "unknown"
+      },
+      {
+        "surface": "金",
+        "reading": "きん",
+        "type": "unknown"
+      },
+      {
+        "surface": "確保して",
+        "reading": "かくほして",
+        "type": "unknown"
+      },
+      {
+        "surface": "確信して",
+        "reading": "かくしんして",
+        "type": "unknown"
+      },
+      {
+        "surface": "発表した",
+        "reading": "はっぴょうした",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 74,
+    "source": "ud_gsd",
+    "text": "2005年7月1日に浜松市に編入合併した旧三ケ日町の町役場庁舎を利用して三ヶ日総合事務所として開設された。",
+    "annotations": [
+      {
+        "surface": "年",
+        "reading": "ねん",
+        "type": "unknown"
+      },
+      {
+        "surface": "月",
+        "reading": "がつ",
+        "type": "unknown"
+      },
+      {
+        "surface": "日",
+        "reading": "にち",
+        "type": "unknown"
+      },
+      {
+        "surface": "浜松",
+        "reading": "はままつ",
+        "type": "unknown"
+      },
+      {
+        "surface": "市",
+        "reading": "し",
+        "type": "unknown"
+      },
+      {
+        "surface": "編入",
+        "reading": "へんにゅう",
+        "type": "unknown"
+      },
+      {
+        "surface": "合併した",
+        "reading": "がっぺいした",
+        "type": "unknown"
+      },
+      {
+        "surface": "旧",
+        "reading": "きゅう",
+        "type": "unknown"
+      },
+      {
+        "surface": "三ケ日",
+        "reading": "みっかび",
+        "type": "unknown"
+      },
+      {
+        "surface": "町",
+        "reading": "ちょう",
+        "type": "unknown"
+      },
+      {
+        "surface": "町",
+        "reading": "まち",
+        "type": "unknown"
+      },
+      {
+        "surface": "役場",
+        "reading": "やくば",
+        "type": "unknown"
+      },
+      {
+        "surface": "庁舎",
+        "reading": "ちょうしゃ",
+        "type": "unknown"
+      },
+      {
+        "surface": "利用して",
+        "reading": "りようして",
+        "type": "unknown"
+      },
+      {
+        "surface": "三ヶ日",
+        "reading": "みっかび",
+        "type": "unknown"
+      },
+      {
+        "surface": "総合",
+        "reading": "そうごう",
+        "type": "unknown"
+      },
+      {
+        "surface": "事務",
+        "reading": "じむ",
+        "type": "unknown"
+      },
+      {
+        "surface": "所として",
+        "reading": "しょとして",
+        "type": "unknown"
+      },
+      {
+        "surface": "開設された",
+        "reading": "かいせつされた",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 75,
+    "source": "ud_gsd",
+    "text": "現に統一教会も教祖の自叙伝を信者に大量購入させ,配り歩かせている。",
+    "annotations": [
+      {
+        "surface": "現",
+        "reading": "げん",
+        "type": "unknown"
+      },
+      {
+        "surface": "統一",
+        "reading": "とういつ",
+        "type": "unknown"
+      },
+      {
+        "surface": "教会",
+        "reading": "きょうかい",
+        "type": "unknown"
+      },
+      {
+        "surface": "教祖",
+        "reading": "きょうそ",
+        "type": "unknown"
+      },
+      {
+        "surface": "自叙",
+        "reading": "じじょ",
+        "type": "unknown"
+      },
+      {
+        "surface": "伝",
+        "reading": "でん",
+        "type": "unknown"
+      },
+      {
+        "surface": "信者",
+        "reading": "しんじゃ",
+        "type": "unknown"
+      },
+      {
+        "surface": "大量",
+        "reading": "たいりょう",
+        "type": "unknown"
+      },
+      {
+        "surface": "購入させ",
+        "reading": "こうにゅうさせ",
+        "type": "unknown"
+      },
+      {
+        "surface": "配り歩かせている",
+        "reading": "くばりあるかせている",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 76,
+    "source": "ud_gsd",
+    "text": "子どもらを世話する養育者を資金支援する国の「ファミリーホーム制度」の活用を考え、移り住めるよう空き家も用意した。",
+    "annotations": [
+      {
+        "surface": "子ど",
+        "reading": "こど",
+        "type": "unknown"
+      },
+      {
+        "surface": "世話する",
+        "reading": "せわする",
+        "type": "unknown"
+      },
+      {
+        "surface": "養育",
+        "reading": "よういく",
+        "type": "unknown"
+      },
+      {
+        "surface": "者",
+        "reading": "しゃ",
+        "type": "unknown"
+      },
+      {
+        "surface": "資金",
+        "reading": "しきん",
+        "type": "unknown"
+      },
+      {
+        "surface": "支援する",
+        "reading": "しえんする",
+        "type": "unknown"
+      },
+      {
+        "surface": "国",
+        "reading": "くに",
+        "type": "unknown"
+      },
+      {
+        "surface": "制度",
+        "reading": "せいど",
+        "type": "unknown"
+      },
+      {
+        "surface": "活用",
+        "reading": "かつよう",
+        "type": "unknown"
+      },
+      {
+        "surface": "考え",
+        "reading": "かんがえ",
+        "type": "unknown"
+      },
+      {
+        "surface": "移り住める",
+        "reading": "うつりすめる",
+        "type": "unknown"
+      },
+      {
+        "surface": "空き家",
+        "reading": "あきや",
+        "type": "unknown"
+      },
+      {
+        "surface": "用意した",
+        "reading": "よういした",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 77,
+    "source": "ud_gsd",
+    "text": "これに対して幸福の科学の信者が講談社を非難するデモや署名活動を行いましたが,抗議活動はこれだけではありませんでした。",
+    "annotations": [
+      {
+        "surface": "対して",
+        "reading": "たいして",
+        "type": "unknown"
+      },
+      {
+        "surface": "幸福",
+        "reading": "こうふく",
+        "type": "unknown"
+      },
+      {
+        "surface": "科学",
+        "reading": "かがく",
+        "type": "unknown"
+      },
+      {
+        "surface": "信者",
+        "reading": "しんじゃ",
+        "type": "unknown"
+      },
+      {
+        "surface": "講談",
+        "reading": "こうだん",
+        "type": "unknown"
+      },
+      {
+        "surface": "社",
+        "reading": "しゃ",
+        "type": "unknown"
+      },
+      {
+        "surface": "非難する",
+        "reading": "ひなんする",
+        "type": "unknown"
+      },
+      {
+        "surface": "署名",
+        "reading": "しょめい",
+        "type": "unknown"
+      },
+      {
+        "surface": "活動",
+        "reading": "かつどう",
+        "type": "unknown"
+      },
+      {
+        "surface": "行いましたが",
+        "reading": "おこないましたが",
+        "type": "unknown"
+      },
+      {
+        "surface": "抗議",
+        "reading": "こうぎ",
+        "type": "unknown"
+      },
+      {
+        "surface": "活動",
+        "reading": "かつどう",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 78,
+    "source": "ud_gsd",
+    "text": "物質界監視員として長年地上に派遣されており、現在は神貫の協力を取り付けてゼフォンの動向を探っている。",
+    "annotations": [
+      {
+        "surface": "物質",
+        "reading": "ぶっしつ",
+        "type": "unknown"
+      },
+      {
+        "surface": "界",
+        "reading": "かい",
+        "type": "unknown"
+      },
+      {
+        "surface": "監視",
+        "reading": "かんし",
+        "type": "unknown"
+      },
+      {
+        "surface": "員として",
+        "reading": "いんとして",
+        "type": "unknown"
+      },
+      {
+        "surface": "長年",
+        "reading": "ながねん",
+        "type": "unknown"
+      },
+      {
+        "surface": "地上",
+        "reading": "ちじょう",
+        "type": "unknown"
+      },
+      {
+        "surface": "派遣されて",
+        "reading": "はけんされて",
+        "type": "unknown"
+      },
+      {
+        "surface": "現在",
+        "reading": "げんざい",
+        "type": "unknown"
+      },
+      {
+        "surface": "神貫",
+        "reading": "かんぬき",
+        "type": "unknown"
+      },
+      {
+        "surface": "協力",
+        "reading": "きょうりょく",
+        "type": "unknown"
+      },
+      {
+        "surface": "取り付けて",
+        "reading": "とりつけて",
+        "type": "unknown"
+      },
+      {
+        "surface": "動向",
+        "reading": "どうこう",
+        "type": "unknown"
+      },
+      {
+        "surface": "探って",
+        "reading": "さぐって",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 79,
+    "source": "ud_gsd",
+    "text": "この反乱によってマウリキウスは皇位を追われ、息子たちが殺されるのを見せられた上で処刑されてしまった。",
+    "annotations": [
+      {
+        "surface": "反乱",
+        "reading": "はんらん",
+        "type": "unknown"
+      },
+      {
+        "surface": "皇位",
+        "reading": "こうい",
+        "type": "unknown"
+      },
+      {
+        "surface": "追われ",
+        "reading": "おわれ",
+        "type": "unknown"
+      },
+      {
+        "surface": "息子",
+        "reading": "むすこ",
+        "type": "unknown"
+      },
+      {
+        "surface": "殺される",
+        "reading": "ころされる",
+        "type": "unknown"
+      },
+      {
+        "surface": "見せられた",
+        "reading": "みせられた",
+        "type": "unknown"
+      },
+      {
+        "surface": "上",
+        "reading": "うえ",
+        "type": "unknown"
+      },
+      {
+        "surface": "処刑されて",
+        "reading": "しょけいされて",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 80,
+    "source": "ud_gsd",
+    "text": "伝統的仏堂建築に新様式を取り入れた、近代仏堂の代表作として、2007年に国の重要文化財に指定された。",
+    "annotations": [
+      {
+        "surface": "伝統",
+        "reading": "でんとう",
+        "type": "unknown"
+      },
+      {
+        "surface": "的",
+        "reading": "てき",
+        "type": "unknown"
+      },
+      {
+        "surface": "仏堂",
+        "reading": "ぶつどう",
+        "type": "unknown"
+      },
+      {
+        "surface": "建築",
+        "reading": "けんちく",
+        "type": "unknown"
+      },
+      {
+        "surface": "新",
+        "reading": "しん",
+        "type": "unknown"
+      },
+      {
+        "surface": "様式",
+        "reading": "ようしき",
+        "type": "unknown"
+      },
+      {
+        "surface": "取り入れた",
+        "reading": "とりいれた",
+        "type": "unknown"
+      },
+      {
+        "surface": "近代",
+        "reading": "きんだい",
+        "type": "unknown"
+      },
+      {
+        "surface": "仏堂",
+        "reading": "ぶつどう",
+        "type": "unknown"
+      },
+      {
+        "surface": "代表",
+        "reading": "だいひょう",
+        "type": "unknown"
+      },
+      {
+        "surface": "作として",
+        "reading": "さくとして",
+        "type": "unknown"
+      },
+      {
+        "surface": "年",
+        "reading": "ねん",
+        "type": "unknown"
+      },
+      {
+        "surface": "国",
+        "reading": "くに",
+        "type": "unknown"
+      },
+      {
+        "surface": "重要",
+        "reading": "じゅうよう",
+        "type": "unknown"
+      },
+      {
+        "surface": "文化",
+        "reading": "ぶんか",
+        "type": "unknown"
+      },
+      {
+        "surface": "財",
+        "reading": "ざい",
+        "type": "unknown"
+      },
+      {
+        "surface": "指定された",
+        "reading": "していされた",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 81,
+    "source": "ud_pud",
+    "text": "ジョコウィは大統領に就任する前に、退任するユドヨノ大統領に、補助金をさらに減額することで燃料価格を上昇させる決定について責任をとるように求めた。",
+    "annotations": [
+      {
+        "surface": "大統領",
+        "reading": "だいとうりょう",
+        "type": "unknown"
+      },
+      {
+        "surface": "就任する",
+        "reading": "しゅうにんする",
+        "type": "unknown"
+      },
+      {
+        "surface": "前",
+        "reading": "まえ",
+        "type": "unknown"
+      },
+      {
+        "surface": "退任する",
+        "reading": "たいにんする",
+        "type": "unknown"
+      },
+      {
+        "surface": "大統領",
+        "reading": "だいとうりょう",
+        "type": "unknown"
+      },
+      {
+        "surface": "補助",
+        "reading": "ほじょ",
+        "type": "unknown"
+      },
+      {
+        "surface": "金",
+        "reading": "きん",
+        "type": "unknown"
+      },
+      {
+        "surface": "減額する",
+        "reading": "げんがくする",
+        "type": "unknown"
+      },
+      {
+        "surface": "燃料",
+        "reading": "ねんりょう",
+        "type": "unknown"
+      },
+      {
+        "surface": "価格",
+        "reading": "かかく",
+        "type": "unknown"
+      },
+      {
+        "surface": "上昇させる",
+        "reading": "じょうしょうさせる",
+        "type": "unknown"
+      },
+      {
+        "surface": "決定",
+        "reading": "けってい",
+        "type": "unknown"
+      },
+      {
+        "surface": "責任",
+        "reading": "せきにん",
+        "type": "unknown"
+      },
+      {
+        "surface": "求めた",
+        "reading": "もとめた",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 82,
+    "source": "ud_pud",
+    "text": "一方、最良の管理慣行が機能している良好な生態系は、こうした事態の発生機会を減少させるか、それができない場合でも悪影響の度合いを軽減します。",
+    "annotations": [
+      {
+        "surface": "一方",
+        "reading": "いっぽう",
+        "type": "unknown"
+      },
+      {
+        "surface": "最良",
+        "reading": "さいりょう",
+        "type": "unknown"
+      },
+      {
+        "surface": "管理",
+        "reading": "かんり",
+        "type": "unknown"
+      },
+      {
+        "surface": "慣行",
+        "reading": "かんこう",
+        "type": "unknown"
+      },
+      {
+        "surface": "機能して",
+        "reading": "きのうして",
+        "type": "unknown"
+      },
+      {
+        "surface": "良好な",
+        "reading": "りょうこうな",
+        "type": "unknown"
+      },
+      {
+        "surface": "生態",
+        "reading": "せいたい",
+        "type": "unknown"
+      },
+      {
+        "surface": "系",
+        "reading": "けい",
+        "type": "unknown"
+      },
+      {
+        "surface": "事態",
+        "reading": "じたい",
+        "type": "unknown"
+      },
+      {
+        "surface": "発生",
+        "reading": "はっせい",
+        "type": "unknown"
+      },
+      {
+        "surface": "機会",
+        "reading": "きかい",
+        "type": "unknown"
+      },
+      {
+        "surface": "減少させる",
+        "reading": "げんしょうさせる",
+        "type": "unknown"
+      },
+      {
+        "surface": "場合",
+        "reading": "ばあい",
+        "type": "unknown"
+      },
+      {
+        "surface": "悪",
+        "reading": "あく",
+        "type": "unknown"
+      },
+      {
+        "surface": "影響",
+        "reading": "えいきょう",
+        "type": "unknown"
+      },
+      {
+        "surface": "度合い",
+        "reading": "どあい",
+        "type": "unknown"
+      },
+      {
+        "surface": "軽減します",
+        "reading": "けいげんします",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 83,
+    "source": "ud_pud",
+    "text": "この分野での専門家として名を知られるようになった彼女は、それらのスキルと小さな円盤状のポロニウムをラジウム研究所に持ち帰った。",
+    "annotations": [
+      {
+        "surface": "分野",
+        "reading": "ぶんや",
+        "type": "unknown"
+      },
+      {
+        "surface": "専門",
+        "reading": "せんもん",
+        "type": "unknown"
+      },
+      {
+        "surface": "家として",
+        "reading": "かとして",
+        "type": "unknown"
+      },
+      {
+        "surface": "名",
+        "reading": "な",
+        "type": "unknown"
+      },
+      {
+        "surface": "知られる",
+        "reading": "しられる",
+        "type": "unknown"
+      },
+      {
+        "surface": "彼女",
+        "reading": "かのじょ",
+        "type": "unknown"
+      },
+      {
+        "surface": "小さな",
+        "reading": "ちいさな",
+        "type": "unknown"
+      },
+      {
+        "surface": "円盤",
+        "reading": "えんばん",
+        "type": "unknown"
+      },
+      {
+        "surface": "状",
+        "reading": "じょう",
+        "type": "unknown"
+      },
+      {
+        "surface": "研究",
+        "reading": "けんきゅう",
+        "type": "unknown"
+      },
+      {
+        "surface": "所",
+        "reading": "しょ",
+        "type": "unknown"
+      },
+      {
+        "surface": "持ち帰った",
+        "reading": "もちかえった",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 84,
+    "source": "ud_pud",
+    "text": "明治天皇以後、一人の天皇について一つの年号を付け、天皇の死後は統治の時代に使っていた年号を改めることが慣習となった。",
+    "annotations": [
+      {
+        "surface": "明治",
+        "reading": "めいじ",
+        "type": "unknown"
+      },
+      {
+        "surface": "天皇",
+        "reading": "てんのう",
+        "type": "unknown"
+      },
+      {
+        "surface": "以後",
+        "reading": "いご",
+        "type": "unknown"
+      },
+      {
+        "surface": "一人",
+        "reading": "ひとり",
+        "type": "unknown"
+      },
+      {
+        "surface": "天皇",
+        "reading": "てんのう",
+        "type": "unknown"
+      },
+      {
+        "surface": "一つ",
+        "reading": "ひとつ",
+        "type": "unknown"
+      },
+      {
+        "surface": "年号",
+        "reading": "ねんごう",
+        "type": "unknown"
+      },
+      {
+        "surface": "付け",
+        "reading": "つけ",
+        "type": "unknown"
+      },
+      {
+        "surface": "天皇",
+        "reading": "てんのう",
+        "type": "unknown"
+      },
+      {
+        "surface": "死後",
+        "reading": "しご",
+        "type": "unknown"
+      },
+      {
+        "surface": "統治",
+        "reading": "とうち",
+        "type": "unknown"
+      },
+      {
+        "surface": "時代",
+        "reading": "じだい",
+        "type": "unknown"
+      },
+      {
+        "surface": "使って",
+        "reading": "つかって",
+        "type": "unknown"
+      },
+      {
+        "surface": "年号",
+        "reading": "ねんごう",
+        "type": "unknown"
+      },
+      {
+        "surface": "改める",
+        "reading": "あらためる",
+        "type": "unknown"
+      },
+      {
+        "surface": "慣習",
+        "reading": "かんしゅう",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 85,
+    "source": "ud_pud",
+    "text": "彼が平凡な人生の後に老衰で亡くなるか、あるいは戦場で若くして命を落とし、詩を通じて不死を得ることが、そこでは予言されていました。",
+    "annotations": [
+      {
+        "surface": "彼",
+        "reading": "かれ",
+        "type": "unknown"
+      },
+      {
+        "surface": "平凡な",
+        "reading": "へいぼんな",
+        "type": "unknown"
+      },
+      {
+        "surface": "人生",
+        "reading": "じんせい",
+        "type": "unknown"
+      },
+      {
+        "surface": "後",
+        "reading": "あと",
+        "type": "unknown"
+      },
+      {
+        "surface": "老衰",
+        "reading": "ろうすい",
+        "type": "unknown"
+      },
+      {
+        "surface": "亡くなる",
+        "reading": "なくなる",
+        "type": "unknown"
+      },
+      {
+        "surface": "戦場",
+        "reading": "せんじょう",
+        "type": "unknown"
+      },
+      {
+        "surface": "若くして",
+        "reading": "わかくして",
+        "type": "unknown"
+      },
+      {
+        "surface": "命",
+        "reading": "いのち",
+        "type": "unknown"
+      },
+      {
+        "surface": "落とし",
+        "reading": "おとし",
+        "type": "unknown"
+      },
+      {
+        "surface": "詩",
+        "reading": "し",
+        "type": "unknown"
+      },
+      {
+        "surface": "通じ",
+        "reading": "つうずる",
+        "type": "unknown"
+      },
+      {
+        "surface": "不死",
+        "reading": "ふし",
+        "type": "unknown"
+      },
+      {
+        "surface": "得る",
+        "reading": "える",
+        "type": "unknown"
+      },
+      {
+        "surface": "予言されて",
+        "reading": "よげんされて",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 86,
+    "source": "ud_pud",
+    "text": "国際再生可能エネルギー機関（IRENA）総裁、Z.Aminは「洋上風力発電は世界経済において石炭エネルギーに依存しない最大の発電手段となりうる」と確信している。",
+    "annotations": [
+      {
+        "surface": "国際",
+        "reading": "こくさい",
+        "type": "unknown"
+      },
+      {
+        "surface": "再生",
+        "reading": "さいせい",
+        "type": "unknown"
+      },
+      {
+        "surface": "可能",
+        "reading": "かのう",
+        "type": "unknown"
+      },
+      {
+        "surface": "機関",
+        "reading": "きかん",
+        "type": "unknown"
+      },
+      {
+        "surface": "総裁",
+        "reading": "そうさい",
+        "type": "unknown"
+      },
+      {
+        "surface": "洋上",
+        "reading": "ようじょう",
+        "type": "unknown"
+      },
+      {
+        "surface": "風力",
+        "reading": "ふうりょく",
+        "type": "unknown"
+      },
+      {
+        "surface": "発電",
+        "reading": "はつでん",
+        "type": "unknown"
+      },
+      {
+        "surface": "世界",
+        "reading": "せかい",
+        "type": "unknown"
+      },
+      {
+        "surface": "経済",
+        "reading": "けいざい",
+        "type": "unknown"
+      },
+      {
+        "surface": "石炭",
+        "reading": "せきたん",
+        "type": "unknown"
+      },
+      {
+        "surface": "依存",
+        "reading": "いぞん",
+        "type": "unknown"
+      },
+      {
+        "surface": "最大",
+        "reading": "さいだい",
+        "type": "unknown"
+      },
+      {
+        "surface": "発電",
+        "reading": "はつでん",
+        "type": "unknown"
+      },
+      {
+        "surface": "手段",
+        "reading": "しゅだん",
+        "type": "unknown"
+      },
+      {
+        "surface": "確信して",
+        "reading": "かくしんして",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 87,
+    "source": "ud_pud",
+    "text": "しかし、機内インターネットは多くの場合信頼性に欠け、旅行者の航空会社の選択に影響を及ぼす可能性は低いと、ある海外旅行の専門家は警告した。",
+    "annotations": [
+      {
+        "surface": "機内",
+        "reading": "きない",
+        "type": "unknown"
+      },
+      {
+        "surface": "多く",
+        "reading": "おおく",
+        "type": "unknown"
+      },
+      {
+        "surface": "場合",
+        "reading": "ばあい",
+        "type": "unknown"
+      },
+      {
+        "surface": "信頼",
+        "reading": "しんらい",
+        "type": "unknown"
+      },
+      {
+        "surface": "性",
+        "reading": "せい",
+        "type": "unknown"
+      },
+      {
+        "surface": "欠け",
+        "reading": "かけ",
+        "type": "unknown"
+      },
+      {
+        "surface": "旅行",
+        "reading": "りょこう",
+        "type": "unknown"
+      },
+      {
+        "surface": "者",
+        "reading": "しゃ",
+        "type": "unknown"
+      },
+      {
+        "surface": "航空",
+        "reading": "こうくう",
+        "type": "unknown"
+      },
+      {
+        "surface": "会社",
+        "reading": "かいしゃ",
+        "type": "unknown"
+      },
+      {
+        "surface": "選択",
+        "reading": "せんたく",
+        "type": "unknown"
+      },
+      {
+        "surface": "影響",
+        "reading": "えいきょう",
+        "type": "unknown"
+      },
+      {
+        "surface": "及ぼす",
+        "reading": "およぼす",
+        "type": "unknown"
+      },
+      {
+        "surface": "可能",
+        "reading": "かのう",
+        "type": "unknown"
+      },
+      {
+        "surface": "性",
+        "reading": "せい",
+        "type": "unknown"
+      },
+      {
+        "surface": "低い",
+        "reading": "ひくい",
+        "type": "unknown"
+      },
+      {
+        "surface": "海外",
+        "reading": "かいがい",
+        "type": "unknown"
+      },
+      {
+        "surface": "旅行",
+        "reading": "りょこう",
+        "type": "unknown"
+      },
+      {
+        "surface": "専門",
+        "reading": "せんもん",
+        "type": "unknown"
+      },
+      {
+        "surface": "家",
+        "reading": "か",
+        "type": "unknown"
+      },
+      {
+        "surface": "警告した",
+        "reading": "けいこくした",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 88,
+    "source": "ud_pud",
+    "text": "さらに彼女は、機密情報を彼女に提供した数々の政府系科学者との人脈を利用しました。",
+    "annotations": [
+      {
+        "surface": "彼女",
+        "reading": "かのじょ",
+        "type": "unknown"
+      },
+      {
+        "surface": "機密",
+        "reading": "きみつ",
+        "type": "unknown"
+      },
+      {
+        "surface": "情報",
+        "reading": "じょうほう",
+        "type": "unknown"
+      },
+      {
+        "surface": "彼女",
+        "reading": "かのじょ",
+        "type": "unknown"
+      },
+      {
+        "surface": "提供した",
+        "reading": "ていきょうした",
+        "type": "unknown"
+      },
+      {
+        "surface": "数々",
+        "reading": "かずかず",
+        "type": "unknown"
+      },
+      {
+        "surface": "政府",
+        "reading": "せいふ",
+        "type": "unknown"
+      },
+      {
+        "surface": "系",
+        "reading": "けい",
+        "type": "unknown"
+      },
+      {
+        "surface": "科学",
+        "reading": "かがく",
+        "type": "unknown"
+      },
+      {
+        "surface": "者",
+        "reading": "しゃ",
+        "type": "unknown"
+      },
+      {
+        "surface": "人脈",
+        "reading": "じんみゃく",
+        "type": "unknown"
+      },
+      {
+        "surface": "利用しました",
+        "reading": "りようしました",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 89,
+    "source": "ud_pud",
+    "text": "地中海全域の商業的な前哨基地を設立することで、それまで使用されていなかった技術である「貿易」が発展した。",
+    "annotations": [
+      {
+        "surface": "地中",
+        "reading": "ちちゅう",
+        "type": "unknown"
+      },
+      {
+        "surface": "海",
+        "reading": "かい",
+        "type": "unknown"
+      },
+      {
+        "surface": "全域",
+        "reading": "ぜんいき",
+        "type": "unknown"
+      },
+      {
+        "surface": "商業",
+        "reading": "しょうぎょう",
+        "type": "unknown"
+      },
+      {
+        "surface": "的な",
+        "reading": "てきな",
+        "type": "unknown"
+      },
+      {
+        "surface": "前哨",
+        "reading": "ぜんしょう",
+        "type": "unknown"
+      },
+      {
+        "surface": "基地",
+        "reading": "きち",
+        "type": "unknown"
+      },
+      {
+        "surface": "設立する",
+        "reading": "せつりつする",
+        "type": "unknown"
+      },
+      {
+        "surface": "使用されて",
+        "reading": "しようされて",
+        "type": "unknown"
+      },
+      {
+        "surface": "技術",
+        "reading": "ぎじゅつ",
+        "type": "unknown"
+      },
+      {
+        "surface": "貿易",
+        "reading": "ぼうえき",
+        "type": "unknown"
+      },
+      {
+        "surface": "発展した",
+        "reading": "はってんした",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 90,
+    "source": "ud_pud",
+    "text": "中国の旧正月や、タイの華人によるその他の饗宴は、旧暦こよみに基づいて計算されるので、どちらも日付が毎年変わります。",
+    "annotations": [
+      {
+        "surface": "中国",
+        "reading": "ちゅうごく",
+        "type": "unknown"
+      },
+      {
+        "surface": "旧",
+        "reading": "きゅう",
+        "type": "unknown"
+      },
+      {
+        "surface": "正月",
+        "reading": "しょうがつ",
+        "type": "unknown"
+      },
+      {
+        "surface": "華人",
+        "reading": "かじん",
+        "type": "unknown"
+      },
+      {
+        "surface": "他",
+        "reading": "ほか",
+        "type": "unknown"
+      },
+      {
+        "surface": "饗宴",
+        "reading": "きょうえん",
+        "type": "unknown"
+      },
+      {
+        "surface": "旧暦こよみ",
+        "reading": "きゅうれきこよみ",
+        "type": "unknown"
+      },
+      {
+        "surface": "基づ",
+        "reading": "もとず",
+        "type": "unknown"
+      },
+      {
+        "surface": "計算される",
+        "reading": "けいさんされる",
+        "type": "unknown"
+      },
+      {
+        "surface": "日付",
+        "reading": "ひずけ",
+        "type": "unknown"
+      },
+      {
+        "surface": "毎年",
+        "reading": "まいとし",
+        "type": "unknown"
+      },
+      {
+        "surface": "変わります",
+        "reading": "かわります",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 91,
+    "source": "ud_pud",
+    "text": "今年の初め、セガールは、首都ベオグラードで武術学校の設立を申し出た後に、セルビア国籍を与えられた。",
+    "annotations": [
+      {
+        "surface": "今年",
+        "reading": "ことし",
+        "type": "unknown"
+      },
+      {
+        "surface": "初め",
+        "reading": "はじめ",
+        "type": "unknown"
+      },
+      {
+        "surface": "首都",
+        "reading": "しゅと",
+        "type": "unknown"
+      },
+      {
+        "surface": "武術",
+        "reading": "ぶじゅつ",
+        "type": "unknown"
+      },
+      {
+        "surface": "学校",
+        "reading": "がっこう",
+        "type": "unknown"
+      },
+      {
+        "surface": "設立",
+        "reading": "せつりつ",
+        "type": "unknown"
+      },
+      {
+        "surface": "申し出た",
+        "reading": "もうしでるた",
+        "type": "unknown"
+      },
+      {
+        "surface": "後",
+        "reading": "あと",
+        "type": "unknown"
+      },
+      {
+        "surface": "国籍",
+        "reading": "こくせき",
+        "type": "unknown"
+      },
+      {
+        "surface": "与えられた",
+        "reading": "あたえられた",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 92,
+    "source": "ud_pud",
+    "text": "プラトンは、権力は教育を受けた保護者に注意して委ねる方がずっと安全だろう、と考えた。",
+    "annotations": [
+      {
+        "surface": "権力",
+        "reading": "けんりょく",
+        "type": "unknown"
+      },
+      {
+        "surface": "教育",
+        "reading": "きょういく",
+        "type": "unknown"
+      },
+      {
+        "surface": "受けた",
+        "reading": "うけた",
+        "type": "unknown"
+      },
+      {
+        "surface": "保護",
+        "reading": "ほご",
+        "type": "unknown"
+      },
+      {
+        "surface": "者",
+        "reading": "しゃ",
+        "type": "unknown"
+      },
+      {
+        "surface": "注意して",
+        "reading": "ちゅういして",
+        "type": "unknown"
+      },
+      {
+        "surface": "委ねる",
+        "reading": "ゆだねる",
+        "type": "unknown"
+      },
+      {
+        "surface": "方",
+        "reading": "ほう",
+        "type": "unknown"
+      },
+      {
+        "surface": "安全だろう",
+        "reading": "あんぜんだろう",
+        "type": "unknown"
+      },
+      {
+        "surface": "考えた",
+        "reading": "かんがえた",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 93,
+    "source": "ud_pud",
+    "text": "ブリスベンが繁栄するに連れて、河川の状態は下水道やゴミ捨て場並に悪化した。",
+    "annotations": [
+      {
+        "surface": "繁栄する",
+        "reading": "はんえいする",
+        "type": "unknown"
+      },
+      {
+        "surface": "連れて",
+        "reading": "つれて",
+        "type": "unknown"
+      },
+      {
+        "surface": "河川",
+        "reading": "かせん",
+        "type": "unknown"
+      },
+      {
+        "surface": "状態",
+        "reading": "じょうたい",
+        "type": "unknown"
+      },
+      {
+        "surface": "下水",
+        "reading": "げすい",
+        "type": "unknown"
+      },
+      {
+        "surface": "道",
+        "reading": "どう",
+        "type": "unknown"
+      },
+      {
+        "surface": "ゴミ捨て",
+        "reading": "ごみすて",
+        "type": "unknown"
+      },
+      {
+        "surface": "場",
+        "reading": "ば",
+        "type": "unknown"
+      },
+      {
+        "surface": "並",
+        "reading": "なみ",
+        "type": "unknown"
+      },
+      {
+        "surface": "悪化した",
+        "reading": "あっかした",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 94,
+    "source": "ud_pud",
+    "text": "沈括は、行政官および政府役人としての高いスキルと能力で、王安石を感心させました。",
+    "annotations": [
+      {
+        "surface": "沈括",
+        "reading": "ちんかつ",
+        "type": "unknown"
+      },
+      {
+        "surface": "行政",
+        "reading": "ぎょうせい",
+        "type": "unknown"
+      },
+      {
+        "surface": "官",
+        "reading": "かん",
+        "type": "unknown"
+      },
+      {
+        "surface": "政府",
+        "reading": "せいふ",
+        "type": "unknown"
+      },
+      {
+        "surface": "役人として",
+        "reading": "やくにんとして",
+        "type": "unknown"
+      },
+      {
+        "surface": "高い",
+        "reading": "たかい",
+        "type": "unknown"
+      },
+      {
+        "surface": "能力",
+        "reading": "のうりょく",
+        "type": "unknown"
+      },
+      {
+        "surface": "王",
+        "reading": "おう",
+        "type": "unknown"
+      },
+      {
+        "surface": "安石",
+        "reading": "あんせき",
+        "type": "unknown"
+      },
+      {
+        "surface": "感心させました",
+        "reading": "かんしんさせました",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 95,
+    "source": "ud_pud",
+    "text": "複数の古代文明は地中海沿岸にあり、付近の海から大きな影響を受けました。",
+    "annotations": [
+      {
+        "surface": "複数",
+        "reading": "ふくすう",
+        "type": "unknown"
+      },
+      {
+        "surface": "古代",
+        "reading": "こだい",
+        "type": "unknown"
+      },
+      {
+        "surface": "文明",
+        "reading": "ぶんめい",
+        "type": "unknown"
+      },
+      {
+        "surface": "地中",
+        "reading": "ちちゅう",
+        "type": "unknown"
+      },
+      {
+        "surface": "海",
+        "reading": "かい",
+        "type": "unknown"
+      },
+      {
+        "surface": "沿岸",
+        "reading": "えんがん",
+        "type": "unknown"
+      },
+      {
+        "surface": "付近",
+        "reading": "ふきん",
+        "type": "unknown"
+      },
+      {
+        "surface": "海",
+        "reading": "うみ",
+        "type": "unknown"
+      },
+      {
+        "surface": "大きな",
+        "reading": "おおきな",
+        "type": "unknown"
+      },
+      {
+        "surface": "影響",
+        "reading": "えいきょう",
+        "type": "unknown"
+      },
+      {
+        "surface": "受けました",
+        "reading": "うけました",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 96,
+    "source": "ud_pud",
+    "text": "「私はノーサンプトン大学で示される新しい才能を取り上げるために訪問します。」と彼は言う。",
+    "annotations": [
+      {
+        "surface": "私",
+        "reading": "わたし",
+        "type": "unknown"
+      },
+      {
+        "surface": "大学",
+        "reading": "だいがく",
+        "type": "unknown"
+      },
+      {
+        "surface": "示される",
+        "reading": "しめされる",
+        "type": "unknown"
+      },
+      {
+        "surface": "新しい",
+        "reading": "あたらしい",
+        "type": "unknown"
+      },
+      {
+        "surface": "才能",
+        "reading": "さいのう",
+        "type": "unknown"
+      },
+      {
+        "surface": "取り上げる",
+        "reading": "とりあげる",
+        "type": "unknown"
+      },
+      {
+        "surface": "訪問します",
+        "reading": "ほうもんします",
+        "type": "unknown"
+      },
+      {
+        "surface": "彼",
+        "reading": "かれ",
+        "type": "unknown"
+      },
+      {
+        "surface": "言う",
+        "reading": "いう",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 97,
+    "source": "ud_pud",
+    "text": "しかし、彼らの友情は二人の非公式的な協業をめぐって生じた法的紛争によってひび割れることになった。",
+    "annotations": [
+      {
+        "surface": "彼ら",
+        "reading": "かれら",
+        "type": "unknown"
+      },
+      {
+        "surface": "友情",
+        "reading": "ゆうじょう",
+        "type": "unknown"
+      },
+      {
+        "surface": "二人",
+        "reading": "ふたり",
+        "type": "unknown"
+      },
+      {
+        "surface": "非",
+        "reading": "ひ",
+        "type": "unknown"
+      },
+      {
+        "surface": "公式",
+        "reading": "こうしき",
+        "type": "unknown"
+      },
+      {
+        "surface": "的な",
+        "reading": "てきな",
+        "type": "unknown"
+      },
+      {
+        "surface": "協業",
+        "reading": "きょうぎょう",
+        "type": "unknown"
+      },
+      {
+        "surface": "生じ",
+        "reading": "しょうずる",
+        "type": "unknown"
+      },
+      {
+        "surface": "法的",
+        "reading": "ほうてき",
+        "type": "unknown"
+      },
+      {
+        "surface": "紛争",
+        "reading": "ふんそう",
+        "type": "unknown"
+      },
+      {
+        "surface": "ひび割れる",
+        "reading": "ひびわれる",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 98,
+    "source": "ud_pud",
+    "text": "デジタル技術の問題に関する法案を提言するフランスデジタル審議会も、それを調査することになる可能性がある。",
+    "annotations": [
+      {
+        "surface": "技術",
+        "reading": "ぎじゅつ",
+        "type": "unknown"
+      },
+      {
+        "surface": "問題",
+        "reading": "もんだい",
+        "type": "unknown"
+      },
+      {
+        "surface": "関する",
+        "reading": "かんする",
+        "type": "unknown"
+      },
+      {
+        "surface": "法案",
+        "reading": "ほうあん",
+        "type": "unknown"
+      },
+      {
+        "surface": "提言する",
+        "reading": "ていげんする",
+        "type": "unknown"
+      },
+      {
+        "surface": "審議",
+        "reading": "しんぎ",
+        "type": "unknown"
+      },
+      {
+        "surface": "会",
+        "reading": "かい",
+        "type": "unknown"
+      },
+      {
+        "surface": "調査する",
+        "reading": "ちょうさする",
+        "type": "unknown"
+      },
+      {
+        "surface": "可能",
+        "reading": "かのう",
+        "type": "unknown"
+      },
+      {
+        "surface": "性",
+        "reading": "せい",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 99,
+    "source": "ud_pud",
+    "text": "しかし、女性、特に出産の役割を担う女性を含む人口統計学および人口データの広範な統計的分析が行われてきた。",
+    "annotations": [
+      {
+        "surface": "女性",
+        "reading": "じょせい",
+        "type": "unknown"
+      },
+      {
+        "surface": "特",
+        "reading": "とく",
+        "type": "unknown"
+      },
+      {
+        "surface": "出産",
+        "reading": "しゅっさん",
+        "type": "unknown"
+      },
+      {
+        "surface": "役割",
+        "reading": "やくわり",
+        "type": "unknown"
+      },
+      {
+        "surface": "担う",
+        "reading": "になう",
+        "type": "unknown"
+      },
+      {
+        "surface": "女性",
+        "reading": "じょせい",
+        "type": "unknown"
+      },
+      {
+        "surface": "含む",
+        "reading": "ふくむ",
+        "type": "unknown"
+      },
+      {
+        "surface": "人口",
+        "reading": "じんこう",
+        "type": "unknown"
+      },
+      {
+        "surface": "統計",
+        "reading": "とうけい",
+        "type": "unknown"
+      },
+      {
+        "surface": "学",
+        "reading": "がく",
+        "type": "unknown"
+      },
+      {
+        "surface": "人口",
+        "reading": "じんこう",
+        "type": "unknown"
+      },
+      {
+        "surface": "広範な",
+        "reading": "こうはんな",
+        "type": "unknown"
+      },
+      {
+        "surface": "統計",
+        "reading": "とうけい",
+        "type": "unknown"
+      },
+      {
+        "surface": "的",
+        "reading": "てき",
+        "type": "unknown"
+      },
+      {
+        "surface": "分析",
+        "reading": "ぶんせき",
+        "type": "unknown"
+      },
+      {
+        "surface": "行われて",
+        "reading": "おこなわれて",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  },
+  {
+    "id": 100,
+    "source": "ud_pud",
+    "text": "後年、アウグストゥスがローマ帝国を創設した際に、ローマ人たちは地中海をマレ・ノストラム（「私たちの海」）と呼びました。",
+    "annotations": [
+      {
+        "surface": "後年",
+        "reading": "こうねん",
+        "type": "unknown"
+      },
+      {
+        "surface": "帝国",
+        "reading": "ていこく",
+        "type": "unknown"
+      },
+      {
+        "surface": "創設した",
+        "reading": "そうせつした",
+        "type": "unknown"
+      },
+      {
+        "surface": "際",
+        "reading": "さい",
+        "type": "unknown"
+      },
+      {
+        "surface": "人",
+        "reading": "じん",
+        "type": "unknown"
+      },
+      {
+        "surface": "地中",
+        "reading": "ちちゅう",
+        "type": "unknown"
+      },
+      {
+        "surface": "海",
+        "reading": "かい",
+        "type": "unknown"
+      },
+      {
+        "surface": "私",
+        "reading": "わたし",
+        "type": "unknown"
+      },
+      {
+        "surface": "海",
+        "reading": "うみ",
+        "type": "unknown"
+      },
+      {
+        "surface": "呼びました",
+        "reading": "よびました",
+        "type": "unknown"
+      }
+    ],
+    "time_seconds": 0
+  }
+]

@@ -1,0 +1,6582 @@
+[
+  {
+    "id": 1,
+    "source": "hirogaru",
+    "text": "笛の教室をしています。女の子が笛を吹く機会が少ないので、女の子に笛を教えたいと思いました。女の子が笛を習って、将来、自分のこどもに教えられるといいと思います。それからコンサートもときどき開いています。今、笛を吹く人が減って、お祭りでテープの音を使うことがあります。笛に興味を持つ人が増えるように活動しています。",
+    "annotations": [
+      {
+        "surface": "笛",
+        "reading": "ふえ",
+        "type": "noun"
+      },
+      {
+        "surface": "教室",
+        "reading": "きょうしつ",
+        "type": "noun"
+      },
+      {
+        "surface": "女の子",
+        "reading": "おんなのこ",
+        "type": "noun"
+      },
+      {
+        "surface": "笛",
+        "reading": "ふえ",
+        "type": "noun"
+      },
+      {
+        "surface": "吹く",
+        "reading": "ふく",
+        "type": "verb"
+      },
+      {
+        "surface": "機会",
+        "reading": "きかい",
+        "type": "noun"
+      },
+      {
+        "surface": "少ない",
+        "reading": "すくない",
+        "type": "adjective"
+      },
+      {
+        "surface": "女の子",
+        "reading": "おんなのこ",
+        "type": "noun"
+      },
+      {
+        "surface": "笛",
+        "reading": "ふえ",
+        "type": "noun"
+      },
+      {
+        "surface": "教えたい",
+        "reading": "おしえたい",
+        "type": "verb"
+      },
+      {
+        "surface": "思いました",
+        "reading": "おもいました",
+        "type": "verb"
+      },
+      {
+        "surface": "女の子",
+        "reading": "おんなのこ",
+        "type": "noun"
+      },
+      {
+        "surface": "笛",
+        "reading": "ふえ",
+        "type": "noun"
+      },
+      {
+        "surface": "習って",
+        "reading": "ならって",
+        "type": "verb"
+      },
+      {
+        "surface": "将来",
+        "reading": "しょうらい",
+        "type": "noun"
+      },
+      {
+        "surface": "自分",
+        "reading": "じぶん",
+        "type": "noun"
+      },
+      {
+        "surface": "教えられる",
+        "reading": "おしえられる",
+        "type": "verb"
+      },
+      {
+        "surface": "思います",
+        "reading": "おもいます",
+        "type": "verb"
+      },
+      {
+        "surface": "開いています",
+        "reading": "ひらいています",
+        "type": "verb"
+      },
+      {
+        "surface": "今",
+        "reading": "いま",
+        "type": "noun"
+      },
+      {
+        "surface": "笛",
+        "reading": "ふえ",
+        "type": "noun"
+      },
+      {
+        "surface": "吹く",
+        "reading": "ふく",
+        "type": "verb"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと",
+        "type": "noun"
+      },
+      {
+        "surface": "減って",
+        "reading": "へって",
+        "type": "verb"
+      },
+      {
+        "surface": "お祭り",
+        "reading": "おまつり",
+        "type": "noun"
+      },
+      {
+        "surface": "音",
+        "reading": "おと",
+        "type": "noun"
+      },
+      {
+        "surface": "使う",
+        "reading": "つかう",
+        "type": "verb"
+      },
+      {
+        "surface": "笛",
+        "reading": "ふえ",
+        "type": "noun"
+      },
+      {
+        "surface": "興味",
+        "reading": "きょうみ",
+        "type": "noun"
+      },
+      {
+        "surface": "持つ",
+        "reading": "もつ",
+        "type": "verb"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと",
+        "type": "noun"
+      },
+      {
+        "surface": "増える",
+        "reading": "ふえる",
+        "type": "verb"
+      },
+      {
+        "surface": "活動しています",
+        "reading": "かつどうしています",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 100.91078615188599
+  },
+  {
+    "id": 2,
+    "source": "hirogaru",
+    "text": "午前4時、堤防へ釣りに行く人が港にたくさん集まっています。船は、堤防で釣りをする人のために1日に何回も行きます。この日は８回くらい出発しました。一番最初の4時半の船に乗りました。",
+    "annotations": [
+      {
+        "surface": "午前4時",
+        "reading": "ごぜんよじ",
+        "type": "counter"
+      },
+      {
+        "surface": "堤防",
+        "reading": "ていぼう",
+        "type": "noun"
+      },
+      {
+        "surface": "釣り",
+        "reading": "つり",
+        "type": "noun"
+      },
+      {
+        "surface": "行く",
+        "reading": "いく",
+        "type": "verb"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと",
+        "type": "noun"
+      },
+      {
+        "surface": "港",
+        "reading": "みなと",
+        "type": "noun"
+      },
+      {
+        "surface": "集まっています",
+        "reading": "あつまっています",
+        "type": "verb"
+      },
+      {
+        "surface": "船",
+        "reading": "ふね",
+        "type": "noun"
+      },
+      {
+        "surface": "堤防",
+        "reading": "ていぼう",
+        "type": "noun"
+      },
+      {
+        "surface": "釣り",
+        "reading": "つり",
+        "type": "noun"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと",
+        "type": "noun"
+      },
+      {
+        "surface": "1日",
+        "reading": "いちにち",
+        "type": "counter"
+      },
+      {
+        "surface": "何回",
+        "reading": "なんかい",
+        "type": "counter"
+      },
+      {
+        "surface": "行きます",
+        "reading": "いきます",
+        "type": "verb"
+      },
+      {
+        "surface": "日",
+        "reading": "ひ",
+        "type": "noun"
+      },
+      {
+        "surface": "８回",
+        "reading": "はちかい",
+        "type": "counter"
+      },
+      {
+        "surface": "出発しました",
+        "reading": "しゅっぱつしました",
+        "type": "verb"
+      },
+      {
+        "surface": "一番",
+        "reading": "いちばん",
+        "type": "counter"
+      },
+      {
+        "surface": "最初",
+        "reading": "さいしょ",
+        "type": "noun"
+      },
+      {
+        "surface": "4時半",
+        "reading": "よじはん",
+        "type": "counter"
+      },
+      {
+        "surface": "船",
+        "reading": "ふね",
+        "type": "noun"
+      },
+      {
+        "surface": "乗りました",
+        "reading": "のりました",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 64.31487703323364
+  },
+  {
+    "id": 3,
+    "source": "hirogaru",
+    "text": "試合は二人でします。でも、二人は戦いません。型を見せて、どちらが美しいか、迫力があるか、審判が決めます。体が大きい人と小さい人、若い人と年をとった人、そして男性と女性が試合をすることもあります。ほかの武道と違っていて、おもしろいですね。",
+    "annotations": [
+      {
+        "surface": "試合",
+        "reading": "しあい",
+        "type": "noun"
+      },
+      {
+        "surface": "二人",
+        "reading": "ふたり",
+        "type": "counter"
+      },
+      {
+        "surface": "二人",
+        "reading": "ふたり",
+        "type": "counter"
+      },
+      {
+        "surface": "戦いません",
+        "reading": "たたかいません",
+        "type": "verb"
+      },
+      {
+        "surface": "型",
+        "reading": "かた",
+        "type": "noun"
+      },
+      {
+        "surface": "見せて",
+        "reading": "みせて",
+        "type": "verb"
+      },
+      {
+        "surface": "美しい",
+        "reading": "うつくしい",
+        "type": "adjective"
+      },
+      {
+        "surface": "迫力",
+        "reading": "はくりょく",
+        "type": "noun"
+      },
+      {
+        "surface": "審判",
+        "reading": "しんぱん",
+        "type": "noun"
+      },
+      {
+        "surface": "決めます",
+        "reading": "きめます",
+        "type": "verb"
+      },
+      {
+        "surface": "体",
+        "reading": "からだ",
+        "type": "noun"
+      },
+      {
+        "surface": "大きい",
+        "reading": "おおきい",
+        "type": "adjective"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと",
+        "type": "noun"
+      },
+      {
+        "surface": "小さい",
+        "reading": "ちいさい",
+        "type": "adjective"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと",
+        "type": "noun"
+      },
+      {
+        "surface": "若い",
+        "reading": "わかい",
+        "type": "adjective"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと",
+        "type": "noun"
+      },
+      {
+        "surface": "年",
+        "reading": "とし",
+        "type": "noun"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと",
+        "type": "noun"
+      },
+      {
+        "surface": "男性",
+        "reading": "だんせい",
+        "type": "noun"
+      },
+      {
+        "surface": "女性",
+        "reading": "じょせい",
+        "type": "noun"
+      },
+      {
+        "surface": "試合",
+        "reading": "しあい",
+        "type": "noun"
+      },
+      {
+        "surface": "武道",
+        "reading": "ぶどう",
+        "type": "noun"
+      },
+      {
+        "surface": "違っていて",
+        "reading": "ちがっていて",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 129.3031871318817
+  },
+  {
+    "id": 4,
+    "source": "hirogaru",
+    "text": "先生の話です。「私は、練習のとき墨汁を使いますが、作品を書くとき墨を使います。墨は時間がかかりますから、「早く書きたい」という気持ちになります。でも、長い時間、墨をすると、気持ちがとても落ち着きます。作品を書くために集中もできます。準備に時間を使って、集中して書くことは、とても大切です。」",
+    "annotations": [
+      {
+        "surface": "先生",
+        "reading": "せんせい",
+        "type": "noun"
+      },
+      {
+        "surface": "話",
+        "reading": "はなし",
+        "type": "noun"
+      },
+      {
+        "surface": "私",
+        "reading": "わたし",
+        "type": "noun"
+      },
+      {
+        "surface": "練習",
+        "reading": "れんしゅう",
+        "type": "noun"
+      },
+      {
+        "surface": "墨汁",
+        "reading": "ぼくじゅう",
+        "type": "noun"
+      },
+      {
+        "surface": "使います",
+        "reading": "つかいます",
+        "type": "verb"
+      },
+      {
+        "surface": "作品",
+        "reading": "さくひん",
+        "type": "noun"
+      },
+      {
+        "surface": "書く",
+        "reading": "かく",
+        "type": "verb"
+      },
+      {
+        "surface": "墨",
+        "reading": "すみ",
+        "type": "noun"
+      },
+      {
+        "surface": "使います",
+        "reading": "つかいます",
+        "type": "verb"
+      },
+      {
+        "surface": "墨",
+        "reading": "すみ",
+        "type": "noun"
+      },
+      {
+        "surface": "時間",
+        "reading": "じかん",
+        "type": "noun"
+      },
+      {
+        "surface": "早く",
+        "reading": "はやく",
+        "type": "adjective"
+      },
+      {
+        "surface": "書きたい",
+        "reading": "かきたい",
+        "type": "verb"
+      },
+      {
+        "surface": "気持ち",
+        "reading": "きもち",
+        "type": "noun"
+      },
+      {
+        "surface": "長い",
+        "reading": "ながい",
+        "type": "adjective"
+      },
+      {
+        "surface": "時間",
+        "reading": "じかん",
+        "type": "noun"
+      },
+      {
+        "surface": "墨",
+        "reading": "すみ",
+        "type": "noun"
+      },
+      {
+        "surface": "気持ち",
+        "reading": "きもち",
+        "type": "noun"
+      },
+      {
+        "surface": "落ち着きます",
+        "reading": "おちつきます",
+        "type": "verb"
+      },
+      {
+        "surface": "作品",
+        "reading": "さくひん",
+        "type": "noun"
+      },
+      {
+        "surface": "書く",
+        "reading": "かく",
+        "type": "verb"
+      },
+      {
+        "surface": "集中",
+        "reading": "しゅうちゅう",
+        "type": "noun"
+      },
+      {
+        "surface": "準備",
+        "reading": "じゅんび",
+        "type": "noun"
+      },
+      {
+        "surface": "時間",
+        "reading": "じかん",
+        "type": "noun"
+      },
+      {
+        "surface": "使って",
+        "reading": "つかって",
+        "type": "verb"
+      },
+      {
+        "surface": "集中して",
+        "reading": "しゅうちゅうして",
+        "type": "verb"
+      },
+      {
+        "surface": "書く",
+        "reading": "かく",
+        "type": "verb"
+      },
+      {
+        "surface": "大切",
+        "reading": "たいせつ",
+        "type": "adjective"
+      }
+    ],
+    "time_seconds": 129.20117449760437
+  },
+  {
+    "id": 5,
+    "source": "hirogaru",
+    "text": "普通の本屋で、本の値段は決まっていますが、ここでは自分で考えて値段を決めます。それが面白いです。売れなかったら安くします。自分で商売をしている気持ちになります。",
+    "annotations": [
+      {
+        "surface": "普通",
+        "reading": "ふつう",
+        "type": "noun"
+      },
+      {
+        "surface": "本屋",
+        "reading": "ほんや",
+        "type": "noun"
+      },
+      {
+        "surface": "本",
+        "reading": "ほん",
+        "type": "noun"
+      },
+      {
+        "surface": "値段",
+        "reading": "ねだん",
+        "type": "noun"
+      },
+      {
+        "surface": "決まっています",
+        "reading": "きまっています",
+        "type": "verb"
+      },
+      {
+        "surface": "自分",
+        "reading": "じぶん",
+        "type": "noun"
+      },
+      {
+        "surface": "考えて",
+        "reading": "かんがえて",
+        "type": "verb"
+      },
+      {
+        "surface": "値段",
+        "reading": "ねだん",
+        "type": "noun"
+      },
+      {
+        "surface": "決めます",
+        "reading": "きめます",
+        "type": "verb"
+      },
+      {
+        "surface": "面白い",
+        "reading": "おもしろい",
+        "type": "adjective"
+      },
+      {
+        "surface": "売れなかったら",
+        "reading": "うれなかったら",
+        "type": "verb"
+      },
+      {
+        "surface": "安くします",
+        "reading": "やすくします",
+        "type": "adjective"
+      },
+      {
+        "surface": "自分",
+        "reading": "じぶん",
+        "type": "noun"
+      },
+      {
+        "surface": "商売",
+        "reading": "しょうばい",
+        "type": "noun"
+      },
+      {
+        "surface": "気持ち",
+        "reading": "きもち",
+        "type": "noun"
+      }
+    ],
+    "time_seconds": 107.17402982711792
+  },
+  {
+    "id": 6,
+    "source": "hirogaru",
+    "text": "書道のSNSグループに参加しています。毎日ひとりが、書くことばを決めます。みんなは、そのことばを書いてSNSに写真をアップします。この日は「祝う」という字を書きました。いろいろな書が集まりました。どの書が好きですか。",
+    "annotations": [
+      {
+        "surface": "書道",
+        "reading": "しょどう",
+        "type": "noun"
+      },
+      {
+        "surface": "参加しています",
+        "reading": "さんかしています",
+        "type": "verb"
+      },
+      {
+        "surface": "毎日",
+        "reading": "まいにち",
+        "type": "noun"
+      },
+      {
+        "surface": "書く",
+        "reading": "かく",
+        "type": "verb"
+      },
+      {
+        "surface": "決めます",
+        "reading": "きめます",
+        "type": "verb"
+      },
+      {
+        "surface": "書いて",
+        "reading": "かいて",
+        "type": "verb"
+      },
+      {
+        "surface": "写真",
+        "reading": "しゃしん",
+        "type": "noun"
+      },
+      {
+        "surface": "日",
+        "reading": "ひ",
+        "type": "noun"
+      },
+      {
+        "surface": "祝う",
+        "reading": "いわう",
+        "type": "verb"
+      },
+      {
+        "surface": "字",
+        "reading": "じ",
+        "type": "noun"
+      },
+      {
+        "surface": "書きました",
+        "reading": "かきました",
+        "type": "verb"
+      },
+      {
+        "surface": "書",
+        "reading": "しょ",
+        "type": "noun"
+      },
+      {
+        "surface": "集まりました",
+        "reading": "あつまりました",
+        "type": "verb"
+      },
+      {
+        "surface": "書",
+        "reading": "しょ",
+        "type": "noun"
+      },
+      {
+        "surface": "好き",
+        "reading": "すき",
+        "type": "adjective"
+      }
+    ],
+    "time_seconds": 48.65035939216614
+  },
+  {
+    "id": 7,
+    "source": "hirogaru",
+    "text": "山の近くにある寺に行きました。近くに住んでいる人のための寺ですから、観光客はあまり来ません。",
+    "annotations": [
+      {
+        "surface": "山",
+        "reading": "やま",
+        "type": "noun"
+      },
+      {
+        "surface": "近く",
+        "reading": "ちかく",
+        "type": "noun"
+      },
+      {
+        "surface": "寺",
+        "reading": "てら",
+        "type": "noun"
+      },
+      {
+        "surface": "行きました",
+        "reading": "いきました",
+        "type": "verb"
+      },
+      {
+        "surface": "近く",
+        "reading": "ちかく",
+        "type": "noun"
+      },
+      {
+        "surface": "住んでいる",
+        "reading": "すんでいる",
+        "type": "verb"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと",
+        "type": "noun"
+      },
+      {
+        "surface": "寺",
+        "reading": "てら",
+        "type": "noun"
+      },
+      {
+        "surface": "観光客",
+        "reading": "かんこうきゃく",
+        "type": "noun"
+      },
+      {
+        "surface": "来ません",
+        "reading": "きません",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 40.77997922897339
+  },
+  {
+    "id": 8,
+    "source": "hirogaru",
+    "text": "上には、木星や土星がありました。小さく地球も見えます。地球からの距離と、星の大きさを表しています。",
+    "annotations": [
+      {
+        "surface": "上",
+        "reading": "うえ",
+        "type": "noun"
+      },
+      {
+        "surface": "木星",
+        "reading": "もくせい",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "土星",
+        "reading": "どせい",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "小さく",
+        "reading": "ちいさく",
+        "type": "adjective"
+      },
+      {
+        "surface": "地球",
+        "reading": "ちきゅう",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "見えます",
+        "reading": "みえます",
+        "type": "verb"
+      },
+      {
+        "surface": "地球",
+        "reading": "ちきゅう",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "距離",
+        "reading": "きょり",
+        "type": "noun"
+      },
+      {
+        "surface": "星",
+        "reading": "ほし",
+        "type": "noun"
+      },
+      {
+        "surface": "大きさ",
+        "reading": "おおきさ",
+        "type": "noun"
+      },
+      {
+        "surface": "表しています",
+        "reading": "あらわしています",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 51.27292561531067
+  },
+  {
+    "id": 9,
+    "source": "hirogaru",
+    "text": "ここは、中古の本を売っている店です。いろいろな人がここへ来て、読み終わった本を売ります。そして、店はその本を売ります。",
+    "annotations": [
+      {
+        "surface": "中古",
+        "reading": "ちゅうこ",
+        "type": "noun"
+      },
+      {
+        "surface": "本",
+        "reading": "ほん",
+        "type": "noun"
+      },
+      {
+        "surface": "売っている",
+        "reading": "うっている",
+        "type": "verb"
+      },
+      {
+        "surface": "店",
+        "reading": "みせ",
+        "type": "noun"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと",
+        "type": "noun"
+      },
+      {
+        "surface": "来て",
+        "reading": "きて",
+        "type": "verb"
+      },
+      {
+        "surface": "読み終わった",
+        "reading": "よみおわった",
+        "type": "verb"
+      },
+      {
+        "surface": "本",
+        "reading": "ほん",
+        "type": "noun"
+      },
+      {
+        "surface": "売ります",
+        "reading": "うります",
+        "type": "verb"
+      },
+      {
+        "surface": "店",
+        "reading": "みせ",
+        "type": "noun"
+      },
+      {
+        "surface": "本",
+        "reading": "ほん",
+        "type": "noun"
+      },
+      {
+        "surface": "売ります",
+        "reading": "うります",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 114.41021800041199
+  },
+  {
+    "id": 10,
+    "source": "hirogaru",
+    "text": "和太鼓の演奏を見ました。このグループは、13年前から活動しています。",
+    "annotations": [
+      {
+        "surface": "和太鼓",
+        "reading": "わだいこ",
+        "type": "noun"
+      },
+      {
+        "surface": "演奏",
+        "reading": "えんそう",
+        "type": "noun"
+      },
+      {
+        "surface": "見ました",
+        "reading": "みました",
+        "type": "verb"
+      },
+      {
+        "surface": "13年前",
+        "reading": "じゅうさんねんまえ",
+        "type": "counter"
+      },
+      {
+        "surface": "活動しています",
+        "reading": "かつどうしています",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 63.567665576934814
+  },
+  {
+    "id": 11,
+    "source": "hirogaru",
+    "text": "大きい岩は砂浜の上にあって、自然の力を感じます。それで神社を作ったのかもしれません。",
+    "annotations": [
+      {
+        "surface": "大きい",
+        "reading": "おおきい",
+        "type": "adjective"
+      },
+      {
+        "surface": "岩",
+        "reading": "いわ",
+        "type": "noun"
+      },
+      {
+        "surface": "砂浜",
+        "reading": "すなはま",
+        "type": "noun"
+      },
+      {
+        "surface": "上",
+        "reading": "うえ",
+        "type": "noun"
+      },
+      {
+        "surface": "自然",
+        "reading": "しぜん",
+        "type": "noun"
+      },
+      {
+        "surface": "力",
+        "reading": "ちから",
+        "type": "noun"
+      },
+      {
+        "surface": "感じます",
+        "reading": "かんじます",
+        "type": "verb"
+      },
+      {
+        "surface": "神社",
+        "reading": "じんじゃ",
+        "type": "noun"
+      },
+      {
+        "surface": "作った",
+        "reading": "つくった",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 158.47285294532776
+  },
+  {
+    "id": 12,
+    "source": "hirogaru",
+    "text": "鎖は、全部で200メートル以上あります。下を見ると怖くなりますから、下は見ないほうがいいです。",
+    "annotations": [
+      {
+        "surface": "鎖",
+        "reading": "くさり",
+        "type": "noun"
+      },
+      {
+        "surface": "全部",
+        "reading": "ぜんぶ",
+        "type": "noun"
+      },
+      {
+        "surface": "以上",
+        "reading": "いじょう",
+        "type": "noun"
+      },
+      {
+        "surface": "下",
+        "reading": "した",
+        "type": "noun"
+      },
+      {
+        "surface": "見る",
+        "reading": "みる",
+        "type": "verb"
+      },
+      {
+        "surface": "怖くなります",
+        "reading": "こわくなります",
+        "type": "adjective"
+      },
+      {
+        "surface": "下",
+        "reading": "した",
+        "type": "noun"
+      },
+      {
+        "surface": "見ない",
+        "reading": "みない",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 130.45978808403015
+  },
+  {
+    "id": 13,
+    "source": "hirogaru",
+    "text": "会社の近くにスーパーがあるので、ときどき昼休みにお弁当を買いに行きます。スーパーでは、たくさんのお弁当を売っています。",
+    "annotations": [
+      {
+        "surface": "会社",
+        "reading": "かいしゃ",
+        "type": "noun"
+      },
+      {
+        "surface": "近く",
+        "reading": "ちかく",
+        "type": "noun"
+      },
+      {
+        "surface": "昼休み",
+        "reading": "ひるやすみ",
+        "type": "noun"
+      },
+      {
+        "surface": "お弁当",
+        "reading": "おべんとう",
+        "type": "noun"
+      },
+      {
+        "surface": "買いに行きます",
+        "reading": "かいにいきます",
+        "type": "verb"
+      },
+      {
+        "surface": "お弁当",
+        "reading": "おべんとう",
+        "type": "noun"
+      },
+      {
+        "surface": "売っています",
+        "reading": "うっています",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 115.27791452407837
+  },
+  {
+    "id": 14,
+    "source": "hirogaru",
+    "text": "でも、古い道場もあります。ここは、お城の中にある道場です。左の建物が道場で、右にお城が見えます。",
+    "annotations": [
+      {
+        "surface": "古い",
+        "reading": "ふるい",
+        "type": "adjective"
+      },
+      {
+        "surface": "道場",
+        "reading": "どうじょう",
+        "type": "noun"
+      },
+      {
+        "surface": "お城",
+        "reading": "おしろ",
+        "type": "noun"
+      },
+      {
+        "surface": "中",
+        "reading": "なか",
+        "type": "noun"
+      },
+      {
+        "surface": "道場",
+        "reading": "どうじょう",
+        "type": "noun"
+      },
+      {
+        "surface": "左",
+        "reading": "ひだり",
+        "type": "noun"
+      },
+      {
+        "surface": "建物",
+        "reading": "たてもの",
+        "type": "noun"
+      },
+      {
+        "surface": "道場",
+        "reading": "どうじょう",
+        "type": "noun"
+      },
+      {
+        "surface": "右",
+        "reading": "みぎ",
+        "type": "noun"
+      },
+      {
+        "surface": "お城",
+        "reading": "おしろ",
+        "type": "noun"
+      },
+      {
+        "surface": "見えます",
+        "reading": "みえます",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 183.84453654289246
+  },
+  {
+    "id": 15,
+    "source": "hirogaru",
+    "text": "七五三は11月に行くことが多いです。着物を着る人もたくさんいます。この日はいい天気でした。",
+    "annotations": [
+      {
+        "surface": "七五三",
+        "reading": "しちごさん",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "11月",
+        "reading": "じゅういちがつ",
+        "type": "counter"
+      },
+      {
+        "surface": "行く",
+        "reading": "いく",
+        "type": "verb"
+      },
+      {
+        "surface": "多い",
+        "reading": "おおい",
+        "type": "adjective"
+      },
+      {
+        "surface": "着物",
+        "reading": "きもの",
+        "type": "noun"
+      },
+      {
+        "surface": "着る",
+        "reading": "きる",
+        "type": "verb"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと",
+        "type": "noun"
+      },
+      {
+        "surface": "日",
+        "reading": "ひ",
+        "type": "noun"
+      },
+      {
+        "surface": "天気",
+        "reading": "てんき",
+        "type": "noun"
+      }
+    ],
+    "time_seconds": 37.61510396003723
+  },
+  {
+    "id": 16,
+    "source": "hirogaru",
+    "text": "Q笛をどこで知りましたか。きっかけを教えてください。",
+    "annotations": [
+      {
+        "surface": "笛",
+        "reading": "ふえ",
+        "type": "noun"
+      },
+      {
+        "surface": "知りました",
+        "reading": "しりました",
+        "type": "verb"
+      },
+      {
+        "surface": "教えてください",
+        "reading": "おしえてください",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 47.299662351608276
+  },
+  {
+    "id": 17,
+    "source": "hirogaru",
+    "text": "服を作る人もいますが、私はインターネットの専門の店で買っています。着なくなった服は、友達にあげたり、売ったりします。",
+    "annotations": [
+      {
+        "surface": "服",
+        "reading": "ふく",
+        "type": "noun"
+      },
+      {
+        "surface": "作る",
+        "reading": "つくる",
+        "type": "verb"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと",
+        "type": "noun"
+      },
+      {
+        "surface": "私",
+        "reading": "わたし",
+        "type": "noun"
+      },
+      {
+        "surface": "専門",
+        "reading": "せんもん",
+        "type": "noun"
+      },
+      {
+        "surface": "店",
+        "reading": "みせ",
+        "type": "noun"
+      },
+      {
+        "surface": "買っています",
+        "reading": "かっています",
+        "type": "verb"
+      },
+      {
+        "surface": "着なくなった",
+        "reading": "きなくなった",
+        "type": "verb"
+      },
+      {
+        "surface": "服",
+        "reading": "ふく",
+        "type": "noun"
+      },
+      {
+        "surface": "友達",
+        "reading": "ともだち",
+        "type": "noun"
+      },
+      {
+        "surface": "売ったりします",
+        "reading": "うったりします",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 208.84717845916748
+  },
+  {
+    "id": 18,
+    "source": "hirogaru",
+    "text": "京都の夕方の空です。少し暗くなって、この後、夜景になりました。",
+    "annotations": [
+      {
+        "surface": "京都",
+        "reading": "きょうと",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "夕方",
+        "reading": "ゆうがた",
+        "type": "noun"
+      },
+      {
+        "surface": "空",
+        "reading": "そら",
+        "type": "noun"
+      },
+      {
+        "surface": "少し",
+        "reading": "すこし",
+        "type": "noun"
+      },
+      {
+        "surface": "暗くなって",
+        "reading": "くらくなって",
+        "type": "adjective"
+      },
+      {
+        "surface": "後",
+        "reading": "あと",
+        "type": "noun"
+      },
+      {
+        "surface": "夜景",
+        "reading": "やけい",
+        "type": "noun"
+      }
+    ],
+    "time_seconds": 50.88353705406189
+  },
+  {
+    "id": 19,
+    "source": "hirogaru",
+    "text": "一瞬でも好きなキャラクターになれることです。コスプレをして撮った写真を見ているときは、とても幸せです。",
+    "annotations": [
+      {
+        "surface": "一瞬",
+        "reading": "いっしゅん",
+        "type": "noun"
+      },
+      {
+        "surface": "好きな",
+        "reading": "すきな",
+        "type": "adjective"
+      },
+      {
+        "surface": "撮った",
+        "reading": "とった",
+        "type": "verb"
+      },
+      {
+        "surface": "写真",
+        "reading": "しゃしん",
+        "type": "noun"
+      },
+      {
+        "surface": "見ている",
+        "reading": "みている",
+        "type": "verb"
+      },
+      {
+        "surface": "幸せ",
+        "reading": "しあわせ",
+        "type": "adjective"
+      }
+    ],
+    "time_seconds": 52.777846813201904
+  },
+  {
+    "id": 20,
+    "source": "hirogaru",
+    "text": "Q. どうしてウクレレの店を作りましたか。",
+    "annotations": [
+      {
+        "surface": "店",
+        "reading": "みせ",
+        "type": "noun"
+      },
+      {
+        "surface": "作りました",
+        "reading": "つくりました",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 29.011775970458984
+  },
+  {
+    "id": 21,
+    "source": "kahoku",
+    "text": "東北野生動物保護管理センター（自然の中で生きる動物を研究している所）の小野田泰士さんは「台原森林公園は広いので、カモシカが住むこともできます。",
+    "annotations": [
+      {
+        "surface": "東北野生動物保護管理センター",
+        "reading": "とうほくやせいどうぶつほごかんりせんたー",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "自然",
+        "reading": "しぜん",
+        "type": "noun"
+      },
+      {
+        "surface": "中",
+        "reading": "なか",
+        "type": "noun"
+      },
+      {
+        "surface": "生きる",
+        "reading": "いきる",
+        "type": "verb"
+      },
+      {
+        "surface": "動物",
+        "reading": "どうぶつ",
+        "type": "noun"
+      },
+      {
+        "surface": "研究している",
+        "reading": "けんきゅうしている",
+        "type": "verb"
+      },
+      {
+        "surface": "所",
+        "reading": "ところ",
+        "type": "noun"
+      },
+      {
+        "surface": "小野田泰士",
+        "reading": "おのだやすし",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "台原森林公園",
+        "reading": "だいのはらしんりんこうえん",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "広い",
+        "reading": "ひろい",
+        "type": "adjective"
+      },
+      {
+        "surface": "住む",
+        "reading": "すむ",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 69.11930274963379
+  },
+  {
+    "id": 22,
+    "source": "kahoku",
+    "text": "隣りの涌谷町から来た古川黎明中学校２年生、富樫優愛さん（１３歳）は「親も食べたいと言っていたので買いに来ました。",
+    "annotations": [
+      {
+        "surface": "隣り",
+        "reading": "となり",
+        "type": "noun"
+      },
+      {
+        "surface": "涌谷町",
+        "reading": "わくやちょう",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "来た",
+        "reading": "きた",
+        "type": "verb"
+      },
+      {
+        "surface": "古川黎明中学校",
+        "reading": "ふるかわれいめいちゅうがっこう",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "２年生",
+        "reading": "にねんせい",
+        "type": "counter"
+      },
+      {
+        "surface": "富樫",
+        "reading": "とがし",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "優愛",
+        "reading": "ゆあ",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "１３歳",
+        "reading": "じゅうさんさい",
+        "type": "counter"
+      },
+      {
+        "surface": "親",
+        "reading": "おや",
+        "type": "noun"
+      },
+      {
+        "surface": "食べたい",
+        "reading": "たべたい",
+        "type": "verb"
+      },
+      {
+        "surface": "言っていた",
+        "reading": "いっていた",
+        "type": "verb"
+      },
+      {
+        "surface": "買い",
+        "reading": "かい",
+        "type": "verb"
+      },
+      {
+        "surface": "来ました",
+        "reading": "きました",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 225.94415950775146
+  },
+  {
+    "id": 23,
+    "source": "kahoku",
+    "text": "ここで４月、国の特別天然記念物（国が決めて特に大切に守っている珍しいもの）のニホンカモシカが、何度も見られています。",
+    "annotations": [
+      {
+        "surface": "４月",
+        "reading": "しがつ",
+        "type": "counter"
+      },
+      {
+        "surface": "国",
+        "reading": "くに",
+        "type": "noun"
+      },
+      {
+        "surface": "特別天然記念物",
+        "reading": "とくべつてんねんきねんぶつ",
+        "type": "noun"
+      },
+      {
+        "surface": "国",
+        "reading": "くに",
+        "type": "noun"
+      },
+      {
+        "surface": "決めて",
+        "reading": "きめて",
+        "type": "verb"
+      },
+      {
+        "surface": "特に",
+        "reading": "とくに",
+        "type": "adverb"
+      },
+      {
+        "surface": "大切に",
+        "reading": "たいせつに",
+        "type": "adjective"
+      },
+      {
+        "surface": "守っている",
+        "reading": "まもっている",
+        "type": "verb"
+      },
+      {
+        "surface": "珍しい",
+        "reading": "めずらしい",
+        "type": "adjective"
+      },
+      {
+        "surface": "何度",
+        "reading": "なんど",
+        "type": "counter"
+      },
+      {
+        "surface": "見られています",
+        "reading": "みられています",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 56.99445843696594
+  },
+  {
+    "id": 24,
+    "source": "kahoku",
+    "text": "また、実習生たちは、日本語教室で練習した曲「もしもピアノが弾けたなら」も歌いました。",
+    "annotations": [
+      {
+        "surface": "実習生",
+        "reading": "じっしゅうせい",
+        "type": "noun"
+      },
+      {
+        "surface": "日本語教室",
+        "reading": "にほんごきょうしつ",
+        "type": "noun"
+      },
+      {
+        "surface": "練習した",
+        "reading": "れんしゅうした",
+        "type": "verb"
+      },
+      {
+        "surface": "曲",
+        "reading": "きょく",
+        "type": "noun"
+      },
+      {
+        "surface": "弾けたなら",
+        "reading": "ひけたなら",
+        "type": "verb"
+      },
+      {
+        "surface": "歌いました",
+        "reading": "うたいました",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 64.45674014091492
+  },
+  {
+    "id": 25,
+    "source": "kahoku",
+    "text": "太白区金剛沢コミュニティ・センターの健康マージャン教室に１０年間、毎週通いました。",
+    "annotations": [
+      {
+        "surface": "太白区",
+        "reading": "たいはくく",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "金剛沢",
+        "reading": "こんごうざわ",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "健康",
+        "reading": "けんこう",
+        "type": "noun"
+      },
+      {
+        "surface": "教室",
+        "reading": "きょうしつ",
+        "type": "noun"
+      },
+      {
+        "surface": "１０年間",
+        "reading": "じゅうねんかん",
+        "type": "counter"
+      },
+      {
+        "surface": "毎週",
+        "reading": "まいしゅう",
+        "type": "noun"
+      },
+      {
+        "surface": "通いました",
+        "reading": "かよいました",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 54.33381509780884
+  },
+  {
+    "id": 26,
+    "source": "kahoku",
+    "text": "神様のために踊った小学校６年生の佐藤実織さん（１１歳）は「自然が好きなので、神社へ来るととても気持ちが良くなります。",
+    "annotations": [
+      {
+        "surface": "神様",
+        "reading": "かみさま",
+        "type": "noun"
+      },
+      {
+        "surface": "踊った",
+        "reading": "おどった",
+        "type": "verb"
+      },
+      {
+        "surface": "小学校",
+        "reading": "しょうがっこう",
+        "type": "noun"
+      },
+      {
+        "surface": "６年生",
+        "reading": "ろくねんせい",
+        "type": "counter"
+      },
+      {
+        "surface": "佐藤",
+        "reading": "さとう",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "実織",
+        "reading": "みおり",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "１１歳",
+        "reading": "じゅういっさい",
+        "type": "counter"
+      },
+      {
+        "surface": "自然",
+        "reading": "しぜん",
+        "type": "noun"
+      },
+      {
+        "surface": "好きな",
+        "reading": "すきな",
+        "type": "adjective"
+      },
+      {
+        "surface": "神社",
+        "reading": "じんじゃ",
+        "type": "noun"
+      },
+      {
+        "surface": "来る",
+        "reading": "くる",
+        "type": "verb"
+      },
+      {
+        "surface": "気持ち",
+        "reading": "きもち",
+        "type": "noun"
+      },
+      {
+        "surface": "良くなります",
+        "reading": "よくなります",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 137.91986536979675
+  },
+  {
+    "id": 27,
+    "source": "kahoku",
+    "text": "仙台市青葉区の台原森林公園は、広くて緑が多い公園です。",
+    "annotations": [
+      {
+        "surface": "仙台市",
+        "reading": "せんだいし",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "青葉区",
+        "reading": "あおばく",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "台原森林公園",
+        "reading": "だいのはらしんりんこうえん",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "広くて",
+        "reading": "ひろくて",
+        "type": "adjective"
+      },
+      {
+        "surface": "緑",
+        "reading": "みどり",
+        "type": "noun"
+      },
+      {
+        "surface": "多い",
+        "reading": "おおい",
+        "type": "adjective"
+      },
+      {
+        "surface": "公園",
+        "reading": "こうえん",
+        "type": "noun"
+      }
+    ],
+    "time_seconds": 42.23323202133179
+  },
+  {
+    "id": 28,
+    "source": "kahoku",
+    "text": "高校２年生の阿部日夏さんは「ブルーベリーで有名な富谷市のことを知ってほしかったです。",
+    "annotations": [
+      {
+        "surface": "高校２年生",
+        "reading": "こうこうにねんせい",
+        "type": "noun"
+      },
+      {
+        "surface": "阿部日夏",
+        "reading": "あべひなつ",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "有名な",
+        "reading": "ゆうめいな",
+        "type": "adjective"
+      },
+      {
+        "surface": "富谷市",
+        "reading": "とみやし",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "知ってほしかったです",
+        "reading": "しってほしかったです",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 37.88344621658325
+  },
+  {
+    "id": 29,
+    "source": "kahoku",
+    "text": "それで、八木山動物公園と大森山動物園は話をして、雌のアフリカゾウを取り換えてみることにしました。",
+    "annotations": [
+      {
+        "surface": "八木山動物公園",
+        "reading": "やぎやまどうぶつこうえん",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "大森山動物園",
+        "reading": "おおもりやまどうぶつえん",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "話",
+        "reading": "はなし",
+        "type": "noun"
+      },
+      {
+        "surface": "雌",
+        "reading": "めす",
+        "type": "noun"
+      },
+      {
+        "surface": "取り換えてみる",
+        "reading": "とりかえてみる",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 265.6527678966522
+  },
+  {
+    "id": 30,
+    "source": "kahoku",
+    "text": "７月１２日、初めて売った日は２０人ぐらいの人が並びました。",
+    "annotations": [
+      {
+        "surface": "７月",
+        "reading": "しちがつ",
+        "type": "counter"
+      },
+      {
+        "surface": "１２日",
+        "reading": "じゅうににち",
+        "type": "counter"
+      },
+      {
+        "surface": "初めて",
+        "reading": "はじめて",
+        "type": "adverb"
+      },
+      {
+        "surface": "売った",
+        "reading": "うった",
+        "type": "verb"
+      },
+      {
+        "surface": "日",
+        "reading": "ひ",
+        "type": "noun"
+      },
+      {
+        "surface": "２０人",
+        "reading": "にじゅうにん",
+        "type": "counter"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと",
+        "type": "noun"
+      },
+      {
+        "surface": "並びました",
+        "reading": "ならびました",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 76.84525108337402
+  },
+  {
+    "id": 31,
+    "source": "kahoku",
+    "text": "それで、仙台市の宮城野高校にあげることを決めました。",
+    "annotations": [
+      {
+        "surface": "仙台市",
+        "reading": "せんだいし",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "宮城野高校",
+        "reading": "みやぎのこうこう",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "決めました",
+        "reading": "きめました",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 28.95089554786682
+  },
+  {
+    "id": 32,
+    "source": "kahoku",
+    "text": "高校生たちは、ブルーベリーを使って紫色の液体（水のような物）を作りました。",
+    "annotations": [
+      {
+        "surface": "高校生",
+        "reading": "こうこうせい",
+        "type": "noun"
+      },
+      {
+        "surface": "使って",
+        "reading": "つかって",
+        "type": "verb"
+      },
+      {
+        "surface": "紫色",
+        "reading": "むらさきいろ",
+        "type": "noun"
+      },
+      {
+        "surface": "液体",
+        "reading": "えきたい",
+        "type": "noun"
+      },
+      {
+        "surface": "水",
+        "reading": "みず",
+        "type": "noun"
+      },
+      {
+        "surface": "物",
+        "reading": "もの",
+        "type": "noun"
+      },
+      {
+        "surface": "作りました",
+        "reading": "つくりました",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 112.22324347496033
+  },
+  {
+    "id": 33,
+    "source": "kahoku",
+    "text": "斎藤正美市長は「新しい大人の皆さんは石巻市を元気にする、とても大切な人たちです」と、あいさつをしました。",
+    "annotations": [
+      {
+        "surface": "斎藤正美",
+        "reading": "さいとうまさみ",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "市長",
+        "reading": "しちょう",
+        "type": "noun"
+      },
+      {
+        "surface": "新しい",
+        "reading": "あたらしい",
+        "type": "adjective"
+      },
+      {
+        "surface": "大人",
+        "reading": "おとな",
+        "type": "noun"
+      },
+      {
+        "surface": "皆",
+        "reading": "みな",
+        "type": "noun"
+      },
+      {
+        "surface": "石巻市",
+        "reading": "いしのまきし",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "元気にする",
+        "reading": "げんきにする",
+        "type": "verb"
+      },
+      {
+        "surface": "大切な",
+        "reading": "たいせつな",
+        "type": "adjective"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと",
+        "type": "noun"
+      }
+    ],
+    "time_seconds": 142.44683504104614
+  },
+  {
+    "id": 34,
+    "source": "kahoku",
+    "text": "それで、花も大きくなって、きれいに育ちました」と話しました。",
+    "annotations": [
+      {
+        "surface": "花",
+        "reading": "はな",
+        "type": "noun"
+      },
+      {
+        "surface": "大きくなって",
+        "reading": "おおきくなって",
+        "type": "adjective"
+      },
+      {
+        "surface": "育ちました",
+        "reading": "そだちました",
+        "type": "verb"
+      },
+      {
+        "surface": "話しました",
+        "reading": "はなしました",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 57.01480746269226
+  },
+  {
+    "id": 35,
+    "source": "kahoku",
+    "text": "授業には、富谷小学校の３年生５８人が参加しました。",
+    "annotations": [
+      {
+        "surface": "授業",
+        "reading": "じゅぎょう",
+        "type": "noun"
+      },
+      {
+        "surface": "富谷小学校",
+        "reading": "とみやしょうがっこう",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "３年生",
+        "reading": "さんねんせい",
+        "type": "counter"
+      },
+      {
+        "surface": "５８人",
+        "reading": "ごじゅうはちにん",
+        "type": "counter"
+      },
+      {
+        "surface": "参加しました",
+        "reading": "さんかしました",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 64.33364272117615
+  },
+  {
+    "id": 36,
+    "source": "kahoku",
+    "text": "１１月１０日には、２０人くらいの人たちがアメリカザリガニとウシガエルを使った料理を食べました。",
+    "annotations": [
+      {
+        "surface": "１１月",
+        "reading": "じゅういちがつ",
+        "type": "counter"
+      },
+      {
+        "surface": "１０日",
+        "reading": "とおか",
+        "type": "counter"
+      },
+      {
+        "surface": "２０人",
+        "reading": "にじゅうにん",
+        "type": "counter"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと",
+        "type": "noun"
+      },
+      {
+        "surface": "使った",
+        "reading": "つかった",
+        "type": "verb"
+      },
+      {
+        "surface": "料理",
+        "reading": "りょうり",
+        "type": "noun"
+      },
+      {
+        "surface": "食べました",
+        "reading": "たべました",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 151.52437353134155
+  },
+  {
+    "id": 37,
+    "source": "kahoku",
+    "text": "木村さんは、１８年前、名古屋の大学に通うために、名古屋市に引っ越ししました。",
+    "annotations": [
+      {
+        "surface": "木村",
+        "reading": "きむら",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "１８年前",
+        "reading": "じゅうはちねんまえ",
+        "type": "counter"
+      },
+      {
+        "surface": "名古屋",
+        "reading": "なごや",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "大学",
+        "reading": "だいがく",
+        "type": "noun"
+      },
+      {
+        "surface": "通う",
+        "reading": "かよう",
+        "type": "verb"
+      },
+      {
+        "surface": "名古屋市",
+        "reading": "なごやし",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "引っ越ししました",
+        "reading": "ひっこししました",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 59.69249868392944
+  },
+  {
+    "id": 38,
+    "source": "kahoku",
+    "text": "生徒の親たちは、卒業する３年生のためにプレゼントをしようと思いました。",
+    "annotations": [
+      {
+        "surface": "生徒",
+        "reading": "せいと",
+        "type": "noun"
+      },
+      {
+        "surface": "親",
+        "reading": "おや",
+        "type": "noun"
+      },
+      {
+        "surface": "卒業する",
+        "reading": "そつぎょうする",
+        "type": "verb"
+      },
+      {
+        "surface": "３年生",
+        "reading": "さんねんせい",
+        "type": "counter"
+      },
+      {
+        "surface": "思いました",
+        "reading": "おもいました",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 91.85124945640564
+  },
+  {
+    "id": 39,
+    "source": "kahoku",
+    "text": "山形県朝日町には、空気を神様にした「空気神社」があります。",
+    "annotations": [
+      {
+        "surface": "山形県",
+        "reading": "やまがたけん",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "朝日町",
+        "reading": "あさひまち",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "空気",
+        "reading": "くうき",
+        "type": "noun"
+      },
+      {
+        "surface": "神様",
+        "reading": "かみさま",
+        "type": "noun"
+      },
+      {
+        "surface": "空気神社",
+        "reading": "くうきじんじゃ",
+        "type": "proper_noun"
+      }
+    ],
+    "time_seconds": 88.41653394699097
+  },
+  {
+    "id": 40,
+    "source": "kahoku",
+    "text": "３月２４日には、９０人くらいの人が来ました。",
+    "annotations": [
+      {
+        "surface": "３月２４日",
+        "reading": "さんがつにじゅうよっか",
+        "type": "noun"
+      },
+      {
+        "surface": "９０人",
+        "reading": "きゅうじゅうにん",
+        "type": "counter"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと",
+        "type": "noun"
+      },
+      {
+        "surface": "来ました",
+        "reading": "きました",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 79.64272713661194
+  },
+  {
+    "id": 41,
+    "source": "nhk",
+    "text": "家族の1人、横田早紀江さんはトランプ大統領に会ったあと「大統領は拉致の問題をよく考えていると思いました。大統領が北朝鮮のトップに会ったら、必ずこの問題のことを話してほしいです」と話しました。",
+    "annotations": [
+      {
+        "surface": "家族",
+        "reading": "かぞく",
+        "type": "noun"
+      },
+      {
+        "surface": "1人",
+        "reading": "ひとり",
+        "type": "counter"
+      },
+      {
+        "surface": "横田早紀江",
+        "reading": "よこたさきえ",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "大統領",
+        "reading": "だいとうりょう",
+        "type": "noun"
+      },
+      {
+        "surface": "会った",
+        "reading": "あった",
+        "type": "verb"
+      },
+      {
+        "surface": "大統領",
+        "reading": "だいとうりょう",
+        "type": "noun"
+      },
+      {
+        "surface": "拉致",
+        "reading": "らち",
+        "type": "noun"
+      },
+      {
+        "surface": "問題",
+        "reading": "もんだい",
+        "type": "noun"
+      },
+      {
+        "surface": "考えている",
+        "reading": "かんがえている",
+        "type": "verb"
+      },
+      {
+        "surface": "思いました",
+        "reading": "おもいました",
+        "type": "verb"
+      },
+      {
+        "surface": "大統領",
+        "reading": "だいとうりょう",
+        "type": "noun"
+      },
+      {
+        "surface": "北朝鮮",
+        "reading": "きたちょうせん",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "会ったら",
+        "reading": "あったら",
+        "type": "verb"
+      },
+      {
+        "surface": "必ず",
+        "reading": "かならず",
+        "type": "noun"
+      },
+      {
+        "surface": "問題",
+        "reading": "もんだい",
+        "type": "noun"
+      },
+      {
+        "surface": "話してほしい",
+        "reading": "はなしてほしい",
+        "type": "verb"
+      },
+      {
+        "surface": "話しました",
+        "reading": "はなしました",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 55.25594115257263
+  },
+  {
+    "id": 42,
+    "source": "nhk",
+    "text": "永井さんは、石川県輪島市の出身で、漫画「マジンガーＺ」などで有名です。ことし4月、永井さんは地震で被害のあった人たちを助けたいと考えて、オークションに絵を出しました。200人以上の漫画家も一緒に絵を出しました。このオークションで1億2300万円が集まりました。",
+    "annotations": [
+      {
+        "surface": "永井",
+        "reading": "ながい",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "石川県",
+        "reading": "いしかわけん",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "輪島市",
+        "reading": "わじまし",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "出身",
+        "reading": "しゅっしん",
+        "type": "noun"
+      },
+      {
+        "surface": "漫画",
+        "reading": "まんが",
+        "type": "noun"
+      },
+      {
+        "surface": "有名",
+        "reading": "ゆうめい",
+        "type": "adjective"
+      },
+      {
+        "surface": "4月",
+        "reading": "しがつ",
+        "type": "counter"
+      },
+      {
+        "surface": "永井",
+        "reading": "ながい",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "地震",
+        "reading": "じしん",
+        "type": "noun"
+      },
+      {
+        "surface": "被害",
+        "reading": "ひがい",
+        "type": "noun"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと",
+        "type": "noun"
+      },
+      {
+        "surface": "助けたい",
+        "reading": "たすけたい",
+        "type": "verb"
+      },
+      {
+        "surface": "考えて",
+        "reading": "かんがえて",
+        "type": "verb"
+      },
+      {
+        "surface": "絵",
+        "reading": "え",
+        "type": "noun"
+      },
+      {
+        "surface": "出しました",
+        "reading": "だしました",
+        "type": "verb"
+      },
+      {
+        "surface": "200人",
+        "reading": "にひゃくにん",
+        "type": "counter"
+      },
+      {
+        "surface": "以上",
+        "reading": "いじょう",
+        "type": "noun"
+      },
+      {
+        "surface": "漫画家",
+        "reading": "まんがか",
+        "type": "noun"
+      },
+      {
+        "surface": "一緒に",
+        "reading": "いっしょに",
+        "type": "adjective"
+      },
+      {
+        "surface": "絵",
+        "reading": "え",
+        "type": "noun"
+      },
+      {
+        "surface": "出しました",
+        "reading": "だしました",
+        "type": "verb"
+      },
+      {
+        "surface": "1億2300万円",
+        "reading": "いちおくにせんさんびゃくまんえん",
+        "type": "counter"
+      },
+      {
+        "surface": "集まりました",
+        "reading": "あつまりました",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 89.9943699836731
+  },
+  {
+    "id": 43,
+    "source": "nhk",
+    "text": "北海道と青森県、岩手県、宮城県、福島県、茨城県、千葉県の182の市や町などに住んでいる人は、これから1週間は地震があったときの準備をチェックしてほしいと言いました。避難場所や逃げるときの荷物をもう一度みてください。",
+    "annotations": [
+      {
+        "surface": "北海道",
+        "reading": "ほっかいどう",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "青森県",
+        "reading": "あおもりけん",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "岩手県",
+        "reading": "いわてけん",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "宮城県",
+        "reading": "みやぎけん",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "福島県",
+        "reading": "ふくしまけん",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "茨城県",
+        "reading": "いばらきけん",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "千葉県",
+        "reading": "ちばけん",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "市",
+        "reading": "し",
+        "type": "noun"
+      },
+      {
+        "surface": "町",
+        "reading": "まち",
+        "type": "noun"
+      },
+      {
+        "surface": "住んでいる",
+        "reading": "すんでいる",
+        "type": "verb"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと",
+        "type": "noun"
+      },
+      {
+        "surface": "1週間",
+        "reading": "いっしゅうかん",
+        "type": "counter"
+      },
+      {
+        "surface": "地震",
+        "reading": "じしん",
+        "type": "noun"
+      },
+      {
+        "surface": "準備",
+        "reading": "じゅんび",
+        "type": "noun"
+      },
+      {
+        "surface": "言いました",
+        "reading": "いいました",
+        "type": "verb"
+      },
+      {
+        "surface": "避難場所",
+        "reading": "ひなんばしょ",
+        "type": "noun"
+      },
+      {
+        "surface": "逃げる",
+        "reading": "にげる",
+        "type": "verb"
+      },
+      {
+        "surface": "荷物",
+        "reading": "にもつ",
+        "type": "noun"
+      },
+      {
+        "surface": "一度",
+        "reading": "いちど",
+        "type": "counter"
+      }
+    ],
+    "time_seconds": 131.52435445785522
+  },
+  {
+    "id": 44,
+    "source": "nhk",
+    "text": "沖縄県でビールをつくっている会社の「オリオンビール」が、25日、東京証券取引所で株を上場しました。上場すると、株を売ったり、買ったりすることができます。午前は買いたい人が多くて、値段が決まりませんでした。午後になって決まって、25日の最後の値段は1950円でした。",
+    "annotations": [
+      {
+        "surface": "沖縄県",
+        "reading": "おきなわけん",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "会社",
+        "reading": "かいしゃ",
+        "type": "noun"
+      },
+      {
+        "surface": "25日",
+        "reading": "にじゅうごにち",
+        "type": "counter"
+      },
+      {
+        "surface": "東京証券取引所",
+        "reading": "とうきょうしょうけんとりひきじょ",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "株",
+        "reading": "かぶ",
+        "type": "noun"
+      },
+      {
+        "surface": "上場しました",
+        "reading": "じょうじょうしました",
+        "type": "verb"
+      },
+      {
+        "surface": "上場する",
+        "reading": "じょうじょうする",
+        "type": "verb"
+      },
+      {
+        "surface": "株",
+        "reading": "かぶ",
+        "type": "noun"
+      },
+      {
+        "surface": "売ったり",
+        "reading": "うったり",
+        "type": "verb"
+      },
+      {
+        "surface": "買ったり",
+        "reading": "かったり",
+        "type": "verb"
+      },
+      {
+        "surface": "午前",
+        "reading": "ごぜん",
+        "type": "noun"
+      },
+      {
+        "surface": "買いたい",
+        "reading": "かいたい",
+        "type": "verb"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと",
+        "type": "noun"
+      },
+      {
+        "surface": "多くて",
+        "reading": "おおくて",
+        "type": "adjective"
+      },
+      {
+        "surface": "値段",
+        "reading": "ねだん",
+        "type": "noun"
+      },
+      {
+        "surface": "決まりませんでした",
+        "reading": "きまりませんでした",
+        "type": "verb"
+      },
+      {
+        "surface": "午後",
+        "reading": "ごご",
+        "type": "noun"
+      },
+      {
+        "surface": "決まって",
+        "reading": "きまって",
+        "type": "verb"
+      },
+      {
+        "surface": "25日",
+        "reading": "にじゅうごにち",
+        "type": "counter"
+      },
+      {
+        "surface": "最後",
+        "reading": "さいご",
+        "type": "noun"
+      },
+      {
+        "surface": "値段",
+        "reading": "ねだん",
+        "type": "noun"
+      },
+      {
+        "surface": "1950円",
+        "reading": "せんきゅうひゃくごじゅうえん",
+        "type": "counter"
+      }
+    ],
+    "time_seconds": 94.62433457374573
+  },
+  {
+    "id": 45,
+    "source": "nhk",
+    "text": "社長などは、正しくない調べ方をされたと言って、東京都と国を訴えました。裁判所は、5月、警察と検察は法律に違反していたと言いました。そして、東京都と国が1億6600万円を社長などに払うように命令しました。",
+    "annotations": [
+      {
+        "surface": "社長",
+        "reading": "しゃちょう",
+        "type": "noun"
+      },
+      {
+        "surface": "正しくない",
+        "reading": "ただしくない",
+        "type": "adjective"
+      },
+      {
+        "surface": "調べ方",
+        "reading": "しらべかた",
+        "type": "noun"
+      },
+      {
+        "surface": "言って",
+        "reading": "いって",
+        "type": "verb"
+      },
+      {
+        "surface": "東京都",
+        "reading": "とうきょうと",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "国",
+        "reading": "くに",
+        "type": "noun"
+      },
+      {
+        "surface": "訴えました",
+        "reading": "うったえました",
+        "type": "verb"
+      },
+      {
+        "surface": "裁判所",
+        "reading": "さいばんしょ",
+        "type": "noun"
+      },
+      {
+        "surface": "5月",
+        "reading": "ごがつ",
+        "type": "counter"
+      },
+      {
+        "surface": "警察",
+        "reading": "けいさつ",
+        "type": "noun"
+      },
+      {
+        "surface": "検察",
+        "reading": "けんさつ",
+        "type": "noun"
+      },
+      {
+        "surface": "法律",
+        "reading": "ほうりつ",
+        "type": "noun"
+      },
+      {
+        "surface": "違反していた",
+        "reading": "いはんしていた",
+        "type": "verb"
+      },
+      {
+        "surface": "言いました",
+        "reading": "いいました",
+        "type": "verb"
+      },
+      {
+        "surface": "東京都",
+        "reading": "とうきょうと",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "国",
+        "reading": "くに",
+        "type": "noun"
+      },
+      {
+        "surface": "1億6600万円",
+        "reading": "いちおくろくせんろっぴゃくまんえん",
+        "type": "counter"
+      },
+      {
+        "surface": "社長",
+        "reading": "しゃちょう",
+        "type": "noun"
+      },
+      {
+        "surface": "払う",
+        "reading": "はらう",
+        "type": "verb"
+      },
+      {
+        "surface": "命令しました",
+        "reading": "めいれいしました",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 84.98771381378174
+  },
+  {
+    "id": 46,
+    "source": "nhk",
+    "text": "片岡仁左衛門さんや尾上菊五郎さんなどが旗で飾った船に乗りました。そして、大阪のまちの中の川を2.5kmぐらい進みました。舞台の近くに着くとたくさんの人たちが拍手をして迎えました。",
+    "annotations": [
+      {
+        "surface": "片岡仁左衛門",
+        "reading": "かたおかにざえもん",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "尾上菊五郎",
+        "reading": "おのえきくごろう",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "旗",
+        "reading": "はた",
+        "type": "noun"
+      },
+      {
+        "surface": "飾った",
+        "reading": "かざった",
+        "type": "verb"
+      },
+      {
+        "surface": "船",
+        "reading": "ふね",
+        "type": "noun"
+      },
+      {
+        "surface": "乗りました",
+        "reading": "のりました",
+        "type": "verb"
+      },
+      {
+        "surface": "大阪",
+        "reading": "おおさか",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "中",
+        "reading": "なか",
+        "type": "noun"
+      },
+      {
+        "surface": "川",
+        "reading": "かわ",
+        "type": "noun"
+      },
+      {
+        "surface": "進みました",
+        "reading": "すすみました",
+        "type": "verb"
+      },
+      {
+        "surface": "舞台",
+        "reading": "ぶたい",
+        "type": "noun"
+      },
+      {
+        "surface": "近く",
+        "reading": "ちかく",
+        "type": "noun"
+      },
+      {
+        "surface": "着く",
+        "reading": "つく",
+        "type": "verb"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと",
+        "type": "noun"
+      },
+      {
+        "surface": "拍手",
+        "reading": "はくしゅ",
+        "type": "noun"
+      },
+      {
+        "surface": "迎えました",
+        "reading": "むかえました",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 123.72308564186096
+  },
+  {
+    "id": 47,
+    "source": "nhk",
+    "text": "今年4月からアメリカが関税を上げたので自動車の輸出が減りました。住宅への投資も大きく減りました。",
+    "annotations": [
+      {
+        "surface": "今年",
+        "reading": "ことし",
+        "type": "noun"
+      },
+      {
+        "surface": "4月",
+        "reading": "しがつ",
+        "type": "counter"
+      },
+      {
+        "surface": "関税",
+        "reading": "かんぜい",
+        "type": "noun"
+      },
+      {
+        "surface": "上げた",
+        "reading": "あげた",
+        "type": "verb"
+      },
+      {
+        "surface": "自動車",
+        "reading": "じどうしゃ",
+        "type": "noun"
+      },
+      {
+        "surface": "輸出",
+        "reading": "ゆしゅつ",
+        "type": "noun"
+      },
+      {
+        "surface": "減りました",
+        "reading": "へりました",
+        "type": "verb"
+      },
+      {
+        "surface": "住宅",
+        "reading": "じゅうたく",
+        "type": "noun"
+      },
+      {
+        "surface": "投資",
+        "reading": "とうし",
+        "type": "noun"
+      },
+      {
+        "surface": "大きく",
+        "reading": "おおきく",
+        "type": "adjective"
+      },
+      {
+        "surface": "減りました",
+        "reading": "へりました",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 40.2026252746582
+  },
+  {
+    "id": 48,
+    "source": "nhk",
+    "text": "有名な野球選手だった松井秀喜さんが、去年大きい地震があった石川県の能登地方で、ことし9月に「野球教室」を開きます。",
+    "annotations": [
+      {
+        "surface": "有名な",
+        "reading": "ゆうめいな",
+        "type": "adjective"
+      },
+      {
+        "surface": "野球選手",
+        "reading": "やきゅうせんしゅ",
+        "type": "noun"
+      },
+      {
+        "surface": "松井秀喜",
+        "reading": "まついひでき",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "去年",
+        "reading": "きょねん",
+        "type": "noun"
+      },
+      {
+        "surface": "大きい",
+        "reading": "おおきい",
+        "type": "adjective"
+      },
+      {
+        "surface": "地震",
+        "reading": "じしん",
+        "type": "noun"
+      },
+      {
+        "surface": "石川県",
+        "reading": "いしかわけん",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "能登地方",
+        "reading": "のとちほう",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "9月",
+        "reading": "くがつ",
+        "type": "counter"
+      },
+      {
+        "surface": "野球教室",
+        "reading": "やきゅうきょうしつ",
+        "type": "noun"
+      },
+      {
+        "surface": "開きます",
+        "reading": "ひらきます",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 47.34486699104309
+  },
+  {
+    "id": 49,
+    "source": "nhk",
+    "text": "今年の4月、神奈川県川崎市で20歳の女性が、殺されているのが見つかりました。前につき合っていた男の家で見つかりました。",
+    "annotations": [
+      {
+        "surface": "今年",
+        "reading": "ことし",
+        "type": "noun"
+      },
+      {
+        "surface": "4月",
+        "reading": "しがつ",
+        "type": "counter"
+      },
+      {
+        "surface": "神奈川県川崎市",
+        "reading": "かながわけんかわさきし",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "20歳",
+        "reading": "にじゅっさい",
+        "type": "counter"
+      },
+      {
+        "surface": "女性",
+        "reading": "じょせい",
+        "type": "noun"
+      },
+      {
+        "surface": "殺されている",
+        "reading": "ころされている",
+        "type": "verb"
+      },
+      {
+        "surface": "見つかりました",
+        "reading": "みつかりました",
+        "type": "verb"
+      },
+      {
+        "surface": "前",
+        "reading": "まえ",
+        "type": "noun"
+      },
+      {
+        "surface": "つき合っていた",
+        "reading": "つきあっていた",
+        "type": "verb"
+      },
+      {
+        "surface": "男",
+        "reading": "おとこ",
+        "type": "noun"
+      },
+      {
+        "surface": "家",
+        "reading": "いえ",
+        "type": "noun"
+      },
+      {
+        "surface": "見つかりました",
+        "reading": "みつかりました",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 63.74520397186279
+  },
+  {
+    "id": 50,
+    "source": "nhk",
+    "text": "フランスの政府によると、19日の午前、犯人は美術館の2階の窓から入りました。そして宝石などを盗んで逃げました。",
+    "annotations": [
+      {
+        "surface": "政府",
+        "reading": "せいふ",
+        "type": "noun"
+      },
+      {
+        "surface": "19日",
+        "reading": "じゅうくにち",
+        "type": "counter"
+      },
+      {
+        "surface": "午前",
+        "reading": "ごぜん",
+        "type": "noun"
+      },
+      {
+        "surface": "犯人",
+        "reading": "はんにん",
+        "type": "noun"
+      },
+      {
+        "surface": "美術館",
+        "reading": "びじゅつかん",
+        "type": "noun"
+      },
+      {
+        "surface": "2階",
+        "reading": "にかい",
+        "type": "counter"
+      },
+      {
+        "surface": "窓",
+        "reading": "まど",
+        "type": "noun"
+      },
+      {
+        "surface": "入りました",
+        "reading": "はいりました",
+        "type": "verb"
+      },
+      {
+        "surface": "宝石",
+        "reading": "ほうせき",
+        "type": "noun"
+      },
+      {
+        "surface": "盗んで",
+        "reading": "ぬすんで",
+        "type": "verb"
+      },
+      {
+        "surface": "逃げました",
+        "reading": "にげました",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 37.50854802131653
+  },
+  {
+    "id": 51,
+    "source": "nhk",
+    "text": "とても強い台風22号は9日、伊豆諸島の東の海を進みました。伊豆諸島からだんだん離れています。",
+    "annotations": [
+      {
+        "surface": "強い",
+        "reading": "つよい",
+        "type": "adjective"
+      },
+      {
+        "surface": "台風22号",
+        "reading": "たいふうにじゅうにごう",
+        "type": "noun"
+      },
+      {
+        "surface": "9日",
+        "reading": "ここのか",
+        "type": "counter"
+      },
+      {
+        "surface": "伊豆諸島",
+        "reading": "いずしょとう",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "東",
+        "reading": "ひがし",
+        "type": "noun"
+      },
+      {
+        "surface": "海",
+        "reading": "うみ",
+        "type": "noun"
+      },
+      {
+        "surface": "進みました",
+        "reading": "すすみました",
+        "type": "verb"
+      },
+      {
+        "surface": "伊豆諸島",
+        "reading": "いずしょとう",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "離れています",
+        "reading": "はなれています",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 50.70655941963196
+  },
+  {
+    "id": 52,
+    "source": "nhk",
+    "text": "気象庁は、8日のような大きい地震のあとは、もっと大きいマグニチュード8以上の地震が起こることがあると言いました。",
+    "annotations": [
+      {
+        "surface": "気象庁",
+        "reading": "きしょうちょう",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "8日",
+        "reading": "ようか",
+        "type": "counter"
+      },
+      {
+        "surface": "大きい",
+        "reading": "おおきい",
+        "type": "adjective"
+      },
+      {
+        "surface": "地震",
+        "reading": "じしん",
+        "type": "noun"
+      },
+      {
+        "surface": "大きい",
+        "reading": "おおきい",
+        "type": "adjective"
+      },
+      {
+        "surface": "8以上",
+        "reading": "はちいじょう",
+        "type": "counter"
+      },
+      {
+        "surface": "地震",
+        "reading": "じしん",
+        "type": "noun"
+      },
+      {
+        "surface": "起こる",
+        "reading": "おこる",
+        "type": "verb"
+      },
+      {
+        "surface": "言いました",
+        "reading": "いいました",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 70.36523962020874
+  },
+  {
+    "id": 53,
+    "source": "nhk",
+    "text": "解散すると、衆議院の新しい議員を選ぶ選挙があります。与党は、投票する日を2月8日と考えています。",
+    "annotations": [
+      {
+        "surface": "解散する",
+        "reading": "かいさんする",
+        "type": "verb"
+      },
+      {
+        "surface": "衆議院",
+        "reading": "しゅうぎいん",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "新しい",
+        "reading": "あたらしい",
+        "type": "adjective"
+      },
+      {
+        "surface": "議員",
+        "reading": "ぎいん",
+        "type": "noun"
+      },
+      {
+        "surface": "選ぶ",
+        "reading": "えらぶ",
+        "type": "verb"
+      },
+      {
+        "surface": "選挙",
+        "reading": "せんきょう",
+        "type": "noun"
+      },
+      {
+        "surface": "与党",
+        "reading": "よとう",
+        "type": "noun"
+      },
+      {
+        "surface": "投票する",
+        "reading": "とうひょうする",
+        "type": "verb"
+      },
+      {
+        "surface": "日",
+        "reading": "ひ",
+        "type": "noun"
+      },
+      {
+        "surface": "2月8日",
+        "reading": "にがつようか",
+        "type": "counter"
+      },
+      {
+        "surface": "考えています",
+        "reading": "かんがえています",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 53.88377666473389
+  },
+  {
+    "id": 54,
+    "source": "nhk",
+    "text": "東京の北区で、ペットと一緒に避難する方法を勉強する会がありました。近くに住む20人ぐらいがペットと集まりました。",
+    "annotations": [
+      {
+        "surface": "東京",
+        "reading": "とうきょう",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "北区",
+        "reading": "きたく",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "一緒に",
+        "reading": "いっしょに",
+        "type": "adverb"
+      },
+      {
+        "surface": "避難する",
+        "reading": "ひなんする",
+        "type": "verb"
+      },
+      {
+        "surface": "方法",
+        "reading": "ほうほう",
+        "type": "noun"
+      },
+      {
+        "surface": "勉強する",
+        "reading": "べんきょうする",
+        "type": "verb"
+      },
+      {
+        "surface": "会",
+        "reading": "かい",
+        "type": "noun"
+      },
+      {
+        "surface": "近く",
+        "reading": "ちかく",
+        "type": "noun"
+      },
+      {
+        "surface": "住む",
+        "reading": "すむ",
+        "type": "verb"
+      },
+      {
+        "surface": "20人",
+        "reading": "にじゅうにん",
+        "type": "counter"
+      },
+      {
+        "surface": "集まりました",
+        "reading": "あつまりました",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 45.15717649459839
+  },
+  {
+    "id": 55,
+    "source": "nhk",
+    "text": "国土交通省は、全日空と日本航空に、同じタイプの飛行機をしっかりチェックするように言いました。",
+    "annotations": [
+      {
+        "surface": "国土交通省",
+        "reading": "こくどこうつうしょう",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "全日空",
+        "reading": "ぜんにっくう",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "日本航空",
+        "reading": "にほんこうくう",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "同じ",
+        "reading": "おなじ",
+        "type": "adjective"
+      },
+      {
+        "surface": "飛行機",
+        "reading": "ひこうき",
+        "type": "noun"
+      },
+      {
+        "surface": "言いました",
+        "reading": "いいました",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 42.40428614616394
+  },
+  {
+    "id": 56,
+    "source": "nhk",
+    "text": "漫画家の永井豪さんたちが、11日、能登半島地震で被害のあった石川県に1億2300万円を贈りました。",
+    "annotations": [
+      {
+        "surface": "漫画家",
+        "reading": "まんがか",
+        "type": "noun"
+      },
+      {
+        "surface": "永井豪",
+        "reading": "ながいごう",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "11日",
+        "reading": "じゅういちにち",
+        "type": "counter"
+      },
+      {
+        "surface": "能登半島地震",
+        "reading": "のとはんとうじしん",
+        "type": "noun"
+      },
+      {
+        "surface": "被害",
+        "reading": "ひがい",
+        "type": "noun"
+      },
+      {
+        "surface": "石川県",
+        "reading": "いしかわけん",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "1億2300万円",
+        "reading": "いちおくにせんさんびゃくまんえん",
+        "type": "counter"
+      },
+      {
+        "surface": "贈りました",
+        "reading": "おくりました",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 39.25095725059509
+  },
+  {
+    "id": 57,
+    "source": "nhk",
+    "text": "アメリカの軍は3日、南米のベネズエラのマドゥーロ大統領と妻の2人を捕まえました。",
+    "annotations": [
+      {
+        "surface": "軍",
+        "reading": "ぐん",
+        "type": "noun"
+      },
+      {
+        "surface": "3日",
+        "reading": "みっか",
+        "type": "counter"
+      },
+      {
+        "surface": "南米",
+        "reading": "なんべい",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "大統領",
+        "reading": "だいとうりょう",
+        "type": "noun"
+      },
+      {
+        "surface": "妻",
+        "reading": "つま",
+        "type": "noun"
+      },
+      {
+        "surface": "2人",
+        "reading": "ふたり",
+        "type": "counter"
+      },
+      {
+        "surface": "捕まえました",
+        "reading": "つかまえました",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 43.56860017776489
+  },
+  {
+    "id": 58,
+    "source": "nhk",
+    "text": "票の数が同じになった場合は、くじを引きます。これは法律で決まっています。くじの結果、新しく選挙に出た人に決まりました。",
+    "annotations": [
+      {
+        "surface": "票",
+        "reading": "ひょう",
+        "type": "noun"
+      },
+      {
+        "surface": "数",
+        "reading": "かず",
+        "type": "noun"
+      },
+      {
+        "surface": "同じになった",
+        "reading": "おなじになった",
+        "type": "adjective"
+      },
+      {
+        "surface": "場合",
+        "reading": "ばあい",
+        "type": "noun"
+      },
+      {
+        "surface": "引きます",
+        "reading": "ひきます",
+        "type": "verb"
+      },
+      {
+        "surface": "法律",
+        "reading": "ほうりつ",
+        "type": "noun"
+      },
+      {
+        "surface": "決まっています",
+        "reading": "きまっています",
+        "type": "verb"
+      },
+      {
+        "surface": "結果",
+        "reading": "けっか",
+        "type": "noun"
+      },
+      {
+        "surface": "新しく",
+        "reading": "あたらしく",
+        "type": "adjective"
+      },
+      {
+        "surface": "選挙",
+        "reading": "せんきょ",
+        "type": "noun"
+      },
+      {
+        "surface": "出た",
+        "reading": "でた",
+        "type": "verb"
+      },
+      {
+        "surface": "人",
+        "reading": "ひと",
+        "type": "noun"
+      },
+      {
+        "surface": "決まりました",
+        "reading": "きまりました",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 39.343366861343384
+  },
+  {
+    "id": 59,
+    "source": "nhk",
+    "text": "尾崎さんは体が大きくて、ボールを打つと遠くまで飛びました。みんなが「ジャンボ尾崎」と呼びました。",
+    "annotations": [
+      {
+        "surface": "尾崎",
+        "reading": "おざき",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "体",
+        "reading": "からだ",
+        "type": "noun"
+      },
+      {
+        "surface": "大きくて",
+        "reading": "おおきくて",
+        "type": "adjective"
+      },
+      {
+        "surface": "打つ",
+        "reading": "うつ",
+        "type": "verb"
+      },
+      {
+        "surface": "遠く",
+        "reading": "とおく",
+        "type": "adjective"
+      },
+      {
+        "surface": "飛びました",
+        "reading": "とびました",
+        "type": "verb"
+      },
+      {
+        "surface": "尾崎",
+        "reading": "おざき",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "呼びました",
+        "reading": "よびました",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 34.73142671585083
+  },
+  {
+    "id": 60,
+    "source": "nhk",
+    "text": "大学の留学生と大学院の修士課程の留学生は、1年の授業料が90万円になります。日本の学生の1.7倍です。",
+    "annotations": [
+      {
+        "surface": "大学",
+        "reading": "だいがく",
+        "type": "noun"
+      },
+      {
+        "surface": "留学生",
+        "reading": "りゅうがくせい",
+        "type": "noun"
+      },
+      {
+        "surface": "大学院",
+        "reading": "だいがくいん",
+        "type": "noun"
+      },
+      {
+        "surface": "修士課程",
+        "reading": "しゅうしかてい",
+        "type": "noun"
+      },
+      {
+        "surface": "留学生",
+        "reading": "りゅうがくせい",
+        "type": "noun"
+      },
+      {
+        "surface": "1年",
+        "reading": "いちねん",
+        "type": "counter"
+      },
+      {
+        "surface": "授業料",
+        "reading": "じゅぎょうりょう",
+        "type": "noun"
+      },
+      {
+        "surface": "90万円",
+        "reading": "きゅうじゅうまんえん",
+        "type": "counter"
+      },
+      {
+        "surface": "日本",
+        "reading": "にほん",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "学生",
+        "reading": "がくせい",
+        "type": "noun"
+      },
+      {
+        "surface": "1.7倍",
+        "reading": "いってんななばい",
+        "type": "counter"
+      }
+    ],
+    "time_seconds": 68.86028003692627
+  },
+  {
+    "id": 61,
+    "source": "ud_gsd",
+    "text": "しかし、1995年の時点で高校生だった主人公、辰木桂はまだ神戸に引っ越す前で阪神・淡路大震災を直接経験していないという設定のため、作中での震災の話は、桂が被害の爪痕を見ることか、直接体験した桂の友人、金城和歌子とその恋人、林浩の2人が中心となって体験談を語る形で描かれている。",
+    "annotations": [
+      {
+        "surface": "1995年",
+        "reading": "せんきゅうひゃくきゅうじゅうごねん",
+        "type": "counter"
+      },
+      {
+        "surface": "時点",
+        "reading": "じてん",
+        "type": "noun"
+      },
+      {
+        "surface": "高校生",
+        "reading": "こうこうせい",
+        "type": "noun"
+      },
+      {
+        "surface": "主人公",
+        "reading": "しゅじんこう",
+        "type": "noun"
+      },
+      {
+        "surface": "辰木",
+        "reading": "たつき",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "桂",
+        "reading": "けい",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "神戸",
+        "reading": "こうべ",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "引っ越す",
+        "reading": "ひっこす",
+        "type": "verb"
+      },
+      {
+        "surface": "前",
+        "reading": "まえ",
+        "type": "noun"
+      },
+      {
+        "surface": "阪神",
+        "reading": "はんしん",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "淡路",
+        "reading": "あわじ",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "大震災",
+        "reading": "だいしんさい",
+        "type": "noun"
+      },
+      {
+        "surface": "直接",
+        "reading": "ちょくせつ",
+        "type": "noun"
+      },
+      {
+        "surface": "経験していない",
+        "reading": "けいけんしていない",
+        "type": "verb"
+      },
+      {
+        "surface": "設定",
+        "reading": "せってい",
+        "type": "noun"
+      },
+      {
+        "surface": "作中",
+        "reading": "さくちゅう",
+        "type": "noun"
+      },
+      {
+        "surface": "震災",
+        "reading": "しんさい",
+        "type": "noun"
+      },
+      {
+        "surface": "話",
+        "reading": "はなし",
+        "type": "noun"
+      },
+      {
+        "surface": "桂",
+        "reading": "けい",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "被害",
+        "reading": "ひがい",
+        "type": "noun"
+      },
+      {
+        "surface": "爪痕",
+        "reading": "つめあと",
+        "type": "noun"
+      },
+      {
+        "surface": "見る",
+        "reading": "みる",
+        "type": "verb"
+      },
+      {
+        "surface": "直接",
+        "reading": "ちょくせつ",
+        "type": "noun"
+      },
+      {
+        "surface": "体験した",
+        "reading": "たいけんした",
+        "type": "verb"
+      },
+      {
+        "surface": "桂",
+        "reading": "けい",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "友人",
+        "reading": "ゆうじん",
+        "type": "noun"
+      },
+      {
+        "surface": "金城",
+        "reading": "きんじょう",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "和歌子",
+        "reading": "わかこ",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "恋人",
+        "reading": "こいびと",
+        "type": "noun"
+      },
+      {
+        "surface": "林",
+        "reading": "はやし",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "浩",
+        "reading": "ひろし",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "2人",
+        "reading": "ふたり",
+        "type": "counter"
+      },
+      {
+        "surface": "中心",
+        "reading": "ちゅうしん",
+        "type": "noun"
+      },
+      {
+        "surface": "体験談",
+        "reading": "たいけんだん",
+        "type": "noun"
+      },
+      {
+        "surface": "語る",
+        "reading": "かたる",
+        "type": "verb"
+      },
+      {
+        "surface": "形",
+        "reading": "かたち",
+        "type": "noun"
+      },
+      {
+        "surface": "描かれている",
+        "reading": "えがかれている",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 199.6253502368927
+  },
+  {
+    "id": 62,
+    "source": "ud_gsd",
+    "text": "また同小説では藍染になすりつけられた罪は、元柳斎の尽力もあって藍染の謀略が認められたことから鉄裁・夜一の罪状共々取り消しとなったこと、商店も尸魂界公認となった上、破面篇で喜助の存在が広く知れ渡った為、現世駐在任務の死神が多数訪れるように手が足りなくなりつつある程忙しくなっていることが語られている。",
+    "annotations": [
+      {
+        "surface": "同小説",
+        "reading": "どうしょうせつ",
+        "type": "noun"
+      },
+      {
+        "surface": "藍染",
+        "reading": "あいぜん",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "罪",
+        "reading": "つみ",
+        "type": "noun"
+      },
+      {
+        "surface": "元柳斎",
+        "reading": "げんりゅうさい",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "尽力",
+        "reading": "じんりょく",
+        "type": "noun"
+      },
+      {
+        "surface": "藍染",
+        "reading": "あいぜん",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "謀略",
+        "reading": "ぼうりゃく",
+        "type": "noun"
+      },
+      {
+        "surface": "認められた",
+        "reading": "みとめられた",
+        "type": "verb"
+      },
+      {
+        "surface": "鉄裁",
+        "reading": "てっさい",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "夜一",
+        "reading": "よるいち",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "罪状共々",
+        "reading": "ざいじょうともども",
+        "type": "noun"
+      },
+      {
+        "surface": "取り消し",
+        "reading": "とりけし",
+        "type": "noun"
+      },
+      {
+        "surface": "商店",
+        "reading": "しょうてん",
+        "type": "noun"
+      },
+      {
+        "surface": "尸魂界",
+        "reading": "しこんかい",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "公認",
+        "reading": "こうにん",
+        "type": "noun"
+      },
+      {
+        "surface": "上",
+        "reading": "うえ",
+        "type": "noun"
+      },
+      {
+        "surface": "破面篇",
+        "reading": "はめんへん",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "喜助",
+        "reading": "きすけ",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "存在",
+        "reading": "そんざい",
+        "type": "noun"
+      },
+      {
+        "surface": "広く",
+        "reading": "ひろく",
+        "type": "adjective"
+      },
+      {
+        "surface": "知れ渡った",
+        "reading": "しれわたった",
+        "type": "verb"
+      },
+      {
+        "surface": "為",
+        "reading": "ため",
+        "type": "noun"
+      },
+      {
+        "surface": "現世駐在任務",
+        "reading": "げんせちゅうざいにんむ",
+        "type": "noun"
+      },
+      {
+        "surface": "死神",
+        "reading": "しにがみ",
+        "type": "noun"
+      },
+      {
+        "surface": "多数",
+        "reading": "たすう",
+        "type": "noun"
+      },
+      {
+        "surface": "訪れる",
+        "reading": "おとずれる",
+        "type": "verb"
+      },
+      {
+        "surface": "手",
+        "reading": "て",
+        "type": "noun"
+      },
+      {
+        "surface": "足りなくなりつつある",
+        "reading": "たりなくなりつつある",
+        "type": "verb"
+      },
+      {
+        "surface": "程",
+        "reading": "ほど",
+        "type": "noun"
+      },
+      {
+        "surface": "忙しくなっている",
+        "reading": "いそがしくなっている",
+        "type": "adjective"
+      },
+      {
+        "surface": "語られている",
+        "reading": "かたられている",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 174.89697575569153
+  },
+  {
+    "id": 63,
+    "source": "ud_gsd",
+    "text": "1970年代の末に開発された本形式は、国産の高品質な軽快車に広く採用されたが、近年の自転車の低価格化圧力と、大手自転車部品メーカー、シマノ社の開発した後発製品であるローラーブレーキの普及による挟撃を受ける形となり、安売りされている自転車はバンドブレーキ、他の多くの軽快車ではローラーブレーキに市場を奪われ、新車でサーボブレーキが付く自転車は減少傾向である。",
+    "annotations": [
+      {
+        "surface": "1970年代",
+        "reading": "せんきゅうひゃくななじゅうねんだい",
+        "type": "counter"
+      },
+      {
+        "surface": "末",
+        "reading": "すえ",
+        "type": "noun"
+      },
+      {
+        "surface": "開発された",
+        "reading": "かいはつされた",
+        "type": "verb"
+      },
+      {
+        "surface": "本形式",
+        "reading": "ほんけいしき",
+        "type": "noun"
+      },
+      {
+        "surface": "国産",
+        "reading": "こくさん",
+        "type": "noun"
+      },
+      {
+        "surface": "高品質な",
+        "reading": "こうひんしつな",
+        "type": "adjective"
+      },
+      {
+        "surface": "軽快車",
+        "reading": "けいかいしゃ",
+        "type": "noun"
+      },
+      {
+        "surface": "広く",
+        "reading": "ひろく",
+        "type": "adjective"
+      },
+      {
+        "surface": "採用された",
+        "reading": "さいようされた",
+        "type": "verb"
+      },
+      {
+        "surface": "近年",
+        "reading": "きんねん",
+        "type": "noun"
+      },
+      {
+        "surface": "自転車",
+        "reading": "じてんしゃ",
+        "type": "noun"
+      },
+      {
+        "surface": "低価格化圧力",
+        "reading": "ていかかくかあつりょく",
+        "type": "noun"
+      },
+      {
+        "surface": "大手",
+        "reading": "おおて",
+        "type": "noun"
+      },
+      {
+        "surface": "自転車部品",
+        "reading": "じてんしゃぶひん",
+        "type": "noun"
+      },
+      {
+        "surface": "社",
+        "reading": "しゃ",
+        "type": "noun"
+      },
+      {
+        "surface": "開発した",
+        "reading": "かいはつした",
+        "type": "verb"
+      },
+      {
+        "surface": "後発製品",
+        "reading": "こうはつせいひん",
+        "type": "noun"
+      },
+      {
+        "surface": "普及",
+        "reading": "ふきゅう",
+        "type": "noun"
+      },
+      {
+        "surface": "挟撃",
+        "reading": "きょうげき",
+        "type": "noun"
+      },
+      {
+        "surface": "受ける",
+        "reading": "うける",
+        "type": "verb"
+      },
+      {
+        "surface": "形",
+        "reading": "かたち",
+        "type": "noun"
+      },
+      {
+        "surface": "安売りされている",
+        "reading": "やすうりされている",
+        "type": "verb"
+      },
+      {
+        "surface": "自転車",
+        "reading": "じてんしゃ",
+        "type": "noun"
+      },
+      {
+        "surface": "他",
+        "reading": "ほか",
+        "type": "noun"
+      },
+      {
+        "surface": "多く",
+        "reading": "おおく",
+        "type": "adjective"
+      },
+      {
+        "surface": "軽快車",
+        "reading": "けいかいしゃ",
+        "type": "noun"
+      },
+      {
+        "surface": "市場",
+        "reading": "しじょう",
+        "type": "noun"
+      },
+      {
+        "surface": "奪われ",
+        "reading": "うばわれ",
+        "type": "verb"
+      },
+      {
+        "surface": "新車",
+        "reading": "しんしゃ",
+        "type": "noun"
+      },
+      {
+        "surface": "付く",
+        "reading": "つく",
+        "type": "verb"
+      },
+      {
+        "surface": "自転車",
+        "reading": "じてんしゃ",
+        "type": "noun"
+      },
+      {
+        "surface": "減少傾向",
+        "reading": "げんしょうけいこう",
+        "type": "noun"
+      }
+    ],
+    "time_seconds": 92.77106142044067
+  },
+  {
+    "id": 64,
+    "source": "ud_gsd",
+    "text": "佐脇有紀裁判長は,吉田被告について“本件に果たした役割は主導的で積極的”とし,元警察官として“犯行の情状も悪い”としながらも,被告が素直に犯行を認め二度と犯罪を起こさないと反省していることや弁護士会に100万円を寄付したことなどを総合考慮し執行猶予付きの判決となったと述べた。",
+    "annotations": [
+      {
+        "surface": "佐脇有紀",
+        "reading": "さわきゆき",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "裁判長",
+        "reading": "さいばんちょう",
+        "type": "noun"
+      },
+      {
+        "surface": "吉田",
+        "reading": "よしだ",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "被告",
+        "reading": "ひこく",
+        "type": "noun"
+      },
+      {
+        "surface": "本件",
+        "reading": "ほんけん",
+        "type": "noun"
+      },
+      {
+        "surface": "果たした",
+        "reading": "はたした",
+        "type": "verb"
+      },
+      {
+        "surface": "役割",
+        "reading": "やくわり",
+        "type": "noun"
+      },
+      {
+        "surface": "主導的で",
+        "reading": "しゅどうてきで",
+        "type": "adjective"
+      },
+      {
+        "surface": "積極的",
+        "reading": "せっきょくてき",
+        "type": "adjective"
+      },
+      {
+        "surface": "元警察官",
+        "reading": "もとけいさつかん",
+        "type": "noun"
+      },
+      {
+        "surface": "犯行",
+        "reading": "はんこう",
+        "type": "noun"
+      },
+      {
+        "surface": "情状",
+        "reading": "じょうじょう",
+        "type": "noun"
+      },
+      {
+        "surface": "悪い",
+        "reading": "わるい",
+        "type": "adjective"
+      },
+      {
+        "surface": "被告",
+        "reading": "ひこく",
+        "type": "noun"
+      },
+      {
+        "surface": "素直に",
+        "reading": "すなおに",
+        "type": "adjective"
+      },
+      {
+        "surface": "犯行",
+        "reading": "はんこう",
+        "type": "noun"
+      },
+      {
+        "surface": "認め",
+        "reading": "みとめ",
+        "type": "verb"
+      },
+      {
+        "surface": "二度",
+        "reading": "にど",
+        "type": "counter"
+      },
+      {
+        "surface": "犯罪",
+        "reading": "はんざい",
+        "type": "noun"
+      },
+      {
+        "surface": "起こさない",
+        "reading": "おこさない",
+        "type": "verb"
+      },
+      {
+        "surface": "反省している",
+        "reading": "はんせいしている",
+        "type": "verb"
+      },
+      {
+        "surface": "弁護士会",
+        "reading": "べんごしかい",
+        "type": "noun"
+      },
+      {
+        "surface": "100万円",
+        "reading": "ひゃくまんえん",
+        "type": "counter"
+      },
+      {
+        "surface": "寄付した",
+        "reading": "きふした",
+        "type": "verb"
+      },
+      {
+        "surface": "総合考慮し",
+        "reading": "そうごうこうりょし",
+        "type": "verb"
+      },
+      {
+        "surface": "執行猶予付き",
+        "reading": "しっこうゆうよつき",
+        "type": "noun"
+      },
+      {
+        "surface": "判決",
+        "reading": "はんけつ",
+        "type": "noun"
+      },
+      {
+        "surface": "述べた",
+        "reading": "のべた",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 150.0104055404663
+  },
+  {
+    "id": 65,
+    "source": "ud_gsd",
+    "text": "このことから、勝負事では引き分けをなるべく避けようとするのが一般的であるが、チェスのステイルメイト、将棋の千日手狙いの戦術、サッカーのリーグ戦における引き分けの勝ち点のように「引き分けも試合結果のひとつ」ととらえる文化も少数ながら存在する。",
+    "annotations": [
+      {
+        "surface": "勝負事",
+        "reading": "しょうぶごと",
+        "type": "noun"
+      },
+      {
+        "surface": "引き分け",
+        "reading": "ひきわけ",
+        "type": "noun"
+      },
+      {
+        "surface": "避けようとする",
+        "reading": "さけようとする",
+        "type": "verb"
+      },
+      {
+        "surface": "一般的",
+        "reading": "いっぱんてき",
+        "type": "noun"
+      },
+      {
+        "surface": "将棋",
+        "reading": "しょうぎ",
+        "type": "noun"
+      },
+      {
+        "surface": "千日手",
+        "reading": "せんにちて",
+        "type": "noun"
+      },
+      {
+        "surface": "狙い",
+        "reading": "ねらい",
+        "type": "noun"
+      },
+      {
+        "surface": "戦術",
+        "reading": "せんじゅつ",
+        "type": "noun"
+      },
+      {
+        "surface": "リーグ戦",
+        "reading": "りーぐせん",
+        "type": "noun"
+      },
+      {
+        "surface": "引き分け",
+        "reading": "ひきわけ",
+        "type": "noun"
+      },
+      {
+        "surface": "勝ち点",
+        "reading": "かちてん",
+        "type": "noun"
+      },
+      {
+        "surface": "引き分け",
+        "reading": "ひきわけ",
+        "type": "noun"
+      },
+      {
+        "surface": "試合結果",
+        "reading": "しあいけっか",
+        "type": "noun"
+      },
+      {
+        "surface": "文化",
+        "reading": "ぶんか",
+        "type": "noun"
+      },
+      {
+        "surface": "少数",
+        "reading": "しょうすう",
+        "type": "noun"
+      },
+      {
+        "surface": "存在する",
+        "reading": "そんざいする",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 87.14541292190552
+  },
+  {
+    "id": 66,
+    "source": "ud_gsd",
+    "text": "6日引け後、厚生労働省厚生科学審議会科学技術部会において、東海大学医学部による「軟骨再生シート」に関する臨床研究実施計画を了承する方向性が示され、当該臨床研究の開始が認められる見通しとなったと発表。",
+    "annotations": [
+      {
+        "surface": "6日",
+        "reading": "むいか",
+        "type": "counter"
+      },
+      {
+        "surface": "引け後",
+        "reading": "ひけご",
+        "type": "noun"
+      },
+      {
+        "surface": "厚生労働省",
+        "reading": "こうせいろうどうしょう",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "厚生科学審議会",
+        "reading": "こうせいかがくしんぎかい",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "科学技術部会",
+        "reading": "かがくぎじゅつぶかい",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "東海大学",
+        "reading": "とうかいだいがく",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "医学部",
+        "reading": "いがくぶ",
+        "type": "noun"
+      },
+      {
+        "surface": "軟骨再生",
+        "reading": "なんこつさいせい",
+        "type": "noun"
+      },
+      {
+        "surface": "関する",
+        "reading": "かんする",
+        "type": "verb"
+      },
+      {
+        "surface": "臨床研究",
+        "reading": "りんしょうけんきゅう",
+        "type": "noun"
+      },
+      {
+        "surface": "実施計画",
+        "reading": "じっしけいかく",
+        "type": "noun"
+      },
+      {
+        "surface": "了承する",
+        "reading": "りょうしょうする",
+        "type": "verb"
+      },
+      {
+        "surface": "方向性",
+        "reading": "ほうこうせい",
+        "type": "noun"
+      },
+      {
+        "surface": "示され",
+        "reading": "しめされ",
+        "type": "verb"
+      },
+      {
+        "surface": "当該",
+        "reading": "とうがい",
+        "type": "noun"
+      },
+      {
+        "surface": "臨床研究",
+        "reading": "りんしょうけんきゅう",
+        "type": "noun"
+      },
+      {
+        "surface": "開始",
+        "reading": "かいし",
+        "type": "noun"
+      },
+      {
+        "surface": "認められる",
+        "reading": "みとめられる",
+        "type": "verb"
+      },
+      {
+        "surface": "見通し",
+        "reading": "みとおし",
+        "type": "noun"
+      },
+      {
+        "surface": "発表",
+        "reading": "はっぴょう",
+        "type": "noun"
+      }
+    ],
+    "time_seconds": 148.748596906662
+  },
+  {
+    "id": 67,
+    "source": "ud_gsd",
+    "text": "少林寺は、二人が帰ってから書物庫の蔵書が盗み見されたことに気付き、事情を調べるために一人の僧、渡元を華山派に派遣した。",
+    "annotations": [
+      {
+        "surface": "少林寺",
+        "reading": "しょうりんじ",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "二人",
+        "reading": "ふたり",
+        "type": "counter"
+      },
+      {
+        "surface": "帰って",
+        "reading": "かえって",
+        "type": "verb"
+      },
+      {
+        "surface": "書物庫",
+        "reading": "しょもつこ",
+        "type": "noun"
+      },
+      {
+        "surface": "蔵書",
+        "reading": "ぞうしょ",
+        "type": "noun"
+      },
+      {
+        "surface": "盗み見された",
+        "reading": "ぬすみみされた",
+        "type": "verb"
+      },
+      {
+        "surface": "気付き",
+        "reading": "きづき",
+        "type": "verb"
+      },
+      {
+        "surface": "事情",
+        "reading": "じじょう",
+        "type": "noun"
+      },
+      {
+        "surface": "調べる",
+        "reading": "しらべる",
+        "type": "verb"
+      },
+      {
+        "surface": "一人",
+        "reading": "ひとり",
+        "type": "counter"
+      },
+      {
+        "surface": "僧",
+        "reading": "そう",
+        "type": "noun"
+      },
+      {
+        "surface": "渡元",
+        "reading": "とげん",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "華山派",
+        "reading": "かざんぱ",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "派遣した",
+        "reading": "はけんした",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 70.12053513526917
+  },
+  {
+    "id": 68,
+    "source": "ud_gsd",
+    "text": "用意できない信者は“経済舞台”が組まれ,印鑑や浄水器等を販売し,教会に貢献することが求められていた。",
+    "annotations": [
+      {
+        "surface": "用意できない",
+        "reading": "よういできない",
+        "type": "verb"
+      },
+      {
+        "surface": "信者",
+        "reading": "しんじゃ",
+        "type": "noun"
+      },
+      {
+        "surface": "経済舞台",
+        "reading": "けいざいぶたい",
+        "type": "noun"
+      },
+      {
+        "surface": "組まれ",
+        "reading": "くまれ",
+        "type": "verb"
+      },
+      {
+        "surface": "印鑑",
+        "reading": "いんかん",
+        "type": "noun"
+      },
+      {
+        "surface": "浄水器等",
+        "reading": "じょうすいきとう",
+        "type": "noun"
+      },
+      {
+        "surface": "販売し",
+        "reading": "はんばいし",
+        "type": "verb"
+      },
+      {
+        "surface": "教会",
+        "reading": "きょうかい",
+        "type": "noun"
+      },
+      {
+        "surface": "貢献する",
+        "reading": "こうけんする",
+        "type": "verb"
+      },
+      {
+        "surface": "求められていた",
+        "reading": "もとめられていた",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 182.98274874687195
+  },
+  {
+    "id": 69,
+    "source": "ud_gsd",
+    "text": "宇宙で無限の時間が経過すると、全てのエネルギーが均等に分布する状態に漸近的に到達すると考えられる。",
+    "annotations": [
+      {
+        "surface": "宇宙",
+        "reading": "うちゅう",
+        "type": "noun"
+      },
+      {
+        "surface": "無限",
+        "reading": "むげん",
+        "type": "noun"
+      },
+      {
+        "surface": "時間",
+        "reading": "じかん",
+        "type": "noun"
+      },
+      {
+        "surface": "経過する",
+        "reading": "けいかする",
+        "type": "verb"
+      },
+      {
+        "surface": "全て",
+        "reading": "すべて",
+        "type": "noun"
+      },
+      {
+        "surface": "均等に",
+        "reading": "きんとうに",
+        "type": "adjective"
+      },
+      {
+        "surface": "分布する",
+        "reading": "ぶんぷする",
+        "type": "verb"
+      },
+      {
+        "surface": "状態",
+        "reading": "じょうたい",
+        "type": "noun"
+      },
+      {
+        "surface": "漸近的に",
+        "reading": "ぜんきんてきに",
+        "type": "adjective"
+      },
+      {
+        "surface": "到達する",
+        "reading": "とうたつする",
+        "type": "verb"
+      },
+      {
+        "surface": "考えられる",
+        "reading": "かんがえられる",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 97.70340633392334
+  },
+  {
+    "id": 70,
+    "source": "ud_gsd",
+    "text": "国際的に拘束力を持つ条約ではなく、勧告の形式で採択されたため、盛り込まれた措置の完全な実施を義務付けられることはない。",
+    "annotations": [
+      {
+        "surface": "国際的に",
+        "reading": "こくさいてきに",
+        "type": "adjective"
+      },
+      {
+        "surface": "拘束力",
+        "reading": "こうそくりょく",
+        "type": "noun"
+      },
+      {
+        "surface": "持つ",
+        "reading": "もつ",
+        "type": "verb"
+      },
+      {
+        "surface": "条約",
+        "reading": "じょうやく",
+        "type": "noun"
+      },
+      {
+        "surface": "勧告",
+        "reading": "かんこく",
+        "type": "noun"
+      },
+      {
+        "surface": "形式",
+        "reading": "けいしき",
+        "type": "noun"
+      },
+      {
+        "surface": "採択された",
+        "reading": "さいたくされた",
+        "type": "verb"
+      },
+      {
+        "surface": "盛り込まれた",
+        "reading": "もりこまれた",
+        "type": "verb"
+      },
+      {
+        "surface": "措置",
+        "reading": "そち",
+        "type": "noun"
+      },
+      {
+        "surface": "完全な",
+        "reading": "かんぜんな",
+        "type": "adjective"
+      },
+      {
+        "surface": "実施",
+        "reading": "じっし",
+        "type": "noun"
+      },
+      {
+        "surface": "義務付けられる",
+        "reading": "ぎむづけられる",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 91.72347331047058
+  },
+  {
+    "id": 71,
+    "source": "ud_gsd",
+    "text": "なぜならば,私にその倉渕透と守谷香の関係を知られることは,二人のための大きな収入源が断たれてしまうことになるからです。",
+    "annotations": [
+      {
+        "surface": "私",
+        "reading": "わたし",
+        "type": "noun"
+      },
+      {
+        "surface": "倉渕透",
+        "reading": "くらぶちとおる",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "守谷香",
+        "reading": "もりやかおり",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "関係",
+        "reading": "かんけい",
+        "type": "noun"
+      },
+      {
+        "surface": "知られる",
+        "reading": "しられる",
+        "type": "verb"
+      },
+      {
+        "surface": "二人",
+        "reading": "ふたり",
+        "type": "counter"
+      },
+      {
+        "surface": "大きな",
+        "reading": "おおきな",
+        "type": "adjective"
+      },
+      {
+        "surface": "収入源",
+        "reading": "しゅうにゅうげん",
+        "type": "noun"
+      },
+      {
+        "surface": "断たれてしまう",
+        "reading": "たたれてしまう",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 50.493025064468384
+  },
+  {
+    "id": 72,
+    "source": "ud_gsd",
+    "text": "一人だけいた若い女性信者が手作りのミルクプリンと紅茶を出し,記者には海老澤代表が付いた。",
+    "annotations": [
+      {
+        "surface": "一人",
+        "reading": "ひとり",
+        "type": "counter"
+      },
+      {
+        "surface": "若い",
+        "reading": "わかい",
+        "type": "adjective"
+      },
+      {
+        "surface": "女性",
+        "reading": "じょせい",
+        "type": "noun"
+      },
+      {
+        "surface": "信者",
+        "reading": "しんじゃ",
+        "type": "noun"
+      },
+      {
+        "surface": "手作り",
+        "reading": "てづくり",
+        "type": "noun"
+      },
+      {
+        "surface": "紅茶",
+        "reading": "こうちゃ",
+        "type": "noun"
+      },
+      {
+        "surface": "出し",
+        "reading": "だし",
+        "type": "verb"
+      },
+      {
+        "surface": "記者",
+        "reading": "きしゃ",
+        "type": "noun"
+      },
+      {
+        "surface": "海老澤",
+        "reading": "えびさわ",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "代表",
+        "reading": "だいひょう",
+        "type": "noun"
+      },
+      {
+        "surface": "付いた",
+        "reading": "ついた",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 89.37975358963013
+  },
+  {
+    "id": 73,
+    "source": "ud_gsd",
+    "text": "同市の大久保寿夫市長は「県の責任で別途補助金を確保してくれるものと確信している」とのコメントを発表した。",
+    "annotations": [
+      {
+        "surface": "同市",
+        "reading": "どうし",
+        "type": "noun"
+      },
+      {
+        "surface": "大久保寿夫",
+        "reading": "おおくぼとしお",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "市長",
+        "reading": "しちょう",
+        "type": "noun"
+      },
+      {
+        "surface": "県",
+        "reading": "けん",
+        "type": "noun"
+      },
+      {
+        "surface": "責任",
+        "reading": "せきにん",
+        "type": "noun"
+      },
+      {
+        "surface": "別途",
+        "reading": "べっと",
+        "type": "noun"
+      },
+      {
+        "surface": "補助金",
+        "reading": "ほじょきん",
+        "type": "noun"
+      },
+      {
+        "surface": "確保してくれる",
+        "reading": "かくほしてくれる",
+        "type": "verb"
+      },
+      {
+        "surface": "確信している",
+        "reading": "かくしんしている",
+        "type": "verb"
+      },
+      {
+        "surface": "発表した",
+        "reading": "はっぴょうした",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 67.4749345779419
+  },
+  {
+    "id": 74,
+    "source": "ud_gsd",
+    "text": "2005年7月1日に浜松市に編入合併した旧三ケ日町の町役場庁舎を利用して三ヶ日総合事務所として開設された。",
+    "annotations": [
+      {
+        "surface": "2005年",
+        "reading": "にせんごねん",
+        "type": "counter"
+      },
+      {
+        "surface": "7月",
+        "reading": "しちがつ",
+        "type": "counter"
+      },
+      {
+        "surface": "1日",
+        "reading": "ついたち",
+        "type": "counter"
+      },
+      {
+        "surface": "浜松市",
+        "reading": "はままつし",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "編入合併した",
+        "reading": "へんにゅうがっぺいした",
+        "type": "verb"
+      },
+      {
+        "surface": "旧",
+        "reading": "きゅう",
+        "type": "noun"
+      },
+      {
+        "surface": "三ケ日町",
+        "reading": "みっかびちょう",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "町役場庁舎",
+        "reading": "まちやくばちょうしゃ",
+        "type": "noun"
+      },
+      {
+        "surface": "利用して",
+        "reading": "りようして",
+        "type": "verb"
+      },
+      {
+        "surface": "三ヶ日総合事務所",
+        "reading": "みっかびそうごうじむしょ",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "開設された",
+        "reading": "かいせつされた",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 27.89337992668152
+  },
+  {
+    "id": 75,
+    "source": "ud_gsd",
+    "text": "現に統一教会も教祖の自叙伝を信者に大量購入させ,配り歩かせている。",
+    "annotations": [
+      {
+        "surface": "現に",
+        "reading": "げんに",
+        "type": "adverb"
+      },
+      {
+        "surface": "統一教会",
+        "reading": "とういつきょうかい",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "教祖",
+        "reading": "きょうそ",
+        "type": "noun"
+      },
+      {
+        "surface": "自叙伝",
+        "reading": "じじょでん",
+        "type": "noun"
+      },
+      {
+        "surface": "信者",
+        "reading": "しんじゃ",
+        "type": "noun"
+      },
+      {
+        "surface": "大量購入させ",
+        "reading": "たいりょうこうにゅうさせ",
+        "type": "verb"
+      },
+      {
+        "surface": "配り歩かせている",
+        "reading": "くばりあるかせている",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 81.40100574493408
+  },
+  {
+    "id": 76,
+    "source": "ud_gsd",
+    "text": "子どもらを世話する養育者を資金支援する国の「ファミリーホーム制度」の活用を考え、移り住めるよう空き家も用意した。",
+    "annotations": [
+      {
+        "surface": "子ども",
+        "reading": "こども",
+        "type": "noun"
+      },
+      {
+        "surface": "世話する",
+        "reading": "せわする",
+        "type": "verb"
+      },
+      {
+        "surface": "養育者",
+        "reading": "よういくしゃ",
+        "type": "noun"
+      },
+      {
+        "surface": "資金支援する",
+        "reading": "しきんしえんする",
+        "type": "verb"
+      },
+      {
+        "surface": "国",
+        "reading": "くに",
+        "type": "noun"
+      },
+      {
+        "surface": "ファミリーホーム制度",
+        "reading": "ふぁみりーほーむせいど",
+        "type": "noun"
+      },
+      {
+        "surface": "活用",
+        "reading": "かつよう",
+        "type": "noun"
+      },
+      {
+        "surface": "考え",
+        "reading": "かんがえ",
+        "type": "verb"
+      },
+      {
+        "surface": "移り住める",
+        "reading": "うつりすめる",
+        "type": "verb"
+      },
+      {
+        "surface": "空き家",
+        "reading": "あきや",
+        "type": "noun"
+      },
+      {
+        "surface": "用意した",
+        "reading": "よういした",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 76.24053907394409
+  },
+  {
+    "id": 77,
+    "source": "ud_gsd",
+    "text": "これに対して幸福の科学の信者が講談社を非難するデモや署名活動を行いましたが,抗議活動はこれだけではありませんでした。",
+    "annotations": [
+      {
+        "surface": "対して",
+        "reading": "たいして",
+        "type": "verb"
+      },
+      {
+        "surface": "幸福の科学",
+        "reading": "こうふくのかがく",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "信者",
+        "reading": "しんじゃ",
+        "type": "noun"
+      },
+      {
+        "surface": "講談社",
+        "reading": "こうだんしゃ",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "非難する",
+        "reading": "ひなんする",
+        "type": "verb"
+      },
+      {
+        "surface": "署名活動",
+        "reading": "しょめいかつどう",
+        "type": "noun"
+      },
+      {
+        "surface": "行いました",
+        "reading": "おこないました",
+        "type": "verb"
+      },
+      {
+        "surface": "抗議活動",
+        "reading": "こうぎかつどう",
+        "type": "noun"
+      }
+    ],
+    "time_seconds": 106.2474844455719
+  },
+  {
+    "id": 78,
+    "source": "ud_gsd",
+    "text": "物質界監視員として長年地上に派遣されており、現在は神貫の協力を取り付けてゼフォンの動向を探っている。",
+    "annotations": [
+      {
+        "surface": "物質界監視員",
+        "reading": "ぶっしつかいかんしいん",
+        "type": "noun"
+      },
+      {
+        "surface": "長年",
+        "reading": "ながねん",
+        "type": "noun"
+      },
+      {
+        "surface": "地上",
+        "reading": "ちじょう",
+        "type": "noun"
+      },
+      {
+        "surface": "派遣されており",
+        "reading": "はけんされており",
+        "type": "verb"
+      },
+      {
+        "surface": "現在",
+        "reading": "げんざい",
+        "type": "noun"
+      },
+      {
+        "surface": "神貫",
+        "reading": "かみぬき",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "協力",
+        "reading": "きょうりょく",
+        "type": "noun"
+      },
+      {
+        "surface": "取り付けて",
+        "reading": "とりつけて",
+        "type": "verb"
+      },
+      {
+        "surface": "動向",
+        "reading": "どうこう",
+        "type": "noun"
+      },
+      {
+        "surface": "探っている",
+        "reading": "さぐっている",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 52.196682929992676
+  },
+  {
+    "id": 79,
+    "source": "ud_gsd",
+    "text": "この反乱によってマウリキウスは皇位を追われ、息子たちが殺されるのを見せられた上で処刑されてしまった。",
+    "annotations": [
+      {
+        "surface": "反乱",
+        "reading": "はんらん",
+        "type": "noun"
+      },
+      {
+        "surface": "皇位",
+        "reading": "こうい",
+        "type": "noun"
+      },
+      {
+        "surface": "追われ",
+        "reading": "おわれ",
+        "type": "verb"
+      },
+      {
+        "surface": "息子",
+        "reading": "むすこ",
+        "type": "noun"
+      },
+      {
+        "surface": "殺される",
+        "reading": "ころされる",
+        "type": "verb"
+      },
+      {
+        "surface": "見せられた",
+        "reading": "みせられた",
+        "type": "verb"
+      },
+      {
+        "surface": "上",
+        "reading": "うえ",
+        "type": "noun"
+      },
+      {
+        "surface": "処刑されてしまった",
+        "reading": "しょけいされてしまった",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 93.04160833358765
+  },
+  {
+    "id": 80,
+    "source": "ud_gsd",
+    "text": "伝統的仏堂建築に新様式を取り入れた、近代仏堂の代表作として、2007年に国の重要文化財に指定された。",
+    "annotations": [
+      {
+        "surface": "伝統的",
+        "reading": "でんとうてき",
+        "type": "adjective"
+      },
+      {
+        "surface": "仏堂建築",
+        "reading": "ぶつどうけんちく",
+        "type": "noun"
+      },
+      {
+        "surface": "新様式",
+        "reading": "しんようしき",
+        "type": "noun"
+      },
+      {
+        "surface": "取り入れた",
+        "reading": "とりいれた",
+        "type": "verb"
+      },
+      {
+        "surface": "近代仏堂",
+        "reading": "きんだいぶつどう",
+        "type": "noun"
+      },
+      {
+        "surface": "代表作",
+        "reading": "だいひょうさく",
+        "type": "noun"
+      },
+      {
+        "surface": "2007年",
+        "reading": "にせんななねん",
+        "type": "counter"
+      },
+      {
+        "surface": "国",
+        "reading": "くに",
+        "type": "noun"
+      },
+      {
+        "surface": "重要文化財",
+        "reading": "じゅうようぶんかざい",
+        "type": "noun"
+      },
+      {
+        "surface": "指定された",
+        "reading": "していされた",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 55.88926386833191
+  },
+  {
+    "id": 81,
+    "source": "ud_pud",
+    "text": "ジョコウィは大統領に就任する前に、退任するユドヨノ大統領に、補助金をさらに減額することで燃料価格を上昇させる決定について責任をとるように求めた。",
+    "annotations": [
+      {
+        "surface": "大統領",
+        "reading": "だいとうりょう",
+        "type": "noun"
+      },
+      {
+        "surface": "就任する",
+        "reading": "しゅうにんする",
+        "type": "verb"
+      },
+      {
+        "surface": "前",
+        "reading": "まえ",
+        "type": "noun"
+      },
+      {
+        "surface": "退任する",
+        "reading": "たいにんする",
+        "type": "verb"
+      },
+      {
+        "surface": "大統領",
+        "reading": "だいとうりょう",
+        "type": "noun"
+      },
+      {
+        "surface": "補助金",
+        "reading": "ほじょきん",
+        "type": "noun"
+      },
+      {
+        "surface": "減額する",
+        "reading": "げんがくする",
+        "type": "verb"
+      },
+      {
+        "surface": "燃料価格",
+        "reading": "ねんりょうかかく",
+        "type": "noun"
+      },
+      {
+        "surface": "上昇させる",
+        "reading": "じょうしょうさせる",
+        "type": "verb"
+      },
+      {
+        "surface": "決定",
+        "reading": "けってい",
+        "type": "noun"
+      },
+      {
+        "surface": "責任",
+        "reading": "せきにん",
+        "type": "noun"
+      },
+      {
+        "surface": "求めた",
+        "reading": "もとめた",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 80.59463858604431
+  },
+  {
+    "id": 82,
+    "source": "ud_pud",
+    "text": "一方、最良の管理慣行が機能している良好な生態系は、こうした事態の発生機会を減少させるか、それができない場合でも悪影響の度合いを軽減します。",
+    "annotations": [
+      {
+        "surface": "一方",
+        "reading": "いっぽう",
+        "type": "noun"
+      },
+      {
+        "surface": "最良",
+        "reading": "さいりょう",
+        "type": "noun"
+      },
+      {
+        "surface": "管理慣行",
+        "reading": "かんりかんこう",
+        "type": "noun"
+      },
+      {
+        "surface": "機能している",
+        "reading": "きのうしている",
+        "type": "verb"
+      },
+      {
+        "surface": "良好な",
+        "reading": "りょうこうな",
+        "type": "adjective"
+      },
+      {
+        "surface": "生態系",
+        "reading": "せいたいけい",
+        "type": "noun"
+      },
+      {
+        "surface": "事態",
+        "reading": "じたい",
+        "type": "noun"
+      },
+      {
+        "surface": "発生機会",
+        "reading": "はっせいきかい",
+        "type": "noun"
+      },
+      {
+        "surface": "減少させる",
+        "reading": "げんしょうさせる",
+        "type": "verb"
+      },
+      {
+        "surface": "場合",
+        "reading": "ばあい",
+        "type": "noun"
+      },
+      {
+        "surface": "悪影響",
+        "reading": "あくえいきょう",
+        "type": "noun"
+      },
+      {
+        "surface": "度合い",
+        "reading": "どあい",
+        "type": "noun"
+      },
+      {
+        "surface": "軽減します",
+        "reading": "けいげんします",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 56.69292378425598
+  },
+  {
+    "id": 83,
+    "source": "ud_pud",
+    "text": "この分野での専門家として名を知られるようになった彼女は、それらのスキルと小さな円盤状のポロニウムをラジウム研究所に持ち帰った。",
+    "annotations": [
+      {
+        "surface": "分野",
+        "reading": "ぶんや",
+        "type": "noun"
+      },
+      {
+        "surface": "専門家",
+        "reading": "せんもんか",
+        "type": "noun"
+      },
+      {
+        "surface": "名",
+        "reading": "な",
+        "type": "noun"
+      },
+      {
+        "surface": "知られるようになった",
+        "reading": "しられるようになった",
+        "type": "verb"
+      },
+      {
+        "surface": "彼女",
+        "reading": "かのじょ",
+        "type": "noun"
+      },
+      {
+        "surface": "小さな",
+        "reading": "ちいさな",
+        "type": "adjective"
+      },
+      {
+        "surface": "円盤状",
+        "reading": "えんばんじょう",
+        "type": "noun"
+      },
+      {
+        "surface": "研究所",
+        "reading": "けんきゅうじょ",
+        "type": "noun"
+      },
+      {
+        "surface": "持ち帰った",
+        "reading": "もちかえった",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 170.36831712722778
+  },
+  {
+    "id": 84,
+    "source": "ud_pud",
+    "text": "明治天皇以後、一人の天皇について一つの年号を付け、天皇の死後は統治の時代に使っていた年号を改めることが慣習となった。",
+    "annotations": [
+      {
+        "surface": "明治天皇",
+        "reading": "めいじてんのう",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "以後",
+        "reading": "いご",
+        "type": "noun"
+      },
+      {
+        "surface": "一人",
+        "reading": "ひとり",
+        "type": "counter"
+      },
+      {
+        "surface": "天皇",
+        "reading": "てんのう",
+        "type": "noun"
+      },
+      {
+        "surface": "一つ",
+        "reading": "ひとつ",
+        "type": "counter"
+      },
+      {
+        "surface": "年号",
+        "reading": "ねんごう",
+        "type": "noun"
+      },
+      {
+        "surface": "付け",
+        "reading": "つけ",
+        "type": "verb"
+      },
+      {
+        "surface": "天皇",
+        "reading": "てんのう",
+        "type": "noun"
+      },
+      {
+        "surface": "死後",
+        "reading": "しご",
+        "type": "noun"
+      },
+      {
+        "surface": "統治",
+        "reading": "とうち",
+        "type": "noun"
+      },
+      {
+        "surface": "時代",
+        "reading": "じだい",
+        "type": "noun"
+      },
+      {
+        "surface": "使っていた",
+        "reading": "つかっていた",
+        "type": "verb"
+      },
+      {
+        "surface": "年号",
+        "reading": "ねんごう",
+        "type": "noun"
+      },
+      {
+        "surface": "改める",
+        "reading": "あらためる",
+        "type": "verb"
+      },
+      {
+        "surface": "慣習",
+        "reading": "かんしゅう",
+        "type": "noun"
+      }
+    ],
+    "time_seconds": 45.85132431983948
+  },
+  {
+    "id": 85,
+    "source": "ud_pud",
+    "text": "彼が平凡な人生の後に老衰で亡くなるか、あるいは戦場で若くして命を落とし、詩を通じて不死を得ることが、そこでは予言されていました。",
+    "annotations": [
+      {
+        "surface": "彼",
+        "reading": "かれ",
+        "type": "noun"
+      },
+      {
+        "surface": "平凡な",
+        "reading": "へいぼんな",
+        "type": "adjective"
+      },
+      {
+        "surface": "人生",
+        "reading": "じんせい",
+        "type": "noun"
+      },
+      {
+        "surface": "後",
+        "reading": "あと",
+        "type": "noun"
+      },
+      {
+        "surface": "老衰",
+        "reading": "ろうすい",
+        "type": "noun"
+      },
+      {
+        "surface": "亡くなる",
+        "reading": "なくなる",
+        "type": "verb"
+      },
+      {
+        "surface": "戦場",
+        "reading": "せんじょう",
+        "type": "noun"
+      },
+      {
+        "surface": "若くして",
+        "reading": "わかくして",
+        "type": "adjective"
+      },
+      {
+        "surface": "命",
+        "reading": "いのち",
+        "type": "noun"
+      },
+      {
+        "surface": "落とし",
+        "reading": "おとし",
+        "type": "verb"
+      },
+      {
+        "surface": "詩",
+        "reading": "し",
+        "type": "noun"
+      },
+      {
+        "surface": "通じて",
+        "reading": "つうじて",
+        "type": "verb"
+      },
+      {
+        "surface": "不死",
+        "reading": "ふし",
+        "type": "noun"
+      },
+      {
+        "surface": "得る",
+        "reading": "える",
+        "type": "verb"
+      },
+      {
+        "surface": "予言されていました",
+        "reading": "よげんされていました",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 84.36429262161255
+  },
+  {
+    "id": 86,
+    "source": "ud_pud",
+    "text": "国際再生可能エネルギー機関（IRENA）総裁、Z.Aminは「洋上風力発電は世界経済において石炭エネルギーに依存しない最大の発電手段となりうる」と確信している。",
+    "annotations": [
+      {
+        "surface": "国際再生可能エネルギー機関",
+        "reading": "こくさいさいせいかのうえねるぎーきかん",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "総裁",
+        "reading": "そうさい",
+        "type": "noun"
+      },
+      {
+        "surface": "洋上風力発電",
+        "reading": "ようじょうふうりょくはつでん",
+        "type": "noun"
+      },
+      {
+        "surface": "世界経済",
+        "reading": "せかいけいざい",
+        "type": "noun"
+      },
+      {
+        "surface": "石炭エネルギー",
+        "reading": "せきたんえねるぎー",
+        "type": "noun"
+      },
+      {
+        "surface": "依存しない",
+        "reading": "いぞんしない",
+        "type": "verb"
+      },
+      {
+        "surface": "最大",
+        "reading": "さいだい",
+        "type": "noun"
+      },
+      {
+        "surface": "発電手段",
+        "reading": "はつでんしゅだん",
+        "type": "noun"
+      },
+      {
+        "surface": "確信している",
+        "reading": "かくしんしている",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 108.23022317886353
+  },
+  {
+    "id": 87,
+    "source": "ud_pud",
+    "text": "しかし、機内インターネットは多くの場合信頼性に欠け、旅行者の航空会社の選択に影響を及ぼす可能性は低いと、ある海外旅行の専門家は警告した。",
+    "annotations": [
+      {
+        "surface": "機内インターネット",
+        "reading": "きないいんたーねっと",
+        "type": "noun"
+      },
+      {
+        "surface": "多く",
+        "reading": "おおく",
+        "type": "noun"
+      },
+      {
+        "surface": "場合",
+        "reading": "ばあい",
+        "type": "noun"
+      },
+      {
+        "surface": "信頼性",
+        "reading": "しんらいせい",
+        "type": "noun"
+      },
+      {
+        "surface": "欠け",
+        "reading": "かけ",
+        "type": "verb"
+      },
+      {
+        "surface": "旅行者",
+        "reading": "りょこうしゃ",
+        "type": "noun"
+      },
+      {
+        "surface": "航空会社",
+        "reading": "こうくうがいしゃ",
+        "type": "noun"
+      },
+      {
+        "surface": "選択",
+        "reading": "せんたく",
+        "type": "noun"
+      },
+      {
+        "surface": "影響",
+        "reading": "えいきょう",
+        "type": "noun"
+      },
+      {
+        "surface": "及ぼす",
+        "reading": "およぼす",
+        "type": "verb"
+      },
+      {
+        "surface": "可能性",
+        "reading": "かのうせい",
+        "type": "noun"
+      },
+      {
+        "surface": "低い",
+        "reading": "ひくい",
+        "type": "adjective"
+      },
+      {
+        "surface": "海外旅行",
+        "reading": "かいがいりょこう",
+        "type": "noun"
+      },
+      {
+        "surface": "専門家",
+        "reading": "せんもんか",
+        "type": "noun"
+      },
+      {
+        "surface": "警告した",
+        "reading": "けいこくした",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 47.70690083503723
+  },
+  {
+    "id": 88,
+    "source": "ud_pud",
+    "text": "さらに彼女は、機密情報を彼女に提供した数々の政府系科学者との人脈を利用しました。",
+    "annotations": [
+      {
+        "surface": "彼女",
+        "reading": "かのじょ",
+        "type": "noun"
+      },
+      {
+        "surface": "機密情報",
+        "reading": "きみつじょうほう",
+        "type": "noun"
+      },
+      {
+        "surface": "彼女",
+        "reading": "かのじょ",
+        "type": "noun"
+      },
+      {
+        "surface": "提供した",
+        "reading": "ていきょうした",
+        "type": "verb"
+      },
+      {
+        "surface": "数々",
+        "reading": "かずかず",
+        "type": "noun"
+      },
+      {
+        "surface": "政府系科学者",
+        "reading": "せいふけいかがくしゃ",
+        "type": "noun"
+      },
+      {
+        "surface": "人脈",
+        "reading": "じんみゃく",
+        "type": "noun"
+      },
+      {
+        "surface": "利用しました",
+        "reading": "りようしました",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 38.519511699676514
+  },
+  {
+    "id": 89,
+    "source": "ud_pud",
+    "text": "地中海全域の商業的な前哨基地を設立することで、それまで使用されていなかった技術である「貿易」が発展した。",
+    "annotations": [
+      {
+        "surface": "地中海",
+        "reading": "ちちゅうかい",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "全域",
+        "reading": "ぜんいき",
+        "type": "noun"
+      },
+      {
+        "surface": "商業的な",
+        "reading": "しょうぎょうてきな",
+        "type": "adjective"
+      },
+      {
+        "surface": "前哨基地",
+        "reading": "ぜんしょうきち",
+        "type": "noun"
+      },
+      {
+        "surface": "設立する",
+        "reading": "せつりつする",
+        "type": "verb"
+      },
+      {
+        "surface": "使用されていなかった",
+        "reading": "しようされていなかった",
+        "type": "verb"
+      },
+      {
+        "surface": "技術",
+        "reading": "ぎじゅつ",
+        "type": "noun"
+      },
+      {
+        "surface": "貿易",
+        "reading": "ぼうえき",
+        "type": "noun"
+      },
+      {
+        "surface": "発展した",
+        "reading": "はってんした",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 60.98790717124939
+  },
+  {
+    "id": 90,
+    "source": "ud_pud",
+    "text": "中国の旧正月や、タイの華人によるその他の饗宴は、旧暦こよみに基づいて計算されるので、どちらも日付が毎年変わります。",
+    "annotations": [
+      {
+        "surface": "中国",
+        "reading": "ちゅうごく",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "旧正月",
+        "reading": "きゅうしょうがつ",
+        "type": "noun"
+      },
+      {
+        "surface": "華人",
+        "reading": "かじん",
+        "type": "noun"
+      },
+      {
+        "surface": "その他",
+        "reading": "そのた",
+        "type": "noun"
+      },
+      {
+        "surface": "饗宴",
+        "reading": "きょうえん",
+        "type": "noun"
+      },
+      {
+        "surface": "旧暦",
+        "reading": "きゅうれき",
+        "type": "noun"
+      },
+      {
+        "surface": "基づいて",
+        "reading": "もとづいて",
+        "type": "verb"
+      },
+      {
+        "surface": "計算される",
+        "reading": "けいさんされる",
+        "type": "verb"
+      },
+      {
+        "surface": "日付",
+        "reading": "ひづけ",
+        "type": "noun"
+      },
+      {
+        "surface": "毎年",
+        "reading": "まいとし",
+        "type": "noun"
+      },
+      {
+        "surface": "変わります",
+        "reading": "かわります",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 65.97077488899231
+  },
+  {
+    "id": 91,
+    "source": "ud_pud",
+    "text": "今年の初め、セガールは、首都ベオグラードで武術学校の設立を申し出た後に、セルビア国籍を与えられた。",
+    "annotations": [
+      {
+        "surface": "今年",
+        "reading": "ことし",
+        "type": "noun"
+      },
+      {
+        "surface": "初め",
+        "reading": "はじめ",
+        "type": "noun"
+      },
+      {
+        "surface": "首都",
+        "reading": "しゅと",
+        "type": "noun"
+      },
+      {
+        "surface": "武術学校",
+        "reading": "ぶじゅつがっこう",
+        "type": "noun"
+      },
+      {
+        "surface": "設立",
+        "reading": "せつりつ",
+        "type": "noun"
+      },
+      {
+        "surface": "申し出た",
+        "reading": "もうしでた",
+        "type": "verb"
+      },
+      {
+        "surface": "後",
+        "reading": "あと",
+        "type": "noun"
+      },
+      {
+        "surface": "国籍",
+        "reading": "こくせき",
+        "type": "noun"
+      },
+      {
+        "surface": "与えられた",
+        "reading": "あたえられた",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 75.78732347488403
+  },
+  {
+    "id": 92,
+    "source": "ud_pud",
+    "text": "プラトンは、権力は教育を受けた保護者に注意して委ねる方がずっと安全だろう、と考えた。",
+    "annotations": [
+      {
+        "surface": "権力",
+        "reading": "けんりょく",
+        "type": "noun"
+      },
+      {
+        "surface": "教育",
+        "reading": "きょういく",
+        "type": "noun"
+      },
+      {
+        "surface": "受けた",
+        "reading": "うけた",
+        "type": "verb"
+      },
+      {
+        "surface": "保護者",
+        "reading": "ほごしゃ",
+        "type": "noun"
+      },
+      {
+        "surface": "注意して",
+        "reading": "ちゅういして",
+        "type": "verb"
+      },
+      {
+        "surface": "委ねる",
+        "reading": "ゆだねる",
+        "type": "verb"
+      },
+      {
+        "surface": "方",
+        "reading": "ほう",
+        "type": "noun"
+      },
+      {
+        "surface": "安全",
+        "reading": "あんぜん",
+        "type": "noun"
+      },
+      {
+        "surface": "考えた",
+        "reading": "かんがえた",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 64.00265336036682
+  },
+  {
+    "id": 93,
+    "source": "ud_pud",
+    "text": "ブリスベンが繁栄するに連れて、河川の状態は下水道やゴミ捨て場並に悪化した。",
+    "annotations": [
+      {
+        "surface": "繁栄する",
+        "reading": "はんえいする",
+        "type": "verb"
+      },
+      {
+        "surface": "連れて",
+        "reading": "つれて",
+        "type": "verb"
+      },
+      {
+        "surface": "河川",
+        "reading": "かせん",
+        "type": "noun"
+      },
+      {
+        "surface": "状態",
+        "reading": "じょうたい",
+        "type": "noun"
+      },
+      {
+        "surface": "下水道",
+        "reading": "げすいどう",
+        "type": "noun"
+      },
+      {
+        "surface": "ゴミ捨て場",
+        "reading": "ごみすてば",
+        "type": "noun"
+      },
+      {
+        "surface": "並に",
+        "reading": "なみに",
+        "type": "noun"
+      },
+      {
+        "surface": "悪化した",
+        "reading": "あっかした",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 85.09427642822266
+  },
+  {
+    "id": 94,
+    "source": "ud_pud",
+    "text": "沈括は、行政官および政府役人としての高いスキルと能力で、王安石を感心させました。",
+    "annotations": [
+      {
+        "surface": "沈括",
+        "reading": "しんかつ",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "行政官",
+        "reading": "ぎょうせいかん",
+        "type": "noun"
+      },
+      {
+        "surface": "政府役人",
+        "reading": "せいふやくにん",
+        "type": "noun"
+      },
+      {
+        "surface": "高い",
+        "reading": "たかい",
+        "type": "adjective"
+      },
+      {
+        "surface": "能力",
+        "reading": "のうりょく",
+        "type": "noun"
+      },
+      {
+        "surface": "王安石",
+        "reading": "おうあんせき",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "感心させました",
+        "reading": "かんしんさせました",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 33.4255154132843
+  },
+  {
+    "id": 95,
+    "source": "ud_pud",
+    "text": "複数の古代文明は地中海沿岸にあり、付近の海から大きな影響を受けました。",
+    "annotations": [
+      {
+        "surface": "複数",
+        "reading": "ふくすう",
+        "type": "noun"
+      },
+      {
+        "surface": "古代文明",
+        "reading": "こだいぶんめい",
+        "type": "noun"
+      },
+      {
+        "surface": "地中海沿岸",
+        "reading": "ちちゅうかいえんがん",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "付近",
+        "reading": "ふきん",
+        "type": "noun"
+      },
+      {
+        "surface": "海",
+        "reading": "うみ",
+        "type": "noun"
+      },
+      {
+        "surface": "大きな",
+        "reading": "おおきな",
+        "type": "adjective"
+      },
+      {
+        "surface": "影響",
+        "reading": "えいきょう",
+        "type": "noun"
+      },
+      {
+        "surface": "受けました",
+        "reading": "うけました",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 41.51055932044983
+  },
+  {
+    "id": 96,
+    "source": "ud_pud",
+    "text": "「私はノーサンプトン大学で示される新しい才能を取り上げるために訪問します。」と彼は言う。",
+    "annotations": [
+      {
+        "surface": "私",
+        "reading": "わたし",
+        "type": "noun"
+      },
+      {
+        "surface": "ノーサンプトン大学",
+        "reading": "のーさんぷとんだいがく",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "示される",
+        "reading": "しめされる",
+        "type": "verb"
+      },
+      {
+        "surface": "新しい",
+        "reading": "あたらしい",
+        "type": "adjective"
+      },
+      {
+        "surface": "才能",
+        "reading": "さいのう",
+        "type": "noun"
+      },
+      {
+        "surface": "取り上げる",
+        "reading": "とりあげる",
+        "type": "verb"
+      },
+      {
+        "surface": "訪問します",
+        "reading": "ほうもんします",
+        "type": "verb"
+      },
+      {
+        "surface": "彼",
+        "reading": "かれ",
+        "type": "noun"
+      },
+      {
+        "surface": "言う",
+        "reading": "いう",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 69.42456793785095
+  },
+  {
+    "id": 97,
+    "source": "ud_pud",
+    "text": "しかし、彼らの友情は二人の非公式的な協業をめぐって生じた法的紛争によってひび割れることになった。",
+    "annotations": [
+      {
+        "surface": "彼ら",
+        "reading": "かれら",
+        "type": "noun"
+      },
+      {
+        "surface": "友情",
+        "reading": "ゆうじょう",
+        "type": "noun"
+      },
+      {
+        "surface": "二人",
+        "reading": "ふたり",
+        "type": "counter"
+      },
+      {
+        "surface": "非公式的な",
+        "reading": "ひこうしきてきな",
+        "type": "adjective"
+      },
+      {
+        "surface": "協業",
+        "reading": "きょうぎょう",
+        "type": "noun"
+      },
+      {
+        "surface": "生じた",
+        "reading": "しょうじた",
+        "type": "verb"
+      },
+      {
+        "surface": "法的",
+        "reading": "ほうてき",
+        "type": "adjective"
+      },
+      {
+        "surface": "紛争",
+        "reading": "ふんそう",
+        "type": "noun"
+      },
+      {
+        "surface": "ひび割れる",
+        "reading": "ひびわれる",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 64.68176102638245
+  },
+  {
+    "id": 98,
+    "source": "ud_pud",
+    "text": "デジタル技術の問題に関する法案を提言するフランスデジタル審議会も、それを調査することになる可能性がある。",
+    "annotations": [
+      {
+        "surface": "技術",
+        "reading": "ぎじゅつ",
+        "type": "noun"
+      },
+      {
+        "surface": "問題",
+        "reading": "もんだい",
+        "type": "noun"
+      },
+      {
+        "surface": "関する",
+        "reading": "かんする",
+        "type": "verb"
+      },
+      {
+        "surface": "法案",
+        "reading": "ほうあん",
+        "type": "noun"
+      },
+      {
+        "surface": "提言する",
+        "reading": "ていげんする",
+        "type": "verb"
+      },
+      {
+        "surface": "審議会",
+        "reading": "しんぎかい",
+        "type": "noun"
+      },
+      {
+        "surface": "調査",
+        "reading": "ちょうさ",
+        "type": "noun"
+      },
+      {
+        "surface": "可能性",
+        "reading": "かのうせい",
+        "type": "noun"
+      }
+    ],
+    "time_seconds": 81.5262098312378
+  },
+  {
+    "id": 99,
+    "source": "ud_pud",
+    "text": "しかし、女性、特に出産の役割を担う女性を含む人口統計学および人口データの広範な統計的分析が行われてきた。",
+    "annotations": [
+      {
+        "surface": "女性",
+        "reading": "じょせい",
+        "type": "noun"
+      },
+      {
+        "surface": "特に",
+        "reading": "とくに",
+        "type": "adverb"
+      },
+      {
+        "surface": "出産",
+        "reading": "しゅっさん",
+        "type": "noun"
+      },
+      {
+        "surface": "役割",
+        "reading": "やくわり",
+        "type": "noun"
+      },
+      {
+        "surface": "担う",
+        "reading": "になう",
+        "type": "verb"
+      },
+      {
+        "surface": "女性",
+        "reading": "じょせい",
+        "type": "noun"
+      },
+      {
+        "surface": "含む",
+        "reading": "ふくむ",
+        "type": "verb"
+      },
+      {
+        "surface": "人口統計学",
+        "reading": "じんこうとうけいがく",
+        "type": "noun"
+      },
+      {
+        "surface": "人口",
+        "reading": "じんこう",
+        "type": "noun"
+      },
+      {
+        "surface": "広範な",
+        "reading": "こうはんな",
+        "type": "adjective"
+      },
+      {
+        "surface": "統計的分析",
+        "reading": "とうけいてきぶんせき",
+        "type": "noun"
+      },
+      {
+        "surface": "行われてきた",
+        "reading": "おこなわれてきた",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 80.66872477531433
+  },
+  {
+    "id": 100,
+    "source": "ud_pud",
+    "text": "後年、アウグストゥスがローマ帝国を創設した際に、ローマ人たちは地中海をマレ・ノストラム（「私たちの海」）と呼びました。",
+    "annotations": [
+      {
+        "surface": "後年",
+        "reading": "こうねん",
+        "type": "noun"
+      },
+      {
+        "surface": "ローマ帝国",
+        "reading": "ろーまていこく",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "創設した",
+        "reading": "そうせつした",
+        "type": "verb"
+      },
+      {
+        "surface": "際",
+        "reading": "さい",
+        "type": "noun"
+      },
+      {
+        "surface": "ローマ人",
+        "reading": "ろーまじん",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "地中海",
+        "reading": "ちちゅうかい",
+        "type": "proper_noun"
+      },
+      {
+        "surface": "私たち",
+        "reading": "わたしたち",
+        "type": "noun"
+      },
+      {
+        "surface": "海",
+        "reading": "うみ",
+        "type": "noun"
+      },
+      {
+        "surface": "呼びました",
+        "reading": "よびました",
+        "type": "verb"
+      }
+    ],
+    "time_seconds": 70.11883664131165
+  }
+]
