@@ -1,0 +1,335 @@
+{
+  "version": "span_detector_v1",
+  "base_model": "tohoku-nlp/bert-base-japanese-v3",
+  "config": {
+    "epochs_requested": 15,
+    "epochs_completed": 15,
+    "batch_size": 16,
+    "learning_rate": 2e-05,
+    "max_length": 256,
+    "early_stopping_patience": 5,
+    "gradient_clip": 1.0,
+    "num_labels": 3
+  },
+  "data": {
+    "train_samples": 10413,
+    "val_samples": 1303
+  },
+  "model_info": {
+    "parameters": 111209475,
+    "bert_parameters": 111207168,
+    "head_parameters": 2307
+  },
+  "results": {
+    "training_time_seconds": 1567.16,
+    "training_time_minutes": 26.12,
+    "best_val_span_f1": 0.9744,
+    "best_epoch": 10,
+    "best_epoch_metrics": {
+      "epoch": 10,
+      "train_loss": 0.0026,
+      "eval_loss": 0.06,
+      "token_accuracy": 99.02,
+      "span_precision": 0.9741,
+      "span_recall": 0.9747,
+      "span_f1": 0.9744,
+      "pred_spans": 10747,
+      "gold_spans": 10741,
+      "correct_spans": 10469,
+      "per_label": {
+        "O": 99.6,
+        "B-SPAN": 99.1,
+        "I-SPAN": 96.1
+      },
+      "epoch_time_seconds": 94.5,
+      "learning_rate": 7.406986005233816e-06
+    }
+  },
+  "log_history": [
+    {
+      "epoch": 1,
+      "train_loss": 0.3649,
+      "eval_loss": 0.082,
+      "token_accuracy": 97.51,
+      "span_precision": 0.9381,
+      "span_recall": 0.9259,
+      "span_f1": 0.932,
+      "pred_spans": 10601,
+      "gold_spans": 10741,
+      "correct_spans": 9945,
+      "per_label": {
+        "O": 98.6,
+        "B-SPAN": 97.5,
+        "I-SPAN": 92.7
+      },
+      "epoch_time_seconds": 104.3,
+      "learning_rate": 1.334016393442623e-05
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.0639,
+      "eval_loss": 0.0488,
+      "token_accuracy": 98.56,
+      "span_precision": 0.9651,
+      "span_recall": 0.9622,
+      "span_f1": 0.9636,
+      "pred_spans": 10709,
+      "gold_spans": 10741,
+      "correct_spans": 10335,
+      "per_label": {
+        "O": 99.3,
+        "B-SPAN": 98.8,
+        "I-SPAN": 94.6
+      },
+      "epoch_time_seconds": 104.5,
+      "learning_rate": 1.925816361360792e-05
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.035,
+      "eval_loss": 0.0396,
+      "token_accuracy": 98.83,
+      "span_precision": 0.9681,
+      "span_recall": 0.9697,
+      "span_f1": 0.9689,
+      "pred_spans": 10759,
+      "gold_spans": 10741,
+      "correct_spans": 10416,
+      "per_label": {
+        "O": 99.4,
+        "B-SPAN": 99.1,
+        "I-SPAN": 95.8
+      },
+      "epoch_time_seconds": 103.8,
+      "learning_rate": 1.777676641256116e-05
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.0231,
+      "eval_loss": 0.0419,
+      "token_accuracy": 98.9,
+      "span_precision": 0.9722,
+      "span_recall": 0.9714,
+      "span_f1": 0.9718,
+      "pred_spans": 10732,
+      "gold_spans": 10741,
+      "correct_spans": 10434,
+      "per_label": {
+        "O": 99.5,
+        "B-SPAN": 99.0,
+        "I-SPAN": 95.8
+      },
+      "epoch_time_seconds": 104.2,
+      "learning_rate": 1.6295369211514395e-05
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.015,
+      "eval_loss": 0.0465,
+      "token_accuracy": 98.88,
+      "span_precision": 0.9712,
+      "span_recall": 0.9679,
+      "span_f1": 0.9696,
+      "pred_spans": 10704,
+      "gold_spans": 10741,
+      "correct_spans": 10396,
+      "per_label": {
+        "O": 99.6,
+        "B-SPAN": 98.8,
+        "I-SPAN": 95.9
+      },
+      "epoch_time_seconds": 104.8,
+      "learning_rate": 1.4813972010467632e-05
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.0105,
+      "eval_loss": 0.0492,
+      "token_accuracy": 98.87,
+      "span_precision": 0.9703,
+      "span_recall": 0.9685,
+      "span_f1": 0.9694,
+      "pred_spans": 10721,
+      "gold_spans": 10741,
+      "correct_spans": 10403,
+      "per_label": {
+        "O": 99.4,
+        "B-SPAN": 98.9,
+        "I-SPAN": 96.4
+      },
+      "epoch_time_seconds": 104.5,
+      "learning_rate": 1.3332574809420868e-05
+    },
+    {
+      "epoch": 7,
+      "train_loss": 0.0075,
+      "eval_loss": 0.0523,
+      "token_accuracy": 98.99,
+      "span_precision": 0.9725,
+      "span_recall": 0.9733,
+      "span_f1": 0.9729,
+      "pred_spans": 10750,
+      "gold_spans": 10741,
+      "correct_spans": 10454,
+      "per_label": {
+        "O": 99.7,
+        "B-SPAN": 99.1,
+        "I-SPAN": 95.4
+      },
+      "epoch_time_seconds": 104.5,
+      "learning_rate": 1.1851177608374104e-05
+    },
+    {
+      "epoch": 8,
+      "train_loss": 0.0053,
+      "eval_loss": 0.0618,
+      "token_accuracy": 98.89,
+      "span_precision": 0.9709,
+      "span_recall": 0.9705,
+      "span_f1": 0.9707,
+      "pred_spans": 10736,
+      "gold_spans": 10741,
+      "correct_spans": 10424,
+      "per_label": {
+        "O": 99.7,
+        "B-SPAN": 99.1,
+        "I-SPAN": 95.0
+      },
+      "epoch_time_seconds": 104.8,
+      "learning_rate": 1.0369780407327342e-05
+    },
+    {
+      "epoch": 9,
+      "train_loss": 0.0041,
+      "eval_loss": 0.0615,
+      "token_accuracy": 99.0,
+      "span_precision": 0.9725,
+      "span_recall": 0.9743,
+      "span_f1": 0.9734,
+      "pred_spans": 10761,
+      "gold_spans": 10741,
+      "correct_spans": 10465,
+      "per_label": {
+        "O": 99.6,
+        "B-SPAN": 99.2,
+        "I-SPAN": 95.7
+      },
+      "epoch_time_seconds": 104.0,
+      "learning_rate": 8.88838320628058e-06
+    },
+    {
+      "epoch": 10,
+      "train_loss": 0.0026,
+      "eval_loss": 0.06,
+      "token_accuracy": 99.02,
+      "span_precision": 0.9741,
+      "span_recall": 0.9747,
+      "span_f1": 0.9744,
+      "pred_spans": 10747,
+      "gold_spans": 10741,
+      "correct_spans": 10469,
+      "per_label": {
+        "O": 99.6,
+        "B-SPAN": 99.1,
+        "I-SPAN": 96.1
+      },
+      "epoch_time_seconds": 94.5,
+      "learning_rate": 7.406986005233816e-06
+    },
+    {
+      "epoch": 11,
+      "train_loss": 0.002,
+      "eval_loss": 0.0645,
+      "token_accuracy": 99.03,
+      "span_precision": 0.9733,
+      "span_recall": 0.9749,
+      "span_f1": 0.9741,
+      "pred_spans": 10758,
+      "gold_spans": 10741,
+      "correct_spans": 10471,
+      "per_label": {
+        "O": 99.6,
+        "B-SPAN": 99.2,
+        "I-SPAN": 96.0
+      },
+      "epoch_time_seconds": 94.9,
+      "learning_rate": 5.925588804187052e-06
+    },
+    {
+      "epoch": 12,
+      "train_loss": 0.0015,
+      "eval_loss": 0.0679,
+      "token_accuracy": 98.96,
+      "span_precision": 0.9723,
+      "span_recall": 0.9724,
+      "span_f1": 0.9724,
+      "pred_spans": 10743,
+      "gold_spans": 10741,
+      "correct_spans": 10445,
+      "per_label": {
+        "O": 99.6,
+        "B-SPAN": 99.1,
+        "I-SPAN": 95.8
+      },
+      "epoch_time_seconds": 94.3,
+      "learning_rate": 4.44419160314029e-06
+    },
+    {
+      "epoch": 13,
+      "train_loss": 0.0011,
+      "eval_loss": 0.0676,
+      "token_accuracy": 99.0,
+      "span_precision": 0.9724,
+      "span_recall": 0.9739,
+      "span_f1": 0.9732,
+      "pred_spans": 10758,
+      "gold_spans": 10741,
+      "correct_spans": 10461,
+      "per_label": {
+        "O": 99.6,
+        "B-SPAN": 99.2,
+        "I-SPAN": 96.1
+      },
+      "epoch_time_seconds": 94.6,
+      "learning_rate": 2.962794402093526e-06
+    },
+    {
+      "epoch": 14,
+      "train_loss": 0.001,
+      "eval_loss": 0.0699,
+      "token_accuracy": 98.98,
+      "span_precision": 0.9732,
+      "span_recall": 0.9733,
+      "span_f1": 0.9732,
+      "pred_spans": 10742,
+      "gold_spans": 10741,
+      "correct_spans": 10454,
+      "per_label": {
+        "O": 99.6,
+        "B-SPAN": 99.1,
+        "I-SPAN": 96.0
+      },
+      "epoch_time_seconds": 95.0,
+      "learning_rate": 1.481397201046763e-06
+    },
+    {
+      "epoch": 15,
+      "train_loss": 0.0009,
+      "eval_loss": 0.0709,
+      "token_accuracy": 99.01,
+      "span_precision": 0.9735,
+      "span_recall": 0.9744,
+      "span_f1": 0.9739,
+      "pred_spans": 10751,
+      "gold_spans": 10741,
+      "correct_spans": 10466,
+      "per_label": {
+        "O": 99.6,
+        "B-SPAN": 99.1,
+        "I-SPAN": 96.0
+      },
+      "epoch_time_seconds": 94.7,
+      "learning_rate": 0.0
+    }
+  ]
+}

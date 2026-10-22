@@ -1,0 +1,463 @@
+{
+  "span_detection": {
+    "overall": {
+      "precision": 0.9494,
+      "recall": 0.9486,
+      "f1": 0.949,
+      "pred_spans": 10991,
+      "gold_spans": 11001,
+      "correct_spans": 10435
+    },
+    "per_source": {
+      "hirogaru": {
+        "precision": 0.9076,
+        "recall": 0.9109,
+        "f1": 0.9093,
+        "pred_spans": 552,
+        "gold_spans": 550,
+        "correct_spans": 501
+      },
+      "kahoku": {
+        "precision": 0.883,
+        "recall": 0.8708,
+        "f1": 0.8768,
+        "pred_spans": 641,
+        "gold_spans": 650,
+        "correct_spans": 566
+      },
+      "nhk": {
+        "precision": 0.9545,
+        "recall": 0.9475,
+        "f1": 0.951,
+        "pred_spans": 2042,
+        "gold_spans": 2057,
+        "correct_spans": 1949
+      },
+      "ud_gsd": {
+        "precision": 0.9541,
+        "recall": 0.9557,
+        "f1": 0.9549,
+        "pred_spans": 6858,
+        "gold_spans": 6846,
+        "correct_spans": 6543
+      },
+      "ud_pud": {
+        "precision": 0.9755,
+        "recall": 0.9755,
+        "f1": 0.9755,
+        "pred_spans": 898,
+        "gold_spans": 898,
+        "correct_spans": 876
+      }
+    },
+    "latency": {
+      "mean_ms": 15.37,
+      "p50_ms": 15.98,
+      "p95_ms": 18.48
+    },
+    "span_length_stats": {
+      "correct": {
+        "1": 2717,
+        "2": 5238,
+        "3": 1165,
+        "4": 764,
+        "5": 419,
+        "6": 100,
+        "7": 28,
+        "8": 4
+      },
+      "missed": {
+        "1": 210,
+        "2": 162,
+        "3": 85,
+        "4": 47,
+        "5": 33,
+        "6": 17,
+        "7": 7,
+        "8": 4,
+        "9": 1
+      },
+      "spurious": {
+        "1": 107,
+        "2": 171,
+        "3": 119,
+        "4": 75,
+        "5": 44,
+        "6": 21,
+        "7": 14,
+        "8": 3,
+        "9": 2
+      }
+    }
+  },
+  "pipeline": {
+    "accuracy": 82.0,
+    "total_tokens": 11001,
+    "total_matches": 9016,
+    "per_source": {
+      "hirogaru": {
+        "accuracy": 84.4,
+        "matches": 464,
+        "total": 550
+      },
+      "kahoku": {
+        "accuracy": 80.6,
+        "matches": 524,
+        "total": 650
+      },
+      "nhk": {
+        "accuracy": 90.5,
+        "matches": 1862,
+        "total": 2057
+      },
+      "ud_gsd": {
+        "accuracy": 78.9,
+        "matches": 5402,
+        "total": 6846
+      },
+      "ud_pud": {
+        "accuracy": 85.1,
+        "matches": 764,
+        "total": 898
+      }
+    },
+    "error_types": {
+      "wrong_reading": 1419,
+      "missed_span": 566,
+      "spurious_span": 556
+    },
+    "error_examples": {
+      "wrong_reading": [
+        {
+          "surface": "操る",
+          "gold": "あやつる",
+          "pred": "",
+          "source": "ud_gsd"
+        },
+        {
+          "surface": "国際的",
+          "gold": "こくさいてき",
+          "pred": "",
+          "source": "hirogaru"
+        },
+        {
+          "surface": "日本",
+          "gold": "にほん",
+          "pred": "にっぽん",
+          "source": "hirogaru"
+        },
+        {
+          "surface": "弱まり",
+          "gold": "よわまり",
+          "pred": "",
+          "source": "ud_gsd"
+        },
+        {
+          "surface": "消失",
+          "gold": "しょうしつ",
+          "pred": "",
+          "source": "ud_gsd"
+        },
+        {
+          "surface": "飲みたく",
+          "gold": "のみたく",
+          "pred": "",
+          "source": "ud_gsd"
+        },
+        {
+          "surface": "訪問しました",
+          "gold": "ほうもんしました",
+          "pred": "",
+          "source": "ud_gsd"
+        },
+        {
+          "surface": "平日",
+          "gold": "へいじつ",
+          "pred": "",
+          "source": "ud_gsd"
+        },
+        {
+          "surface": "割高",
+          "gold": "わりだか",
+          "pred": "",
+          "source": "ud_gsd"
+        },
+        {
+          "surface": "輪",
+          "gold": "りん",
+          "pred": "わ",
+          "source": "ud_gsd"
+        },
+        {
+          "surface": "流通だ",
+          "gold": "りゅうつうだ",
+          "pred": "",
+          "source": "ud_gsd"
+        },
+        {
+          "surface": "挙げられて",
+          "gold": "あげられて",
+          "pred": "",
+          "source": "ud_gsd"
+        },
+        {
+          "surface": "暴れ回る",
+          "gold": "あばれまわる",
+          "pred": "",
+          "source": "ud_gsd"
+        },
+        {
+          "surface": "大抵",
+          "gold": "たいてい",
+          "pred": "",
+          "source": "ud_gsd"
+        },
+        {
+          "surface": "少尉",
+          "gold": "しょうい",
+          "pred": "",
+          "source": "ud_gsd"
+        },
+        {
+          "surface": "到着して",
+          "gold": "とうちゃくして",
+          "pred": "",
+          "source": "ud_gsd"
+        },
+        {
+          "surface": "黒豆",
+          "gold": "くろまめ",
+          "pred": "",
+          "source": "ud_gsd"
+        },
+        {
+          "surface": "会則",
+          "gold": "かいそく",
+          "pred": "",
+          "source": "ud_gsd"
+        },
+        {
+          "surface": "承認する",
+          "gold": "しょうにんする",
+          "pred": "",
+          "source": "ud_gsd"
+        },
+        {
+          "surface": "悪用する",
+          "gold": "あくようする",
+          "pred": "",
+          "source": "ud_gsd"
+        }
+      ],
+      "missed_span": [
+        {
+          "surface": "誘っていって",
+          "gold": "さそっていって",
+          "source": "ud_gsd"
+        },
+        {
+          "surface": "竜騎",
+          "gold": "りゅうき",
+          "source": "ud_gsd"
+        },
+        {
+          "surface": "兵隊",
+          "gold": "へいたい",
+          "source": "ud_gsd"
+        },
+        {
+          "surface": "豆",
+          "gold": "まめ",
+          "source": "ud_gsd"
+        },
+        {
+          "surface": "好き",
+          "gold": "すき",
+          "source": "ud_gsd"
+        },
+        {
+          "surface": "幼稚",
+          "gold": "ようち",
+          "source": "kahoku"
+        },
+        {
+          "surface": "園",
+          "gold": "えん",
+          "source": "kahoku"
+        },
+        {
+          "surface": "室だ",
+          "gold": "しつだ",
+          "source": "ud_gsd"
+        },
+        {
+          "surface": "子ど",
+          "gold": "こど",
+          "source": "nhk"
+        },
+        {
+          "surface": "買い与えた",
+          "gold": "かいあたえた",
+          "source": "ud_gsd"
+        },
+        {
+          "surface": "子ど",
+          "gold": "こど",
+          "source": "nhk"
+        },
+        {
+          "surface": "出会って",
+          "gold": "であって",
+          "source": "ud_gsd"
+        },
+        {
+          "surface": "一",
+          "gold": "いち",
+          "source": "ud_gsd"
+        },
+        {
+          "surface": "度",
+          "gold": "ど",
+          "source": "ud_gsd"
+        },
+        {
+          "surface": "引っ",
+          "gold": "ひっ",
+          "source": "kahoku"
+        },
+        {
+          "surface": "越",
+          "gold": "こ",
+          "source": "kahoku"
+        },
+        {
+          "surface": "特",
+          "gold": "とく",
+          "source": "ud_pud"
+        },
+        {
+          "surface": "落とした",
+          "gold": "おとした",
+          "source": "nhk"
+        },
+        {
+          "surface": "置いた",
+          "gold": "おいた",
+          "source": "nhk"
+        },
+        {
+          "surface": "見通",
+          "gold": "みとお",
+          "source": "ud_gsd"
+        }
+      ],
+      "spurious_span": [
+        {
+          "surface": "誘って",
+          "pred_reading": "さそって",
+          "source": "ud_gsd"
+        },
+        {
+          "surface": "かねて",
+          "pred_reading": "",
+          "source": "ud_gsd"
+        },
+        {
+          "surface": "竜騎兵",
+          "pred_reading": "",
+          "source": "ud_gsd"
+        },
+        {
+          "surface": "隊",
+          "pred_reading": "たい",
+          "source": "ud_gsd"
+        },
+        {
+          "surface": "豆好き",
+          "pred_reading": "",
+          "source": "ud_gsd"
+        },
+        {
+          "surface": "幼稚園",
+          "pred_reading": "ようちえん",
+          "source": "kahoku"
+        },
+        {
+          "surface": "室だより",
+          "pred_reading": "",
+          "source": "ud_gsd"
+        },
+        {
+          "surface": "子ども",
+          "pred_reading": "",
+          "source": "nhk"
+        },
+        {
+          "surface": "買い与えたと",
+          "pred_reading": "",
+          "source": "ud_gsd"
+        },
+        {
+          "surface": "子ども",
+          "pred_reading": "",
+          "source": "nhk"
+        },
+        {
+          "surface": "出会っては",
+          "pred_reading": "",
+          "source": "ud_gsd"
+        },
+        {
+          "surface": "一度",
+          "pred_reading": "いちど",
+          "source": "ud_gsd"
+        },
+        {
+          "surface": "引っ越ししました",
+          "pred_reading": "",
+          "source": "kahoku"
+        },
+        {
+          "surface": "特に",
+          "pred_reading": "",
+          "source": "ud_pud"
+        },
+        {
+          "surface": "落としたり",
+          "pred_reading": "",
+          "source": "nhk"
+        },
+        {
+          "surface": "置いたり",
+          "pred_reading": "",
+          "source": "nhk"
+        },
+        {
+          "surface": "見通し",
+          "pred_reading": "みとおし",
+          "source": "ud_gsd"
+        },
+        {
+          "surface": "午前",
+          "pred_reading": "ごぜん",
+          "source": "hirogaru"
+        },
+        {
+          "surface": "時",
+          "pred_reading": "じ",
+          "source": "hirogaru"
+        },
+        {
+          "surface": "一番",
+          "pred_reading": "いちばん",
+          "source": "hirogaru"
+        }
+      ]
+    },
+    "latency": {
+      "mean_ms": 41.53,
+      "p50_ms": 35.51,
+      "p95_ms": 101.25
+    }
+  }
+}
