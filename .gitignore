@@ -31,6 +31,12 @@ data/processed/
 data/scrapers/all_articles.json
 data/scrapers/article_list.json
 
+# Dataset generation intermediate files (large, can be regenerated)
+# NOTE: data/poneglyph_v1/ IS tracked (final dataset)
+data/dataset_gen/
+# Misplaced copy produced when running dataset_gen from methods/span_reader_v1/ (~515MB)
+methods/span_reader_v1/data/
+
 # -----------------------------------------------------------------------------
 # Python Artifacts
 # -----------------------------------------------------------------------------
@@ -79,6 +85,8 @@ checkpoints/
 # Logs
 *.log
 scraper.log
+logs/
+nohup.out
 
 # -----------------------------------------------------------------------------
 # IDE & Editor
