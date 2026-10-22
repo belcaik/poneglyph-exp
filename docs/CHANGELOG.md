@@ -1,6 +1,38 @@
 # Changelog
 
-## [v6] - 2025-02-10
+## [LLM benchmark v2 + Poneglyph v1 dataset] - 2026-03
+
+- LLM benchmark on 100 sentences: Claude v2 97.9%, Gemini Flash 97.2%, Claude v1 96.6%,
+  Qwen 7B 69.0% reading accuracy. Strict "every kanji must be annotated" prompt removed
+  parse failures and reached 100% kanji coverage.
+- `data/poneglyph_v1/`: ~14K subtitle sentences annotated by LLMs under
+  `docs/poneglyph_conventions.md` (report: `results/dataset_v1_report.md`).
+
+## [SpanReader v1/v2] - 2026-03
+
+- DETR-style span queries over a DeBERTa v3 JP encoder (188.5M params).
+- v1 span F1 0.500: chars inside one sub-token pooled to identical vectors.
+- v2 span F1 0.869 after intra-token positional encoding and loss rebalancing;
+  reading accuracy 51.1%.
+
+## [Span Detector v1] - 2026-02
+
+- BIO span tagger on v7 data: span F1 0.949 (test).
+- Pipeline with BERT v2: 82.0% end-to-end, bottlenecked by OOV spans (12.7%).
+
+## [BERT v2] - 2026-02
+
+- Dictionary-constrained reading classification given gold spans: 98.8% (v6),
+  98.6% val on v7. 70% of errors are OOV surfaces.
+
+## [v7] - 2026-02
+
+- All sources converted from stem-only to morpheme-complete annotation
+  (`data/splits_v7_normalized/`): ~23K tokens expanded with okurigana, 0.31% validation
+  error rate.
+- `《》` delimiter: neutral for T5 v7 (86.6%), -4.7pp for ByT5 v3 (84.4%).
+
+## [v6] - 2026-02-10
 
 ### Major Finding: Data Quality > Data Quantity
 
@@ -39,7 +71,7 @@ MATCHA data had two critical issues:
 2. Validate that delimiter characters (e.g., `[]`) don't appear in source text
 3. More data can hurt if quality is poor - the model learns bad patterns
 
-## [v5] - 2025-02-09
+## [v5] - 2026-02-09
 
 ### Added UD Japanese Gold Data
 
@@ -55,7 +87,7 @@ from Universal Dependencies CoNLL-U files.
 
 Small improvement on v4 test set, but v5 test accuracy was 78.9% (comparable set).
 
-## [v4] - 2025-02-08
+## [v4] - 2026-02-08
 
 ### Sentence Segmentation
 

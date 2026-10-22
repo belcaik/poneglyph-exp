@@ -65,6 +65,60 @@ See "Finding #5" below.
 Note: Baselines were evaluated on NHK-only test set, not directly comparable
 to the multi-source comparable test set used for trained models.
 
+## Phase 2: Span-Based and LLM Methods (v7 data)
+
+### BERT v2: Dictionary-Constrained Disambiguation
+
+BERT encoder + span mean pool + [CLS] → linear head with softmax masked to the
+readings the dictionary allows for that surface.
+
+| Variant | Data | Accuracy | Notes |
+|---|---|---|---|
+| BERT v2 | v6 | **98.8%** | All sources 98.5-99.3% |
+| BERT v2 | v7 normalized | 98.6% (val) | Reading vocab 18,636 |
+
+**Caveat**: receives gold spans (told which characters to annotate), so it is an upper
+bound for the reading step, not an end-to-end score. 70% of its errors are surfaces
+missing from the dictionary (OOV).
+
+### Two-Stage Pipeline: Span Detector v1 + BERT v2
+
+| Stage | Metric | Value |
+|---|---|---|
+| Span detection (BIO tagger) | F1 test / val | 0.949 / 0.974 |
+| End-to-end pipeline | Accuracy | 82.0% |
+
+Errors: wrong reading 12.9%, missed span 5.1%, spurious span 5.1%. 12.7% of detected
+spans are not in the reading dictionary (inflections, compounds, proper nouns), which
+caps the pipeline below ByT5 v2. Seq2seq models avoid this by generating readings.
+
+### SpanReader: Unified Span Query Model
+
+DeBERTa v3 JP encoder + DETR-style learned span queries + hybrid reading head (188.5M
+params), trained on `data/poneglyph_v1`.
+
+| Version | Span F1 | Reading Acc | Fix |
+|---|---|---|---|
+| v1 | 0.500 | 57.8% | CharPooling gave identical vectors to chars in one sub-token |
+| v2 | 0.869 | 51.1% | Intra-token positional encoding; loss weights λ_pos=10, λ_type=0.5, λ_read=1 |
+
+Reading accuracy dropped with the lower λ_read; staged training should recover it.
+Diagnostics: `results/span_reader_v1_diagnostics.md`.
+
+### LLM Benchmark v2 (100 test sentences, v7 ground truth)
+
+| Model | Reading Acc | Exact Span Match | Kanji Coverage | Parse Fail |
+|---|---|---|---|---|
+| Claude v2 | **97.9%** | 66.9% | 100% | 0% |
+| Gemini Flash | 97.2% | 61.1% | 100% | 0% |
+| Claude v1 | 96.6% | 51.4% | 89.4% | 7% |
+| Qwen 7B (local) | 69.0% | 34.5% | 88.9% | 11% |
+
+Low exact span match reflects the convention gap (ground truth is morpheme-level,
+Poneglyph conventions annotate conceptual units), not wrong readings. Claude v2 and
+Gemini Flash are good enough to generate training data, which produced
+`data/poneglyph_v1`. Full report: `results/benchmark_report.md`.
+
 ## Key Findings
 
 ### 1. Byte-level processing outperforms word-piece for furigana
@@ -129,3 +183,8 @@ use `[]` for ByT5 and `《》` for T5, or use `[]` universally with collision es
    - More high-quality training sources to push past 90%
    - Distillation: Train a smaller/faster model using ByT5 v2 predictions
    - Longer ByT5 training with 《》 to see if accuracy gap closes with more epochs
+6. **Readings given spans are nearly solved** (BERT v2, 98.8%). The open problem is span
+   detection plus OOV surfaces: a reading step that can generate outside the dictionary
+   is needed before a span pipeline beats seq2seq.
+7. **For training data generation**: Claude v2 or Gemini Flash (≥97% reading accuracy,
+   100% kanji coverage). Local Qwen 7B is not usable.
